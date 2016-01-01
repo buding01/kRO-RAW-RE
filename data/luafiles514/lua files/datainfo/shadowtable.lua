@@ -737,5 +737,13 @@ ShadowFactorTable = {
   [jobtbl.JT_C5_ALARM] = 2.4,
   [jobtbl.JT_C1_AGAV] = 1.2,
   [jobtbl.JT_C2_ACIDUS_] = 2.4,
-  [jobtbl.JT_C3_ACIDUS_] = 2.4
+  [jobtbl.JT_C3_ACIDUS_] = 2.4,
+  [jobtbl.JT_HIDDEN_MOB] = 0,
+  [jobtbl.JT_HIDDEN_MOB_W] = 0,
+  [jobtbl.JT_HIDDEN_MOB2] = 0,
+  [jobtbl.JT_HIDDEN_MOB3] = 0,
+  [jobtbl.JT_HIDDEN_MOB4] = 0,
+  [jobtbl.JT_HIDDEN_MOB5] = 0,
+  [jobtbl.JT_HIDDEN_MOB6] = 0,
+  [jobtbl.JT_HIDDEN_MOB7] = 0
 }
