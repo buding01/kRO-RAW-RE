@@ -449,6 +449,9 @@ HOTKEY_2 = {
     EXE = MsgStrID.MSI_HK_SHORTCUTWND_ROTATE,
     KEY1 = 123,
     KEY2 = 17
+  },
+  [49] = {
+    EXE = MsgStrID.MSI_HK_ACHIEVEMENT
   }
 }
 HOTKEY_3 = {
@@ -579,7 +582,9 @@ BEHAVIOR_TO_WINDOWID = {
   [191] = 36,
   [169] = 34,
   [203] = 42,
-  [11] = 47
+  [268] = 46,
+  [11] = 47,
+  [287] = 49
 }
 function GetKeyDes(key1, key2)
   local keyName1 = KEYNAME[key1]
