@@ -5545,7 +5545,7 @@ StateIconList[EFST_IDs.EFST_CHUSEOK_MONDAY] = {
   haveTimeLimit = 1,
   posTimeLimitStr = 2,
   descript = {
-    {"추석", COLOR_TITLE_BUFF},
+    {"속성강화", COLOR_TITLE_BUFF},
     {"%s", COLOR_TIME},
     {
       "암속성 몬스터 추가 데미지."
@@ -5559,7 +5559,7 @@ StateIconList[EFST_IDs.EFST_CHUSEOK_TUESDAY] = {
   haveTimeLimit = 1,
   posTimeLimitStr = 2,
   descript = {
-    {"추석", COLOR_TITLE_BUFF},
+    {"속성강화", COLOR_TITLE_BUFF},
     {"%s", COLOR_TIME},
     {
       "지속성 몬스터 추가 데미지."
@@ -5573,7 +5573,7 @@ StateIconList[EFST_IDs.EFST_CHUSEOK_WEDNESDAY] = {
   haveTimeLimit = 1,
   posTimeLimitStr = 2,
   descript = {
-    {"추석", COLOR_TITLE_BUFF},
+    {"속성강화", COLOR_TITLE_BUFF},
     {"%s", COLOR_TIME},
     {
       "화속성 몬스터 추가 데미지."
@@ -5587,7 +5587,7 @@ StateIconList[EFST_IDs.EFST_CHUSEOK_THURSDAY] = {
   haveTimeLimit = 1,
   posTimeLimitStr = 2,
   descript = {
-    {"추석", COLOR_TITLE_BUFF},
+    {"속성강화", COLOR_TITLE_BUFF},
     {"%s", COLOR_TIME},
     {
       "풍속성 몬스터 추가 데미지."
@@ -5601,7 +5601,7 @@ StateIconList[EFST_IDs.EFST_CHUSEOK_FRIDAY] = {
   haveTimeLimit = 1,
   posTimeLimitStr = 2,
   descript = {
-    {"추석", COLOR_TITLE_BUFF},
+    {"속성강화", COLOR_TITLE_BUFF},
     {"%s", COLOR_TIME},
     {
       "수속성 몬스터 추가 데미지."
@@ -5615,7 +5615,7 @@ StateIconList[EFST_IDs.EFST_CHUSEOK_WEEKEND] = {
   haveTimeLimit = 1,
   posTimeLimitStr = 2,
   descript = {
-    {"추석", COLOR_TITLE_BUFF},
+    {"속성강화", COLOR_TITLE_BUFF},
     {"%s", COLOR_TIME},
     {
       "무속성 몬스터 추가 데미지."
