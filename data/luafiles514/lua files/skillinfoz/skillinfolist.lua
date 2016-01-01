@@ -3767,7 +3767,7 @@ SKILL_INFO_LIST = {
   },
   [SKID.GS_GATLINGFEVER] = {
     "GS_GATLINGFEVER",
-    SkillName = "캐틀링 피버",
+    SkillName = "개틀링 피버",
     MaxLv = 10,
     SpAmount = {
       30,
@@ -4156,16 +4156,16 @@ SKILL_INFO_LIST = {
     SkillName = "안개 베기",
     MaxLv = 10,
     SpAmount = {
-      10,
-      12,
-      14,
-      16,
-      18,
-      20,
-      22,
-      24,
-      26,
-      28
+      15,
+      15,
+      15,
+      15,
+      15,
+      15,
+      15,
+      15,
+      15,
+      15
     },
     bSeperateLv = true,
     AttackRange = {
@@ -9107,9 +9107,9 @@ SKILL_INFO_LIST = {
     },
     bSeperateLv = true,
     AttackRange = {
-      5,
-      5,
-      5
+      7,
+      7,
+      7
     },
     _NeedSkillList = {
       {
