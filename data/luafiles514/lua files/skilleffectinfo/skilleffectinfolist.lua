@@ -46,7 +46,8 @@ SKILL_EFFECT_INFO_LIST = {
     effectID = {
       EFID.EF_THROW_HAPPOKUNAI,
       EFID.EF_ROTATE_LINE_GRAY
-    }
+    },
+    LaunchZC_USE_SKILL = true
   },
   [SKID.KO_MUCHANAGE] = {
     waveFileName = "effect\\닌자_던지기.wav",
