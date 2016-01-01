@@ -3761,9 +3761,6 @@ StateIconList[EFST_IDs.EFST_OVERLAPEXPUP] = {
     },
     {
       "경험치, JOB 경험치 증가"
-    },
-    {
-      "아이템 드롭률 증가"
     }
   }
 }
@@ -5067,6 +5064,148 @@ StateIconList[EFST_IDs.EFST_DARKCROW] = {
     {"%s", COLOR_TIME}
   }
 }
+StateIconList[EFST_IDs.EFST_JITTER_BUFF1] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 3,
+  descript = {
+    {
+      "뉴오즈의 엉뚱함",
+      COLOR_TITLE_BUFF
+    },
+    {"ATK 증가"},
+    {"%s", COLOR_TIME}
+  }
+}
+StateIconList[EFST_IDs.EFST_JITTER_BUFF2] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 3,
+  descript = {
+    {
+      "아이구의 의지",
+      COLOR_TITLE_BUFF
+    },
+    {"MATK 증가"},
+    {"%s", COLOR_TIME}
+  }
+}
+StateIconList[EFST_IDs.EFST_JITTER_BUFF3] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 3,
+  descript = {
+    {
+      "로테르트의 허세",
+      COLOR_TITLE_BUFF
+    },
+    {
+      "공격 후딜레이 감소"
+    },
+    {"%s", COLOR_TIME}
+  }
+}
+StateIconList[EFST_IDs.EFST_JITTER_BUFF4] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 3,
+  descript = {
+    {
+      "겔카의 수줍음",
+      COLOR_TITLE_BUFF
+    },
+    {
+      "SP 소모량 감소"
+    },
+    {"%s", COLOR_TIME}
+  }
+}
+StateIconList[EFST_IDs.EFST_JITTER_BUFF5] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 3,
+  descript = {
+    {
+      "아랑의 천진난만함",
+      COLOR_TITLE_BUFF
+    },
+    {
+      "스킬 후딜레이 감소"
+    },
+    {"%s", COLOR_TIME}
+  }
+}
+StateIconList[EFST_IDs.EFST_JITTER_BUFF6] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 3,
+  descript = {
+    {
+      "밍민의 세밀함",
+      COLOR_TITLE_BUFF
+    },
+    {
+      "명중률 증가"
+    },
+    {"%s", COLOR_TIME}
+  }
+}
+StateIconList[EFST_IDs.EFST_JITTER_BUFF7] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 3,
+  descript = {
+    {
+      "로엘의 진지함",
+      COLOR_TITLE_BUFF
+    },
+    {"DEF 증가"},
+    {"%s", COLOR_TIME}
+  }
+}
+StateIconList[EFST_IDs.EFST_JITTER_BUFF8] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 3,
+  descript = {
+    {
+      "루나인의 세침함",
+      COLOR_TITLE_BUFF
+    },
+    {"힐량 증가"},
+    {"%s", COLOR_TIME}
+  }
+}
+StateIconList[EFST_IDs.EFST_JITTER_BUFF9] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 3,
+  descript = {
+    {
+      "라기의 썰렁함",
+      COLOR_TITLE_BUFF
+    },
+    {"MDEF 증가"},
+    {"%s", COLOR_TIME}
+  }
+}
+StateIconList[EFST_IDs.EFST_JITTER_BUFF10] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 3,
+  descript = {
+    {
+      "멜로디잭의 불필요함",
+      COLOR_TITLE_BUFF
+    },
+    {
+      "회피율 증가"
+    },
+    {"%s", COLOR_TIME}
+  }
+}
+StateIconList[EFST_IDs.EFST_CUP_OF_BOZA] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 4,
+  descript = {
+    {"보자의 컵", COLOR_TITLE_BUFF},
+    {"vit 증가"},
+    {
+      "화속성에 대한 내성 증가"
+    },
+    {"%s", COLOR_TIME}
+  }
+}
 StateIconList[EFST_IDs.EFST_SWORDCLAN] = {
   descript = {
     {"소드 클랜", COLOR_TITLE_BUFF},
@@ -5254,6 +5393,20 @@ StateIconList[EFST_IDs.EFST_GLASTHEIM_TRANS] = {
     {"%s", COLOR_TIME}
   }
 }
+StateIconList[EFST_IDs.EFST_ZONGZI_POUCH_TRANS] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 3,
+  descript = {
+    {
+      "단오절 축제",
+      COLOR_TITLE_BUFF
+    },
+    {
+      "모든 스테이터스 증가."
+    },
+    {"%s", COLOR_TIME}
+  }
+}
 StateIconList[EFST_IDs.EFST_B_TRAP] = {
   haveTimeLimit = 1,
   posTimeLimitStr = 2,
@@ -5348,5 +5501,127 @@ StateIconList[EFST_IDs.EFST_HEAT_BARREL_AFTER] = {
       "스킬 사용불가"
     },
     {"공격 불가"}
+  }
+}
+StateIconList[EFST_IDs.EFST_OVERSEAEXPUP] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 1,
+  descript = {
+    {"%s", COLOR_TIME},
+    {
+      "획득 경험치 증가"
+    }
+  }
+}
+StateIconList[EFST_IDs.EFST_BEEF_RIB_STEW] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
+  descript = {
+    {"소갈비찜", COLOR_TITLE_BUFF},
+    {"%s", COLOR_TIME},
+    {
+      "변동 캐스팅 감소."
+    },
+    {
+      "SP 소모량 감소."
+    }
+  }
+}
+StateIconList[EFST_IDs.EFST_PORK_RIB_STEW] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
+  descript = {
+    {"돼지갈비찜", COLOR_TITLE_BUFF},
+    {"%s", COLOR_TIME},
+    {
+      "공격속도 증가."
+    },
+    {
+      "SP 소모량 감소."
+    }
+  }
+}
+StateIconList[EFST_IDs.EFST_CHUSEOK_MONDAY] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
+  descript = {
+    {"추석", COLOR_TITLE_BUFF},
+    {"%s", COLOR_TIME},
+    {
+      "암속성 몬스터 추가 데미지."
+    },
+    {
+      "성속성 내성 증가."
+    }
+  }
+}
+StateIconList[EFST_IDs.EFST_CHUSEOK_TUESDAY] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
+  descript = {
+    {"추석", COLOR_TITLE_BUFF},
+    {"%s", COLOR_TIME},
+    {
+      "지속성 몬스터 추가 데미지."
+    },
+    {
+      "화속성 내성 증가."
+    }
+  }
+}
+StateIconList[EFST_IDs.EFST_CHUSEOK_WEDNESDAY] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
+  descript = {
+    {"추석", COLOR_TITLE_BUFF},
+    {"%s", COLOR_TIME},
+    {
+      "화속성 몬스터 추가 데미지."
+    },
+    {
+      "수속성 내성 증가."
+    }
+  }
+}
+StateIconList[EFST_IDs.EFST_CHUSEOK_THURSDAY] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
+  descript = {
+    {"추석", COLOR_TITLE_BUFF},
+    {"%s", COLOR_TIME},
+    {
+      "풍속성 몬스터 추가 데미지."
+    },
+    {
+      "지속성 내성 증가."
+    }
+  }
+}
+StateIconList[EFST_IDs.EFST_CHUSEOK_FRIDAY] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
+  descript = {
+    {"추석", COLOR_TITLE_BUFF},
+    {"%s", COLOR_TIME},
+    {
+      "수속성 몬스터 추가 데미지."
+    },
+    {
+      "풍속성 내성 증가."
+    }
+  }
+}
+StateIconList[EFST_IDs.EFST_CHUSEOK_WEEKEND] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
+  descript = {
+    {"추석", COLOR_TITLE_BUFF},
+    {"%s", COLOR_TIME},
+    {
+      "무속성 몬스터 추가 데미지."
+    },
+    {
+      "무속성 내성 증가."
+    }
   }
 }
