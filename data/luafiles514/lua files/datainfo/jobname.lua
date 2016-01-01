@@ -3421,5 +3421,6 @@ JobNameTable = {
   [jobtbl.JT_POPE_MD_MERC_CASUAL] = "MER_POPE_CASUAL",
   [jobtbl.JT_POPE_MD_H_MERC_NORMAL] = "MER_POPE_NORMAL",
   [jobtbl.JT_POPE_MD_H_MERC_CASUAL] = "MER_POPE_CASUAL",
-  [jobtbl.JT_4_F_ARUNA_POP2] = "4_f_aruna_pop2"
+  [jobtbl.JT_4_F_ARUNA_POP2] = "4_f_aruna_pop2",
+  [jobtbl.JT_4_CENERE] = "4_cenere"
 }
