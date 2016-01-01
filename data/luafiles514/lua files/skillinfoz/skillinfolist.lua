@@ -26232,9 +26232,9 @@ SKILL_INFO_LIST = {
     },
     bSeperateLv = false,
     AttackRange = {
-      1,
-      1,
-      1
+      6,
+      10,
+      14
     },
     _NeedSkillList = {
       {
