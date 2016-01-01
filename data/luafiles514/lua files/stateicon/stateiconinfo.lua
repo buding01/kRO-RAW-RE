@@ -4859,3 +4859,55 @@ StateIconList[EFST_IDs.EFST_HANDICAPSTATE_ICEEXPLO] = {
     {"%s", COLOR_TIME}
   }
 }
+StateIconList[EFST_IDs.EFST_ITEM_ATKMAX] = {
+  descript = {
+    {"MAX ATK", COLOR_TITLE_TOGGLE},
+    {"사내전용"}
+  }
+}
+StateIconList[EFST_IDs.EFST_ITEM_ATKMIN] = {
+  descript = {
+    {"MIN ATK", COLOR_TITLE_TOGGLE},
+    {"사내전용"}
+  }
+}
+StateIconList[EFST_IDs.EFST_ITEM_MATKMAX] = {
+  descript = {
+    {"MAX MATK", COLOR_TITLE_TOGGLE},
+    {"사내전용"}
+  }
+}
+StateIconList[EFST_IDs.EFST_ITEM_MATKMIN] = {
+  descript = {
+    {"MIN MATK", COLOR_TITLE_TOGGLE},
+    {"사내전용"}
+  }
+}
+StateIconList[EFST_IDs.EFST_2013_VALENTINE1] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
+  descript = {
+    {"LUK 증가"},
+    {"%s", COLOR_TIME}
+  }
+}
+StateIconList[EFST_IDs.EFST_2013_VALENTINE2] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
+  descript = {
+    {
+      "ATK, MATK %증가"
+    },
+    {"%s", COLOR_TIME}
+  }
+}
+StateIconList[EFST_IDs.EFST_2013_VALENTINE3] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
+  descript = {
+    {
+      "HP, SP 회복력 향상"
+    },
+    {"%s", COLOR_TIME}
+  }
+}
