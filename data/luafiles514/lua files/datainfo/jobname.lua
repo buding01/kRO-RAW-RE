@@ -2879,5 +2879,8 @@ JobNameTable = {
   [jobtbl.JT_MM_MANA_YELLOW] = "MM_MANA_Y",
   [jobtbl.JT_MM_MANA_BLUE] = "MM_MANA_B",
   [jobtbl.JT_MM_GB_MOROCC_1] = "MOROCC_1",
-  [jobtbl.JT_MM_GB_MOROCC_4] = "MOROCC_4"
+  [jobtbl.JT_MM_GB_MOROCC_4] = "MOROCC_4",
+  [jobtbl.JT_E_EASTER_BUNNY] = "E_EASTER_BUNNY",
+  [jobtbl.JT_JITTERBUG1] = "JITTERBUG1",
+  [jobtbl.JT_JITTERBUG2] = "JITTERBUG2"
 }
