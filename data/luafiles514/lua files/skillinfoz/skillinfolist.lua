@@ -25686,11 +25686,11 @@ SKILL_INFO_LIST = {
     SkillName = "섀터 스톰",
     MaxLv = 5,
     SpAmount = {
+      50,
       55,
       60,
       65,
-      70,
-      75
+      70
     },
     bSeperateLv = true,
     AttackRange = {
@@ -25716,11 +25716,11 @@ SKILL_INFO_LIST = {
     SkillName = "슬러그 샷",
     MaxLv = 5,
     SpAmount = {
-      55,
-      60,
-      65,
-      70,
-      75
+      80,
+      84,
+      88,
+      92,
+      96
     },
     bSeperateLv = true,
     AttackRange = {
@@ -26145,13 +26145,13 @@ SKILL_INFO_LIST = {
     "MC_CARTDECORATE",
     SkillName = "체인지 카트 2",
     MaxLv = 1,
-    SpAmount = {0},
+    SpAmount = {40},
     bSeperateLv = false,
     AttackRange = {1}
   },
   [SKID.SU_BASIC_SKILL] = {
     "SU_BASIC_SKILL",
-    SkillName = "기본 기능",
+    SkillName = "새로운 기본기능",
     MaxLv = 1,
     SpAmount = {0},
     bSeperateLv = false,

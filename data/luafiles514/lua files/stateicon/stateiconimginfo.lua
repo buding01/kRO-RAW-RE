@@ -148,7 +148,6 @@ StateIconImgList = {
     [EFST_IDs.EFST_ENERGY_DRINK_RESERCH] = "SP_Increase_Potion.tga",
     [EFST_IDs.EFST_EXTRACT_WHITE_POTION_Z] = "En_White_PotZ.TGA",
     [EFST_IDs.EFST_VITATA_500] = "Vitata500.TGA",
-    [EFST_IDs.EFST_CHERRY_BLOSSOM_CAKE] = "물리방어포션.TGA",
     [EFST_IDs.EFST_RESIST_PROPERTY_NOTHING] = "Resist_Elemental_Nothing.TGA",
     [EFST_IDs.EFST_RESIST_PROPERTY_WATER] = "Resist_Elemental_Water.TGA",
     [EFST_IDs.EFST_RESIST_PROPERTY_GROUND] = "Resist_Elemental_Ground.TGA",

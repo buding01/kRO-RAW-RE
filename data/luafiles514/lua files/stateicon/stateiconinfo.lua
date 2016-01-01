@@ -6571,17 +6571,6 @@ StateIconList[EFST_IDs.EFST_RESIST_PROPERTY_UNDEAD] = {
     {"%s", COLOR_TIME}
   }
 }
-StateIconList[EFST_IDs.EFST_CHERRY_BLOSSOM_CAKE] = {
-  haveTimeLimit = 1,
-  posTimeLimitStr = 2,
-  descript = {
-    {"벚꽃 찰떡", COLOR_TITLE_BUFF},
-    {"%s", COLOR_TIME},
-    {
-      "소,중,대형 적으로부터 데미지 감소"
-    }
-  }
-}
 StateIconList[EFST_IDs.EFST_HELM_VERKANA] = {
   haveTimeLimit = 1,
   posTimeLimitStr = 2,

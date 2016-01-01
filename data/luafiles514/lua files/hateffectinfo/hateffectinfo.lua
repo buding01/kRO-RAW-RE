@@ -11,7 +11,11 @@ HatEFID = {
   HAT_EF_TALK_FROSTJOKE = 10,
   HAT_EF_DEMONSTRATION = 11,
   HAT_EF_Flutter_Butterfly = 12,
-  HAT_EF_Angel_Fluttering = 13
+  HAT_EF_Angel_Fluttering = 13,
+  HAT_EF_Blessing_Of_Angels = 14,
+  HAT_EF_Electric = 15,
+  HAT_EF_Green_Floor = 16,
+  HAT_EF_Shrink = 17
 }
 hatEffectTable = {
   [HatEFID.HAT_EF_Blossom_Fluttering] = {
@@ -44,7 +48,14 @@ hatEffectTable = {
   [HatEFID.HAT_EF_Angel_Fluttering] = {
     resourceFileName = "efst_Angel_Fluttering\\Angel_Fluttering.str",
     hatEffectPos = 0
-  }
+  },
+  [HatEFID.HAT_EF_Blessing_Of_Angels] = {
+    resourceFileName = "efst_blessing_of_angels\\tensi3.str",
+    hatEffectPos = -7
+  },
+  [HatEFID.HAT_EF_Electric] = {hatEffectID = 254},
+  [HatEFID.HAT_EF_Green_Floor] = {hatEffectID = 680},
+  [HatEFID.HAT_EF_Shrink] = {hatEffectID = 421}
 }
 function GetHatEfResName(index)
   if hatEffectTable == nil then
