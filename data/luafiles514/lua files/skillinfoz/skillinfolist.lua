@@ -25097,5 +25097,386 @@ SKILL_INFO_LIST = {
     SpAmount = {1},
     bSeperateLv = false,
     AttackRange = {2}
+  },
+  [SKID.GC_DARKCROW] = {
+    "GC_DARKCROW",
+    SkillName = "검은 손톱",
+    MaxLv = 5,
+    SpAmount = {
+      22,
+      34,
+      46,
+      58,
+      70
+    },
+    bSeperateLv = true,
+    AttackRange = {
+      1,
+      1,
+      1,
+      1,
+      1
+    },
+    _NeedSkillList = {
+      {
+        SKID.GC_DARKILLUSION,
+        5
+      }
+    }
+  },
+  [SKID.RA_UNLIMIT] = {
+    "RA_UNLIMIT",
+    SkillName = "언리밋",
+    MaxLv = 5,
+    SpAmount = {
+      100,
+      120,
+      140,
+      160,
+      180
+    },
+    bSeperateLv = true,
+    AttackRange = {
+      1,
+      1,
+      1,
+      1,
+      1
+    },
+    _NeedSkillList = {
+      {
+        SKID.RA_FEARBREEZE,
+        5
+      }
+    }
+  },
+  [SKID.LG_KINGS_GRACE] = {
+    "LG_KINGS_GRACE",
+    SkillName = "왕의 가호",
+    MaxLv = 5,
+    SpAmount = {
+      200,
+      180,
+      160,
+      140,
+      120
+    },
+    bSeperateLv = false,
+    AttackRange = {
+      1,
+      1,
+      1,
+      1,
+      1
+    },
+    _NeedSkillList = {
+      {
+        SKID.LG_REFLECTDAMAGE,
+        5
+      }
+    }
+  },
+  [SKID.RK_DRAGONBREATH_WATER] = {
+    "RK_DRAGONBREATH_WATER",
+    SkillName = "드래곤 브레스 - 수",
+    MaxLv = 10,
+    SpAmount = {
+      30,
+      35,
+      40,
+      45,
+      50,
+      55,
+      60,
+      65,
+      70,
+      75
+    },
+    bSeperateLv = true,
+    AttackRange = {
+      9,
+      9,
+      9,
+      9,
+      9,
+      9,
+      9,
+      9,
+      9,
+      9
+    },
+    _NeedSkillList = {
+      {
+        SKID.RK_DRAGONTRAINING,
+        2
+      }
+    }
+  },
+  [SKID.NC_MAGMA_ERUPTION] = {
+    "NC_MAGMA_ERUPTION",
+    SkillName = "용암 분출",
+    MaxLv = 5,
+    SpAmount = {
+      60,
+      70,
+      80,
+      90,
+      100
+    },
+    bSeperateLv = true,
+    AttackRange = {
+      1,
+      1,
+      1,
+      1,
+      1
+    },
+    _NeedSkillList = {
+      {
+        SKID.NC_RESEARCHFE,
+        1
+      }
+    }
+  },
+  [SKID.WM_FRIGG_SONG] = {
+    "WM_FRIGG_SONG",
+    SkillName = "풍요의 노래",
+    MaxLv = 5,
+    SpAmount = {
+      200,
+      230,
+      260,
+      290,
+      320
+    },
+    bSeperateLv = true,
+    AttackRange = {
+      1,
+      1,
+      1,
+      1,
+      1
+    },
+    _NeedSkillList = {
+      {
+        SKID.WM_LESSON,
+        2
+      }
+    }
+  },
+  [SKID.SO_ELEMENTAL_SHIELD] = {
+    "SO_ELEMENTAL_SHIELD",
+    SkillName = "정령의 결계",
+    MaxLv = 5,
+    SpAmount = {
+      120,
+      120,
+      120,
+      120,
+      120
+    },
+    bSeperateLv = false,
+    AttackRange = {
+      1,
+      1,
+      1,
+      1,
+      1
+    },
+    _NeedSkillList = {
+      {
+        SKID.SO_EL_CONTROL,
+        3
+      }
+    }
+  },
+  [SKID.SR_FLASHCOMBO] = {
+    "SR_FLASHCOMBO",
+    SkillName = "섬광연격(閃光連擊)",
+    MaxLv = 5,
+    SpAmount = {
+      75,
+      65,
+      55,
+      45,
+      35
+    },
+    bSeperateLv = true,
+    AttackRange = {
+      1,
+      1,
+      1,
+      1,
+      1
+    },
+    _NeedSkillList = {
+      {
+        SKID.SR_DRAGONCOMBO,
+        3
+      },
+      {
+        SKID.SR_FALLENEMPIRE,
+        3
+      },
+      {
+        SKID.SR_SKYNETBLOW,
+        1
+      },
+      {
+        SKID.SR_TIGERCANNON,
+        1
+      }
+    }
+  },
+  [SKID.SC_ESCAPE] = {
+    "SC_ESCAPE",
+    SkillName = "긴급탈출",
+    MaxLv = 5,
+    SpAmount = {
+      30,
+      26,
+      22,
+      18,
+      14
+    },
+    bSeperateLv = true,
+    AttackRange = {
+      1,
+      1,
+      1,
+      1,
+      1
+    },
+    _NeedSkillList = {
+      {
+        SKID.SC_TRIANGLESHOT,
+        2
+      }
+    }
+  },
+  [SKID.AB_OFFERTORIUM] = {
+    "AB_OFFERTORIUM",
+    SkillName = "오페르토리움",
+    MaxLv = 5,
+    SpAmount = {
+      30,
+      60,
+      90,
+      120,
+      150
+    },
+    bSeperateLv = true,
+    AttackRange = {
+      1,
+      1,
+      1,
+      1,
+      1
+    },
+    _NeedSkillList = {
+      {
+        SKID.AB_HIGHNESSHEAL,
+        2
+      }
+    }
+  },
+  [SKID.WL_TELEKINESIS_INTENSE] = {
+    "WL_TELEKINESIS_INTENSE",
+    SkillName = "텔레키네틱 인텐스",
+    MaxLv = 5,
+    SpAmount = {
+      100,
+      150,
+      200,
+      250,
+      300
+    },
+    bSeperateLv = true,
+    AttackRange = {
+      1,
+      1,
+      1,
+      1,
+      1
+    },
+    _NeedSkillList = {
+      {
+        SKID.WL_SOULEXPANSION,
+        5
+      }
+    }
+  },
+  [SKID.ALL_FULL_THROTTLE] = {
+    "ALL_FULL_THROTTLE",
+    SkillName = "풀 스로틀",
+    MaxLv = 5,
+    SpAmount = {
+      1,
+      1,
+      1,
+      1,
+      1
+    },
+    bSeperateLv = true,
+    AttackRange = {1},
+    _NeedSkillList = {}
+  },
+  [SKID.GN_ILLUSIONDOPING] = {
+    "GN_ILLUSIONDOPING",
+    SkillName = "환각 도핑",
+    MaxLv = 5,
+    SpAmount = {
+      60,
+      70,
+      80,
+      90,
+      100
+    },
+    bSeperateLv = true,
+    AttackRange = {
+      7,
+      7,
+      7,
+      7,
+      7
+    },
+    _NeedSkillList = {
+      {
+        SKID.GN_S_PHARMACY,
+        1
+      }
+    }
+  },
+  [SKID.GM_ITEM_ATKMAX] = {
+    "GM_ITEM_ATKMAX",
+    SkillName = "물리 아이템 공격력 최대",
+    MaxLv = 1,
+    SpAmount = {1},
+    bSeperateLv = false,
+    AttackRange = {1}
+  },
+  [SKID.GM_ITEM_ATKMIN] = {
+    "GM_ITEM_ATKMIN",
+    SkillName = "물리 아이템 공격력 최소",
+    MaxLv = 1,
+    SpAmount = {1},
+    bSeperateLv = false,
+    AttackRange = {1}
+  },
+  [SKID.GM_ITEM_MATKMAX] = {
+    "GM_ITEM_MATKMAX",
+    SkillName = "마법 아이템 공격력 최대",
+    MaxLv = 1,
+    SpAmount = {1},
+    bSeperateLv = false,
+    AttackRange = {1}
+  },
+  [SKID.GM_ITEM_MATKMIN] = {
+    "GM_ITEM_MATKMIN",
+    SkillName = "마법 아이템 공격력 최소",
+    MaxLv = 1,
+    SpAmount = {1},
+    bSeperateLv = false,
+    AttackRange = {1}
   }
 }

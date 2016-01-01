@@ -4911,3 +4911,148 @@ StateIconList[EFST_IDs.EFST_2013_VALENTINE3] = {
     {"%s", COLOR_TIME}
   }
 }
+StateIconList[EFST_IDs.EFST_CHILL] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 3,
+  descript = {
+    {"냉기", COLOR_TITLE_DEBUFF},
+    {
+      "화상 효과에 걸리지 않는다"
+    },
+    {"%s", COLOR_TIME}
+  }
+}
+StateIconList[EFST_IDs.EFST_BURNT] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 6,
+  descript = {
+    {"화상", COLOR_TITLE_DEBUFF},
+    {
+      "화속성 몬스터에게"
+    },
+    {
+      "받는 데미지 증가"
+    },
+    {
+      "화속성 내성 감소"
+    },
+    {
+      "주기적인 화속성 데미지"
+    },
+    {"%s", COLOR_TIME}
+  }
+}
+StateIconList[EFST_IDs.EFST_FRIGG_SONG] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 4,
+  descript = {
+    {
+      "풍요의 노래",
+      COLOR_TITLE_BUFF
+    },
+    {"MHP 증가"},
+    {
+      "10초당 일정량의 HP 회복"
+    },
+    {"%s", COLOR_TIME}
+  }
+}
+StateIconList[EFST_IDs.EFST_OFFERTORIUM] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 4,
+  descript = {
+    {
+      "오페르토리움",
+      COLOR_TITLE_BUFF
+    },
+    {
+      "자신이 사용하는 힐량 증가"
+    },
+    {
+      "모든 스킬의 SP 소모량 증가"
+    },
+    {"%s", COLOR_TIME}
+  }
+}
+StateIconList[EFST_IDs.EFST_TELEKINESIS_INTENSE] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 4,
+  descript = {
+    {
+      "텔레키네시스 인텐스",
+      COLOR_TITLE_BUFF
+    },
+    {
+      "염속성 마법의 공격력 증가"
+    },
+    {
+      "염속성 마법의 소모SP 감소"
+    },
+    {"%s", COLOR_TIME}
+  }
+}
+StateIconList[EFST_IDs.EFST_FULL_THROTTLE] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 4,
+  descript = {
+    {"풀 스로틀", COLOR_TITLE_BUFF},
+    {
+      "이동속도 증가"
+    },
+    {
+      "All State 증가"
+    },
+    {"%s", COLOR_TIME}
+  }
+}
+StateIconList[EFST_IDs.EFST_REBOUND] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 4,
+  descript = {
+    {"리바운드", COLOR_TITLE_DEBUFF},
+    {
+      "이동속도 감소"
+    },
+    {
+      "HP, SP 자연회복 불가"
+    },
+    {"%s", COLOR_TIME}
+  }
+}
+StateIconList[EFST_IDs.EFST_UNLIMIT] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 3,
+  descript = {
+    {"언리밋", COLOR_TITLE_BUFF},
+    {
+      "원거리 물리공격력 상승"
+    },
+    {"%s", COLOR_TIME}
+  }
+}
+StateIconList[EFST_IDs.EFST_KINGS_GRACE] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 5,
+  descript = {
+    {"왕의 가호", COLOR_TITLE_BUFF},
+    {"무적상태"},
+    {
+      "아이템 사용불가"
+    },
+    {
+      "이동 및 공격 불가"
+    },
+    {"%s", COLOR_TIME}
+  }
+}
+StateIconList[EFST_IDs.EFST_DARKCROW] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
+  descript = {
+    {"검은 손톱", COLOR_TITLE_DEBUFF},
+    {
+      "근접 물리피해 증폭"
+    },
+    {"%s", COLOR_TIME}
+  }
+}
