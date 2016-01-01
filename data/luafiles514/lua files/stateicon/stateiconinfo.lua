@@ -4721,3 +4721,136 @@ StateIconList[EFST_IDs.EFST_GVG_BLIND] = {
     {"%s", COLOR_TIME}
   }
 }
+StateIconList[EFST_IDs.EFST_JP_EVENT01] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 3,
+  descript = {
+    {
+      "어패류 몬스터에게 주는"
+    },
+    {
+      "물리데미지 추가"
+    },
+    {"%s", COLOR_TIME}
+  }
+}
+StateIconList[EFST_IDs.EFST_JP_EVENT02] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 3,
+  descript = {
+    {
+      "어패류 몬스터에게 주는"
+    },
+    {
+      "마법데미지 추가"
+    },
+    {"%s", COLOR_TIME}
+  }
+}
+StateIconList[EFST_IDs.EFST_JP_EVENT03] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 3,
+  descript = {
+    {
+      "어패류 몬스터에게서"
+    },
+    {
+      "받는 데미지 감소"
+    },
+    {"%s", COLOR_TIME}
+  }
+}
+StateIconList[EFST_IDs.EFST_JP_EVENT04] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 3,
+  descript = {
+    {
+      "어패류 몬스터에게서"
+    },
+    {
+      "얻는 경험치 증가"
+    },
+    {"%s", COLOR_TIME}
+  }
+}
+StateIconList[EFST_IDs.EFST_GEFFEN_MAGIC1] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 3,
+  descript = {
+    {
+      "인간형 몬스터에게 주는"
+    },
+    {
+      "물리데미지 추가"
+    },
+    {"%s", COLOR_TIME}
+  }
+}
+StateIconList[EFST_IDs.EFST_GEFFEN_MAGIC2] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 3,
+  descript = {
+    {
+      "인간형 몬스터에게 주는"
+    },
+    {
+      "마법데미지 추가"
+    },
+    {"%s", COLOR_TIME}
+  }
+}
+StateIconList[EFST_IDs.EFST_GEFFEN_MAGIC3] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 3,
+  descript = {
+    {
+      "인간형 몬스터에게서"
+    },
+    {
+      "받는 데미지 감소"
+    },
+    {"%s", COLOR_TIME}
+  }
+}
+StateIconList[EFST_IDs.EFST_QUEST_BUFF1] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 3,
+  descript = {
+    {
+      "에너지 축적 중",
+      COLOR_TITLE_BUFF
+    },
+    {
+      "ATK, MATK 증가"
+    },
+    {"%s", COLOR_TIME}
+  }
+}
+StateIconList[EFST_IDs.EFST_QUEST_BUFF2] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 3,
+  descript = {
+    {
+      "에너지 축적 중",
+      COLOR_TITLE_BUFF
+    },
+    {
+      "ATK, MATK 증가"
+    },
+    {"%s", COLOR_TIME}
+  }
+}
+StateIconList[EFST_IDs.EFST_QUEST_BUFF3] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 3,
+  descript = {
+    {
+      "에너지 축적 중",
+      COLOR_TITLE_BUFF
+    },
+    {
+      "ATK, MATK 증가"
+    },
+    {"%s", COLOR_TIME}
+  }
+}
