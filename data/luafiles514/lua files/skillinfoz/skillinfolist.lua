@@ -25611,7 +25611,7 @@ SKILL_INFO_LIST = {
     _NeedSkillList = {
       {
         SKID.GS_PIERCINGSHOT,
-        5
+        1
       }
     }
   },
@@ -25683,11 +25683,11 @@ SKILL_INFO_LIST = {
     _NeedSkillList = {
       {
         SKID.GS_DISARM,
-        5
+        1
       },
       {
         SKID.GS_DUST,
-        5
+        1
       }
     }
   },
@@ -25713,7 +25713,7 @@ SKILL_INFO_LIST = {
     _NeedSkillList = {
       {
         SKID.RL_BANISHING_BUSTER,
-        5
+        3
       }
     }
   },
@@ -25855,7 +25855,7 @@ SKILL_INFO_LIST = {
     _NeedSkillList = {
       {
         SKID.GS_GATLINGFEVER,
-        5
+        1
       }
     }
   },
@@ -25940,8 +25940,8 @@ SKILL_INFO_LIST = {
     },
     _NeedSkillList = {
       {
-        SKID.GS_GROUNDDRIFT,
-        5
+        SKID.GS_SPREADATTACK,
+        1
       }
     }
   },
@@ -25967,7 +25967,7 @@ SKILL_INFO_LIST = {
     _NeedSkillList = {
       {
         SKID.RL_AM_BLAST,
-        5
+        3
       }
     }
   },
@@ -25993,7 +25993,7 @@ SKILL_INFO_LIST = {
     _NeedSkillList = {
       {
         SKID.RL_FIREDANCE,
-        5
+        2
       }
     }
   },
