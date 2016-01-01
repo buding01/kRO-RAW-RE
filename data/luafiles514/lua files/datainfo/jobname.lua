@@ -2992,8 +2992,8 @@ JobNameTable = {
   [jobtbl.JT_MM_L_GIGAN1] = "baphomet",
   [jobtbl.JT_MM_L_GIGAN2] = "baphomet",
   [jobtbl.JT_MM_L_GIGAN3] = "baphomet",
-  [jobtbl.JT_MM_M_GARGOYLE] = "Gargoyle",
-  [jobtbl.JT_MM_M_GALION] = "GALION",
-  [jobtbl.JT_MM_M_MUTANT_DRAGON] = "MUTANT_DRAGON",
-  [jobtbl.JT_MM_M_CHIMERA] = "CHIMERA"
+  [jobtbl.JT_MM_M_GARGOYLE] = "MM_M_GARGOYLE",
+  [jobtbl.JT_MM_M_GALION] = "MM_M_GALION",
+  [jobtbl.JT_MM_M_MUTANT_DRAGON] = "MM_M_MUTANT_DRAGON",
+  [jobtbl.JT_MM_M_CHIMERA] = "MM_M_CHIMERA"
 }
