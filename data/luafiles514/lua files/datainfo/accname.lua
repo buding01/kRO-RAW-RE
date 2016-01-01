@@ -1175,5 +1175,6 @@ AccNameTable = {
   [ACCESSORY_IDs.ACCESSORY_Drooping_Dorasuke] = "_疵绢柳辨侩捞",
   [ACCESSORY_IDs.ACCESSORY_Chicken_Hat1] = "_部部催葛磊1",
   [ACCESSORY_IDs.ACCESSORY_Chicken_Hat2] = "_部部催葛磊2",
-  [ACCESSORY_IDs.ACCESSORY_Chicken_Hat3] = "_部部催葛磊3"
+  [ACCESSORY_IDs.ACCESSORY_Chicken_Hat3] = "_部部催葛磊3",
+  [ACCESSORY_IDs.ACCESSORY_Baphomet_Hat] = "_官器皋飘捧备"
 }

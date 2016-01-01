@@ -1179,5 +1179,6 @@ ACCESSORY_IDs = {
   ACCESSORY_Drooping_Dorasuke = 1290,
   ACCESSORY_Chicken_Hat1 = 1296,
   ACCESSORY_Chicken_Hat2 = 1297,
-  ACCESSORY_Chicken_Hat3 = 1298
+  ACCESSORY_Chicken_Hat3 = 1298,
+  ACCESSORY_Baphomet_Hat = 1311
 }
