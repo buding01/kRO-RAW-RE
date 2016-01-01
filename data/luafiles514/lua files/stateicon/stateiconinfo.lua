@@ -1528,7 +1528,7 @@ StateIconList[EFST_IDs.EFST_SATURDAY_NIGHT_FEVER] = {
       "공격력 상승, 방어력, 회피율 하락"
     },
     {
-      "스킬, 아이템 사용 불가"
+      "아이템 사용 불가"
     }
   }
 }
