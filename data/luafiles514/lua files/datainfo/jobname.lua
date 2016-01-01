@@ -2995,5 +2995,7 @@ JobNameTable = {
   [jobtbl.JT_MM_M_GARGOYLE] = "MM_M_GARGOYLE",
   [jobtbl.JT_MM_M_GALION] = "MM_M_GALION",
   [jobtbl.JT_MM_M_MUTANT_DRAGON] = "MM_M_MUTANT_DRAGON",
-  [jobtbl.JT_MM_M_CHIMERA] = "MM_M_CHIMERA"
+  [jobtbl.JT_MM_M_CHIMERA] = "MM_M_CHIMERA",
+  [jobtbl.JT_ORGANIC_JAKK] = "JAKK",
+  [jobtbl.JT_INORGANIC_JAKK] = "JAKK"
 }
