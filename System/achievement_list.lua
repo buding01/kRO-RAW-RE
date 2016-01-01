@@ -935,7 +935,7 @@ achievement_tbl = {
     reward = {
       title = 1000,
       buff = 10,
-      item = 2795
+      item = 12549
     },
     score = 50
   },
@@ -1242,12 +1242,12 @@ achievement_tbl = {
     minor = 0,
     title = "곰 같은 힘이여!",
     content = {
-      summary = "순수 STR 90 돌파!",
-      details = "순수 STR 90."
+      summary = "순수 STR 90 를 달성한다",
+      details = "스테이터스 STR 포인트를 90 이상까지 찍는다."
     },
     resource = {
       [1] = {
-        text = "순수 STR 90 돌파!"
+        text = "순수 STR 90를 달성"
       }
     },
     reward = {},
@@ -1260,12 +1260,12 @@ achievement_tbl = {
     minor = 0,
     title = "넘치는 마력!",
     content = {
-      summary = "순수 INT 90 돌파!",
-      details = "순수 INT 90."
+      summary = "순수 INT 90 를 달성한다",
+      details = "스테이터스 INT 포인트를 90 이상까지 찍는다."
     },
     resource = {
       [1] = {
-        text = "순수 INT 90 돌파!"
+        text = "순수 INT 90 를 달성"
       }
     },
     reward = {},
@@ -1278,12 +1278,12 @@ achievement_tbl = {
     minor = 0,
     title = "건강한 육체에 건강한 정신!",
     content = {
-      summary = "순수 VIT 90 돌파!",
-      details = "순수 VIT 90."
+      summary = "순수 VIT 90 를 달성한다",
+      details = "스테이터스 VIT 포인트를 90 이상까지 찍는다."
     },
     resource = {
       [1] = {
-        text = "순수 VIT 90 돌파!"
+        text = "순수 VIT 90 를 달성"
       }
     },
     reward = {},
@@ -1296,12 +1296,12 @@ achievement_tbl = {
     minor = 0,
     title = "속도광",
     content = {
-      summary = "순수 AGI 90 돌파!",
-      details = "순수 AGI 90."
+      summary = "순수 AGI 90 를 달성한다",
+      details = "스테이터스 AGI 포인트를 90 이상까지 찍는다."
     },
     resource = {
       [1] = {
-        text = "순수 AGI 90 돌파!"
+        text = "순수 AGI 90 를 달성"
       }
     },
     reward = {},
@@ -1314,12 +1314,12 @@ achievement_tbl = {
     minor = 0,
     title = "매의 눈",
     content = {
-      summary = "순수 DEX 90 돌파!",
-      details = "순수 DEX 90."
+      summary = "순수 DEX 90 를 달성한다",
+      details = "스테이터스 DEX 포인트를 90 이상까지 찍는다."
     },
     resource = {
       [1] = {
-        text = "순수 DEX 90 돌파!"
+        text = "순수 DEX 90 를 달성"
       }
     },
     reward = {},
@@ -1330,14 +1330,14 @@ achievement_tbl = {
     group = "ACTION",
     major = 1,
     minor = 0,
-    title = "럭키맥스",
+    title = "럭키 맥스",
     content = {
-      summary = "순수 LUK 90 돌파!",
-      details = "순수 LUK 90."
+      summary = "순수 LUK 90 를 달성한다",
+      details = "스테이터스 LUK 포인트를 90 이상까지 찍는다."
     },
     resource = {
       [1] = {
-        text = "순수 LUK 90 돌파!"
+        text = "순수 LUK 90 를 달성"
       }
     },
     reward = {},
@@ -1350,12 +1350,12 @@ achievement_tbl = {
     minor = 0,
     title = "용 같은 힘이여!",
     content = {
-      summary = "순수 STR 125 돌파!",
-      details = "순수 STR 125."
+      summary = "순수 STR 125 를 달성한다",
+      details = "스테이터스 STR 포인트를 125 이상까지 찍는다."
     },
     resource = {
       [1] = {
-        text = "순수 STR 125 돌파!"
+        text = "순수 STR 125를 달성"
       }
     },
     reward = {buff = 319},
@@ -1368,12 +1368,12 @@ achievement_tbl = {
     minor = 0,
     title = "광기의 마력",
     content = {
-      summary = "순수 INT 125 돌파!",
-      details = "순수 INT 125."
+      summary = "순수 INT 125 를 달성한다",
+      details = "스테이터스 INT 포인트를 125 이상까지 찍는다."
     },
     resource = {
       [1] = {
-        text = "순수 INT 125 돌파!"
+        text = "순수 INT 125 를 달성"
       }
     },
     reward = {buff = 611},
@@ -1384,14 +1384,14 @@ achievement_tbl = {
     group = "ACTION",
     major = 1,
     minor = 0,
-    title = "금강불괴",
+    title = "합금강석",
     content = {
-      summary = "순수 VIT 125 돌파!",
-      details = "순수 VIT 125."
+      summary = "순수 VIT 125 를 달성한다",
+      details = "스테이터스 VIT 포인트를 125 이상까지 찍는다."
     },
     resource = {
       [1] = {
-        text = "순수 VIT 125 돌파!"
+        text = "순수 VIT 125 를 달성"
       }
     },
     reward = {buff = 293},
@@ -1404,12 +1404,12 @@ achievement_tbl = {
     minor = 0,
     title = "빛의 속도",
     content = {
-      summary = "순수 AGI 125 돌파!",
-      details = "순수 AGI 125."
+      summary = "순수 AGI 125 를 달성한다",
+      details = "스테이터스 AGI 포인트를 125 이상까지 찍는다."
     },
     resource = {
       [1] = {
-        text = "순수 AGI 125 돌파!"
+        text = "순수 AGI 125 를 달성"
       }
     },
     reward = {buff = 296},
@@ -1422,12 +1422,12 @@ achievement_tbl = {
     minor = 0,
     title = "팔콘의 눈",
     content = {
-      summary = "순수 DEX 125 돌파!",
-      details = "순수 DEX 125."
+      summary = "순수 DEX 125 를 달성한다",
+      details = "스테이터스 DEX 포인트를 125 이상까지 찍는다."
     },
     resource = {
       [1] = {
-        text = "순수 DEX 125 돌파!"
+        text = "순수 DEX 125 를 달성"
       }
     },
     reward = {buff = 295},
@@ -1438,14 +1438,14 @@ achievement_tbl = {
     group = "ACTION",
     major = 1,
     minor = 0,
-    title = "럭키 피버!",
+    title = "럭키 피버",
     content = {
-      summary = "순수 LUK 125 돌파!",
-      details = "순수 LUK 125."
+      summary = "순수 LUK 125 를 달성한다",
+      details = "스테이터스 LUK 포인트를 125 이상까지 찍는다."
     },
     resource = {
       [1] = {
-        text = "순수 LUK 125 돌파!"
+        text = "순수 LUK 125 를 달성"
       }
     },
     reward = {buff = 21},
@@ -3194,96 +3194,6 @@ achievement_tbl = {
     },
     reward = {},
     score = 40
-  },
-  [230301] = {
-    UI_Type = 0,
-    group = "COMMUNITY",
-    major = 3,
-    minor = 1,
-    title = "세상이 빙글빙글~",
-    content = {
-      summary = "상태이상 '스턴'을 1회 겪어본다",
-      details = "한낮에 별을 볼 수 있는 머리가 아픈 현상이다."
-    },
-    resource = {
-      [1] = {
-        text = "상태이상 '스턴'을 1회 겪음"
-      }
-    },
-    reward = {},
-    score = 10
-  },
-  [230302] = {
-    UI_Type = 0,
-    group = "COMMUNITY",
-    major = 3,
-    minor = 1,
-    title = "잠이 스르르..",
-    content = {
-      summary = "상태이상 '수면'을 1회 겪어본다",
-      details = "잠들면 안되는 곳인데도 잠이 오는...."
-    },
-    resource = {
-      [1] = {
-        text = "상태이상 '수면'을 1회 겪음"
-      }
-    },
-    reward = {},
-    score = 10
-  },
-  [230303] = {
-    UI_Type = 0,
-    group = "COMMUNITY",
-    major = 3,
-    minor = 1,
-    title = "......!",
-    content = {
-      summary = "상태이상 '석화'을 1회 겪어본다",
-      details = "몸 곳곳이 딱딱하게 돌이 되어간다."
-    },
-    resource = {
-      [1] = {
-        text = "상태이상 '석화'을 1회 겪음"
-      }
-    },
-    reward = {},
-    score = 10
-  },
-  [230304] = {
-    UI_Type = 0,
-    group = "COMMUNITY",
-    major = 3,
-    minor = 1,
-    title = "앗~ 뜨거워!!",
-    content = {
-      summary = "상태이상 '발화'을 1회 겪어본다",
-      details = "온몸에 불이 붙는 위험천만한 현상이다. "
-    },
-    resource = {
-      [1] = {
-        text = "상태이상 '발화'을 1회 겪음"
-      }
-    },
-    reward = {},
-    score = 10
-  },
-  [230305] = {
-    UI_Type = 0,
-    group = "COMMUNITY",
-    major = 3,
-    minor = 1,
-    title = "추.. 추워...",
-    content = {
-      summary = "상태이상 '빙결'을 1회 겪어본다",
-      details = "몸 뿐만 아니라 손발이 모두 다 꽁꽁~"
-    },
-    resource = {
-      [1] = {
-        text = "상태이상 '빙결'을 1회 겪음"
-      }
-    },
-    reward = {},
-    score = 10
   },
   [230200] = {
     UI_Type = 0,
