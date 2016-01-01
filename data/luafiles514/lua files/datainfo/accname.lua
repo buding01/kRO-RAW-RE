@@ -1356,5 +1356,6 @@ AccNameTable = {
   [ACCESSORY_IDs.ACCESSORY_Loose_Wave_Twin_WH] = "_루즈웨이브트윈_흰색",
   [ACCESSORY_IDs.ACCESSORY_Piamette_Ribon] = "_피아멧트의리본",
   [ACCESSORY_IDs.ACCESSORY_Little_Aquarium] = "_리틀아쿠아리움",
-  [ACCESSORY_IDs.ACCESSORY_C_Angel_Fluttering] = "_C흩날리는천사의날개"
+  [ACCESSORY_IDs.ACCESSORY_C_Angel_Fluttering] = "_C흩날리는천사의날개",
+  [ACCESSORY_IDs.ACCESSORY_Parfait_V_Hat] = "_파르펠레자경단모자"
 }

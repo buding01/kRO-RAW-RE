@@ -1335,6 +1335,7 @@ ACCESSORY_IDs = {
   ACCESSORY_Analyze_Eye = 1351,
   ACCESSORY_FlyingGalapago = 1358,
   ACCESSORY_Little_Aquarium = 1363,
+  ACCESSORY_Parfait_V_Hat = 1368,
   ACCESSORY_Straight_Pony_BL = 1371,
   ACCESSORY_Cowlick_BL = 1372,
   ACCESSORY_Loose_Wave_Twin_BL = 1373,
