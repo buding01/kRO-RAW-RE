@@ -30,6 +30,96 @@ worldtable_main = {
     "110"
   },
   {
+    1,
+    "tha_t04.rsw",
+    552,
+    3,
+    646,
+    37,
+    WORLD_MSGID.MSI_1_THA_T04,
+    "120"
+  },
+  {
+    1,
+    "tha_t05.rsw",
+    552,
+    3,
+    646,
+    37,
+    WORLD_MSGID.MSI_1_THA_T05,
+    "120"
+  },
+  {
+    1,
+    "tha_t06.rsw",
+    552,
+    3,
+    646,
+    37,
+    WORLD_MSGID.MSI_1_THA_T06,
+    "120"
+  },
+  {
+    1,
+    "tha_t07.rsw",
+    552,
+    3,
+    646,
+    37,
+    WORLD_MSGID.MSI_1_THA_T07,
+    "125"
+  },
+  {
+    1,
+    "tha_t08.rsw",
+    552,
+    3,
+    646,
+    37,
+    WORLD_MSGID.MSI_1_THA_T08,
+    "125"
+  },
+  {
+    1,
+    "tha_t09.rsw",
+    552,
+    3,
+    646,
+    37,
+    WORLD_MSGID.MSI_1_THA_T09,
+    "125"
+  },
+  {
+    1,
+    "tha_t10.rsw",
+    552,
+    3,
+    646,
+    37,
+    WORLD_MSGID.MSI_1_THA_T10,
+    "130"
+  },
+  {
+    1,
+    "tha_t11.rsw",
+    552,
+    3,
+    646,
+    37,
+    WORLD_MSGID.MSI_1_THA_T11,
+    "130"
+  },
+  {
+    1,
+    "tha_t12.rsw",
+    552,
+    3,
+    646,
+    37,
+    WORLD_MSGID.MSI_1_THA_T12,
+    "130"
+  },
+  {
     2,
     "mag_dun01.rsw",
     465,
@@ -2822,6 +2912,16 @@ worldtable_dimensions = {
     787,
     WORLD_MSGID.MSI_2_DIC_DUN02,
     "130"
+  },
+  {
+    2,
+    "dic_dun03.rsw",
+    821,
+    753,
+    911,
+    787,
+    WORLD_MSGID.MSI_3_DIC_DUN03,
+    "135"
   },
   {
     3,
