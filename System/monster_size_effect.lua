@@ -2294,6 +2294,122 @@ tbl = {
   [3207] = {
     MonsterSize = 2,
     MonsterEff = EFFECT.EF_REDLIGHTBODY
+  },
+  [3240] = {
+    MonsterSize = 1,
+    MonsterEff = EFFECT.EF_GUMGANG
+  },
+  [3241] = {
+    MonsterSize = 1,
+    MonsterEff = EFFECT.EF_GUMGANG
+  },
+  [3242] = {
+    MonsterSize = 1,
+    MonsterEff = EFFECT.EF_GUMGANG
+  },
+  [3243] = {
+    MonsterSize = 1,
+    MonsterEff = EFFECT.EF_GUMGANG
+  },
+  [3244] = {
+    MonsterSize = 1,
+    MonsterEff = EFFECT.EF_GUMGANG
+  },
+  [3245] = {
+    MonsterSize = 1,
+    MonsterEff = EFFECT.EF_GUMGANG
+  },
+  [3246] = {
+    MonsterSize = 1,
+    MonsterEff = EFFECT.EF_GUMGANG
+  },
+  [3220] = {
+    MonsterSize = 1,
+    MonsterEff = EFFECT.EF_GUMGANG
+  },
+  [3221] = {
+    MonsterSize = 1,
+    MonsterEff = EFFECT.EF_GUMGANG
+  },
+  [3222] = {
+    MonsterSize = 1,
+    MonsterEff = EFFECT.EF_GUMGANG
+  },
+  [3223] = {
+    MonsterSize = 1,
+    MonsterEff = EFFECT.EF_GUMGANG
+  },
+  [3224] = {
+    MonsterSize = 1,
+    MonsterEff = EFFECT.EF_GUMGANG
+  },
+  [3225] = {
+    MonsterSize = 1,
+    MonsterEff = EFFECT.EF_GUMGANG
+  },
+  [3214] = {
+    MonsterSize = 1,
+    MonsterEff = EFFECT.EF_DOUBLEGUMGANG2
+  },
+  [3215] = {
+    MonsterSize = 1,
+    MonsterEff = EFFECT.EF_DOUBLEGUMGANG2
+  },
+  [3216] = {
+    MonsterSize = 1,
+    MonsterEff = EFFECT.EF_DOUBLEGUMGANG2
+  },
+  [3217] = {
+    MonsterSize = 1,
+    MonsterEff = EFFECT.EF_DOUBLEGUMGANG2
+  },
+  [3218] = {
+    MonsterSize = 1,
+    MonsterEff = EFFECT.EF_DOUBLEGUMGANG2
+  },
+  [3219] = {
+    MonsterSize = 1,
+    MonsterEff = EFFECT.EF_DOUBLEGUMGANG2
+  },
+  [3233] = {
+    MonsterSize = 1,
+    MonsterEff = EFFECT.EF_DOUBLEGUMGANG2
+  },
+  [3234] = {
+    MonsterSize = 1,
+    MonsterEff = EFFECT.EF_DOUBLEGUMGANG2
+  },
+  [3235] = {
+    MonsterSize = 1,
+    MonsterEff = EFFECT.EF_DOUBLEGUMGANG2
+  },
+  [3236] = {
+    MonsterSize = 1,
+    MonsterEff = EFFECT.EF_DOUBLEGUMGANG2
+  },
+  [3237] = {
+    MonsterSize = 1,
+    MonsterEff = EFFECT.EF_DOUBLEGUMGANG2
+  },
+  [3238] = {
+    MonsterSize = 1,
+    MonsterEff = EFFECT.EF_DOUBLEGUMGANG2
+  },
+  [3239] = {
+    MonsterSize = 1,
+    MonsterEff = EFFECT.EF_DOUBLEGUMGANG2
+  },
+  [1113] = {
+    MonsterSize = 1.2,
+    MonsterEff = EFFECT.EF_DOUBLEGUMGANG
+  },
+  [1063] = {
+    MonsterSize = 1.2,
+    MonsterEff = EFFECT.EF_DOUBLEGUMGANG2
+  },
+  [1010] = {
+    MonsterSize = 1.2,
+    MonsterEff = EFFECT.EF_DOUBLEGUMGANG3
   }
 }
 function main()
