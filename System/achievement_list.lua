@@ -4,7 +4,7 @@ achievement_tbl = {
     group = "ACTION",
     major = 2,
     minor = 0,
-    title = "프론테라 북쪽 필드 탐험(1)",
+    title = "프론테라 북쪽 주변 필드 탐험(1)",
     content = {
       summary = "숨겨진 보물 발견",
       details = "프론테라 북쪽 주변 필드의 보물을 발견한다"
@@ -14,7 +14,7 @@ achievement_tbl = {
         text = "프론테라 북쪽 주변의 보물을 발견한다"
       }
     },
-    reward = {item = 22876},
+    reward = {item = 644},
     score = 10
   },
   [120002] = {
@@ -22,7 +22,7 @@ achievement_tbl = {
     group = "ACTION",
     major = 2,
     minor = 0,
-    title = "프론테라 북쪽 필드 탐험(2)",
+    title = "프론테라 북쪽 주변 필드 탐험(2)",
     content = {
       summary = "숨겨진 보물 발견",
       details = "프론테라 북쪽 주변 필드의 보물을 발견한다"
@@ -32,7 +32,7 @@ achievement_tbl = {
         text = "프론테라 북쪽 주변의 보물을 발견한다"
       }
     },
-    reward = {item = 22876},
+    reward = {item = 644},
     score = 10
   },
   [120003] = {
@@ -40,7 +40,7 @@ achievement_tbl = {
     group = "ACTION",
     major = 2,
     minor = 0,
-    title = "프론테라 북쪽 필드 탐험(3)",
+    title = "프론테라 북쪽 주변 필드 탐험(3)",
     content = {
       summary = "숨겨진 보물 발견",
       details = "프론테라 북쪽 주변 필드의 보물을 발견한다"
@@ -50,7 +50,7 @@ achievement_tbl = {
         text = "프론테라 북쪽 주변의 보물을 발견한다"
       }
     },
-    reward = {item = 22876},
+    reward = {item = 644},
     score = 10
   },
   [120004] = {
@@ -58,7 +58,7 @@ achievement_tbl = {
     group = "ACTION",
     major = 2,
     minor = 0,
-    title = "프론테라 서쪽 필드 탐험(1)",
+    title = "프론테라 서쪽 주변 필드 탐험(1)",
     content = {
       summary = "숨겨진 보물 발견",
       details = "프론테라 서쪽 주변 필드의 보물을 발견한다"
@@ -68,7 +68,7 @@ achievement_tbl = {
         text = "프론테라 서쪽 주변의 보물을 발견한다"
       }
     },
-    reward = {item = 22876},
+    reward = {item = 644},
     score = 10
   },
   [120005] = {
@@ -76,7 +76,7 @@ achievement_tbl = {
     group = "ACTION",
     major = 2,
     minor = 0,
-    title = "프론테라 서쪽 필드 탐험(2)",
+    title = "프론테라 서쪽 주변 필드 탐험(2)",
     content = {
       summary = "숨겨진 보물 발견",
       details = "프론테라 서쪽 주변 필드의 보물을 발견한다"
@@ -86,7 +86,7 @@ achievement_tbl = {
         text = "프론테라 서쪽 주변의 보물을 발견한다"
       }
     },
-    reward = {item = 22876},
+    reward = {item = 644},
     score = 10
   },
   [120006] = {
@@ -94,7 +94,7 @@ achievement_tbl = {
     group = "ACTION",
     major = 2,
     minor = 0,
-    title = "프론테라 동쪽 필드 탐험",
+    title = "프론테라 동쪽 주변 필드 탐험(1)",
     content = {
       summary = "숨겨진 보물 발견",
       details = "프론테라 동쪽 주변 필드의 보물을 발견한다"
@@ -104,7 +104,7 @@ achievement_tbl = {
         text = "프론테라 동쪽 주변의 보물을 발견한다"
       }
     },
-    reward = {item = 22876},
+    reward = {item = 644},
     score = 10
   },
   [120007] = {
@@ -112,7 +112,7 @@ achievement_tbl = {
     group = "ACTION",
     major = 2,
     minor = 0,
-    title = "프론테라 남쪽 필드 탐험(1)",
+    title = "프론테라 남쪽 주변 필드 탐험(1)",
     content = {
       summary = "숨겨진 보물 발견",
       details = "프론테라 남쪽 주변 필드의 보물을 발견한다"
@@ -122,7 +122,7 @@ achievement_tbl = {
         text = "프론테라 남쪽 주변의 보물을 발견한다"
       }
     },
-    reward = {item = 22876},
+    reward = {item = 644},
     score = 10
   },
   [120008] = {
@@ -130,7 +130,7 @@ achievement_tbl = {
     group = "ACTION",
     major = 2,
     minor = 0,
-    title = "프론테라 남쪽 필드 탐험(2)",
+    title = "프론테라 남쪽 주변 필드 탐험(2)",
     content = {
       summary = "숨겨진 보물 발견",
       details = "프론테라 남쪽 주변 필드의 보물을 발견한다"
@@ -140,7 +140,7 @@ achievement_tbl = {
         text = "프론테라 남쪽 주변의 보물을 발견한다"
       }
     },
-    reward = {item = 22876},
+    reward = {item = 644},
     score = 10
   },
   [120009] = {
@@ -148,7 +148,7 @@ achievement_tbl = {
     group = "ACTION",
     major = 2,
     minor = 0,
-    title = "프론테라 남쪽 필드 탐험(3)",
+    title = "프론테라 남쪽 주변 필드 탐험(3)",
     content = {
       summary = "숨겨진 보물 발견",
       details = "프론테라 남쪽 주변 필드의 보물을 발견한다"
@@ -158,7 +158,7 @@ achievement_tbl = {
         text = "프론테라 남쪽 주변의 보물을 발견한다"
       }
     },
-    reward = {item = 22876},
+    reward = {item = 644},
     score = 10
   },
   [120010] = {
@@ -166,7 +166,7 @@ achievement_tbl = {
     group = "ACTION",
     major = 2,
     minor = 0,
-    title = "프론테라 남쪽 필드 탐험(4)",
+    title = "프론테라 남쪽 주변 필드 탐험(4)",
     content = {
       summary = "숨겨진 보물 발견",
       details = "프론테라 남쪽 주변 필드의 보물을 발견한다"
@@ -176,7 +176,7 @@ achievement_tbl = {
         text = "프론테라 남쪽 주변의 보물을 발견한다"
       }
     },
-    reward = {item = 22876},
+    reward = {item = 644},
     score = 10
   },
   [120011] = {
@@ -184,7 +184,7 @@ achievement_tbl = {
     group = "ACTION",
     major = 2,
     minor = 0,
-    title = "게펜 동쪽 필드 탐험",
+    title = "게펜 동쪽 주변 필드 탐험(1)",
     content = {
       summary = "숨겨진 보물 발견",
       details = "게펜 동쪽 주변 필드의 보물을 발견한다"
@@ -194,7 +194,7 @@ achievement_tbl = {
         text = "게펜 동쪽 주변의 보물을 발견한다"
       }
     },
-    reward = {item = 22876},
+    reward = {item = 644},
     score = 10
   },
   [120012] = {
@@ -202,7 +202,7 @@ achievement_tbl = {
     group = "ACTION",
     major = 2,
     minor = 0,
-    title = "게펜 동남쪽 필드 탐험",
+    title = "게펜 동남쪽 주변 필드 탐험(1)",
     content = {
       summary = "숨겨진 보물 발견",
       details = "게펜 동남쪽 주변 필드의 보물을 발견한다"
@@ -212,7 +212,7 @@ achievement_tbl = {
         text = "게펜 동남쪽 주변의 보물을 발견한다"
       }
     },
-    reward = {item = 22876},
+    reward = {item = 644},
     score = 10
   },
   [120013] = {
@@ -220,7 +220,7 @@ achievement_tbl = {
     group = "ACTION",
     major = 2,
     minor = 0,
-    title = "게펜 서북쪽 필드 탐험(1)",
+    title = "게펜 서북쪽 주변 필드 탐험(1)",
     content = {
       summary = "숨겨진 보물 발견",
       details = "게펜 서북쪽 주변 필드의 보물을 발견한다"
@@ -230,7 +230,7 @@ achievement_tbl = {
         text = "게펜 서북쪽 주변의 보물을 발견한다"
       }
     },
-    reward = {item = 22876},
+    reward = {item = 644},
     score = 10
   },
   [120014] = {
@@ -238,7 +238,7 @@ achievement_tbl = {
     group = "ACTION",
     major = 2,
     minor = 0,
-    title = "게펜 서북쪽 필드 탐험(2)",
+    title = "게펜 서북쪽 주변 필드 탐험(2)",
     content = {
       summary = "숨겨진 보물 발견",
       details = "게펜 서북쪽 주변 필드의 보물을 발견한다"
@@ -248,7 +248,7 @@ achievement_tbl = {
         text = "게펜 서북쪽 주변의 보물을 발견한다"
       }
     },
-    reward = {item = 22876},
+    reward = {item = 644},
     score = 10
   },
   [120015] = {
@@ -256,7 +256,7 @@ achievement_tbl = {
     group = "ACTION",
     major = 2,
     minor = 0,
-    title = "게펜 서북쪽 필드 탐험(3)",
+    title = "게펜 서북쪽 주변 필드 탐험(3)",
     content = {
       summary = "숨겨진 보물 발견",
       details = "게펜 서북쪽 주변 필드의 보물을 발견한다"
@@ -266,7 +266,7 @@ achievement_tbl = {
         text = "게펜 서북쪽 주변의 보물을 발견한다"
       }
     },
-    reward = {item = 22876},
+    reward = {item = 644},
     score = 10
   },
   [120016] = {
@@ -274,7 +274,7 @@ achievement_tbl = {
     group = "ACTION",
     major = 2,
     minor = 0,
-    title = "게펜 남쪽 필드 탐험(1)",
+    title = "게펜 남쪽 주변 필드 탐험(1)",
     content = {
       summary = "숨겨진 보물 발견",
       details = "게펜 남쪽 주변 필드의 보물을 발견한다"
@@ -284,7 +284,7 @@ achievement_tbl = {
         text = "게펜 남쪽 주변의 보물을 발견한다"
       }
     },
-    reward = {item = 22876},
+    reward = {item = 644},
     score = 10
   },
   [120017] = {
@@ -292,7 +292,7 @@ achievement_tbl = {
     group = "ACTION",
     major = 2,
     minor = 0,
-    title = "게펜 남쪽 필드 탐험(2)",
+    title = "게펜 남쪽 주변 필드 탐험(2)",
     content = {
       summary = "숨겨진 보물 발견",
       details = "게펜 남쪽 주변 필드의 보물을 발견한다"
@@ -302,7 +302,7 @@ achievement_tbl = {
         text = "게펜 남쪽 주변의 보물을 발견한다"
       }
     },
-    reward = {item = 22876},
+    reward = {item = 644},
     score = 10
   },
   [120018] = {
@@ -310,7 +310,7 @@ achievement_tbl = {
     group = "ACTION",
     major = 2,
     minor = 0,
-    title = "소그라트 사막 필드 탐험(1)",
+    title = "소그라트 사막 주변 필드 탐험(1)",
     content = {
       summary = "숨겨진 보물 발견",
       details = "소그라트 사막 주변 필드의 보물을 발견한다"
@@ -320,7 +320,7 @@ achievement_tbl = {
         text = "소그라트 사막 주변의 보물을 발견한다"
       }
     },
-    reward = {item = 22876},
+    reward = {item = 644},
     score = 10
   },
   [120019] = {
@@ -328,7 +328,7 @@ achievement_tbl = {
     group = "ACTION",
     major = 2,
     minor = 0,
-    title = "소그라트 사막 필드 탐험(2)",
+    title = "소그라트 사막 주변 필드 탐험(2)",
     content = {
       summary = "숨겨진 보물 발견",
       details = "소그라트 사막 주변 필드의 보물을 발견한다"
@@ -338,7 +338,7 @@ achievement_tbl = {
         text = "소그라트 사막 주변의 보물을 발견한다"
       }
     },
-    reward = {item = 22876},
+    reward = {item = 644},
     score = 10
   },
   [120020] = {
@@ -346,7 +346,7 @@ achievement_tbl = {
     group = "ACTION",
     major = 2,
     minor = 0,
-    title = "소그라트 사막 필드 탐험(3)",
+    title = "소그라트 사막 주변 필드 탐험(3)",
     content = {
       summary = "숨겨진 보물 발견",
       details = "소그라트 사막 주변 필드의 보물을 발견한다"
@@ -356,7 +356,7 @@ achievement_tbl = {
         text = "소그라트 사막 주변의 보물을 발견한다"
       }
     },
-    reward = {item = 22876},
+    reward = {item = 644},
     score = 10
   },
   [120021] = {
@@ -364,7 +364,7 @@ achievement_tbl = {
     group = "ACTION",
     major = 2,
     minor = 0,
-    title = "소그라트 사막 필드 탐험(4)",
+    title = "소그라트 사막 주변 필드 탐험(4)",
     content = {
       summary = "숨겨진 보물 발견",
       details = "소그라트 사막 주변 필드의 보물을 발견한다"
@@ -374,7 +374,7 @@ achievement_tbl = {
         text = "소그라트 사막 주변의 보물을 발견한다"
       }
     },
-    reward = {item = 22876},
+    reward = {item = 644},
     score = 10
   },
   [120022] = {
@@ -382,7 +382,7 @@ achievement_tbl = {
     group = "ACTION",
     major = 2,
     minor = 0,
-    title = "소그라트 사막 필드 탐험(5)",
+    title = "소그라트 사막 주변 필드 탐험(5)",
     content = {
       summary = "숨겨진 보물 발견",
       details = "소그라트 사막 주변 필드의 보물을 발견한다"
@@ -392,7 +392,7 @@ achievement_tbl = {
         text = "소그라트 사막 주변의 보물을 발견한다"
       }
     },
-    reward = {item = 22876},
+    reward = {item = 644},
     score = 10
   },
   [120023] = {
@@ -400,7 +400,7 @@ achievement_tbl = {
     group = "ACTION",
     major = 2,
     minor = 0,
-    title = "소그라트 사막 필드 탐험(6)",
+    title = "소그라트 사막 주변 필드 탐험(6)",
     content = {
       summary = "숨겨진 보물 발견",
       details = "소그라트 사막 주변 필드의 보물을 발견한다"
@@ -410,7 +410,7 @@ achievement_tbl = {
         text = "소그라트 사막 주변의 보물을 발견한다"
       }
     },
-    reward = {item = 22876},
+    reward = {item = 644},
     score = 10
   },
   [120024] = {
@@ -418,7 +418,7 @@ achievement_tbl = {
     group = "ACTION",
     major = 2,
     minor = 0,
-    title = "페이욘 남서쪽 필드 탐험(1)",
+    title = "페이욘 남서쪽 주변 필드 탐험(1)",
     content = {
       summary = "숨겨진 보물 발견",
       details = "페이욘 남서쪽 주변 필드의 보물을 발견한다"
@@ -428,7 +428,7 @@ achievement_tbl = {
         text = "페이욘 남서쪽 주변의 보물을 발견한다"
       }
     },
-    reward = {item = 22876},
+    reward = {item = 644},
     score = 10
   },
   [120025] = {
@@ -436,7 +436,7 @@ achievement_tbl = {
     group = "ACTION",
     major = 2,
     minor = 0,
-    title = "페이욘 남서쪽 필드 탐험(2)",
+    title = "페이욘 남서쪽 주변 필드 탐험(2)",
     content = {
       summary = "숨겨진 보물 발견",
       details = "페이욘 남서쪽 주변 필드의 보물을 발견한다"
@@ -446,7 +446,7 @@ achievement_tbl = {
         text = "페이욘 남서쪽 주변의 보물을 발견한다"
       }
     },
-    reward = {item = 22876},
+    reward = {item = 644},
     score = 10
   },
   [120026] = {
@@ -454,7 +454,7 @@ achievement_tbl = {
     group = "ACTION",
     major = 2,
     minor = 0,
-    title = "페이욘 남서쪽 필드 탐험(3)",
+    title = "페이욘 남서쪽 주변 필드 탐험(3)",
     content = {
       summary = "숨겨진 보물 발견",
       details = "페이욘 남서쪽 주변 필드의 보물을 발견한다"
@@ -464,7 +464,7 @@ achievement_tbl = {
         text = "페이욘 남서쪽 주변의 보물을 발견한다"
       }
     },
-    reward = {item = 22876},
+    reward = {item = 644},
     score = 10
   },
   [120027] = {
@@ -472,7 +472,7 @@ achievement_tbl = {
     group = "ACTION",
     major = 2,
     minor = 0,
-    title = "페이욘 남서쪽 필드 탐험(4)",
+    title = "페이욘 남서쪽 주변 필드 탐험(4)",
     content = {
       summary = "숨겨진 보물 발견",
       details = "페이욘 남서쪽 주변 필드의 보물을 발견한다"
@@ -482,7 +482,7 @@ achievement_tbl = {
         text = "페이욘 남서쪽 주변의 보물을 발견한다"
       }
     },
-    reward = {item = 22876},
+    reward = {item = 644},
     score = 10
   },
   [120028] = {
@@ -490,7 +490,7 @@ achievement_tbl = {
     group = "ACTION",
     major = 2,
     minor = 0,
-    title = "페이욘 동쪽 필드 탐험(1)",
+    title = "페이욘 동쪽 주변 필드 탐험(1)",
     content = {
       summary = "숨겨진 보물 발견",
       details = "페이욘 동쪽 주변 필드의 보물을 발견한다"
@@ -500,7 +500,7 @@ achievement_tbl = {
         text = "페이욘 동쪽 주변의 보물을 발견한다"
       }
     },
-    reward = {item = 22876},
+    reward = {item = 644},
     score = 10
   },
   [120029] = {
@@ -508,7 +508,7 @@ achievement_tbl = {
     group = "ACTION",
     major = 2,
     minor = 0,
-    title = "페이욘 동쪽 필드 탐험(2)",
+    title = "페이욘 동쪽 주변 필드 탐험(2)",
     content = {
       summary = "숨겨진 보물 발견",
       details = "페이욘 동쪽 주변 필드의 보물을 발견한다"
@@ -518,7 +518,7 @@ achievement_tbl = {
         text = "페이욘 동쪽 주변의 보물을 발견한다"
       }
     },
-    reward = {item = 22876},
+    reward = {item = 644},
     score = 10
   },
   [120030] = {
@@ -526,7 +526,7 @@ achievement_tbl = {
     group = "ACTION",
     major = 2,
     minor = 0,
-    title = "페이욘 동쪽 필드 탐험(3)",
+    title = "페이욘 동쪽 주변 필드 탐험(3)",
     content = {
       summary = "숨겨진 보물 발견",
       details = "페이욘 동쪽 주변 필드의 보물을 발견한다"
@@ -536,7 +536,7 @@ achievement_tbl = {
         text = "페이욘 동쪽 주변의 보물을 발견한다"
       }
     },
-    reward = {item = 22876},
+    reward = {item = 644},
     score = 10
   },
   [120031] = {
@@ -544,7 +544,7 @@ achievement_tbl = {
     group = "ACTION",
     major = 2,
     minor = 0,
-    title = "페이욘 동쪽 필드 탐험(4)",
+    title = "페이욘 동쪽 주변 필드 탐험(4)",
     content = {
       summary = "숨겨진 보물 발견",
       details = "페이욘 동쪽 주변 필드의 보물을 발견한다"
@@ -554,7 +554,7 @@ achievement_tbl = {
         text = "페이욘 동쪽 주변의 보물을 발견한다"
       }
     },
-    reward = {item = 22876},
+    reward = {item = 644},
     score = 10
   },
   [120032] = {
@@ -562,7 +562,7 @@ achievement_tbl = {
     group = "ACTION",
     major = 2,
     minor = 0,
-    title = "묘르닐 북쪽 필드 탐험(1)",
+    title = "묘르닐 북쪽 주변 필드 탐험(1)",
     content = {
       summary = "숨겨진 보물 발견",
       details = "묘르닐 북쪽 주변 필드의 보물을 발견한다"
@@ -572,7 +572,7 @@ achievement_tbl = {
         text = "묘르닐 북쪽 주변의 보물을 발견한다"
       }
     },
-    reward = {item = 22876},
+    reward = {item = 644},
     score = 10
   },
   [120033] = {
@@ -580,7 +580,7 @@ achievement_tbl = {
     group = "ACTION",
     major = 2,
     minor = 0,
-    title = "묘르닐 북쪽 필드 탐험(2)",
+    title = "묘르닐 북쪽 주변 필드 탐험(2)",
     content = {
       summary = "숨겨진 보물 발견",
       details = "묘르닐 북쪽 주변 필드의 보물을 발견한다"
@@ -590,7 +590,7 @@ achievement_tbl = {
         text = "묘르닐 북쪽 주변의 보물을 발견한다"
       }
     },
-    reward = {item = 22876},
+    reward = {item = 644},
     score = 10
   },
   [120034] = {
@@ -598,7 +598,7 @@ achievement_tbl = {
     group = "ACTION",
     major = 2,
     minor = 0,
-    title = "묘르닐 북쪽 필드 탐험(3)",
+    title = "묘르닐 북쪽 주변 필드 탐험(3)",
     content = {
       summary = "숨겨진 보물 발견",
       details = "묘르닐 북쪽 주변 필드의 보물을 발견한다"
@@ -608,7 +608,7 @@ achievement_tbl = {
         text = "묘르닐 북쪽 주변의 보물을 발견한다"
       }
     },
-    reward = {item = 22876},
+    reward = {item = 644},
     score = 10
   },
   [120035] = {
@@ -616,7 +616,7 @@ achievement_tbl = {
     group = "ACTION",
     major = 2,
     minor = 0,
-    title = "묘르닐 북쪽 필드 탐험(4)",
+    title = "묘르닐 북쪽 주변 필드 탐험(4)",
     content = {
       summary = "숨겨진 보물 발견",
       details = "묘르닐 북쪽 주변 필드의 보물을 발견한다"
@@ -626,7 +626,7 @@ achievement_tbl = {
         text = "묘르닐 북쪽 주변의 보물을 발견한다"
       }
     },
-    reward = {item = 22876},
+    reward = {item = 644},
     score = 10
   },
   [120036] = {
@@ -634,7 +634,7 @@ achievement_tbl = {
     group = "ACTION",
     major = 2,
     minor = 0,
-    title = "묘르닐 북쪽 필드 탐험(5)",
+    title = "묘르닐 북쪽 주변 필드 탐험(5)",
     content = {
       summary = "숨겨진 보물 발견",
       details = "묘르닐 북쪽 주변 필드의 보물을 발견한다"
@@ -644,7 +644,7 @@ achievement_tbl = {
         text = "묘르닐 북쪽 주변의 보물을 발견한다"
       }
     },
-    reward = {item = 22876},
+    reward = {item = 644},
     score = 10
   },
   [120037] = {
@@ -652,7 +652,7 @@ achievement_tbl = {
     group = "ACTION",
     major = 2,
     minor = 0,
-    title = "묘르닐 남쪽 필드 탐험(1)",
+    title = "묘르닐 남쪽 주변 필드 탐험(1)",
     content = {
       summary = "숨겨진 보물 발견",
       details = "묘르닐 남쪽 주변 필드의 보물을 발견한다"
@@ -662,7 +662,7 @@ achievement_tbl = {
         text = "묘르닐 남쪽 주변의 보물을 발견한다"
       }
     },
-    reward = {item = 22876},
+    reward = {item = 644},
     score = 10
   },
   [120038] = {
@@ -670,7 +670,7 @@ achievement_tbl = {
     group = "ACTION",
     major = 2,
     minor = 0,
-    title = "묘르닐 남쪽 필드 탐험(2)",
+    title = "묘르닐 남쪽 주변 필드 탐험(2)",
     content = {
       summary = "숨겨진 보물 발견",
       details = "묘르닐 남쪽 주변 필드의 보물을 발견한다"
@@ -680,7 +680,7 @@ achievement_tbl = {
         text = "묘르닐 남쪽 주변의 보물을 발견한다"
       }
     },
-    reward = {item = 22876},
+    reward = {item = 644},
     score = 10
   },
   [120039] = {
@@ -688,7 +688,7 @@ achievement_tbl = {
     group = "ACTION",
     major = 2,
     minor = 0,
-    title = "묘르닐 남쪽 필드 탐험(3)",
+    title = "묘르닐 남쪽 주변 필드 탐험(3)",
     content = {
       summary = "숨겨진 보물 발견",
       details = "묘르닐 남쪽 주변 필드의 보물을 발견한다"
@@ -698,7 +698,7 @@ achievement_tbl = {
         text = "묘르닐 남쪽 주변의 보물을 발견한다"
       }
     },
-    reward = {item = 22876},
+    reward = {item = 644},
     score = 10
   },
   [120040] = {
@@ -706,7 +706,7 @@ achievement_tbl = {
     group = "ACTION",
     major = 2,
     minor = 0,
-    title = "묘르닐 남쪽 필드 탐험(4)",
+    title = "묘르닐 남쪽 주변 필드 탐험(4)",
     content = {
       summary = "숨겨진 보물 발견",
       details = "묘르닐 남쪽 주변 필드의 보물을 발견한다"
@@ -716,7 +716,7 @@ achievement_tbl = {
         text = "묘르닐 남쪽 주변의 보물을 발견한다"
       }
     },
-    reward = {item = 22876},
+    reward = {item = 644},
     score = 10
   },
   [120041] = {
@@ -724,7 +724,7 @@ achievement_tbl = {
     group = "ACTION",
     major = 2,
     minor = 0,
-    title = "묘르닐 남쪽 필드 탐험(5)",
+    title = "묘르닐 남쪽 주변 필드 탐험(5)",
     content = {
       summary = "숨겨진 보물 발견",
       details = "묘르닐 남쪽 주변 필드의 보물을 발견한다"
@@ -734,7 +734,7 @@ achievement_tbl = {
         text = "묘르닐 남쪽 주변의 보물을 발견한다"
       }
     },
-    reward = {item = 22876},
+    reward = {item = 644},
     score = 10
   },
   [120042] = {
@@ -742,7 +742,7 @@ achievement_tbl = {
     group = "ACTION",
     major = 2,
     minor = 0,
-    title = "묘르닐 남쪽 필드 탐험(6)",
+    title = "묘르닐 남쪽 주변 필드 탐험(6)",
     content = {
       summary = "숨겨진 보물 발견",
       details = "묘르닐 남쪽 주변 필드의 보물을 발견한다"
@@ -752,7 +752,7 @@ achievement_tbl = {
         text = "묘르닐 남쪽 주변의 보물을 발견한다"
       }
     },
-    reward = {item = 22876},
+    reward = {item = 644},
     score = 10
   },
   [120043] = {
@@ -760,7 +760,7 @@ achievement_tbl = {
     group = "ACTION",
     major = 2,
     minor = 0,
-    title = "알데바란 남쪽 필드 탐험",
+    title = "알데바란 남쪽 주변 필드 탐험(1)",
     content = {
       summary = "숨겨진 보물 발견",
       details = "알데바란 남쪽 주변 필드의 보물을 발견한다"
@@ -770,7 +770,7 @@ achievement_tbl = {
         text = "알데바란 남쪽 주변의 보물을 발견한다"
       }
     },
-    reward = {item = 22876},
+    reward = {item = 644},
     score = 10
   },
   [120044] = {
@@ -778,7 +778,7 @@ achievement_tbl = {
     group = "ACTION",
     major = 2,
     minor = 0,
-    title = "코모도 필드 탐험(1)",
+    title = "코모도 주변 필드 탐험(1)",
     content = {
       summary = "숨겨진 보물 발견",
       details = "코모도 주변 필드의 보물을 발견한다"
@@ -788,7 +788,7 @@ achievement_tbl = {
         text = "코모도 주변의 보물을 발견한다"
       }
     },
-    reward = {item = 22876},
+    reward = {item = 644},
     score = 10
   },
   [120045] = {
@@ -796,7 +796,7 @@ achievement_tbl = {
     group = "ACTION",
     major = 2,
     minor = 0,
-    title = "코모도 필드 탐험(2)",
+    title = "코모도 주변 필드 탐험(2)",
     content = {
       summary = "숨겨진 보물 발견",
       details = "코모도 주변 필드의 보물을 발견한다"
@@ -806,7 +806,7 @@ achievement_tbl = {
         text = "코모도 주변의 보물을 발견한다"
       }
     },
-    reward = {item = 22876},
+    reward = {item = 644},
     score = 10
   },
   [120046] = {
@@ -814,7 +814,7 @@ achievement_tbl = {
     group = "ACTION",
     major = 2,
     minor = 0,
-    title = "코모도 필드 탐험(3)",
+    title = "코모도 주변 필드 탐험(3)",
     content = {
       summary = "숨겨진 보물 발견",
       details = "코모도 주변 필드의 보물을 발견한다"
@@ -824,7 +824,7 @@ achievement_tbl = {
         text = "코모도 주변의 보물을 발견한다"
       }
     },
-    reward = {item = 22876},
+    reward = {item = 644},
     score = 10
   },
   [120047] = {
@@ -832,7 +832,7 @@ achievement_tbl = {
     group = "ACTION",
     major = 2,
     minor = 0,
-    title = "코모도 필드 탐험(4)",
+    title = "코모도 주변 필드 탐험(4)",
     content = {
       summary = "숨겨진 보물 발견",
       details = "코모도 주변 필드의 보물을 발견한다"
@@ -842,7 +842,7 @@ achievement_tbl = {
         text = "코모도 주변의 보물을 발견한다"
       }
     },
-    reward = {item = 22876},
+    reward = {item = 644},
     score = 10
   },
   [120048] = {
@@ -850,7 +850,7 @@ achievement_tbl = {
     group = "ACTION",
     major = 2,
     minor = 0,
-    title = "코모도 필드 탐험(5)",
+    title = "코모도 주변 필드 탐험(5)",
     content = {
       summary = "숨겨진 보물 발견",
       details = "코모도 주변 필드의 보물을 발견한다"
@@ -860,7 +860,7 @@ achievement_tbl = {
         text = "코모도 주변의 보물을 발견한다"
       }
     },
-    reward = {item = 22876},
+    reward = {item = 644},
     score = 10
   },
   [120049] = {
@@ -868,7 +868,7 @@ achievement_tbl = {
     group = "ACTION",
     major = 2,
     minor = 0,
-    title = "코모도 필드 탐험(6)",
+    title = "코모도 주변 필드 탐험(6)",
     content = {
       summary = "숨겨진 보물 발견",
       details = "코모도 주변 필드의 보물을 발견한다"
@@ -878,7 +878,7 @@ achievement_tbl = {
         text = "코모도 주변의 보물을 발견한다"
       }
     },
-    reward = {item = 22876},
+    reward = {item = 644},
     score = 10
   },
   [120050] = {
@@ -886,7 +886,7 @@ achievement_tbl = {
     group = "ACTION",
     major = 2,
     minor = 0,
-    title = "코모도 필드 탐험(7)",
+    title = "코모도 주변 필드 탐험(7)",
     content = {
       summary = "숨겨진 보물 발견",
       details = "코모도 주변 필드의 보물을 발견한다"
@@ -896,7 +896,7 @@ achievement_tbl = {
         text = "코모도 주변의 보물을 발견한다"
       }
     },
-    reward = {item = 22876},
+    reward = {item = 644},
     score = 10
   },
   [120051] = {
@@ -904,7 +904,7 @@ achievement_tbl = {
     group = "ACTION",
     major = 2,
     minor = 0,
-    title = "코모도 필드 탐험(8)",
+    title = "코모도 주변 필드 탐험(8)",
     content = {
       summary = "숨겨진 보물 발견",
       details = "코모도 주변 필드의 보물을 발견한다"
@@ -914,3521 +914,26 @@ achievement_tbl = {
         text = "코모도 주변의 보물을 발견한다"
       }
     },
-    reward = {item = 22876},
-    score = 10
-  },
-  [120052] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 1,
-    title = "국경 검문소 필드 탐험(1)",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "국경 검문소 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "국경 검문소 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 10
-  },
-  [120053] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 1,
-    title = "국경 검문소 필드 탐험(2)",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "국경 검문소 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "국경 검문소 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 10
-  },
-  [120054] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 1,
-    title = "킬 하이르의 별장 필드 탐험",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "킬 하이르의 별장 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "킬 하이르의 별장 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 10
-  },
-  [120055] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 1,
-    title = "엘메스 플레투 필드 탐험(1)",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "엘메스 플레투 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "엘메스 플레투 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 10
-  },
-  [120056] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 1,
-    title = "엘메스 플레투 필드 탐험(2)",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "엘메스 플레투 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "엘메스 플레투 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 10
-  },
-  [120057] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 1,
-    title = "엘메스 플레투 필드 탐험(3)",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "엘메스 플레투 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "엘메스 플레투 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 10
-  },
-  [120058] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 1,
-    title = "엘메스 협곡 필드 탐험",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "엘메스 협곡 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "엘메스 협곡 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 10
-  },
-  [120059] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 1,
-    title = "킬 하이르 학원 필드 탐험",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "킬 하이르 학원 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "킬 하이르 학원 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 10
-  },
-  [120060] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 1,
-    title = "경비대 야영지 필드 탐험",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "경비대 야영지 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "경비대 야영지 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 10
-  },
-  [120061] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 1,
-    title = "유노 필드 탐험",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "유노 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "유노 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 10
-  },
-  [120062] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 1,
-    title = "타나토스 타워 앞 필드 탐험",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "타나토스 타워 앞 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "타나토스 타워 앞 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 10
-  },
-  [120063] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 1,
-    title = "휘겔 필드 탐험(1)",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "휘겔 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "휘겔 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 10
-  },
-  [120064] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 1,
-    title = "휘겔 필드 탐험(2)",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "휘겔 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "휘겔 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 10
-  },
-  [120065] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 1,
-    title = "휘겔 필드 탐험(3)",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "휘겔 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "휘겔 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 10
-  },
-  [120066] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 1,
-    title = "어비스호수 필드 탐험(1)",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "어비스호수 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "어비스호수 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 10
-  },
-  [120067] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 1,
-    title = "아인브로크 필드 탐험(1)",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "아인브로크 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "아인브로크 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 10
-  },
-  [120068] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 1,
-    title = "아인브로크 필드 탐험(2)",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "아인브로크 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "아인브로크 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 10
-  },
-  [120069] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 1,
-    title = "아인브로크 필드 탐험(3)",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "아인브로크 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "아인브로크 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 10
-  },
-  [120070] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 1,
-    title = "아인브로크 필드 탐험(4)",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "아인브로크 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "아인브로크 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 10
-  },
-  [120071] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 1,
-    title = "아인브로크 필드 탐험(5)",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "아인브로크 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "아인브로크 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 10
-  },
-  [120072] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 1,
-    title = "아인브로크 필드 탐험(6)",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "아인브로크 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "아인브로크 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 10
-  },
-  [120073] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 1,
-    title = "아인브로크 필드 탐험(7)",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "아인브로크 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "아인브로크 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 10
-  },
-  [120074] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 1,
-    title = "아인브로크 필드 탐험(8)",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "아인브로크 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "아인브로크 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 10
-  },
-  [120075] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 1,
-    title = "리히타르젠 필드 탐험(1)",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "리히타르젠 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "리히타르젠 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 10
-  },
-  [120076] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 1,
-    title = "리히타르젠 필드 탐험(2)",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "리히타르젠 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "리히타르젠 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 10
-  },
-  [120077] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 1,
-    title = "리히타르젠 필드 탐험(3)",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "리히타르젠 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "리히타르젠 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 10
-  },
-  [120078] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 2,
-    title = "라헬 아우둠라 평원 필드 탐험(1)",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "라헬 아우둠라 평원 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "라헬 아우둠라 평원 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 10
-  },
-  [120079] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 2,
-    title = "라헬 이다 평원 필드 탐험(1)",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "라헬 이다 평원 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "라헬 이다 평원 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 10
-  },
-  [120080] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 2,
-    title = "라헬 이다 평원 필드 탐험(2)",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "라헬 이다 평원 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "라헬 이다 평원 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 10
-  },
-  [120081] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 2,
-    title = "라헬 이다 평원 필드 탐험(3)",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "라헬 이다 평원 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "라헬 이다 평원 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 10
-  },
-  [120082] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 2,
-    title = "라헬 아우둠라 초원 필드 탐험(1)",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "라헬 아우둠라 초원 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "라헬 아우둠라 초원 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 10
-  },
-  [120083] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 2,
-    title = "라헬 아우둠라 초원 필드 탐험(2)",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "라헬 아우둠라 초원 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "라헬 아우둠라 초원 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 10
-  },
-  [120084] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 2,
-    title = "포르투 루나 필드 탐험",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "포르투 루나 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "포르투 루나 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 10
-  },
-  [120085] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 2,
-    title = "베인스 필드 탐험(1)",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "베인스 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "베인스 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 10
-  },
-  [120086] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 2,
-    title = "베인스 필드 탐험(2)",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "베인스 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "베인스 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 10
-  },
-  [120087] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 2,
-    title = "베인스 필드 탐험(3)",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "베인스 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "베인스 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 10
-  },
-  [120088] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 2,
-    title = "베인스 필드 탐험(4)",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "베인스 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "베인스 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 10
-  },
-  [120089] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 2,
-    title = "베인스 필드 탐험(5)",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "베인스 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "베인스 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 10
-  },
-  [120090] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 3,
-    title = "에클라쥬 필드 탐험",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "에클라쥬 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "에클라쥬 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 10
-  },
-  [120091] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 3,
-    title = "비프로스트 북부 필드 탐험(1)",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "비프로스트 북부 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "비프로스트 북부 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 10
-  },
-  [120092] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 3,
-    title = "비프로스트 남부 필드 탐험(1)",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "비프로스트 남부 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "비프로스트 남부 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 10
-  },
-  [120093] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 3,
-    title = "스플랑디드 필드 탐험(1)",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "스플랑디드 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "스플랑디드 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 10
-  },
-  [120094] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 3,
-    title = "스플랑디드 필드 탐험(2)",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "스플랑디드 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "스플랑디드 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 10
-  },
-  [120095] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 3,
-    title = "스플랑디드 필드 탐험(3)",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "스플랑디드 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "스플랑디드 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 10
-  },
-  [120096] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 3,
-    title = "마누크 필드 탐험(1)",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "마누크 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "마누크 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 10
-  },
-  [120097] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 3,
-    title = "마누크 필드 탐험(2)",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "마누크 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "마누크 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 10
-  },
-  [120098] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 3,
-    title = "마누크 필드 탐험(3)",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "마누크 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "마누크 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 10
-  },
-  [120099] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 3,
-    title = "카미달 산기슭 필드 탐험(1)",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "카미달 산기슭 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "카미달 산기슭 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 10
-  },
-  [120100] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 3,
-    title = "카미달 산기슭 필드 탐험(2)",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "카미달 산기슭 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "카미달 산기슭 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 10
-  },
-  [120101] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 4,
-    title = "아마쯔 필드 탐험",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "아마쯔 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "아마쯔 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 10
-  },
-  [120102] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 4,
-    title = "쿤룬 필드 탐험",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "쿤룬 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "쿤룬 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 10
-  },
-  [120103] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 4,
-    title = "용지성 필드 탐험",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "용지성 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "용지성 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 10
-  },
-  [120104] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 4,
-    title = "아요타야 필드 탐험",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "아요타야 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "아요타야 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 10
-  },
-  [120105] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 4,
-    title = "모스코비아 필드 탐험",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "모스코비아 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "모스코비아 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 10
-  },
-  [120106] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 4,
-    title = "브라질리스 필드 탐험",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "브라질리스 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "브라질리스 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 10
-  },
-  [120107] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 4,
-    title = "데와타 필드 탐험",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "데와타 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "데와타 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 10
-  },
-  [120108] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 4,
-    title = "말라야 필드 탐험(1)",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "말라야 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "말라야 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 10
-  },
-  [120109] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 4,
-    title = "말라야 필드 탐험(2)",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "말라야 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "말라야 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 10
-  },
-  [120110] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 5,
-    title = "수도원 지하 던전 탐험",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "수도원 지하 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "수도원 지하 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 20
-  },
-  [120111] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 5,
-    title = "휘겔 어비스 던전 탐험",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "휘겔 어비스 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "휘겔 어비스 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 20
-  },
-  [120112] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 5,
-    title = "시계탑 던전 탐험",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "시계탑 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "시계탑 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 20
-  },
-  [120113] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 5,
-    title = "아마쯔 던전 탐험",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "아마쯔 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "아마쯔 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 20
-  },
-  [120114] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 5,
-    title = "개미지옥 던전 탐험",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "개미지옥 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "개미지옥 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 20
-  },
-  [120115] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 5,
-    title = "아요타야 던전 탐험",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "아요타야 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "아요타야 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 20
-  },
-  [120116] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 5,
-    title = "코모도 던전 탐험",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "코모도 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "코모도 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 20
-  },
-  [120117] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 5,
-    title = "브라질리스 던전 탐험",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "브라질리스 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "브라질리스 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 20
-  },
-  [120118] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 5,
-    title = "시계탑 던전 탐험",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "시계탑 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "시계탑 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 20
-  },
-  [120119] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 5,
-    title = "이스타나 던전 탐험",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "이스타나 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "이스타나 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 20
-  },
-  [120120] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 5,
-    title = "스카라바 홀 던전 탐험",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "스카라바 홀 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "스카라바 홀 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 20
-  },
-  [120121] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 5,
-    title = "비프로스트 던전 탐험",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "비프로스트 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "비프로스트 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 20
-  },
-  [120122] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 5,
-    title = "아인베흐 던전 탐험",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "아인베흐 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "아인베흐 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 20
-  },
-  [120123] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 5,
-    title = "게펜지하 던전 탐험",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "게펜지하 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "게펜지하 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 20
-  },
-  [120124] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 5,
-    title = "글래스트헤임 던전 탐험(1)",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "글래스트헤임 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "글래스트헤임 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 20
-  },
-  [120125] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 5,
-    title = "글래스트헤임 던전 탐험(2)",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "글래스트헤임 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "글래스트헤임 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 20
-  },
-  [120126] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 5,
-    title = "글래스트헤임 던전 탐험(3)",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "글래스트헤임 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "글래스트헤임 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 20
-  },
-  [120127] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 5,
-    title = "글래스트헤임 던전 탐험(4)",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "글래스트헤임 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "글래스트헤임 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 20
-  },
-  [120128] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 5,
-    title = "쿤룬 던전 탐험",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "쿤룬 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "쿤룬 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 20
-  },
-  [120129] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 5,
-    title = "라헬 던전 탐험",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "라헬 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "라헬 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 20
-  },
-  [120130] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 5,
-    title = "스핑크스 던전 탐험",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "스핑크스 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "스핑크스 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 20
-  },
-  [120131] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 5,
-    title = "이즈루드 던전 탐험",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "이즈루드 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "이즈루드 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 20
-  },
-  [120132] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 5,
-    title = "기계인형공장 던전 탐험",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "기계인형공장 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "기계인형공장 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 20
-  },
-  [120133] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 5,
-    title = "생체실험연구소 던전 탐험",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "생체실험연구소 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "생체실험연구소 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 20
-  },
-  [120134] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 5,
-    title = "용지성 던전 탐험",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "용지성 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "용지성 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 20
-  },
-  [120135] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 5,
-    title = "노그로드 던전 탐험",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "노그로드 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "노그로드 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 20
-  },
-  [120136] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 5,
-    title = "묘르닐 폐광 던전 탐험",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "묘르닐 폐광 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "묘르닐 폐광 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 20
-  },
-  [120137] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 5,
-    title = "피라미드 던전 탐험",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "피라미드 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "피라미드 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 20
-  },
-  [120138] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 5,
-    title = "오크 지하 던전 탐험",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "오크 지하 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "오크 지하 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 20
-  },
-  [120139] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 5,
-    title = "페이욘 던전 탐험",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "페이욘 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "페이욘 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 20
-  },
-  [120140] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 5,
-    title = "미궁 던전 탐험",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "미궁 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "미궁 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 20
-  },
-  [120141] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 5,
-    title = "지하수로 던전 탐험",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "지하수로 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "지하수로 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 20
-  },
-  [120142] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 5,
-    title = "타나토스타워 던전 탐험",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "타나토스타워 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "타나토스타워 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 20
-  },
-  [120143] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 5,
-    title = "토르 화산 던전 탐험",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "토르 화산 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "토르 화산 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 20
-  },
-  [120144] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 5,
-    title = "침몰선 던전 탐험",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "침몰선 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "침몰선 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 20
-  },
-  [120145] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 5,
-    title = "거북이 섬 던전 탐험",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "거북이 섬 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "거북이 섬 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 20
-  },
-  [120146] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 5,
-    title = "장난감 던전 탐험",
-    content = {
-      summary = "숨겨진 보물 발견",
-      details = "장난감 주변 필드의 보물을 발견한다"
-    },
-    resource = {
-      [1] = {
-        text = "장난감 주변의 보물을 발견한다"
-      }
-    },
-    reward = {item = 22876},
-    score = 20
-  },
-  [128000] = {
-    UI_Type = 1,
-    group = "BATTLE",
-    major = 5,
-    minor = 0,
-    title = "불청객",
-    content = {
-      summary = "셀린느 키미 처치",
-      details = "메모리얼 던전을 끝까지 진행"
-    },
-    resource = {
-      [1] = {
-        text = "셀린느 키미 1회 처치",
-        count = 1
-      }
-    },
-    reward = {},
-    score = 10
-  },
-  [128001] = {
-    UI_Type = 1,
-    group = "BATTLE",
-    major = 5,
-    minor = 0,
-    title = "낯선 손님",
-    content = {
-      summary = "셀린느 키미 처치",
-      details = "메모리얼 던전을 끝까지 진행"
-    },
-    resource = {
-      [1] = {
-        text = "셀린느 키미 10회 처치",
-        count = 10
-      }
-    },
-    reward = {},
-    score = 10
-  },
-  [128002] = {
-    UI_Type = 1,
-    group = "BATTLE",
-    major = 5,
-    minor = 0,
-    title = "조금은 친해졌을지도…",
-    content = {
-      summary = "셀린느 키미 처치",
-      details = "메모리얼 던전을 끝까지 진행"
-    },
-    resource = {
-      [1] = {
-        text = "셀린느 키미 25회 처치",
-        count = 25
-      }
-    },
-    reward = {},
-    score = 20
-  },
-  [128003] = {
-    UI_Type = 1,
-    group = "BATTLE",
-    major = 5,
-    minor = 0,
-    title = "반가운 손님",
-    content = {
-      summary = "셀린느 키미 처치",
-      details = "메모리얼 던전을 끝까지 진행"
-    },
-    resource = {
-      [1] = {
-        text = "셀린느 키미 50회 처치",
-        count = 50
-      }
-    },
-    reward = {},
-    score = 30
-  },
-  [128004] = {
-    UI_Type = 1,
-    group = "BATTLE",
-    major = 5,
-    minor = 0,
-    title = "키미의 절친한 단짝",
-    content = {
-      summary = "셀린느 키미 처치",
-      details = "메모리얼 던전을 끝까지 진행"
-    },
-    resource = {
-      [1] = {
-        text = "셀린느 키미 100회 처치",
-        count = 100
-      }
-    },
-    reward = {},
-    score = 50
-  },
-  [128005] = {
-    UI_Type = 1,
-    group = "BATTLE",
-    major = 5,
-    minor = 2,
-    title = "초보 낚시꾼",
-    content = {
-      summary = "버코너워 처치",
-      details = "메모리얼 던전을 끝까지 진행"
-    },
-    resource = {
-      [1] = {
-        text = "버코너워 1회 처치",
-        count = 1
-      }
-    },
-    reward = {},
-    score = 10
-  },
-  [128006] = {
-    UI_Type = 1,
-    group = "BATTLE",
-    major = 5,
-    minor = 2,
-    title = "대물 사냥꾼",
-    content = {
-      summary = "버코너워 처치",
-      details = "메모리얼 던전을 끝까지 진행"
-    },
-    resource = {
-      [1] = {
-        text = "버코너워 10회 처치",
-        count = 10
-      }
-    },
-    reward = {},
-    score = 20
-  },
-  [128007] = {
-    UI_Type = 1,
-    group = "BATTLE",
-    major = 5,
-    minor = 2,
-    title = "리듬의 달인",
-    content = {
-      summary = "버코너워 처치",
-      details = "메모리얼 던전을 끝까지 진행"
-    },
-    resource = {
-      [1] = {
-        text = "버코너워 50회 처치",
-        count = 50
-      }
-    },
-    reward = {},
-    score = 50
-  },
-  [128008] = {
-    UI_Type = 1,
-    group = "BATTLE",
-    major = 5,
-    minor = 0,
-    title = "간 큰 모험가",
-    content = {
-      summary = "바포메트 처치",
-      details = "메모리얼 던전을 끝까지 진행"
-    },
-    resource = {
-      [1] = {
-        text = "바포메트 1회 처치",
-        count = 1
-      }
-    },
-    reward = {},
-    score = 10
-  },
-  [128009] = {
-    UI_Type = 1,
-    group = "BATTLE",
-    major = 5,
-    minor = 0,
-    title = "바포메트가 싫어합니다.",
-    content = {
-      summary = "바포메트 처치",
-      details = "메모리얼 던전을 끝까지 진행"
-    },
-    resource = {
-      [1] = {
-        text = "바포메트 10회 처치",
-        count = 10
-      }
-    },
-    reward = {},
-    score = 20
-  },
-  [128010] = {
-    UI_Type = 1,
-    group = "BATTLE",
-    major = 5,
-    minor = 0,
-    title = "염소의 천적",
-    content = {
-      summary = "바포메트 처치",
-      details = "메모리얼 던전을 끝까지 진행"
-    },
-    resource = {
-      [1] = {
-        text = "바포메트 50회 처치",
-        count = 50
-      }
-    },
-    reward = {},
-    score = 50
-  },
-  [128011] = {
-    UI_Type = 1,
-    group = "BATTLE",
-    major = 5,
-    minor = 1,
-    title = "평범한 관광객",
-    content = {
-      summary = "사신 안쿠 처치",
-      details = "메모리얼 던전을 끝까지 진행"
-    },
-    resource = {
-      [1] = {
-        text = "사신 안쿠 1회 처치",
-        count = 1
-      }
-    },
-    reward = {},
-    score = 10
-  },
-  [128012] = {
-    UI_Type = 1,
-    group = "BATTLE",
-    major = 5,
-    minor = 1,
-    title = "오지 전문가",
-    content = {
-      summary = "사신 안쿠 처치",
-      details = "메모리얼 던전을 끝까지 진행"
-    },
-    resource = {
-      [1] = {
-        text = "사신 안쿠 10회 처치",
-        count = 10
-      }
-    },
-    reward = {},
-    score = 20
-  },
-  [128013] = {
-    UI_Type = 1,
-    group = "BATTLE",
-    major = 5,
-    minor = 1,
-    title = "이녀석은 먹을 수 있을 것 같습니다",
-    content = {
-      summary = "사신 안쿠 처치",
-      details = "메모리얼 던전을 끝까지 진행"
-    },
-    resource = {
-      [1] = {
-        text = "사신 안쿠 50회 처치",
-        count = 50
-      }
-    },
-    reward = {},
-    score = 50
-  },
-  [128014] = {
-    UI_Type = 1,
-    group = "BATTLE",
-    major = 5,
-    minor = 2,
-    title = "소화되기 힘든 고기",
-    content = {
-      summary = "부워여 처치",
-      details = "메모리얼 던전을 끝까지 진행"
-    },
-    resource = {
-      [1] = {
-        text = "부워여 1회 처치",
-        count = 1
-      }
-    },
-    reward = {},
-    score = 10
-  },
-  [128015] = {
-    UI_Type = 1,
-    group = "BATTLE",
-    major = 5,
-    minor = 2,
-    title = "탈출의 명수",
-    content = {
-      summary = "부워여 처치",
-      details = "메모리얼 던전을 끝까지 진행"
-    },
-    resource = {
-      [1] = {
-        text = "부워여 10회 처치",
-        count = 10
-      }
-    },
-    reward = {},
-    score = 20
-  },
-  [128016] = {
-    UI_Type = 1,
-    group = "BATTLE",
-    major = 5,
-    minor = 2,
-    title = "불멸의 사냥꾼",
-    content = {
-      summary = "부워여 처치",
-      details = "메모리얼 던전을 끝까지 진행"
-    },
-    resource = {
-      [1] = {
-        text = "부워여 50회 처치",
-        count = 50
-      }
-    },
-    reward = {},
-    score = 50
-  },
-  [128017] = {
-    UI_Type = 1,
-    group = "BATTLE",
-    major = 5,
-    minor = 1,
-    title = "절망을 딛고 일어서.",
-    content = {
-      summary = "절망의 신 모로크 처치",
-      details = "메모리얼 던전을 끝까지 진행"
-    },
-    resource = {
-      [1] = {
-        text = "절망의 신 모로크 1회 처치",
-        count = 1
-      }
-    },
-    reward = {},
-    score = 10
-  },
-  [128018] = {
-    UI_Type = 1,
-    group = "BATTLE",
-    major = 5,
-    minor = 1,
-    title = "희망의 불씨",
-    content = {
-      summary = "절망의 신 모로크 처치",
-      details = "메모리얼 던전을 끝까지 진행"
-    },
-    resource = {
-      [1] = {
-        text = "절망의 신 모로크 10회 처치",
-        count = 10
-      }
-    },
-    reward = {},
-    score = 10
-  },
-  [128019] = {
-    UI_Type = 1,
-    group = "BATTLE",
-    major = 5,
-    minor = 1,
-    title = "쏟아지는 서광",
-    content = {
-      summary = "절망의 신 모로크 처치",
-      details = "메모리얼 던전을 끝까지 진행"
-    },
-    resource = {
-      [1] = {
-        text = "절망의 신 모로크 25회 처치",
-        count = 25
-      }
-    },
-    reward = {},
-    score = 20
-  },
-  [128020] = {
-    UI_Type = 1,
-    group = "BATTLE",
-    major = 5,
-    minor = 1,
-    title = "누가 절망하는가? 내가 희망이다!",
-    content = {
-      summary = "절망의 신 모로크 처치",
-      details = "메모리얼 던전을 끝까지 진행"
-    },
-    resource = {
-      [1] = {
-        text = "절망의 신 모로크 50회 처치",
-        count = 50
-      }
-    },
-    reward = {},
-    score = 30
-  },
-  [128021] = {
-    UI_Type = 1,
-    group = "BATTLE",
-    major = 5,
-    minor = 1,
-    title = "나는 이 세계를 구하는 신이 된다.",
-    content = {
-      summary = "절망의 신 모로크 처치",
-      details = "메모리얼 던전을 끝까지 진행"
-    },
-    resource = {
-      [1] = {
-        text = "절망의 신 모로크 100회 처치",
-        count = 100
-      }
-    },
-    reward = {},
-    score = 50
-  },
-  [128022] = {
-    UI_Type = 1,
-    group = "BATTLE",
-    major = 5,
-    minor = 1,
-    title = "모로크의 군대에 자비는 있었다",
-    content = {
-      summary = "모로크의 네크로맨서 처치",
-      details = "메모리얼 던전을 끝까지 진행"
-    },
-    resource = {
-      [1] = {
-        text = "모로크의 네크로맨서 1회 처치",
-        count = 1
-      }
-    },
-    reward = {},
-    score = 10
-  },
-  [128023] = {
-    UI_Type = 1,
-    group = "BATTLE",
-    major = 5,
-    minor = 1,
-    title = "모로크의 군대에 두려움도 있었다.",
-    content = {
-      summary = "모로크의 네크로맨서 처치",
-      details = "메모리얼 던전을 끝까지 진행"
-    },
-    resource = {
-      [1] = {
-        text = "모로크의 네크로맨서 10회 처치",
-        count = 10
-      }
-    },
-    reward = {},
-    score = 20
-  },
-  [128024] = {
-    UI_Type = 1,
-    group = "BATTLE",
-    major = 5,
-    minor = 1,
-    title = "수문장이 약골이군",
-    content = {
-      summary = "모로크의 네크로맨서 처치",
-      details = "메모리얼 던전을 끝까지 진행"
-    },
-    resource = {
-      [1] = {
-        text = "모로크의 네크로맨서 50회 처치",
-        count = 50
-      }
-    },
-    reward = {},
-    score = 50
-  },
-  [128025] = {
-    UI_Type = 1,
-    group = "BATTLE",
-    major = 5,
-    minor = 0,
-    title = "여왕님을 알현합니다.",
-    content = {
-      summary = "페이스웜 퀸 처치",
-      details = "메모리얼 던전을 끝까지 진행"
-    },
-    resource = {
-      [1] = {
-        text = "페이스웜 퀸 1회 처치",
-        count = 1
-      }
-    },
-    reward = {},
-    score = 10
-  },
-  [128026] = {
-    UI_Type = 1,
-    group = "BATTLE",
-    major = 5,
-    minor = 0,
-    title = "포근한 대지",
-    content = {
-      summary = "지속성 페이스웜 퀸 처치",
-      details = "메모리얼 던전을 끝까지 진행"
-    },
-    resource = {
-      [1] = {
-        text = "지속성 페이스웜 퀸 1회 처치",
-        count = 1
-      }
-    },
-    reward = {},
-    score = 10
-  },
-  [128027] = {
-    UI_Type = 1,
-    group = "BATTLE",
-    major = 5,
-    minor = 0,
-    title = "물이 아주 딱 좋아",
-    content = {
-      summary = "수속성 페이스웜 퀸 처치",
-      details = "메모리얼 던전을 끝까지 진행"
-    },
-    resource = {
-      [1] = {
-        text = "수속성 페이스웜 퀸 1회 처치",
-        count = 1
-      }
-    },
-    reward = {},
-    score = 10
-  },
-  [128028] = {
-    UI_Type = 1,
-    group = "BATTLE",
-    major = 5,
-    minor = 0,
-    title = "기분좋은 바람",
-    content = {
-      summary = "풍속성 페이스웜 퀸 처치",
-      details = "메모리얼 던전을 끝까지 진행"
-    },
-    resource = {
-      [1] = {
-        text = "풍속성 페이스웜 퀸 1회 처치",
-        count = 1
-      }
-    },
-    reward = {},
-    score = 10
-  },
-  [128029] = {
-    UI_Type = 1,
-    group = "BATTLE",
-    major = 5,
-    minor = 0,
-    title = "낡은 성의 방문자",
-    content = {
-      summary = "암다라이스 처치",
-      details = "메모리얼 던전을 끝까지 진행"
-    },
-    resource = {
-      [1] = {
-        text = "암다라이스 1회 처치",
-        count = 1
-      }
-    },
-    reward = {},
-    score = 10
-  },
-  [128030] = {
-    UI_Type = 1,
-    group = "BATTLE",
-    major = 5,
-    minor = 0,
-    title = "낡은 성의 군주",
-    content = {
-      summary = "암다라이스 처치",
-      details = "메모리얼 던전을 끝까지 진행"
-    },
-    resource = {
-      [1] = {
-        text = "암다라이스 10회 처치",
-        count = 10
-      }
-    },
-    reward = {},
-    score = 20
-  },
-  [128031] = {
-    UI_Type = 1,
-    group = "BATTLE",
-    major = 5,
-    minor = 0,
-    title = "낡은 성의 정복자",
-    content = {
-      summary = "암다라이스 처치",
-      details = "메모리얼 던전을 끝까지 진행"
-    },
-    resource = {
-      [1] = {
-        text = "암다라이스 50회 처치",
-        count = 50
-      }
-    },
-    reward = {},
-    score = 50
-  },
-  [128032] = {
-    UI_Type = 1,
-    group = "BATTLE",
-    major = 5,
-    minor = 0,
-    title = "매서운 풋내기",
-    content = {
-      summary = "암다라이스(상급) 처치",
-      details = "메모리얼 던전을 끝까지 진행"
-    },
-    resource = {
-      [1] = {
-        text = "암다라이스(상급) 1회 처치",
-        count = 1
-      }
-    },
-    reward = {},
-    score = 10
-  },
-  [128033] = {
-    UI_Type = 1,
-    group = "BATTLE",
-    major = 5,
-    minor = 0,
-    title = "기사단의 희망",
-    content = {
-      summary = "암다라이스(상급) 처치",
-      details = "메모리얼 던전을 끝까지 진행"
-    },
-    resource = {
-      [1] = {
-        text = "암다라이스(상급) 10회 처치",
-        count = 10
-      }
-    },
-    reward = {},
-    score = 20
-  },
-  [128034] = {
-    UI_Type = 1,
-    group = "BATTLE",
-    major = 5,
-    minor = 0,
-    title = "여명의 수호자",
-    content = {
-      summary = "암다라이스(상급) 처치",
-      details = "메모리얼 던전을 끝까지 진행"
-    },
-    resource = {
-      [1] = {
-        text = "암다라이스(상급) 50회 처치",
-        count = 50
-      }
-    },
-    reward = {},
-    score = 50
-  },
-  [128035] = {
-    UI_Type = 1,
-    group = "BATTLE",
-    major = 5,
-    minor = 0,
-    title = "시간 여행자",
-    content = {
-      summary = "사라 아이린 처치",
-      details = "메모리얼 던전을 끝까지 진행"
-    },
-    resource = {
-      [1] = {
-        text = "사라 아이린 1회 처치",
-        count = 1
-      }
-    },
-    reward = {},
-    score = 10
-  },
-  [128036] = {
-    UI_Type = 1,
-    group = "BATTLE",
-    major = 5,
-    minor = 0,
-    title = "고대 유물 복원가",
-    content = {
-      summary = "사라 아이린 처치",
-      details = "메모리얼 던전을 끝까지 진행"
-    },
-    resource = {
-      [1] = {
-        text = "사라 아이린 10회 처치",
-        count = 10
-      }
-    },
-    reward = {},
-    score = 20
-  },
-  [128037] = {
-    UI_Type = 1,
-    group = "BATTLE",
-    major = 5,
-    minor = 0,
-    title = "유물 운반의 달인",
-    content = {
-      summary = "사라 아이린 처치",
-      details = "메모리얼 던전을 끝까지 진행"
-    },
-    resource = {
-      [1] = {
-        text = "사라 아이린 50회 처치",
-        count = 50
-      }
-    },
-    reward = {},
-    score = 50
-  },
-  [128038] = {
-    UI_Type = 1,
-    group = "BATTLE",
-    major = 5,
-    minor = 0,
-    title = "선장에게 본때 보이기",
-    content = {
-      summary = "펠록 처치",
-      details = "메모리얼 던전을 끝까지 진행"
-    },
-    resource = {
-      [1] = {
-        text = "펠록 1회 처치",
-        count = 1
-      }
-    },
-    reward = {},
-    score = 10
-  },
-  [128039] = {
-    UI_Type = 1,
-    group = "BATTLE",
-    major = 5,
-    minor = 0,
-    title = "조금 약골 선장에게 본때 보이기",
-    content = {
-      summary = "펠록 처치",
-      details = "메모리얼 던전을 끝까지 진행"
-    },
-    resource = {
-      [1] = {
-        text = "펠록 1회 처치",
-        count = 1
-      }
-    },
-    reward = {},
-    score = 10
-  },
-  [128040] = {
-    UI_Type = 1,
-    group = "BATTLE",
-    major = 5,
-    minor = 0,
-    title = "선상 폭동",
-    content = {
-      summary = "펠록 처치",
-      details = "메모리얼 던전을 끝까지 진행"
-    },
-    resource = {
-      [1] = {
-        text = "펠록 10회 처치",
-        count = 10
-      }
-    },
-    reward = {},
-    score = 20
-  },
-  [128041] = {
-    UI_Type = 1,
-    group = "BATTLE",
-    major = 5,
-    minor = 0,
-    title = "선상의 소동",
-    content = {
-      summary = "펠록 처치",
-      details = "메모리얼 던전을 끝까지 진행"
-    },
-    resource = {
-      [1] = {
-        text = "펠록 10회 처치",
-        count = 10
-      }
-    },
-    reward = {},
-    score = 20
-  },
-  [128042] = {
-    UI_Type = 1,
-    group = "BATTLE",
-    major = 5,
-    minor = 0,
-    title = "선상 반란",
-    content = {
-      summary = "펠록 처치",
-      details = "메모리얼 던전을 끝까지 진행"
-    },
-    resource = {
-      [1] = {
-        text = "펠록 50회 처치",
-        count = 50
-      }
-    },
-    reward = {},
-    score = 50
-  },
-  [128043] = {
-    UI_Type = 1,
-    group = "BATTLE",
-    major = 5,
-    minor = 0,
-    title = "반란같은 폭동",
-    content = {
-      summary = "펠록 처치",
-      details = "메모리얼 던전을 끝까지 진행"
-    },
-    resource = {
-      [1] = {
-        text = "펠록 50회 처치",
-        count = 50
-      }
-    },
-    reward = {},
-    score = 50
-  },
-  [128044] = {
-    UI_Type = 1,
-    group = "BATTLE",
-    major = 5,
-    minor = 0,
-    title = "마법대회 우승자",
-    content = {
-      summary = "펜릴 처치",
-      details = "메모리얼 던전을 끝까지 진행"
-    },
-    resource = {
-      [1] = {
-        text = "펜릴 1회 처치",
-        count = 1
-      }
-    },
-    reward = {},
-    score = 10
-  },
-  [128045] = {
-    UI_Type = 1,
-    group = "BATTLE",
-    major = 5,
-    minor = 0,
-    title = "콜로세움의 검투사",
-    content = {
-      summary = "펜릴 처치",
-      details = "메모리얼 던전을 끝까지 진행"
-    },
-    resource = {
-      [1] = {
-        text = "펜릴 10회 처치",
-        count = 10
-      }
-    },
-    reward = {},
-    score = 20
-  },
-  [128046] = {
-    UI_Type = 1,
-    group = "BATTLE",
-    major = 5,
-    minor = 0,
-    title = "콜로세움의 학살자",
-    content = {
-      summary = "펜릴 처치",
-      details = "메모리얼 던전을 끝까지 진행"
-    },
-    resource = {
-      [1] = {
-        text = "펜릴 50회 처치",
-        count = 50
-      }
-    },
-    reward = {},
-    score = 50
-  },
-  [128047] = {
-    UI_Type = 1,
-    group = "BATTLE",
-    major = 5,
-    minor = 0,
-    title = "엔들리스 타워의 도전자",
-    content = {
-      summary = "나흐트지거 처치",
-      details = "메모리얼 던전을 끝까지 진행"
-    },
-    resource = {
-      [1] = {
-        text = "나흐트지거 1회 처치",
-        count = 1
-      }
-    },
-    reward = {},
-    score = 10
-  },
-  [128048] = {
-    UI_Type = 1,
-    group = "BATTLE",
-    major = 5,
-    minor = 0,
-    title = "엔들리스 타워의 학살자",
-    content = {
-      summary = "나흐트지거 처치",
-      details = "메모리얼 던전을 끝까지 진행"
-    },
-    resource = {
-      [1] = {
-        text = "나흐트지거 10회 처치",
-        count = 10
-      }
-    },
-    reward = {},
-    score = 20
-  },
-  [128049] = {
-    UI_Type = 1,
-    group = "BATTLE",
-    major = 5,
-    minor = 0,
-    title = "탑의 군주",
-    content = {
-      summary = "나흐트지거 처치",
-      details = "메모리얼 던전을 끝까지 진행"
-    },
-    resource = {
-      [1] = {
-        text = "나흐트지거 50회 처치",
-        count = 50
-      }
-    },
-    reward = {},
-    score = 50
-  },
-  [128050] = {
-    UI_Type = 1,
-    group = "BATTLE",
-    major = 5,
-    minor = 0,
-    title = "초보 퇴마사",
-    content = {
-      summary = "벙웅곳 영혼의 기둥 처치",
-      details = "메모리얼 던전을 끝까지 진행"
-    },
-    resource = {
-      [1] = {
-        text = "벙웅곳 영혼의 기둥 1회 처치",
-        count = 1
-      }
-    },
-    reward = {},
-    score = 10
-  },
-  [128051] = {
-    UI_Type = 1,
-    group = "BATTLE",
-    major = 5,
-    minor = 0,
-    title = "숙련 퇴마사",
-    content = {
-      summary = "벙웅곳 영혼의 기둥 처치",
-      details = "메모리얼 던전을 끝까지 진행"
-    },
-    resource = {
-      [1] = {
-        text = "벙웅곳 영혼의 기둥 10회 처치",
-        count = 10
-      }
-    },
-    reward = {},
-    score = 20
-  },
-  [128052] = {
-    UI_Type = 1,
-    group = "BATTLE",
-    major = 5,
-    minor = 0,
-    title = "전설적인 퇴마사",
-    content = {
-      summary = "벙웅곳 영혼의 기둥 처치",
-      details = "메모리얼 던전을 끝까지 진행"
-    },
-    resource = {
-      [1] = {
-        text = "벙웅곳 영혼의 기둥 50회 처치",
-        count = 50
-      }
-    },
-    reward = {},
-    score = 50
-  },
-  [129001] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 0,
-    title = "프론테라의 탐험가",
-    content = {
-      summary = "목표 필드 탐험 완료",
-      details = "프론테라 주변 탐험 완료"
-    },
-    resource = {
-      [1] = {
-        text = "프론테라 북쪽 필드 탐험(1) 완료",
-        shortcut = 120001
-      },
-      [2] = {
-        text = "프론테라 북쪽 필드 탐험(2) 완료",
-        shortcut = 120002
-      },
-      [3] = {
-        text = "프론테라 북쪽 필드 탐험(3) 완료",
-        shortcut = 120003
-      },
-      [4] = {
-        text = "프론테라 서쪽 필드 탐험(1) 완료",
-        shortcut = 120004
-      },
-      [5] = {
-        text = "프론테라 서쪽 필드 탐험(2) 완료",
-        shortcut = 120005
-      },
-      [6] = {
-        text = "프론테라 동쪽 필드 탐험(1) 완료",
-        shortcut = 120006
-      },
-      [7] = {
-        text = "프론테라 남쪽 필드 탐험(1) 완료",
-        shortcut = 120007
-      },
-      [8] = {
-        text = "프론테라 남쪽 필드 탐험(2) 완료",
-        shortcut = 120008
-      },
-      [9] = {
-        text = "프론테라 남쪽 필드 탐험(3) 완료",
-        shortcut = 120009
-      },
-      [10] = {
-        text = "프론테라 남쪽 필드 탐험(4) 완료",
-        shortcut = 120010
-      }
-    },
     reward = {item = 644},
-    score = 20
+    score = 10
   },
-  [129002] = {
+  [170000] = {
     UI_Type = 0,
-    group = "ACTION",
-    major = 2,
+    group = "COMMUNITY",
+    major = 4,
     minor = 0,
-    title = "게펜의 탐험가",
+    title = "방송 사고는 아닙니다",
     content = {
-      summary = "목표 필드 탐험 완료",
-      details = "게펜 주변 탐험 완료"
+      summary = "궁정악사의 비밀선곡 감상",
+      details = "프론테라 궁정악사 오린트가 추천하는 비밀선곡 듣기"
     },
     resource = {
       [1] = {
-        text = "게펜 동쪽 필드 탐험(1) 완료",
-        shortcut = 120011
-      },
-      [2] = {
-        text = "게펜 동남쪽 필드 탐험(1) 완료",
-        shortcut = 120012
-      },
-      [3] = {
-        text = "게펜 서북쪽 필드 탐험(1) 완료",
-        shortcut = 120013
-      },
-      [4] = {
-        text = "게펜 서북쪽 필드 탐험(2) 완료",
-        shortcut = 120014
-      },
-      [5] = {
-        text = "게펜 서북쪽 필드 탐험(3) 완료",
-        shortcut = 120015
-      },
-      [6] = {
-        text = "게펜 남쪽 필드 탐험(1) 완료",
-        shortcut = 120016
-      },
-      [7] = {
-        text = "게펜 남쪽 필드 탐험(2) 완료",
-        shortcut = 120017
+        text = "프론테라 궁정악사 오린트가 추천하는 비밀선곡 듣기"
       }
     },
-    reward = {item = 644},
-    score = 20
-  },
-  [129003] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 0,
-    title = "소그라트 사막의 탐험가",
-    content = {
-      summary = "목표 필드 탐험 완료",
-      details = "소그라트 사막 주변 탐험 완료"
-    },
-    resource = {
-      [1] = {
-        text = "소그라트 사막 필드 탐험(1) 완료",
-        shortcut = 120018
-      },
-      [2] = {
-        text = "소그라트 사막 필드 탐험(2) 완료",
-        shortcut = 120019
-      },
-      [3] = {
-        text = "소그라트 사막 필드 탐험(3) 완료",
-        shortcut = 120020
-      },
-      [4] = {
-        text = "소그라트 사막 필드 탐험(4) 완료",
-        shortcut = 120021
-      },
-      [5] = {
-        text = "소그라트 사막 필드 탐험(5) 완료",
-        shortcut = 120022
-      },
-      [6] = {
-        text = "소그라트 사막 필드 탐험(6) 완료",
-        shortcut = 120023
-      }
-    },
-    reward = {item = 644},
-    score = 20
-  },
-  [129004] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 0,
-    title = "페이욘의 탐험가",
-    content = {
-      summary = "목표 필드 탐험 완료",
-      details = "페이욘 주변 탐험 완료"
-    },
-    resource = {
-      [1] = {
-        text = "페이욘 남서쪽 필드 탐험(1) 완료",
-        shortcut = 120024
-      },
-      [2] = {
-        text = "페이욘 남서쪽 필드 탐험(2) 완료",
-        shortcut = 120025
-      },
-      [3] = {
-        text = "페이욘 남서쪽 필드 탐험(3) 완료",
-        shortcut = 120026
-      },
-      [4] = {
-        text = "페이욘 남서쪽 필드 탐험(4) 완료",
-        shortcut = 120027
-      },
-      [5] = {
-        text = "페이욘 동쪽 필드 탐험(1) 완료",
-        shortcut = 120028
-      },
-      [6] = {
-        text = "페이욘 동쪽 필드 탐험(2) 완료",
-        shortcut = 120029
-      },
-      [7] = {
-        text = "페이욘 동쪽 필드 탐험(3) 완료",
-        shortcut = 120030
-      },
-      [8] = {
-        text = "페이욘 동쪽 필드 탐험(4) 완료",
-        shortcut = 120031
-      }
-    },
-    reward = {item = 644},
-    score = 20
-  },
-  [129005] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 0,
-    title = "묘르닐 북쪽의 탐험가",
-    content = {
-      summary = "목표 필드 탐험 완료",
-      details = "묘르닐 북쪽 주변 탐험 완료"
-    },
-    resource = {
-      [1] = {
-        text = "묘르닐 북쪽 필드 탐험(1) 완료",
-        shortcut = 120032
-      },
-      [2] = {
-        text = "묘르닐 북쪽 필드 탐험(2) 완료",
-        shortcut = 120033
-      },
-      [3] = {
-        text = "묘르닐 북쪽 필드 탐험(3) 완료",
-        shortcut = 120034
-      },
-      [4] = {
-        text = "묘르닐 북쪽 필드 탐험(4) 완료",
-        shortcut = 120035
-      },
-      [5] = {
-        text = "묘르닐 북쪽 필드 탐험(5) 완료",
-        shortcut = 120036
-      }
-    },
-    reward = {item = 644},
-    score = 20
-  },
-  [129006] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 0,
-    title = "묘르닐 남쪽의 탐험가",
-    content = {
-      summary = "목표 필드 탐험 완료",
-      details = "묘르닐 남쪽 주변 탐험 완료"
-    },
-    resource = {
-      [1] = {
-        text = "묘르닐 남쪽 필드 탐험(1) 완료",
-        shortcut = 120037
-      },
-      [2] = {
-        text = "묘르닐 남쪽 필드 탐험(2) 완료",
-        shortcut = 120038
-      },
-      [3] = {
-        text = "묘르닐 남쪽 필드 탐험(3) 완료",
-        shortcut = 120039
-      },
-      [4] = {
-        text = "묘르닐 남쪽 필드 탐험(4) 완료",
-        shortcut = 120040
-      },
-      [5] = {
-        text = "묘르닐 남쪽 필드 탐험(5) 완료",
-        shortcut = 120041
-      },
-      [6] = {
-        text = "묘르닐 남쪽 필드 탐험(6) 완료",
-        shortcut = 120042
-      },
-      [7] = {
-        text = "알데바란 남쪽 필드 탐험(1) 완료",
-        shortcut = 120043
-      }
-    },
-    reward = {item = 644},
-    score = 20
-  },
-  [129007] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 0,
-    title = "코모도의 탐험가",
-    content = {
-      summary = "목표 필드 탐험 완료",
-      details = "코모도 주변 탐험 완료"
-    },
-    resource = {
-      [1] = {
-        text = "코모도 필드 탐험(1) 완료",
-        shortcut = 120044
-      },
-      [2] = {
-        text = "코모도 필드 탐험(2) 완료",
-        shortcut = 120045
-      },
-      [3] = {
-        text = "코모도 필드 탐험(3) 완료",
-        shortcut = 120046
-      },
-      [4] = {
-        text = "코모도 필드 탐험(4) 완료",
-        shortcut = 120047
-      },
-      [5] = {
-        text = "코모도 필드 탐험(5) 완료",
-        shortcut = 120048
-      },
-      [6] = {
-        text = "코모도 필드 탐험(6) 완료",
-        shortcut = 120049
-      },
-      [7] = {
-        text = "코모도 필드 탐험(7) 완료",
-        shortcut = 120050
-      },
-      [8] = {
-        text = "코모도 필드 탐험(8) 완료",
-        shortcut = 120051
-      }
-    },
-    reward = {item = 644},
-    score = 20
-  },
-  [129008] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 0,
-    title = "룬 미드가츠의 탐험가",
-    content = {
-      summary = "목표 필드 탐험 완료",
-      details = "룬 미드가츠 주변 탐험 완료"
-    },
-    resource = {
-      [1] = {
-        text = "프론테라의 탐험가",
-        shortcut = 129001
-      },
-      [2] = {
-        text = "게펜의 탐험가",
-        shortcut = 129002
-      },
-      [3] = {
-        text = "소그라트 사막의 탐험가",
-        shortcut = 129003
-      },
-      [4] = {
-        text = "페이욘의 탐험가",
-        shortcut = 129004
-      },
-      [5] = {
-        text = "묘르닐 북쪽의 탐험가",
-        shortcut = 129005
-      },
-      [6] = {
-        text = "묘르닐 남쪽의 탐험가",
-        shortcut = 129006
-      },
-      [7] = {
-        text = "코모도의 탐험가",
-        shortcut = 129007
-      }
-    },
-    reward = {item = 617},
-    score = 50
-  },
-  [129009] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 1,
-    title = "유노의 탐험가",
-    content = {
-      summary = "목표 필드 탐험 완료",
-      details = "유노 주변 탐험 완료"
-    },
-    resource = {
-      [1] = {
-        text = "국경 검문소 필드 탐험(1) 완료",
-        shortcut = 120052
-      },
-      [2] = {
-        text = "국경 검문소 필드 탐험(2) 완료",
-        shortcut = 120053
-      },
-      [3] = {
-        text = "킬 하이르의 별장 필드 탐험(1) 완료",
-        shortcut = 120054
-      },
-      [4] = {
-        text = "엘메스 플레투 필드 탐험(1) 완료",
-        shortcut = 120055
-      },
-      [5] = {
-        text = "엘메스 플레투 필드 탐험(2) 완료",
-        shortcut = 120056
-      },
-      [6] = {
-        text = "엘메스 플레투 필드 탐험(3) 완료",
-        shortcut = 120057
-      },
-      [7] = {
-        text = "엘메스 협곡 필드 탐험(1) 완료",
-        shortcut = 120058
-      },
-      [8] = {
-        text = "킬 하이르 학원 필드 탐험(1) 완료",
-        shortcut = 120059
-      },
-      [9] = {
-        text = "경비대 야영지 필드 탐험(1) 완료",
-        shortcut = 120060
-      },
-      [10] = {
-        text = "유노 필드 탐험(1) 완료",
-        shortcut = 120061
-      }
-    },
-    reward = {item = 644},
-    score = 20
-  },
-  [129010] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 1,
-    title = "휘겔의 탐험가",
-    content = {
-      summary = "목표 필드 탐험 완료",
-      details = "휘겔 주변 탐험 완료"
-    },
-    resource = {
-      [1] = {
-        text = "타나토스 타워 앞 필드 탐험(1) 완료",
-        shortcut = 120062
-      },
-      [2] = {
-        text = "휘겔 필드 탐험(1) 완료",
-        shortcut = 120063
-      },
-      [3] = {
-        text = "휘겔 필드 탐험(2) 완료",
-        shortcut = 120064
-      },
-      [4] = {
-        text = "휘겔 필드 탐험(3) 완료",
-        shortcut = 120065
-      },
-      [5] = {
-        text = "어비스호수 필드 탐험(1) 완료",
-        shortcut = 120066
-      }
-    },
-    reward = {item = 644},
-    score = 20
-  },
-  [129011] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 1,
-    title = "아인브로크의 탐험가",
-    content = {
-      summary = "목표 필드 탐험 완료",
-      details = "아인브로크 주변 탐험 완료"
-    },
-    resource = {
-      [1] = {
-        text = "아인브로크 필드 탐험(1) 완료",
-        shortcut = 120067
-      },
-      [2] = {
-        text = "아인브로크 필드 탐험(2) 완료",
-        shortcut = 120068
-      },
-      [3] = {
-        text = "아인브로크 필드 탐험(3) 완료",
-        shortcut = 120069
-      },
-      [4] = {
-        text = "아인브로크 필드 탐험(4) 완료",
-        shortcut = 120070
-      },
-      [5] = {
-        text = "아인브로크 필드 탐험(5) 완료",
-        shortcut = 120071
-      },
-      [6] = {
-        text = "아인브로크 필드 탐험(6) 완료",
-        shortcut = 120072
-      },
-      [7] = {
-        text = "아인브로크 필드 탐험(7) 완료",
-        shortcut = 120073
-      },
-      [8] = {
-        text = "아인브로크 필드 탐험(8) 완료",
-        shortcut = 120074
-      }
-    },
-    reward = {item = 644},
-    score = 20
-  },
-  [129012] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 1,
-    title = "리히타르젠의 탐험가",
-    content = {
-      summary = "목표 필드 탐험 완료",
-      details = "리히타르젠 주변 탐험 완료"
-    },
-    resource = {
-      [1] = {
-        text = "리히타르젠 필드 탐험(1) 완료",
-        shortcut = 120075
-      },
-      [2] = {
-        text = "리히타르젠 필드 탐험(2) 완료",
-        shortcut = 120076
-      },
-      [3] = {
-        text = "리히타르젠 필드 탐험(3) 완료",
-        shortcut = 120077
-      }
-    },
-    reward = {item = 644},
-    score = 20
-  },
-  [129013] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 1,
-    title = "슈발츠발드의 탐험가",
-    content = {
-      summary = "목표 필드 탐험 완료",
-      details = "슈발츠발드 주변 탐험 완료"
-    },
-    resource = {
-      [1] = {
-        text = "유노의 탐험가",
-        shortcut = 129009
-      },
-      [2] = {
-        text = "휘겔의 탐험가",
-        shortcut = 129010
-      },
-      [3] = {
-        text = "아인브로크의 탐험가",
-        shortcut = 129011
-      },
-      [4] = {
-        text = "리히타르젠의 탐험가",
-        shortcut = 129012
-      }
-    },
-    reward = {item = 617},
-    score = 50
-  },
-  [129014] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 2,
-    title = "라헬의 탐험가",
-    content = {
-      summary = "목표 필드 탐험 완료",
-      details = "라헬 주변 탐험 완료"
-    },
-    resource = {
-      [1] = {
-        text = "라헬 아우둠라 평원 필드 탐험(1) 완료",
-        shortcut = 120078
-      },
-      [2] = {
-        text = "라헬 이다 평원 필드 탐험(1) 완료",
-        shortcut = 120079
-      },
-      [3] = {
-        text = "라헬 이다 평원 필드 탐험(2) 완료",
-        shortcut = 120080
-      },
-      [4] = {
-        text = "라헬 이다 평원 필드 탐험(3) 완료",
-        shortcut = 120081
-      },
-      [5] = {
-        text = "라헬 아우둠라 초원 필드 탐험(1) 완료",
-        shortcut = 120082
-      },
-      [6] = {
-        text = "라헬 아우둠라 초원 필드 탐험(2) 완료",
-        shortcut = 120083
-      },
-      [7] = {
-        text = "포르투 루나 필드 탐험(1) 완료",
-        shortcut = 120084
-      }
-    },
-    reward = {item = 644},
-    score = 20
-  },
-  [129015] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 2,
-    title = "베인스의 탐험가",
-    content = {
-      summary = "목표 필드 탐험 완료",
-      details = "베인스 주변 탐험 완료"
-    },
-    resource = {
-      [1] = {
-        text = "베인스 필드 탐험(1) 완료",
-        shortcut = 120085
-      },
-      [2] = {
-        text = "베인스 필드 탐험(2) 완료",
-        shortcut = 120086
-      },
-      [3] = {
-        text = "베인스 필드 탐험(3) 완료",
-        shortcut = 120087
-      },
-      [4] = {
-        text = "베인스 필드 탐험(4) 완료",
-        shortcut = 120088
-      },
-      [5] = {
-        text = "베인스 필드 탐험(5) 완료",
-        shortcut = 120089
-      }
-    },
-    reward = {item = 644},
-    score = 20
-  },
-  [129016] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 2,
-    title = "아루나펠츠의 탐험가",
-    content = {
-      summary = "목표 필드 탐험 완료",
-      details = "아루나펠츠 주변 탐험 완료"
-    },
-    resource = {
-      [1] = {
-        text = "라헬의 탐험가",
-        shortcut = 129014
-      },
-      [2] = {
-        text = "베인스의 탐험가",
-        shortcut = 129015
-      }
-    },
-    reward = {item = 617},
-    score = 50
-  },
-  [129017] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 3,
-    title = "라피네의 탐험가",
-    content = {
-      summary = "목표 필드 탐험 완료",
-      details = "라피네 주변 탐험 완료"
-    },
-    resource = {
-      [1] = {
-        text = "에클라쥬 필드 탐험(1) 완료",
-        shortcut = 120090
-      },
-      [2] = {
-        text = "비프로스트 북부 필드 탐험(1) 완료",
-        shortcut = 120091
-      },
-      [3] = {
-        text = "비프로스트 남부 필드 탐험(1) 완료",
-        shortcut = 120092
-      },
-      [4] = {
-        text = "스플랑디드 필드 탐험(1) 완료",
-        shortcut = 120093
-      },
-      [5] = {
-        text = "스플랑디드 필드 탐험(2) 완료",
-        shortcut = 120094
-      },
-      [6] = {
-        text = "스플랑디드 필드 탐험(3) 완료",
-        shortcut = 120095
-      }
-    },
-    reward = {item = 644},
-    score = 20
-  },
-  [129018] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 3,
-    title = "마누크의 탐험가",
-    content = {
-      summary = "목표 필드 탐험 완료",
-      details = "마누크 주변 탐험 완료"
-    },
-    resource = {
-      [1] = {
-        text = "마누크 필드 탐험(1) 완료",
-        shortcut = 120096
-      },
-      [2] = {
-        text = "마누크 필드 탐험(2) 완료",
-        shortcut = 120097
-      },
-      [3] = {
-        text = "마누크 필드 탐험(3) 완료",
-        shortcut = 120098
-      },
-      [4] = {
-        text = "카미달 산기슭 필드 탐험(1) 완료",
-        shortcut = 120099
-      },
-      [5] = {
-        text = "카미달 산기슭 필드 탐험(2) 완료",
-        shortcut = 120100
-      }
-    },
-    reward = {item = 644},
-    score = 20
-  },
-  [129019] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 4,
-    title = "이계의 탐험가",
-    content = {
-      summary = "목표 필드 탐험 완료",
-      details = "이계 주변 탐험 완료"
-    },
-    resource = {
-      [1] = {
-        text = "라피네의 탐험가",
-        shortcut = 129017
-      },
-      [2] = {
-        text = "마누크의 탐험가",
-        shortcut = 129019
-      }
-    },
-    reward = {item = 617},
-    score = 50
-  },
-  [129020] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 2,
-    minor = 4,
-    title = "로컬라이징 필드의 탐험가",
-    content = {
-      summary = "목표 필드 탐험 완료",
-      details = "로컬라이징 필드 주변 탐험 완료"
-    },
-    resource = {
-      [1] = {
-        text = "아마쯔 필드 탐험(1) 완료",
-        shortcut = 120101
-      },
-      [2] = {
-        text = "쿤룬 필드 탐험(1) 완료",
-        shortcut = 120102
-      },
-      [3] = {
-        text = "용지성 필드 탐험(1) 완료",
-        shortcut = 120103
-      },
-      [4] = {
-        text = "아요타야 필드 탐험(1) 완료",
-        shortcut = 120104
-      },
-      [5] = {
-        text = "모스코비아 필드 탐험(1) 완료",
-        shortcut = 120105
-      },
-      [6] = {
-        text = "브라질리스 필드 탐험(1) 완료",
-        shortcut = 120106
-      },
-      [7] = {
-        text = "데와타 필드 탐험(1) 완료",
-        shortcut = 120107
-      },
-      [8] = {
-        text = "말라야 필드 탐험(1) 완료",
-        shortcut = 120108
-      },
-      [9] = {
-        text = "말라야 필드 탐험(2) 완료",
-        shortcut = 120109
-      }
-    },
-    reward = {item = 617},
-    score = 50
+    reward = {},
+    score = 10
   },
   [200000] = {
     UI_Type = 0,
@@ -4537,14 +1042,14 @@ achievement_tbl = {
     group = "ACTION",
     major = 1,
     minor = 0,
-    title = "정식 모험가!",
+    title = "정식모험가",
     content = {
-      summary = "1차 직업으로 전직한다.",
-      details = "검사, 상인, 도둑, 마법사, 복사, 궁수 중 하나의 직업군으로 전직한다."
+      summary = "1차 직업군으로 전직한다",
+      details = "검사, 상인, 도둑, 마법사, 복사, 궁수 중 하나로 전직한다."
     },
     resource = {
       [1] = {
-        text = "1차 직업으로 전직한다."
+        text = "1차 직업군으로 전직"
       }
     },
     reward = {buff = 12},
@@ -4557,12 +1062,12 @@ achievement_tbl = {
     minor = 0,
     title = "전승직업군으로 첫 발!",
     content = {
-      summary = "전승 1차 직업으로 전직한다.",
-      details = "전승 검사, 상인, 도둑, 마법사, 복사, 궁수 중 하나의 직업군으로 전직한다."
+      summary = "전승 1차 직업군으로 전직한다",
+      details = "전승 검사, 상인, 도둑, 마법사, 복사, 궁수 중 하나로 전직한다."
     },
     resource = {
       [1] = {
-        text = "전승 1차 직업으로 전직한다."
+        text = "전승 1차 직업군으로 전직"
       }
     },
     reward = {buff = 12},
@@ -4573,14 +1078,14 @@ achievement_tbl = {
     group = "ACTION",
     major = 1,
     minor = 0,
-    title = "베테랑 모험가!",
+    title = "베테랑 모험가! (1)",
     content = {
-      summary = "2-1차 직업으로 전직한다.",
-      details = "나이트, 블랙스미스, 어쌔신, 위저드, 프리스트, 헌터 중 하나의 직업군으로 전직한다."
+      summary = "2-1차 직업군으로 전직한다",
+      details = "나이트, 블랙스미스, 어쌔신, 위저드, 프리스트, 헌터 중 하나로 전직한다."
     },
     resource = {
       [1] = {
-        text = "2-1차 직업으로 전직한다."
+        text = "2-1차 직업군으로 전직"
       }
     },
     reward = {buff = 12},
@@ -4591,14 +1096,14 @@ achievement_tbl = {
     group = "ACTION",
     major = 1,
     minor = 0,
-    title = "베테랑 모험가!(2)",
+    title = "베테랑 모험가! (2)",
     content = {
-      summary = "2-2차 직업으로 전직한다.",
-      details = "크루세이더, 알케미스트, 로그, 세이지, 몽크, 바드, 댄서 중 하나의 직업군으로 전직한다."
+      summary = "2-2차 직업군으로 전직한다",
+      details = "크루세이더, 알케미스트, 로그, 세이지, 몽크, 바드, 댄서 중 하나로 전직한다."
     },
     resource = {
       [1] = {
-        text = "2-2차 직업으로 전직한다."
+        text = "2-2차 직업군으로 전직"
       }
     },
     reward = {buff = 12},
@@ -4609,14 +1114,14 @@ achievement_tbl = {
     group = "ACTION",
     major = 1,
     minor = 0,
-    title = "용사!",
+    title = "용사 (1)",
     content = {
-      summary = "전승 2-1차 직업으로 전직한다.",
-      details = "로드나이트, 화이트스미스, 어쌔신크로스, 하이위저드, 하이프리스트, 스나이퍼 중 하나의 직업군으로 전직한다."
+      summary = "전승 2-1차 직업군으로 전직한다",
+      details = "로드나이트, 화이트스미스, 어쌔신크로스, 하이위저드, 하이프리스트, 스나이퍼 중 하나로 전직한다."
     },
     resource = {
       [1] = {
-        text = "전승 2-1차 직업으로 전직한다."
+        text = "전승 2-1차 직업군으로 전직"
       }
     },
     reward = {buff = 12},
@@ -4627,14 +1132,14 @@ achievement_tbl = {
     group = "ACTION",
     major = 1,
     minor = 0,
-    title = "용사!(2)",
+    title = "용사 (2)",
     content = {
-      summary = "전승 2-2차 직업으로 전직한다.",
-      details = "팔라딘, 크리에이터, 스토커, 프로페서, 챔피온, 집시, 크로운 중 하나의 직업군으로 전직한다."
+      summary = "전승 2-2차 직업군으로 전직한다",
+      details = "팔라딘, 크리에이터, 스토커, 프로페서, 챔피온, 집시, 크로운 중 하나로 전직한다."
     },
     resource = {
       [1] = {
-        text = "전승 2-2차 직업으로 전직한다."
+        text = "전승 2-2차 직업군으로 전직"
       }
     },
     reward = {buff = 12},
@@ -4645,14 +1150,14 @@ achievement_tbl = {
     group = "ACTION",
     major = 1,
     minor = 0,
-    title = "엘리트 모험가!",
+    title = "엘리트 모험가! (1)",
     content = {
-      summary = "3-1차 직업으로 전직한다.",
-      details = "룬나이트, 미케닉, 길로틴크로스, 워록, 아크비숍, 레인저 중 하나의 직업군으로 전직한다."
+      summary = "3-1차 직업군으로 전직한다",
+      details = "룬나이트, 미케닉, 길로틴크로스, 워록, 아크비숍, 레인저 중 하나로 전직한다."
     },
     resource = {
       [1] = {
-        text = "3-1차 직업으로 전직한다."
+        text = "3-1차 직업군으로 전직"
       }
     },
     reward = {buff = 12, item = 16483},
@@ -4663,14 +1168,14 @@ achievement_tbl = {
     group = "ACTION",
     major = 1,
     minor = 0,
-    title = "초월자!",
+    title = "초월자! (1)",
     content = {
-      summary = "전승 3-1차 직업으로 전직한다.",
-      details = "전승 룬나이트, 미케닉, 길로틴크로스, 워록, 아크비숍, 레인저 중 하나의 직업군으로 전직한다."
+      summary = "전승 3-1차 직업군으로 전직한다",
+      details = "전승 후, 룬나이트, 미케닉, 길로틴크로스, 워록, 아크비숍, 레인저 중 하나로 전직한다."
     },
     resource = {
       [1] = {
-        text = "전승 3-1차 직업으로 전직한다."
+        text = "전승 3-1차 직업군으로 전직"
       }
     },
     reward = {buff = 12, item = 16483},
@@ -4681,14 +1186,14 @@ achievement_tbl = {
     group = "ACTION",
     major = 1,
     minor = 0,
-    title = "엘리트 모험가!(2)",
+    title = "엘리트 모험가! (2)",
     content = {
-      summary = "3-2차 직업으로 전직한다.",
-      details = "로얄가드, 제네릭, 쉐도우체이서, 소서러, 수라, 민스트렐, 원더러 중 하나의 직업군으로 전직한다."
+      summary = "3-2차 직업군으로 전직한다",
+      details = "로얄가드, 제네릭, 쉐도우체이서, 소서러, 수라, 민스트렐, 원더러 중 하나로 전직한다."
     },
     resource = {
       [1] = {
-        text = "3-2차 직업으로 전직한다."
+        text = "3-2차 직업군으로 전직"
       }
     },
     reward = {buff = 12, item = 16483},
@@ -4699,14 +1204,14 @@ achievement_tbl = {
     group = "ACTION",
     major = 1,
     minor = 0,
-    title = "초월자!(2)",
+    title = "초월자! (2)",
     content = {
-      summary = "전승 3-2차 직업으로 전직한다.",
-      details = "전승 로얄가드, 제네릭, 쉐도우체이서, 소서러, 수라, 민스트렐, 원더러 중 하나의 직업군으로 전직한다."
+      summary = "전승 3-2차 직업군으로 전직한다",
+      details = "전승 후, 로얄가드, 제네릭, 쉐도우체이서, 소서러, 수라, 민스트렐, 원더러 중 하나로 전직한다."
     },
     resource = {
       [1] = {
-        text = "전승 3-2차 직업으로 전직한다."
+        text = "전승 3-2차 직업군으로 전직"
       }
     },
     reward = {buff = 12, item = 16483},
@@ -4719,12 +1224,12 @@ achievement_tbl = {
     minor = 0,
     title = "특별한 길을 걷는 자.",
     content = {
-      summary = "확장직업군 중 하나로 전직한다.",
-      details = "태권, 건슬링거, 슈퍼노비스, 닌자 중 하나의 직업군으로 전직한다."
+      summary = "확장 직업군으로 전직한다",
+      details = "태권, 건슬링거, 슈퍼노비스, 닌자 중 하나로 전직한다."
     },
     resource = {
       [1] = {
-        text = "확장직업군 중 하나로 전직한다."
+        text = "확장 직업군으로 전직"
       }
     },
     reward = {buff = 12},
@@ -4737,15 +1242,15 @@ achievement_tbl = {
     minor = 0,
     title = "이것이 나의 길!",
     content = {
-      summary = "확장 2차 직업군 중 하나로 전직한다.",
-      details = "소울링커, 권성, 리벨리온, 오보로, 카게로우 중 하나의 직업군으로 전직한다."
+      summary = "확장 2차 직업군으로 전직한다",
+      details = "소울링커, 권성, 리벨리온, 오보로, 카게로우 중 하나로 전직한다."
     },
     resource = {
       [1] = {
-        text = "확장 2차 직업군 중 하나로 전직한다."
+        text = "확장 2차 직업군으로 전직"
       }
     },
-    reward = {buff = 10, item = 16481},
+    reward = {buff = 12, item = 16483},
     score = 20
   },
   [200017] = {
@@ -4756,7 +1261,7 @@ achievement_tbl = {
     title = "곰 같은 힘이여!",
     content = {
       summary = "순수 STR 90 를 달성한다",
-      details = "스테이터스 STR 포인트를 90 이상까지 찍는다."
+      details = "스테이터스 STR 포인트를 순수 90 이상까지 달성한다."
     },
     resource = {
       [1] = {
@@ -4774,7 +1279,7 @@ achievement_tbl = {
     title = "넘치는 마력!",
     content = {
       summary = "순수 INT 90 를 달성한다",
-      details = "스테이터스 INT 포인트를 90 이상까지 찍는다."
+      details = "스테이터스 INT 포인트를 순수 90 이상까지 달성한다."
     },
     resource = {
       [1] = {
@@ -4792,7 +1297,7 @@ achievement_tbl = {
     title = "건강한 육체에 건강한 정신!",
     content = {
       summary = "순수 VIT 90 를 달성한다",
-      details = "스테이터스 VIT 포인트를 90 이상까지 찍는다."
+      details = "스테이터스 VIT 포인트를 순수 90 이상까지 달성한다."
     },
     resource = {
       [1] = {
@@ -4810,7 +1315,7 @@ achievement_tbl = {
     title = "속도광",
     content = {
       summary = "순수 AGI 90 를 달성한다",
-      details = "스테이터스 AGI 포인트를 90 이상까지 찍는다."
+      details = "스테이터스 AGI 포인트를 순수 90 이상까지 달성한다."
     },
     resource = {
       [1] = {
@@ -4828,7 +1333,7 @@ achievement_tbl = {
     title = "매의 눈",
     content = {
       summary = "순수 DEX 90 를 달성한다",
-      details = "스테이터스 DEX 포인트를 90 이상까지 찍는다."
+      details = "스테이터스 DEX 포인트를 순수 90 이상까지 달성한다."
     },
     resource = {
       [1] = {
@@ -4846,7 +1351,7 @@ achievement_tbl = {
     title = "럭키 맥스",
     content = {
       summary = "순수 LUK 90 를 달성한다",
-      details = "스테이터스 LUK 포인트를 90 이상까지 찍는다."
+      details = "스테이터스 LUK 포인트를 순수 90 이상까지 달성한다."
     },
     resource = {
       [1] = {
@@ -4864,7 +1369,7 @@ achievement_tbl = {
     title = "용 같은 힘이여!",
     content = {
       summary = "순수 STR 125 를 달성한다",
-      details = "스테이터스 STR 포인트를 125 이상까지 찍는다."
+      details = "스테이터스 STR 포인트를 순수 125 이상까지 달성한다."
     },
     resource = {
       [1] = {
@@ -4882,7 +1387,7 @@ achievement_tbl = {
     title = "광기의 마력",
     content = {
       summary = "순수 INT 125 를 달성한다",
-      details = "스테이터스 INT 포인트를 125 이상까지 찍는다."
+      details = "스테이터스 INT 포인트를 순수 125 이상까지 달성한다."
     },
     resource = {
       [1] = {
@@ -4900,7 +1405,7 @@ achievement_tbl = {
     title = "합금강석",
     content = {
       summary = "순수 VIT 125 를 달성한다",
-      details = "스테이터스 VIT 포인트를 125 이상까지 찍는다."
+      details = "스테이터스 VIT 포인트를 순수 125 이상까지 달성한다."
     },
     resource = {
       [1] = {
@@ -4918,7 +1423,7 @@ achievement_tbl = {
     title = "빛의 속도",
     content = {
       summary = "순수 AGI 125 를 달성한다",
-      details = "스테이터스 AGI 포인트를 125 이상까지 찍는다."
+      details = "스테이터스 AGI 포인트를 순수 125 이상까지 달성한다."
     },
     resource = {
       [1] = {
@@ -4936,7 +1441,7 @@ achievement_tbl = {
     title = "팔콘의 눈",
     content = {
       summary = "순수 DEX 125 를 달성한다",
-      details = "스테이터스 DEX 포인트를 125 이상까지 찍는다."
+      details = "스테이터스 DEX 포인트를 순수 125 이상까지 달성한다."
     },
     resource = {
       [1] = {
@@ -4954,7 +1459,7 @@ achievement_tbl = {
     title = "럭키 피버",
     content = {
       summary = "순수 LUK 125 를 달성한다",
-      details = "스테이터스 LUK 포인트를 125 이상까지 찍는다."
+      details = "스테이터스 LUK 포인트를 순수 125 이상까지 달성한다."
     },
     resource = {
       [1] = {
@@ -4964,24 +1469,6 @@ achievement_tbl = {
     reward = {buff = 21},
     score = 20
   },
-  [200029] = {
-    UI_Type = 0,
-    group = "ACTION",
-    major = 1,
-    minor = 0,
-    title = "애증의 화신",
-    content = {
-      summary = "노비스로 BaseLv 99 달성!",
-      details = "직업군 노비스 상태로 BaseLv 99레벨에 도달하다."
-    },
-    resource = {
-      [1] = {
-        text = "노비스로 BaseLv 99 달성!"
-      }
-    },
-    reward = {buff = 10, item = 16483},
-    score = 30
-  },
   [200030] = {
     UI_Type = 0,
     group = "ACTION",
@@ -4989,12 +1476,12 @@ achievement_tbl = {
     minor = 0,
     title = "정말 좋아한다구요!",
     content = {
-      summary = "1차 직업군으로 BaseLv 99 달성!",
-      details = "검사, 상인, 도둑, 마법사, 복사, 궁사 중 하나의 직업군인 상태로, BaseLv 99 달성"
+      summary = "1차 직업군으로 99 베이스 레벨 달성한다",
+      details = "1차 직업군으로 전직한 상태에서 캐릭터의 베이스 레벨을 99 까지 달성한다."
     },
     resource = {
       [1] = {
-        text = "1차 직업군으로 BaseLv 99 달성!"
+        text = "1차 직업군으로 99 베이스 레벨 달성"
       }
     },
     reward = {buff = 10, item = 16504},
@@ -5007,12 +1494,12 @@ achievement_tbl = {
     minor = 0,
     title = "발할라에서 환생!",
     content = {
-      summary = "전승 노비스로 전직 완료!",
-      details = "발키리와 대화 후, 전승 노비스로 전직한다."
+      summary = "전승 노비스로 전직한다",
+      details = "전승 노비스로 전직한다. 발키리와의 대화를 통해서만 가능하다."
     },
     resource = {
       [1] = {
-        text = "전승 노비스로 전직 완료!"
+        text = "전승 노비스로 전직"
       }
     },
     reward = {buff = 12, item = 22808},
@@ -5093,7 +1580,7 @@ achievement_tbl = {
     group = "COMMUNITY",
     major = 3,
     minor = 1,
-    title = "동물들도 우리 친구지예~",
+    title = "동물들도 우리 친구이지요",
     content = {
       summary = "목표 과제를 모두 완료한다",
       details = "자다가도 동물 친구들 생각에 깨어나는 당신은 진정한 동물 애호가!"
@@ -5144,7 +1631,7 @@ achievement_tbl = {
     group = "COMMUNITY",
     major = 3,
     minor = 1,
-    title = "나와 계약해서.... 되어죠",
+    title = "내 안에 악마가 눈을 뜨다",
     content = {
       summary = "목표 과제를 모두 완료한다",
       details = "자다가도 악마와의 계약 생각에 깨어나는 당신은 진정한 악마 계약자!"
@@ -6219,89 +2706,99 @@ achievement_tbl = {
   },
   [220009] = {
     UI_Type = 1,
-    group = "COLLETION",
+    group = "COMMUNITY",
     major = 1,
     minor = 1,
     title = "시장 경제 활성화 (1)",
     content = {
       summary = "노점을 통해 1만 제니 이상 소비한다",
-      details = "돈은 돌고 도는 법. 유저가 연 노점에서 아이템을 1만 제니 만큼 구매한다. "
+      details = "돈은 돌고 도는 법. 다른 플레이어의 노점에서 아이템을 1만 제니 만큼 구매한다. "
     },
     resource = {
       [1] = {
         text = "노점을 통해 1만 제니 이상 소비",
         count = 10000
-      }
+      },
+      ["count"] = 1000000,
+      ["count"] = 5000000,
+      ["count"] = 100000000,
+      ["count"] = 500000000
     },
     reward = {},
     score = 10
   },
   [220010] = {
     UI_Type = 1,
-    group = "COLLETION",
+    group = "COMMUNITY",
     major = 1,
     minor = 1,
     title = "시장 경제 활성화 (2)",
     content = {
       summary = "노점을 통해 100만 제니 이상 소비한다",
-      details = "돈은 돌고 도는 법. 유저가 연 노점에서 아이템을 100만 제니 만큼 구매한다. "
+      details = "돈은 돌고 도는 법. 다른 플레이어의 노점에서 아이템을 100만 제니 만큼 구매한다. "
     },
     resource = {
       [1] = {
         text = "노점을 통해 100만 제니 이상 소비",
         count = 1000000
-      }
+      },
+      ["count"] = 5000000,
+      ["count"] = 100000000,
+      ["count"] = 500000000
     },
     reward = {},
     score = 15
   },
   [220011] = {
     UI_Type = 1,
-    group = "COLLETION",
+    group = "COMMUNITY",
     major = 1,
     minor = 1,
     title = "시장 경제 활성화 (3)",
     content = {
       summary = "노점을 통해 500만 제니 이상 소비한다",
-      details = "돈은 돌고 도는 법. 유저가 연 노점에서 아이템을 500만 제니 만큼 구매한다. "
+      details = "돈은 돌고 도는 법. 다른 플레이어의 노점에서 아이템을 500만 제니 만큼 구매한다. "
     },
     resource = {
       [1] = {
         text = "노점을 통해 500만 제니 이상 소비",
         count = 5000000
-      }
+      },
+      ["count"] = 100000000,
+      ["count"] = 500000000
     },
     reward = {},
     score = 20
   },
   [220012] = {
     UI_Type = 1,
-    group = "COLLETION",
+    group = "COMMUNITY",
     major = 1,
     minor = 1,
     title = "시장 경제 활성화 (4)",
     content = {
       summary = "노점을 통해 1억 제니 이상 소비한다",
-      details = "돈은 돌고 도는 법. 유저가 연 노점에서 아이템을 1억만 제니 만큼 구매한다. "
+      details = "돈은 돌고 도는 법. 다른 플레이어의 노점에서 아이템을 1억만 제니 만큼 구매한다. "
     },
     resource = {
       [1] = {
         text = "노점을 통해 1억 제니 이상 소비",
         count = 100000000
-      }
+      },
+      ["count"] = 500000000
     },
     reward = {},
     score = 30
   },
   [220013] = {
     UI_Type = 1,
-    group = "COLLETION",
+    group = "COMMUNITY",
     major = 1,
     minor = 1,
     title = "시장 경제 활성화 (5)",
     content = {
       summary = "노점을 통해 5억 제니 이상 소비한다",
-      details = "돈은 돌고 도는 법. 유저가 연 노점에서 아이템을 5억만 제니 만큼 구매한다. "
+      details = "돈은 돌고 도는 법. 다른 플레이어의 노점에서 아이템을 5억만 제니 만큼 구매한다. "
     },
     resource = {
       [1] = {
@@ -6314,13 +2811,13 @@ achievement_tbl = {
   },
   [220014] = {
     UI_Type = 0,
-    group = "COLLETION",
+    group = "COMMUNITY",
     major = 1,
     minor = 1,
-    title = "무기 제련 성공기 (1)",
+    title = "제련은 그만둘 수 없어! (1)",
     content = {
       summary = "무기 1레벨급을 7제련까지 성공한다",
-      details = "나의 행운은 어디까지일까? 무기 1레벨급을 7제련까지 성공시켜 본다."
+      details = "나의 행운은 어디까지인가? 무기 1레벨급을 7제련까지 성공한다."
     },
     resource = {
       [1] = {
@@ -6332,13 +2829,13 @@ achievement_tbl = {
   },
   [220015] = {
     UI_Type = 0,
-    group = "COLLETION",
+    group = "COMMUNITY",
     major = 1,
     minor = 1,
-    title = "무기 제련 성공기 (2)",
+    title = "제련은 그만둘 수 없어! (2)",
     content = {
       summary = "무기 1레벨급을 12제련까지 성공한다",
-      details = "나의 행운은 어디까지일까? 무기 1레벨급을 12제련까지 성공시켜 본다."
+      details = "나의 행운은 어디까지인가? 무기 1레벨급을 12제련까지 성공한다."
     },
     resource = {
       [1] = {
@@ -6350,13 +2847,13 @@ achievement_tbl = {
   },
   [220016] = {
     UI_Type = 0,
-    group = "COLLETION",
+    group = "COMMUNITY",
     major = 1,
     minor = 1,
-    title = "무기 제련 성공기 (3)",
+    title = "제련은 그만둘 수 없어! (3)",
     content = {
       summary = "무기 2레벨급을 7제련까지 성공한다",
-      details = "나의 행운은 어디까지일까? 무기 2레벨급을 7제련까지 성공시켜 본다."
+      details = "나의 행운은 어디까지인가? 무기 2레벨급을 7제련까지 성공한다."
     },
     resource = {
       [1] = {
@@ -6368,13 +2865,13 @@ achievement_tbl = {
   },
   [220017] = {
     UI_Type = 0,
-    group = "COLLETION",
+    group = "COMMUNITY",
     major = 1,
     minor = 1,
-    title = "무기 제련 성공기 (4)",
+    title = "제련은 그만둘 수 없어! (4)",
     content = {
       summary = "무기 2레벨급을 12제련까지 성공한다",
-      details = "나의 행운은 어디까지일까? 무기 2레벨급을 12제련까지 성공시켜 본다."
+      details = "나의 행운은 어디까지인가? 무기 2레벨급을 12제련까지 성공한다."
     },
     resource = {
       [1] = {
@@ -6386,13 +2883,13 @@ achievement_tbl = {
   },
   [220018] = {
     UI_Type = 0,
-    group = "COLLETION",
+    group = "COMMUNITY",
     major = 1,
     minor = 1,
-    title = "무기 제련 성공기 (5)",
+    title = "제련은 그만둘 수 없어! (5)",
     content = {
       summary = "무기 3레벨급을 7제련까지 성공한다",
-      details = "나의 행운은 어디까지일까? 무기 3레벨급을 7제련까지 성공시켜 본다."
+      details = "나의 행운은 어디까지인가? 무기 3레벨급을 7제련까지 성공한다."
     },
     resource = {
       [1] = {
@@ -6404,13 +2901,13 @@ achievement_tbl = {
   },
   [220019] = {
     UI_Type = 0,
-    group = "COLLETION",
+    group = "COMMUNITY",
     major = 1,
     minor = 1,
-    title = "무기 제련 성공기 (6)",
+    title = "제련은 그만둘 수 없어! (6)",
     content = {
       summary = "무기 3레벨급을 12제련까지 성공한다",
-      details = "나의 행운은 어디까지일까? 무기 3레벨급을 12제련까지 성공시켜 본다."
+      details = "나의 행운은 어디까지인가? 무기 3레벨급을 12제련까지 성공한다."
     },
     resource = {
       [1] = {
@@ -6422,13 +2919,13 @@ achievement_tbl = {
   },
   [220020] = {
     UI_Type = 0,
-    group = "COLLETION",
+    group = "COMMUNITY",
     major = 1,
     minor = 1,
-    title = "무기 제련 성공기 (7)",
+    title = "제련은 그만둘 수 없어! (7)",
     content = {
       summary = "무기 4레벨급을 7제련까지 성공한다",
-      details = "나의 행운은 어디까지일까? 무기 4레벨급을 7제련까지 성공시켜 본다."
+      details = "나의 행운은 어디까지인가? 무기 4레벨급을 7제련까지 성공한다."
     },
     resource = {
       [1] = {
@@ -6440,13 +2937,13 @@ achievement_tbl = {
   },
   [220021] = {
     UI_Type = 0,
-    group = "COLLETION",
+    group = "COMMUNITY",
     major = 1,
     minor = 1,
-    title = "무기 제련 성공기 (8)",
+    title = "제련은 그만둘 수 없어! (8)",
     content = {
       summary = "무기 4레벨급을 12제련까지 성공한다",
-      details = "나의 행운은 어디까지일까? 무기 4레벨급을 12제련까지 성공시켜 본다."
+      details = "나의 행운은 어디까지인가? 무기 4레벨급을 12제련까지 성공한다."
     },
     resource = {
       [1] = {
@@ -6458,13 +2955,13 @@ achievement_tbl = {
   },
   [220022] = {
     UI_Type = 0,
-    group = "COLLETION",
+    group = "COMMUNITY",
     major = 1,
     minor = 1,
     title = "인간의 욕심은 끝이 없고..",
     content = {
       summary = "제련 실패를 경험한다",
-      details = "인간의 욕심은 끝이 없고 같은 실수를 반복한다. 하지만 실수속에서 교훈을 찾고 성장하기도 한다. "
+      details = "인간의 욕심은 끝이 없고 같은 실수를 반복한다. 하지만 실수속에서 교훈을 찾고 성장하기도 한다. 제련 실패를 경험해 보자."
     },
     resource = {
       [1] = {
@@ -6476,13 +2973,13 @@ achievement_tbl = {
   },
   [220023] = {
     UI_Type = 0,
-    group = "COLLETION",
+    group = "BATTLE",
     major = 1,
     minor = 1,
     title = "심봤다! (1)",
     content = {
       summary = "100 제니 이상 값어치 하는 아이템 획득한다",
-      details = "나에게도 이런 행운이! 상인에게 되팔시 값어치 100 제니 이상 하는 아이템을 획득해 본다."
+      details = "나에게도 이런 행운이! NPC 에게 판매 시 값어치 100 제니 이상의 아이템을 획득한다."
     },
     resource = {
       [1] = {
@@ -6494,13 +2991,13 @@ achievement_tbl = {
   },
   [220024] = {
     UI_Type = 0,
-    group = "COLLETION",
+    group = "BATTLE",
     major = 1,
     minor = 1,
     title = "심봤다! (2)",
     content = {
       summary = "1000 제니 이상 값어치 하는 아이템 획득한다",
-      details = "나에게도 이런 행운이! 상인에게 되팔시 값어치 1000 제니 이상 하는 아이템을 획득해 본다."
+      details = "나에게도 이런 행운이! NPC 에게 판매 시 값어치 1000 제니 이상의 아이템을 획득한다."
     },
     resource = {
       [1] = {
@@ -6512,13 +3009,13 @@ achievement_tbl = {
   },
   [220025] = {
     UI_Type = 0,
-    group = "COLLETION",
+    group = "BATTLE",
     major = 1,
     minor = 1,
     title = "심봤다! (3)",
     content = {
       summary = "5000 제니 이상 값어치 하는 아이템 획득한다",
-      details = "나에게도 이런 행운이! 상인에게 되팔시 값어치 5000 제니 이상 하는 아이템을 획득해 본다."
+      details = "나에게도 이런 행운이! NPC 에게 판매 시 값어치 5000 제니 이상의 아이템을 획득한다."
     },
     resource = {
       [1] = {
@@ -6530,13 +3027,13 @@ achievement_tbl = {
   },
   [220026] = {
     UI_Type = 0,
-    group = "COLLETION",
+    group = "BATTLE",
     major = 1,
     minor = 1,
     title = "심봤다! (4)",
     content = {
       summary = "1만 제니 이상 값어치 하는 아이템 획득한다",
-      details = "나에게도 이런 행운이! 상인에게 되팔시 값어치 1만 제니 이상 하는 아이템을 획득해 본다."
+      details = "나에게도 이런 행운이! NPC 에게 판매 시 값어치 1만 제니 이상의 아이템을 획득한다."
     },
     resource = {
       [1] = {
@@ -6548,13 +3045,13 @@ achievement_tbl = {
   },
   [220027] = {
     UI_Type = 0,
-    group = "COLLETION",
+    group = "BATTLE",
     major = 1,
     minor = 1,
     title = "심봤다! (5)",
     content = {
       summary = "5만 제니 이상 값어치 하는 아이템 획득한다",
-      details = "나에게도 이런 행운이! 상인에게 되팔시 값어치 5만 제니 이상 하는 아이템을 획득해 본다."
+      details = "나에게도 이런 행운이! NPC 에게 판매 시 값어치 5만 제니 이상의 아이템을 획득한다."
     },
     resource = {
       [1] = {
@@ -6566,13 +3063,13 @@ achievement_tbl = {
   },
   [220028] = {
     UI_Type = 0,
-    group = "COLLETION",
+    group = "BATTLE",
     major = 1,
     minor = 1,
     title = "심봤다! (6)",
     content = {
       summary = "10만 제니 이상 값어치 하는 아이템 획득한다",
-      details = "나에게도 이런 행운이! 상인에게 되팔시 값어치 10만 제니 이상 하는 아이템을 획득해 본다."
+      details = "나에게도 이런 행운이! NPC 에게 판매 시 값어치 10만 제니 이상의 아이템을 획득한다."
     },
     resource = {
       [1] = {
@@ -6584,13 +3081,13 @@ achievement_tbl = {
   },
   [220029] = {
     UI_Type = 0,
-    group = "COLLETION",
+    group = "BATTLE",
     major = 1,
     minor = 1,
     title = "심봤다! (7)",
     content = {
       summary = "15만 제니 이상 값어치 하는 아이템 획득한다",
-      details = "나에게도 이런 행운이! 상인에게 되팔시 값어치 15만 제니 이상 하는 아이템을 획득해 본다."
+      details = "나에게도 이런 행운이! NPC 에게 판매 시 값어치 15만 제니 이상의 아이템을 획득한다."
     },
     resource = {
       [1] = {
@@ -6602,13 +3099,13 @@ achievement_tbl = {
   },
   [220030] = {
     UI_Type = 0,
-    group = "COLLETION",
+    group = "ACTION",
     major = 1,
     minor = 1,
     title = "부자왕 (1)",
     content = {
       summary = "소지금 1만 제니 이상 보유한다",
-      details = "돈이 전부는 아니지만 없어서도 안된다. 소지금을 1만 제니를 모아본다."
+      details = "돈이 전부는 아니지만 없어서도 안된다. 소지금 1만 제니를 모아본다."
     },
     resource = {
       [1] = {
@@ -6620,13 +3117,13 @@ achievement_tbl = {
   },
   [220031] = {
     UI_Type = 0,
-    group = "COLLETION",
+    group = "ACTION",
     major = 1,
     minor = 1,
     title = "부자왕 (2)",
     content = {
       summary = "소지금 10만 제니 이상 보유한다",
-      details = "돈이 전부는 아니지만 없어서도 안된다. 소지금을 10만 제니를 모아본다."
+      details = "돈이 전부는 아니지만 없어서도 안된다. 소지금 10만 제니를 모아본다."
     },
     resource = {
       [1] = {
@@ -6638,13 +3135,13 @@ achievement_tbl = {
   },
   [220032] = {
     UI_Type = 0,
-    group = "COLLETION",
+    group = "ACTION",
     major = 1,
     minor = 1,
     title = "부자왕 (3)",
     content = {
       summary = "소지금 100만 제니 이상 보유한다",
-      details = "돈이 전부는 아니지만 없어서도 안된다. 소지금을 100만 제니를 모아본다."
+      details = "돈이 전부는 아니지만 없어서도 안된다. 소지금 100만 제니를 모아본다."
     },
     resource = {
       [1] = {
@@ -6656,13 +3153,13 @@ achievement_tbl = {
   },
   [220033] = {
     UI_Type = 0,
-    group = "COLLETION",
+    group = "ACTION",
     major = 1,
     minor = 1,
     title = "부자왕 (4)",
     content = {
       summary = "소지금 1000만 제니 이상 보유한다",
-      details = "돈이 전부는 아니지만 없어서도 안된다. 소지금을 1000만 제니를 모아본다."
+      details = "돈이 전부는 아니지만 없어서도 안된다. 소지금 1000만 제니를 모아본다."
     },
     resource = {
       [1] = {
@@ -6674,13 +3171,13 @@ achievement_tbl = {
   },
   [220034] = {
     UI_Type = 0,
-    group = "COLLETION",
+    group = "ACTION",
     major = 1,
     minor = 1,
     title = "부자왕 (5)",
     content = {
       summary = "소지금 1억 제니 이상 보유한다",
-      details = "돈이 전부는 아니지만 없어서도 안된다. 소지금을 1억 제니를 모아본다."
+      details = "돈이 전부는 아니지만 없어서도 안된다. 소지금 1억 제니를 모아본다."
     },
     resource = {
       [1] = {
@@ -6692,13 +3189,13 @@ achievement_tbl = {
   },
   [220035] = {
     UI_Type = 0,
-    group = "COLLETION",
+    group = "ACTION",
     major = 1,
     minor = 1,
     title = "부자왕 (6)",
     content = {
       summary = "소지금 10억 제니 이상 보유한다",
-      details = "돈이 전부는 아니지만 없어서도 안된다. 소지금을 10억만 제니를 모아본다."
+      details = "돈이 전부는 아니지만 없어서도 안된다. 소지금 10억만 제니를 모아본다."
     },
     resource = {
       [1] = {
