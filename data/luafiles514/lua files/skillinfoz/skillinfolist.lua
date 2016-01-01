@@ -26245,7 +26245,7 @@ SKILL_INFO_LIST = {
   },
   [SKID.SU_BASIC_SKILL] = {
     "SU_BASIC_SKILL",
-    SkillName = "새로운 기본기능",
+    SkillName = "새로운 기본 기능",
     MaxLv = 1,
     SpAmount = {0},
     bSeperateLv = false,

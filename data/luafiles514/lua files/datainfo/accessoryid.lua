@@ -1411,5 +1411,6 @@ ACCESSORY_IDs = {
   ACCESSORY_Commandments_Of_Chain = 1417,
   ACCESSORY_Subject_Aura_Red = 1418,
   ACCESSORY_Bldy_Light_Dark_Crown = 1419,
-  ACCESSORY_Blessing_Of_Angels = 1425
+  ACCESSORY_Blessing_Of_Angels = 1425,
+  ACCESSORY_GrimReaper_Protection = 1450
 }
