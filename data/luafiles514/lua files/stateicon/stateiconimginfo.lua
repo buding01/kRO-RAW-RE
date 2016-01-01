@@ -102,7 +102,8 @@ StateIconImgList = {
     [EFST_IDs.EFST_CHUSEOK_FRIDAY] = "gogi.TGA",
     [EFST_IDs.EFST_CHUSEOK_WEEKEND] = "gogi.TGA",
     [EFST_IDs.EFST_DRACULA_CARD] = "icon08.tga",
-    [EFST_IDs.EFST_LIMIT_POWER_BOOSTER] = "Æø±â.tga"
+    [EFST_IDs.EFST_LIMIT_POWER_BOOSTER] = "Æø±â.tga",
+    [EFST_IDs.EFST_EP16_DEF] = "glastheim_def.tga"
   },
   [PRIORITY_GREEN] = {
     [EFST_IDs.EFST_SET_NUM_DEF] = "SETDEF.TGA",

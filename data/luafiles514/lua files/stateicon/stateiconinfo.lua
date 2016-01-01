@@ -5684,3 +5684,17 @@ StateIconList[EFST_IDs.EFST_DRACULA_CARD] = {
     }
   }
 }
+StateIconList[EFST_IDs.EFST_EP16_DEF] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 3,
+  descript = {
+    {
+      "빛나는 성수",
+      COLOR_TITLE_BUFF
+    },
+    {
+      "의식의방, 프론테라 침공 던전에서 받는 데미지 10% 감소"
+    },
+    {"%s", COLOR_TIME}
+  }
+}
