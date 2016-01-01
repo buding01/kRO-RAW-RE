@@ -4507,3 +4507,97 @@ StateIconList[EFST_IDs.EFST_RAY_OF_PROTECTION] = {
     }
   }
 }
+StateIconList[EFST_IDs.EFST_GLASTHEIM_ATK] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 3,
+  descript = {
+    {
+      "강력한 힘이 내 몸에서"
+    },
+    {
+      "일렁이는 것을 느낄 수 있습니다."
+    },
+    {"%s", COLOR_TIME}
+  }
+}
+StateIconList[EFST_IDs.EFST_GLASTHEIM_DEF] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 3,
+  descript = {
+    {
+      "만들어 준 마법방패로"
+    },
+    {
+      "보호받고 있습니다."
+    },
+    {"%s", COLOR_TIME}
+  }
+}
+StateIconList[EFST_IDs.EFST_GLASTHEIM_HEAL] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 4,
+  descript = {
+    {
+      "성스러운 마법이"
+    },
+    {
+      "치유의 힘을"
+    },
+    {
+      "극대화 해 줍니다."
+    },
+    {"%s", COLOR_TIME}
+  }
+}
+StateIconList[EFST_IDs.EFST_GLASTHEIM_HIDDEN] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 3,
+  descript = {
+    {
+      "대마법 방어 에너지가"
+    },
+    {
+      "수없이 겹쳐있습니다."
+    },
+    {"%s", COLOR_TIME}
+  }
+}
+StateIconList[EFST_IDs.EFST_GLASTHEIM_STATE] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 3,
+  descript = {
+    {
+      "모든 능력치가"
+    },
+    {
+      "급격히 상승합니다."
+    },
+    {"%s", COLOR_TIME}
+  }
+}
+StateIconList[EFST_IDs.EFST_GLASTHEIM_ITEMDEF] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 3,
+  descript = {
+    {
+      "모든 방어력이"
+    },
+    {
+      "급격히 상승합니다."
+    },
+    {"%s", COLOR_TIME}
+  }
+}
+StateIconList[EFST_IDs.EFST_GLASTHEIM_HPSP] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 3,
+  descript = {
+    {
+      "MHP와 MSP가"
+    },
+    {
+      "급격히 상승합니다."
+    },
+    {"%s", COLOR_TIME}
+  }
+}
