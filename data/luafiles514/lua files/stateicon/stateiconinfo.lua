@@ -5899,20 +5899,6 @@ StateIconList[EFST_IDs.EFST_BODYSTATE_SLEEP] = {
     }
   }
 }
-StateIconList[EFST_IDs.EFST_BODYSTATE_UNDEAD] = {
-  haveTimeLimit = 1,
-  posTimeLimitStr = 2,
-  descript = {
-    {"언데드", COLOR_TITLE_DEBUFF},
-    {"%s", COLOR_TIME},
-    {
-      "언데드 속성"
-    },
-    {
-      "힐 스킬로 회복 불가"
-    }
-  }
-}
 StateIconList[EFST_IDs.EFST_BODYSTATE_STONECURSE_ING] = {
   haveTimeLimit = 1,
   posTimeLimitStr = 2,
@@ -5997,29 +5983,6 @@ StateIconList[EFST_IDs.EFST_HEALTHSTATE_CONFUSION] = {
     {"%s", COLOR_TIME},
     {
       "이동 시 무작위로 이동"
-    }
-  }
-}
-StateIconList[EFST_IDs.EFST_HEALTHSTATE_BLIND] = {
-  haveTimeLimit = 1,
-  posTimeLimitStr = 2,
-  descript = {
-    {"암흑", COLOR_TITLE_DEBUFF},
-    {"%s", COLOR_TIME},
-    {"시야 저하"},
-    {
-      "명중률, 회피율 감소"
-    }
-  }
-}
-StateIconList[EFST_IDs.EFST_HEALTHSTATE_ANGELUS] = {
-  haveTimeLimit = 1,
-  posTimeLimitStr = 2,
-  descript = {
-    {"안젤루스", COLOR_TITLE_BUFF},
-    {"%s", COLOR_TIME},
-    {
-      "방어력 증가"
     }
   }
 }
