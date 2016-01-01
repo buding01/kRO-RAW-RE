@@ -1327,5 +1327,7 @@ AccNameTable = {
   [ACCESSORY_IDs.ACCESSORY_C_Happy_Lunatic_Hanging_Ear] = "_C행복의늘어진루나틱귀",
   [ACCESSORY_IDs.ACCESSORY_C_Face_Crusher] = "_C페이스_크래셔",
   [ACCESSORY_IDs.ACCESSORY_C_Hill_Wind_Mask] = "_C힐윈드_마스크",
-  [ACCESSORY_IDs.ACCESSORY_C_Beelzebub_Crown] = "_C베르제브브의왕관"
+  [ACCESSORY_IDs.ACCESSORY_C_Beelzebub_Crown] = "_C베르제브브의왕관",
+  [ACCESSORY_IDs.ACCESSORY_Analyze_Eye] = "_애널라이즈아이",
+  [ACCESSORY_IDs.ACCESSORY_FlyingGalapago] = "_날으는갈라파고"
 }

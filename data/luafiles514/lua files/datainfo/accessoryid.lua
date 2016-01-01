@@ -1331,5 +1331,7 @@ ACCESSORY_IDs = {
   ACCESSORY_C_Happy_Lunatic_Hanging_Ear = 1340,
   ACCESSORY_C_Face_Crusher = 1341,
   ACCESSORY_C_Hill_Wind_Mask = 1342,
-  ACCESSORY_C_Beelzebub_Crown = 1343
+  ACCESSORY_C_Beelzebub_Crown = 1343,
+  ACCESSORY_Analyze_Eye = 1351,
+  ACCESSORY_FlyingGalapago = 1358
 }
