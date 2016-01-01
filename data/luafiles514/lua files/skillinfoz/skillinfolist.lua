@@ -12324,16 +12324,16 @@ SKILL_INFO_LIST = {
     SkillName = "아도라무스",
     MaxLv = 10,
     SpAmount = {
-      20,
-      24,
+      22,
       28,
-      32,
-      36,
+      34,
       40,
-      44,
-      48,
+      46,
       52,
-      56
+      58,
+      64,
+      70,
+      76
     },
     bSeperateLv = true,
     AttackRange = {
