@@ -2952,9 +2952,13 @@ JobNameTable = {
   [jobtbl.JT_GORILLA] = "GORILLA",
   [jobtbl.JT_LION] = "LION",
   [jobtbl.JT_RHINO] = "RHINO",
-  [jobtbl.JT_M_E_DEVILING] = "DEVILING",
+  [jobtbl.JT_M_E_DEVILING] = "GHOSTRING",
   [jobtbl.JT_J_REB_SHECIL1] = "L_SHECIL",
   [jobtbl.JT_J_REB_SHECIL2] = "SHECIL",
   [jobtbl.JT_POURING_SEA_FES] = "POURING",
-  [jobtbl.JT_E_POPORING_CRO] = "E_POPORING_CRO"
+  [jobtbl.JT_E_POPORING_CRO] = "E_POPORING_CRO",
+  [jobtbl.JT_4_M_REBELLION] = "4_M_REBELLION",
+  [jobtbl.JT_4_F_REBELLION] = "4_F_REBELLION",
+  [jobtbl.JT_4_CHN_SHAOTH] = "4_CHN_SHAOTH",
+  [jobtbl.JT_4_SHOAL] = "4_SHOAL"
 }

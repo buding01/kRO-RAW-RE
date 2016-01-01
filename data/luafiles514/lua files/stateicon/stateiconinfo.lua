@@ -5256,80 +5256,97 @@ StateIconList[EFST_IDs.EFST_GLASTHEIM_TRANS] = {
 }
 StateIconList[EFST_IDs.EFST_B_TRAP] = {
   haveTimeLimit = 1,
-  posTimeLimitStr = 3,
+  posTimeLimitStr = 2,
   descript = {
     {
       "바인드 트랩",
       COLOR_TITLE_DEBUFF
     },
-    {"이동 불가"},
-    {"%s", COLOR_TIME}
+    {"%s", COLOR_TIME},
+    {
+      "이동 속도 감소"
+    }
   }
 }
 StateIconList[EFST_IDs.EFST_E_CHAIN] = {
   haveTimeLimit = 1,
-  posTimeLimitStr = 3,
+  posTimeLimitStr = 2,
   descript = {
     {
       "이터널 체인",
       COLOR_TITLE_BUFF
     },
+    {"%s", COLOR_TIME},
     {
       "일정 확률로 체인액션 발동"
-    },
-    {"%s", COLOR_TIME}
+    }
   }
 }
 StateIconList[EFST_IDs.EFST_C_MARKER] = {
   haveTimeLimit = 1,
-  posTimeLimitStr = 3,
+  posTimeLimitStr = 2,
   descript = {
     {
       "크림즌 마커",
       COLOR_TITLE_DEBUFF
     },
-    {"FLEE 감소"},
-    {"%s", COLOR_TIME}
+    {"%s", COLOR_TIME},
+    {"FLEE 감소"}
   }
 }
 StateIconList[EFST_IDs.EFST_P_ALTER] = {
   haveTimeLimit = 1,
-  posTimeLimitStr = 4,
+  posTimeLimitStr = 2,
   descript = {
     {
       "플래티넘 알터",
       COLOR_TITLE_BUFF
     },
+    {"%s", COLOR_TIME},
     {"ATK 증가"},
     {
       "불사속성 내성 증가"
-    },
-    {"%s", COLOR_TIME}
+    }
   }
 }
 StateIconList[EFST_IDs.EFST_HEAT_BARREL] = {
   haveTimeLimit = 1,
-  posTimeLimitStr = 4,
+  posTimeLimitStr = 2,
   descript = {
     {"히트 배럴", COLOR_TITLE_BUFF},
+    {"%s", COLOR_TIME},
     {"ATK 증가"},
     {
       "공격 후딜레이 감소"
-    },
-    {"%s", COLOR_TIME}
+    }
   }
 }
 StateIconList[EFST_IDs.EFST_ANTI_M_BLAST] = {
   haveTimeLimit = 1,
-  posTimeLimitStr = 3,
+  posTimeLimitStr = 2,
   descript = {
     {
       "안티 매터리얼 블래스트",
       COLOR_TITLE_DEBUFF
     },
+    {"%s", COLOR_TIME},
     {
       "무속성 내성 감소"
+    }
+  }
+}
+StateIconList[EFST_IDs.EFST_HEAT_BARREL_AFTER] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
+  descript = {
+    {"후유증", COLOR_TITLE_DEBUFF},
+    {"%s", COLOR_TIME},
+    {
+      "아이템 사용불가"
     },
-    {"%s", COLOR_TIME}
+    {
+      "스킬 사용불가"
+    },
+    {"공격 불가"}
   }
 }

@@ -26,7 +26,8 @@ StateIconImgList = {
     [EFST_IDs.EFST_GLASTHEIM_TRANS] = "GLASTHEIM_TRANS.tga",
     [EFST_IDs.EFST_B_TRAP] = "바인드트랩.tga",
     [EFST_IDs.EFST_ANTI_M_BLAST] = "안티매터리얼.tga",
-    [EFST_IDs.EFST_C_MARKER] = "크림즌마커.tga"
+    [EFST_IDs.EFST_C_MARKER] = "크림즌마커.tga",
+    [EFST_IDs.EFST_HEAT_BARREL_AFTER] = "REBOUND.TGA"
   },
   [PRIORITY_BLUE] = {
     [EFST_IDs.EFST_ATTHASTE_CASH] = "ASPDCASH.TGA",

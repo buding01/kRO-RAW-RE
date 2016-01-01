@@ -741,6 +741,7 @@ EFST_IDs = {
   EFST_PACKING_ENVELOPE9 = 774,
   EFST_PACKING_ENVELOPE10 = 775,
   EFST_GLASTHEIM_TRANS = 776,
+  EFST_HEAT_BARREL_AFTER = 778,
   __newindex = function()
     error("unknown state")
   end
