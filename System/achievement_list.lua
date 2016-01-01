@@ -4378,7 +4378,7 @@ achievement_tbl = {
     UI_Type = 0,
     group = "ACTION",
     major = 2,
-    minor = 4,
+    minor = 3,
     title = "이계의 탐험가",
     content = {
       summary = "목표 필드 탐험 완료",
@@ -4391,7 +4391,7 @@ achievement_tbl = {
       },
       [2] = {
         text = "마누크의 탐험가",
-        shortcut = 129019
+        shortcut = 120918
       }
     },
     reward = {item = 617},
@@ -5297,45 +5297,6 @@ achievement_tbl = {
     reward = {title = 1029, buff = 12},
     score = 50
   },
-  [230150] = {
-    UI_Type = 0,
-    group = "COMMUNITY",
-    major = 3,
-    minor = 1,
-    title = "결성! 몬스터 보이즈!!",
-    content = {
-      summary = "목표 과제를 모두 완료한다",
-      details = "자다가도 몬스터 보이즈 결성 생각에 깨어나는 당신은 진정한 프로듀셔!"
-    },
-    resource = {
-      [1] = {
-        text = "과제 '인큐버스 - 길들이기' 완료",
-        shortcut = 230151
-      },
-      [2] = {
-        text = "과제 '오크 워리어 - 길들이기' 완료",
-        shortcut = 230152
-      },
-      [3] = {
-        text = "과제 '단검 고블린 - 길들이기' 완료",
-        shortcut = 230153
-      },
-      [4] = {
-        text = "과제 '플레 고블린 - 길들이기' 완료",
-        shortcut = 230154
-      },
-      [5] = {
-        text = "과제 '해머 고블린 - 길들이기' 완료",
-        shortcut = 230155
-      },
-      [6] = {
-        text = "과제 '고블린 리더 - 길들이기' 완료",
-        shortcut = 230156
-      }
-    },
-    reward = {title = 1030, buff = 12},
-    score = 50
-  },
   [230160] = {
     UI_Type = 0,
     group = "COMMUNITY",
@@ -5924,114 +5885,6 @@ achievement_tbl = {
     resource = {
       [1] = {
         text = "엘리스를 테이밍에 성공"
-      }
-    },
-    reward = {},
-    score = 10
-  },
-  [230151] = {
-    UI_Type = 0,
-    group = "COMMUNITY",
-    major = 3,
-    minor = 1,
-    title = "인큐버스 - 길들이기",
-    content = {
-      summary = "인큐버스를 테이밍에 성공한다",
-      details = "인큐버스를 펫으로 만들자. '소녀의 순정' 아이템으로 꼬실 수 있다."
-    },
-    resource = {
-      [1] = {
-        text = "인큐버스를 테이밍에 성공"
-      }
-    },
-    reward = {},
-    score = 10
-  },
-  [230152] = {
-    UI_Type = 0,
-    group = "COMMUNITY",
-    major = 3,
-    minor = 1,
-    title = "오크 워리어 - 길들이기",
-    content = {
-      summary = "오크 워리어를 테이밍에 성공한다",
-      details = "오크 워리어를 펫으로 만들자. '조직의 쓴맛' 아이템으로 꼬실 수 있다."
-    },
-    resource = {
-      [1] = {
-        text = "오크 워리어를 테이밍에 성공"
-      }
-    },
-    reward = {},
-    score = 10
-  },
-  [230153] = {
-    UI_Type = 0,
-    group = "COMMUNITY",
-    major = 3,
-    minor = 1,
-    title = "단검 고블린 - 길들이기",
-    content = {
-      summary = "단검 고블린을 테이밍에 성공한다",
-      details = "단검 고블린을 펫으로 만들자. '단검고블린의 반지' 아이템으로 꼬실 수 있다."
-    },
-    resource = {
-      [1] = {
-        text = "단검 고블린을 테이밍에 성공"
-      }
-    },
-    reward = {},
-    score = 10
-  },
-  [230154] = {
-    UI_Type = 0,
-    group = "COMMUNITY",
-    major = 3,
-    minor = 1,
-    title = "플레 고블린 - 길들이기",
-    content = {
-      summary = "플레 고블린을 테이밍에 성공한다",
-      details = "플레 고블린을 펫으로 만들자. '플레고블린의 반지' 아이템으로 꼬실 수 있다."
-    },
-    resource = {
-      [1] = {
-        text = "플레 고블린을 테이밍에 성공"
-      }
-    },
-    reward = {},
-    score = 10
-  },
-  [230155] = {
-    UI_Type = 0,
-    group = "COMMUNITY",
-    major = 3,
-    minor = 1,
-    title = "해머 고블린 - 길들이기",
-    content = {
-      summary = "해머 고블린을 테이밍에 성공한다",
-      details = "해머 고블린을 펫으로 만들자. '해머고블린의 반지' 아이템으로 꼬실 수 있다."
-    },
-    resource = {
-      [1] = {
-        text = "해머 고블린을 테이밍에 성공"
-      }
-    },
-    reward = {},
-    score = 10
-  },
-  [230156] = {
-    UI_Type = 0,
-    group = "COMMUNITY",
-    major = 3,
-    minor = 1,
-    title = "고블린 리더 - 길들이기",
-    content = {
-      summary = "고블린 리더를 테이밍에 성공한다",
-      details = "고블린 리더을 펫으로 만들자. '지도자의 지팡이' 아이템으로 꼬실 수 있다."
-    },
-    resource = {
-      [1] = {
-        text = "고블린 리더를 테이밍에 성공"
       }
     },
     reward = {},
