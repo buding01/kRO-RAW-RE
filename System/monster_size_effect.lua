@@ -1033,7 +1033,7 @@ tbl = {
   },
   [2605] = {
     MonsterSize = 1.2,
-    MonsterEff = EFFECT.EF_DEVIL1
+    MonsterEff = EFFECT.EF_BLUELIGHTBODY
   },
   [2606] = {
     MonsterSize = 1.2,
@@ -1053,7 +1053,7 @@ tbl = {
   },
   [2610] = {
     MonsterSize = 1.2,
-    MonsterEff = EFFECT.EF_DEVIL1
+    MonsterEff = EFFECT.EF_BLUELIGHTBODY
   },
   [2611] = {
     MonsterSize = 1.2,
@@ -1073,7 +1073,7 @@ tbl = {
   },
   [2615] = {
     MonsterSize = 1.2,
-    MonsterEff = EFFECT.EF_DEVIL1
+    MonsterEff = EFFECT.EF_BLUELIGHTBODY
   },
   [2616] = {
     MonsterSize = 1.2,
@@ -1089,7 +1089,7 @@ tbl = {
   },
   [2619] = {
     MonsterSize = 1.2,
-    MonsterEff = EFFECT.EF_DEVIL1
+    MonsterEff = EFFECT.EF_BLUELIGHTBODY
   },
   [2620] = {
     MonsterSize = 1.2,
@@ -1109,7 +1109,7 @@ tbl = {
   },
   [2624] = {
     MonsterSize = 1.2,
-    MonsterEff = EFFECT.EF_DEVIL1
+    MonsterEff = EFFECT.EF_BLUELIGHTBODY
   },
   [2625] = {
     MonsterSize = 1.2,
@@ -1129,7 +1129,7 @@ tbl = {
   },
   [2629] = {
     MonsterSize = 1.2,
-    MonsterEff = EFFECT.EF_DEVIL1
+    MonsterEff = EFFECT.EF_BLUELIGHTBODY
   },
   [2630] = {
     MonsterSize = 1.2,
@@ -1145,7 +1145,7 @@ tbl = {
   },
   [2633] = {
     MonsterSize = 1.2,
-    MonsterEff = EFFECT.EF_DEVIL1
+    MonsterEff = EFFECT.EF_BLUELIGHTBODY
   },
   [2634] = {
     MonsterSize = 1.2,
@@ -1165,7 +1165,7 @@ tbl = {
   },
   [2638] = {
     MonsterSize = 1.2,
-    MonsterEff = EFFECT.EF_DEVIL1
+    MonsterEff = EFFECT.EF_BLUELIGHTBODY
   },
   [2639] = {
     MonsterSize = 1.2,
@@ -1185,7 +1185,7 @@ tbl = {
   },
   [2643] = {
     MonsterSize = 1.2,
-    MonsterEff = EFFECT.EF_DEVIL1
+    MonsterEff = EFFECT.EF_BLUELIGHTBODY
   },
   [2644] = {
     MonsterSize = 1.2,
@@ -1205,7 +1205,7 @@ tbl = {
   },
   [2648] = {
     MonsterSize = 1.2,
-    MonsterEff = EFFECT.EF_DEVIL1
+    MonsterEff = EFFECT.EF_BLUELIGHTBODY
   },
   [2649] = {
     MonsterSize = 1.2,
@@ -1225,7 +1225,7 @@ tbl = {
   },
   [2653] = {
     MonsterSize = 1.2,
-    MonsterEff = EFFECT.EF_DEVIL1
+    MonsterEff = EFFECT.EF_BLUELIGHTBODY
   },
   [2654] = {
     MonsterSize = 1.2,
@@ -1245,7 +1245,7 @@ tbl = {
   },
   [2658] = {
     MonsterSize = 1.2,
-    MonsterEff = EFFECT.EF_DEVIL1
+    MonsterEff = EFFECT.EF_BLUELIGHTBODY
   },
   [2659] = {
     MonsterSize = 1.2,
@@ -1265,7 +1265,7 @@ tbl = {
   },
   [2663] = {
     MonsterSize = 1.2,
-    MonsterEff = EFFECT.EF_DEVIL1
+    MonsterEff = EFFECT.EF_BLUELIGHTBODY
   },
   [2664] = {
     MonsterSize = 1.2,
@@ -1285,7 +1285,7 @@ tbl = {
   },
   [2668] = {
     MonsterSize = 1.2,
-    MonsterEff = EFFECT.EF_DEVIL1
+    MonsterEff = EFFECT.EF_BLUELIGHTBODY
   },
   [2669] = {
     MonsterSize = 1.2,
@@ -1305,7 +1305,7 @@ tbl = {
   },
   [2673] = {
     MonsterSize = 1.2,
-    MonsterEff = EFFECT.EF_DEVIL1
+    MonsterEff = EFFECT.EF_BLUELIGHTBODY
   },
   [2674] = {
     MonsterSize = 1.2,
@@ -1325,7 +1325,7 @@ tbl = {
   },
   [2678] = {
     MonsterSize = 1.2,
-    MonsterEff = EFFECT.EF_DEVIL1
+    MonsterEff = EFFECT.EF_BLUELIGHTBODY
   },
   [2679] = {
     MonsterSize = 1.2,
@@ -1345,7 +1345,7 @@ tbl = {
   },
   [2683] = {
     MonsterSize = 1.2,
-    MonsterEff = EFFECT.EF_DEVIL1
+    MonsterEff = EFFECT.EF_BLUELIGHTBODY
   },
   [2684] = {
     MonsterSize = 1.2,
@@ -1365,7 +1365,7 @@ tbl = {
   },
   [2688] = {
     MonsterSize = 1.2,
-    MonsterEff = EFFECT.EF_DEVIL1
+    MonsterEff = EFFECT.EF_BLUELIGHTBODY
   },
   [2689] = {
     MonsterSize = 1.2,
@@ -1381,7 +1381,7 @@ tbl = {
   },
   [2692] = {
     MonsterSize = 1.2,
-    MonsterEff = EFFECT.EF_DEVIL1
+    MonsterEff = EFFECT.EF_BLUELIGHTBODY
   },
   [2693] = {
     MonsterSize = 1.2,
@@ -1397,7 +1397,7 @@ tbl = {
   },
   [2696] = {
     MonsterSize = 1.2,
-    MonsterEff = EFFECT.EF_DEVIL1
+    MonsterEff = EFFECT.EF_BLUELIGHTBODY
   },
   [2697] = {
     MonsterSize = 1.2,
@@ -1417,7 +1417,7 @@ tbl = {
   },
   [2701] = {
     MonsterSize = 1.2,
-    MonsterEff = EFFECT.EF_DEVIL1
+    MonsterEff = EFFECT.EF_BLUELIGHTBODY
   },
   [2702] = {
     MonsterSize = 1.2,
@@ -1437,7 +1437,7 @@ tbl = {
   },
   [2706] = {
     MonsterSize = 1.2,
-    MonsterEff = EFFECT.EF_DEVIL1
+    MonsterEff = EFFECT.EF_BLUELIGHTBODY
   },
   [2707] = {
     MonsterSize = 1.2,
@@ -1457,7 +1457,7 @@ tbl = {
   },
   [2711] = {
     MonsterSize = 1.2,
-    MonsterEff = EFFECT.EF_DEVIL1
+    MonsterEff = EFFECT.EF_BLUELIGHTBODY
   },
   [2712] = {
     MonsterSize = 1.2,
@@ -1477,7 +1477,7 @@ tbl = {
   },
   [2716] = {
     MonsterSize = 1.2,
-    MonsterEff = EFFECT.EF_DEVIL1
+    MonsterEff = EFFECT.EF_BLUELIGHTBODY
   },
   [2717] = {
     MonsterSize = 1.2,
@@ -1497,7 +1497,7 @@ tbl = {
   },
   [2721] = {
     MonsterSize = 1.2,
-    MonsterEff = EFFECT.EF_DEVIL1
+    MonsterEff = EFFECT.EF_BLUELIGHTBODY
   },
   [2722] = {
     MonsterSize = 1.2,
@@ -1517,7 +1517,7 @@ tbl = {
   },
   [2726] = {
     MonsterSize = 1.2,
-    MonsterEff = EFFECT.EF_DEVIL1
+    MonsterEff = EFFECT.EF_BLUELIGHTBODY
   },
   [2727] = {
     MonsterSize = 1.2,
@@ -1537,7 +1537,7 @@ tbl = {
   },
   [2731] = {
     MonsterSize = 1.2,
-    MonsterEff = EFFECT.EF_DEVIL1
+    MonsterEff = EFFECT.EF_BLUELIGHTBODY
   },
   [2732] = {
     MonsterSize = 1.2,
@@ -1557,7 +1557,7 @@ tbl = {
   },
   [2736] = {
     MonsterSize = 1.2,
-    MonsterEff = EFFECT.EF_DEVIL1
+    MonsterEff = EFFECT.EF_BLUELIGHTBODY
   },
   [2737] = {
     MonsterSize = 1.2,
@@ -1577,7 +1577,7 @@ tbl = {
   },
   [2741] = {
     MonsterSize = 1.2,
-    MonsterEff = EFFECT.EF_DEVIL1
+    MonsterEff = EFFECT.EF_BLUELIGHTBODY
   },
   [2742] = {
     MonsterSize = 1.2,
@@ -1597,7 +1597,7 @@ tbl = {
   },
   [2746] = {
     MonsterSize = 1.2,
-    MonsterEff = EFFECT.EF_DEVIL1
+    MonsterEff = EFFECT.EF_BLUELIGHTBODY
   },
   [2747] = {
     MonsterSize = 1.2,
@@ -1617,7 +1617,7 @@ tbl = {
   },
   [2751] = {
     MonsterSize = 1.2,
-    MonsterEff = EFFECT.EF_DEVIL1
+    MonsterEff = EFFECT.EF_BLUELIGHTBODY
   },
   [2752] = {
     MonsterSize = 1.2,
@@ -1637,7 +1637,7 @@ tbl = {
   },
   [2756] = {
     MonsterSize = 1.2,
-    MonsterEff = EFFECT.EF_DEVIL1
+    MonsterEff = EFFECT.EF_BLUELIGHTBODY
   },
   [2757] = {
     MonsterSize = 1.2,
@@ -1657,7 +1657,7 @@ tbl = {
   },
   [2761] = {
     MonsterSize = 1.2,
-    MonsterEff = EFFECT.EF_DEVIL1
+    MonsterEff = EFFECT.EF_BLUELIGHTBODY
   },
   [2762] = {
     MonsterSize = 1.2,
@@ -1677,7 +1677,7 @@ tbl = {
   },
   [2766] = {
     MonsterSize = 1.2,
-    MonsterEff = EFFECT.EF_DEVIL1
+    MonsterEff = EFFECT.EF_BLUELIGHTBODY
   },
   [2767] = {
     MonsterSize = 1.2,
@@ -1697,7 +1697,7 @@ tbl = {
   },
   [2771] = {
     MonsterSize = 1.2,
-    MonsterEff = EFFECT.EF_DEVIL1
+    MonsterEff = EFFECT.EF_BLUELIGHTBODY
   },
   [2772] = {
     MonsterSize = 1.2,
@@ -1717,7 +1717,7 @@ tbl = {
   },
   [2776] = {
     MonsterSize = 1.2,
-    MonsterEff = EFFECT.EF_DEVIL1
+    MonsterEff = EFFECT.EF_BLUELIGHTBODY
   },
   [2777] = {
     MonsterSize = 1.2,
@@ -1737,7 +1737,7 @@ tbl = {
   },
   [2781] = {
     MonsterSize = 1.2,
-    MonsterEff = EFFECT.EF_DEVIL1
+    MonsterEff = EFFECT.EF_BLUELIGHTBODY
   },
   [2782] = {
     MonsterSize = 1.2,
@@ -1757,7 +1757,7 @@ tbl = {
   },
   [2786] = {
     MonsterSize = 1.2,
-    MonsterEff = EFFECT.EF_DEVIL1
+    MonsterEff = EFFECT.EF_BLUELIGHTBODY
   },
   [2787] = {
     MonsterSize = 1.2,
@@ -1777,7 +1777,7 @@ tbl = {
   },
   [2791] = {
     MonsterSize = 1.2,
-    MonsterEff = EFFECT.EF_DEVIL1
+    MonsterEff = EFFECT.EF_BLUELIGHTBODY
   },
   [2792] = {
     MonsterSize = 1.2,
@@ -1797,7 +1797,7 @@ tbl = {
   },
   [2796] = {
     MonsterSize = 1.2,
-    MonsterEff = EFFECT.EF_DEVIL1
+    MonsterEff = EFFECT.EF_BLUELIGHTBODY
   },
   [2797] = {
     MonsterSize = 1.2,
@@ -1817,7 +1817,7 @@ tbl = {
   },
   [2801] = {
     MonsterSize = 1.2,
-    MonsterEff = EFFECT.EF_DEVIL1
+    MonsterEff = EFFECT.EF_BLUELIGHTBODY
   },
   [2802] = {
     MonsterSize = 1.2,
@@ -1837,7 +1837,7 @@ tbl = {
   },
   [2806] = {
     MonsterSize = 1.2,
-    MonsterEff = EFFECT.EF_DEVIL1
+    MonsterEff = EFFECT.EF_BLUELIGHTBODY
   },
   [2807] = {
     MonsterSize = 1.2,
@@ -1857,7 +1857,7 @@ tbl = {
   },
   [2811] = {
     MonsterSize = 1.2,
-    MonsterEff = EFFECT.EF_DEVIL1
+    MonsterEff = EFFECT.EF_BLUELIGHTBODY
   },
   [2812] = {
     MonsterSize = 1.2,
@@ -1877,7 +1877,7 @@ tbl = {
   },
   [2816] = {
     MonsterSize = 1.2,
-    MonsterEff = EFFECT.EF_DEVIL1
+    MonsterEff = EFFECT.EF_BLUELIGHTBODY
   },
   [2817] = {
     MonsterSize = 1.2,
@@ -1897,7 +1897,7 @@ tbl = {
   },
   [2821] = {
     MonsterSize = 1.2,
-    MonsterEff = EFFECT.EF_DEVIL1
+    MonsterEff = EFFECT.EF_BLUELIGHTBODY
   },
   [2822] = {
     MonsterSize = 1.2,
@@ -1917,7 +1917,7 @@ tbl = {
   },
   [2826] = {
     MonsterSize = 1.2,
-    MonsterEff = EFFECT.EF_DEVIL1
+    MonsterEff = EFFECT.EF_BLUELIGHTBODY
   },
   [2827] = {
     MonsterSize = 1.2,
@@ -1937,7 +1937,7 @@ tbl = {
   },
   [2831] = {
     MonsterSize = 1.2,
-    MonsterEff = EFFECT.EF_DEVIL1
+    MonsterEff = EFFECT.EF_BLUELIGHTBODY
   },
   [2832] = {
     MonsterSize = 1.2,
@@ -1957,7 +1957,7 @@ tbl = {
   },
   [2836] = {
     MonsterSize = 1.2,
-    MonsterEff = EFFECT.EF_DEVIL1
+    MonsterEff = EFFECT.EF_BLUELIGHTBODY
   },
   [2837] = {
     MonsterSize = 1.2,
@@ -1977,7 +1977,7 @@ tbl = {
   },
   [2841] = {
     MonsterSize = 1.2,
-    MonsterEff = EFFECT.EF_DEVIL1
+    MonsterEff = EFFECT.EF_BLUELIGHTBODY
   },
   [2842] = {
     MonsterSize = 1.2,
@@ -1993,7 +1993,7 @@ tbl = {
   },
   [2845] = {
     MonsterSize = 1.2,
-    MonsterEff = EFFECT.EF_DEVIL1
+    MonsterEff = EFFECT.EF_BLUELIGHTBODY
   },
   [2846] = {
     MonsterSize = 1.2,
@@ -2013,7 +2013,7 @@ tbl = {
   },
   [2850] = {
     MonsterSize = 1.2,
-    MonsterEff = EFFECT.EF_DEVIL1
+    MonsterEff = EFFECT.EF_BLUELIGHTBODY
   },
   [2851] = {
     MonsterSize = 1.2,
@@ -2033,7 +2033,7 @@ tbl = {
   },
   [2855] = {
     MonsterSize = 1.2,
-    MonsterEff = EFFECT.EF_DEVIL1
+    MonsterEff = EFFECT.EF_BLUELIGHTBODY
   },
   [2856] = {
     MonsterSize = 1.2,
@@ -2053,7 +2053,7 @@ tbl = {
   },
   [2860] = {
     MonsterSize = 1.2,
-    MonsterEff = EFFECT.EF_DEVIL1
+    MonsterEff = EFFECT.EF_BLUELIGHTBODY
   },
   [2861] = {
     MonsterSize = 1.2,
@@ -2073,7 +2073,7 @@ tbl = {
   },
   [2865] = {
     MonsterSize = 1.2,
-    MonsterEff = EFFECT.EF_DEVIL1
+    MonsterEff = EFFECT.EF_BLUELIGHTBODY
   },
   [2866] = {
     MonsterSize = 1.2,
@@ -2093,7 +2093,7 @@ tbl = {
   },
   [2870] = {
     MonsterSize = 1.2,
-    MonsterEff = EFFECT.EF_DEVIL1
+    MonsterEff = EFFECT.EF_BLUELIGHTBODY
   },
   [2871] = {
     MonsterSize = 1.2,
@@ -2113,7 +2113,7 @@ tbl = {
   },
   [2875] = {
     MonsterSize = 1.2,
-    MonsterEff = EFFECT.EF_DEVIL1
+    MonsterEff = EFFECT.EF_BLUELIGHTBODY
   },
   [2876] = {
     MonsterSize = 1.2,
@@ -2133,7 +2133,7 @@ tbl = {
   },
   [2880] = {
     MonsterSize = 1.2,
-    MonsterEff = EFFECT.EF_DEVIL1
+    MonsterEff = EFFECT.EF_BLUELIGHTBODY
   },
   [2881] = {
     MonsterSize = 1.2,
@@ -2149,7 +2149,7 @@ tbl = {
   },
   [2884] = {
     MonsterSize = 1.2,
-    MonsterEff = EFFECT.EF_DEVIL1
+    MonsterEff = EFFECT.EF_BLUELIGHTBODY
   },
   [2885] = {
     MonsterSize = 1.2,
@@ -2169,7 +2169,7 @@ tbl = {
   },
   [2889] = {
     MonsterSize = 1.2,
-    MonsterEff = EFFECT.EF_DEVIL1
+    MonsterEff = EFFECT.EF_BLUELIGHTBODY
   },
   [2890] = {
     MonsterSize = 1.2,
@@ -2189,7 +2189,7 @@ tbl = {
   },
   [2894] = {
     MonsterSize = 1.2,
-    MonsterEff = EFFECT.EF_DEVIL1
+    MonsterEff = EFFECT.EF_BLUELIGHTBODY
   },
   [2895] = {
     MonsterSize = 1.2,
@@ -2225,7 +2225,7 @@ tbl = {
   },
   [2903] = {
     MonsterSize = 1.2,
-    MonsterEff = EFFECT.EF_DEVIL1
+    MonsterEff = EFFECT.EF_BLUELIGHTBODY
   },
   [2904] = {
     MonsterSize = 1.2,
@@ -2245,7 +2245,7 @@ tbl = {
   },
   [2908] = {
     MonsterSize = 1.2,
-    MonsterEff = EFFECT.EF_DEVIL1
+    MonsterEff = EFFECT.EF_BLUELIGHTBODY
   },
   [2909] = {
     MonsterSize = 1.2,
@@ -2265,7 +2265,11 @@ tbl = {
   },
   [2913] = {
     MonsterSize = 1.2,
-    MonsterEff = EFFECT.EF_DEVIL1
+    MonsterEff = EFFECT.EF_BLUELIGHTBODY
+  },
+  [1272] = {
+    MonsterSize = 1,
+    MonsterEff = EFFECT.EF_DEVIL5
   }
 }
 function main()
