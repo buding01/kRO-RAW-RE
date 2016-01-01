@@ -32,6 +32,14 @@ function GetPetIllustName_V2(jobID, in_bResEnglishName)
   end
   return filePath .. fileName
 end
+function GetPetIllustName_V3(jobID)
+  local filePath = "UserInterface\\illust\\"
+  local fileName = "PET_NOIMAGE.bmp"
+  if PetIllustNameTable_Eng[jobID] ~= nil then
+    fileName = PetIllustNameTable_Eng[jobID]
+  end
+  return filePath .. fileName
+end
 function GetPetAccActName(accID)
   local filePath = "몬스터\\"
   local fileName = "chocho_방독면.act"
@@ -57,4 +65,29 @@ function IsPetAccessory(accID)
     return true
   end
   return false
+end
+function GetPetName(jobID)
+  petName = "poring"
+  if PetNameTable[jobID] ~= nil then
+    petName = PetNameTable[jobID]
+  end
+  return petName
+end
+function GetPetString(jobID)
+  if PetStringTable[jobID] ~= nil then
+    return PetStringTable[jobID]
+  end
+  return ""
+end
+function GetPetJTID_by_PetEggITID(petEggITID)
+  if PetEggItemID_PetJobID[petEggITID] ~= nil then
+    return PetEggItemID_PetJobID[petEggITID]
+  end
+  return -1
+end
+function GetPetFood(jobID)
+  if PetFoodTable[jobID] ~= nil then
+    return PetFoodTable[jobID]
+  end
+  return -1
 end
