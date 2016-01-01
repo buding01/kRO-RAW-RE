@@ -5644,17 +5644,43 @@ StateIconList[EFST_IDs.EFST_ESSENCE_OF_TIME] = {
     }
   }
 }
+StateIconList[EFST_IDs.EFST_LIMIT_POWER_BOOSTER] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
+  descript = {
+    {
+      "한정판 파워 부스터",
+      COLOR_TITLE_BUFF
+    },
+    {"%s", COLOR_TIME},
+    {
+      "ATK, MATK 증가"
+    },
+    {
+      "HIT, FLEE 증가"
+    },
+    {
+      "공격속도 증가"
+    },
+    {
+      "SP 소모량 감소"
+    },
+    {
+      "고정 캐스팅 감소"
+    }
+  }
+}
 StateIconList[EFST_IDs.EFST_DRACULA_CARD] = {
   haveTimeLimit = 1,
   posTimeLimitStr = 2,
   descript = {
     {
-      "봉인된 드라큐라",
+      "봉인된 베르제브브",
       COLOR_TITLE_BUFF
     },
     {"%s", COLOR_TIME},
     {
-      "일정확률로 적에게 준 대미지를 자신의 SP로 흡수"
+      "변동 캐스팅 시간 감소"
     }
   }
 }

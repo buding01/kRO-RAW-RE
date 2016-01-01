@@ -3187,5 +3187,5 @@ JobNameTable = {
   [jobtbl.JT_MIN_G_SAND_MAN] = "SAND_MAN",
   [jobtbl.JT_MIN_G_HIGH_ORC] = "HIGH_ORC",
   [jobtbl.JT_MIN_G_MEGALITH] = "MEGALITH",
-  [jobtbl.JT_B_DRACULA] = "DRACULA"
+  [jobtbl.JT_B_DRACULA] = "BEELZEBUB_"
 }
