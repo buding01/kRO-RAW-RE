@@ -2270,6 +2270,26 @@ tbl = {
   [1272] = {
     MonsterSize = 1,
     MonsterEff = EFFECT.EF_DEVIL5
+  },
+  [3039] = {
+    MonsterSize = 1.3,
+    MonsterEff = EFFECT.EF_REDLIGHTBODY
+  },
+  [3040] = {
+    MonsterSize = 1.4,
+    MonsterEff = EFFECT.EF_GREEN99_5
+  },
+  [3041] = {
+    MonsterSize = 1.5,
+    MonsterEff = EFFECT.EF_LEVEL150_SUB
+  },
+  [3105] = {
+    MonsterSize = 1.5,
+    MonsterEff = EFFECT.EF_REDLIGHTBODY
+  },
+  [3106] = {
+    MonsterSize = 1.5,
+    MonsterEff = EFFECT.EF_REDLIGHTBODY
   }
 }
 function main()
