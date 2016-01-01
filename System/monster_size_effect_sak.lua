@@ -2430,6 +2430,10 @@ tbl = {
   [3448] = {
     MonsterSize = 1.5,
     MonsterEff = EFFECT.EF_REDLIGHTBODY
+  },
+  [3490] = {
+    MonsterSize = 1.5,
+    MonsterEff = EFFECT.EF_REDLIGHTBODY
   }
 }
 function main()
