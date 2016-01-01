@@ -26076,25 +26076,5 @@ SKILL_INFO_LIST = {
     SpAmount = {0},
     bSeperateLv = false,
     AttackRange = {18}
-  },
-  [SKID.GD_GUILD_STORAGE] = {
-    "GD_GUILD_STORAGE",
-    SkillName = "길드창고 확장",
-    MaxLv = 5,
-    SpAmount = {
-      0,
-      0,
-      0,
-      0,
-      0
-    },
-    bSeperateLv = false,
-    AttackRange = {
-      1,
-      1,
-      1,
-      1,
-      1
-    }
   }
 }
