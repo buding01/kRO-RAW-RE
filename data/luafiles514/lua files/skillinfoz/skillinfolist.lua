@@ -26096,5 +26096,13 @@ SKILL_INFO_LIST = {
       1,
       1
     }
+  },
+  [SKID.GM_WIDE_RESURRECTION] = {
+    "GM_WIDE_RESURRECTION",
+    SkillName = "범위 리저렉션",
+    MaxLv = 1,
+    SpAmount = {0},
+    bSeperateLv = false,
+    AttackRange = {9}
   }
 }
