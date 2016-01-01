@@ -26068,5 +26068,13 @@ SKILL_INFO_LIST = {
         3
       }
     }
+  },
+  [SKID.GM_FORCE_TRANSFER] = {
+    "GM_FORCE_TRANSFER",
+    SkillName = "포스 트랜스퍼",
+    MaxLv = 1,
+    SpAmount = {0},
+    bSeperateLv = false,
+    AttackRange = {18}
   }
 }
