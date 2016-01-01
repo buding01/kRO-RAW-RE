@@ -439,6 +439,16 @@ HOTKEY_2 = {
     EXE = MsgStrID.MSI_HK_BANK,
     KEY1 = 66,
     KEY2 = 17
+  },
+  [47] = {
+    EXE = MsgStrID.MSI_HK_STATUSWND_ONOFF,
+    KEY1 = 65,
+    KEY2 = 18
+  },
+  [48] = {
+    EXE = MsgStrID.MSI_HK_SHORTCUTWND_ROTATE,
+    KEY1 = 123,
+    KEY2 = 17
   }
 }
 HOTKEY_3 = {
@@ -568,7 +578,8 @@ BEHAVIOR_TO_WINDOWID = {
   [198] = 38,
   [191] = 36,
   [169] = 34,
-  [203] = 42
+  [203] = 42,
+  [11] = 47
 }
 function GetKeyDes(key1, key2)
   local keyName1 = KEYNAME[key1]
