@@ -2398,6 +2398,14 @@ tbl = {
   [3239] = {
     MonsterSize = 1,
     MonsterEff = EFFECT.EF_DOUBLEGUMGANG2
+  },
+  [3259] = {
+    MonsterSize = 1,
+    MonsterEff = EFFECT.EF_DOUBLEGUMGANG3
+  },
+  [3260] = {
+    MonsterSize = 1,
+    MonsterEff = EFFECT.EF_DOUBLEGUMGANG3
   }
 }
 function main()
