@@ -100,7 +100,8 @@ StateIconImgList = {
     [EFST_IDs.EFST_CHUSEOK_WEDNESDAY] = "gogi.TGA",
     [EFST_IDs.EFST_CHUSEOK_THURSDAY] = "gogi.TGA",
     [EFST_IDs.EFST_CHUSEOK_FRIDAY] = "gogi.TGA",
-    [EFST_IDs.EFST_CHUSEOK_WEEKEND] = "gogi.TGA"
+    [EFST_IDs.EFST_CHUSEOK_WEEKEND] = "gogi.TGA",
+    [EFST_IDs.EFST_DRACULA_CARD] = "ÅÂÃ»´Ü.tga"
   },
   [PRIORITY_GREEN] = {
     [EFST_IDs.EFST_SET_NUM_DEF] = "SETDEF.TGA",

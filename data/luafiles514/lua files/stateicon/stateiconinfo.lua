@@ -5644,3 +5644,17 @@ StateIconList[EFST_IDs.EFST_ESSENCE_OF_TIME] = {
     }
   }
 }
+StateIconList[EFST_IDs.EFST_DRACULA_CARD] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
+  descript = {
+    {
+      "봉인된 드라큐라",
+      COLOR_TITLE_BUFF
+    },
+    {"%s", COLOR_TIME},
+    {
+      "일정확률로 적에게 준 대미지를 자신의 SP로 흡수"
+    }
+  }
+}
