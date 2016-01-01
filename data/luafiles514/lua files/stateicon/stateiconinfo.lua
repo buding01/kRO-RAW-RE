@@ -5123,3 +5123,137 @@ StateIconList[EFST_IDs.EFST_CROSSBOWCLAN] = {
     }
   }
 }
+StateIconList[EFST_IDs.EFST_PACKING_ENVELOPE1] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 3,
+  descript = {
+    {
+      "강력한 30초",
+      COLOR_TITLE_BUFF
+    },
+    {"ATK 증가"},
+    {"%s", COLOR_TIME}
+  }
+}
+StateIconList[EFST_IDs.EFST_PACKING_ENVELOPE2] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 3,
+  descript = {
+    {
+      "똑똑한 30초",
+      COLOR_TITLE_BUFF
+    },
+    {"MATK 증가"},
+    {"%s", COLOR_TIME}
+  }
+}
+StateIconList[EFST_IDs.EFST_PACKING_ENVELOPE3] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 3,
+  descript = {
+    {
+      "체력의 30초",
+      COLOR_TITLE_BUFF
+    },
+    {"MHP 증가"},
+    {"%s", COLOR_TIME}
+  }
+}
+StateIconList[EFST_IDs.EFST_PACKING_ENVELOPE4] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 3,
+  descript = {
+    {
+      "마력의 30초",
+      COLOR_TITLE_BUFF
+    },
+    {"MSP 증가"},
+    {"%s", COLOR_TIME}
+  }
+}
+StateIconList[EFST_IDs.EFST_PACKING_ENVELOPE5] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 3,
+  descript = {
+    {
+      "가벼운 30초",
+      COLOR_TITLE_BUFF
+    },
+    {"FLEE 증가"},
+    {"%s", COLOR_TIME}
+  }
+}
+StateIconList[EFST_IDs.EFST_PACKING_ENVELOPE6] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 3,
+  descript = {
+    {
+      "빨라진 30초",
+      COLOR_TITLE_BUFF
+    },
+    {"ASPD 증가"},
+    {"%s", COLOR_TIME}
+  }
+}
+StateIconList[EFST_IDs.EFST_PACKING_ENVELOPE7] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 3,
+  descript = {
+    {
+      "든든한 30초",
+      COLOR_TITLE_BUFF
+    },
+    {"DEF 증가"},
+    {"%s", COLOR_TIME}
+  }
+}
+StateIconList[EFST_IDs.EFST_PACKING_ENVELOPE8] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 3,
+  descript = {
+    {
+      "안전한 30초",
+      COLOR_TITLE_BUFF
+    },
+    {"MDEF 증가"},
+    {"%s", COLOR_TIME}
+  }
+}
+StateIconList[EFST_IDs.EFST_PACKING_ENVELOPE9] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 3,
+  descript = {
+    {
+      "운좋은 30초",
+      COLOR_TITLE_BUFF
+    },
+    {"CRI 증가"},
+    {"%s", COLOR_TIME}
+  }
+}
+StateIconList[EFST_IDs.EFST_PACKING_ENVELOPE10] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 3,
+  descript = {
+    {
+      "잘맞는 30초",
+      COLOR_TITLE_BUFF
+    },
+    {"HIT 증가"},
+    {"%s", COLOR_TIME}
+  }
+}
+StateIconList[EFST_IDs.EFST_GLASTHEIM_TRANS] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 3,
+  descript = {
+    {
+      "산 자와 죽은 자의 경계에 있습니다!",
+      COLOR_TITLE_DEBUFF
+    },
+    {
+      "정신력이 50% 감소합니다."
+    },
+    {"%s", COLOR_TIME}
+  }
+}
