@@ -545,5 +545,173 @@ _prt_church_emitterInfo = {
     destmode = {2},
     maxcount = {20},
     zenable = {1}
+  },
+  [13] = {
+    dir1 = {
+      -3,
+      -5,
+      -3
+    },
+    dir2 = {
+      5,
+      0,
+      5
+    },
+    gravity = {
+      0.7,
+      -2,
+      0.7
+    },
+    pos = {
+      395.6,
+      0,
+      395.4
+    },
+    radius = {
+      0,
+      0,
+      0
+    },
+    color = {
+      15,
+      15,
+      10,
+      50
+    },
+    rate = {3, 4},
+    size = {3, 3},
+    life = {4, 4},
+    texture = "smoke2.bmp",
+    speed = {0},
+    srcmode = {5},
+    destmode = {2},
+    maxcount = {20},
+    zenable = {1}
+  },
+  [14] = {
+    dir1 = {
+      -3,
+      -5,
+      -3
+    },
+    dir2 = {
+      5,
+      0,
+      5
+    },
+    gravity = {
+      0.7,
+      -2,
+      0.7
+    },
+    pos = {
+      345.4,
+      -3,
+      64.2
+    },
+    radius = {
+      0,
+      0,
+      0
+    },
+    color = {
+      15,
+      15,
+      10,
+      50
+    },
+    rate = {3, 4},
+    size = {3, 3},
+    life = {4, 4},
+    texture = "smoke2.bmp",
+    speed = {0},
+    srcmode = {5},
+    destmode = {2},
+    maxcount = {20},
+    zenable = {1}
+  },
+  [15] = {
+    dir1 = {
+      -3,
+      -5,
+      -3
+    },
+    dir2 = {
+      5,
+      0,
+      5
+    },
+    gravity = {
+      0.7,
+      -2,
+      0.7
+    },
+    pos = {
+      362.1,
+      2,
+      -413.3
+    },
+    radius = {
+      0,
+      0,
+      0
+    },
+    color = {
+      15,
+      15,
+      10,
+      50
+    },
+    rate = {3, 4},
+    size = {2, 2},
+    life = {4, 4},
+    texture = "smoke2.bmp",
+    speed = {0},
+    srcmode = {5},
+    destmode = {2},
+    maxcount = {20},
+    zenable = {1}
+  },
+  [16] = {
+    dir1 = {
+      -3,
+      -5,
+      -3
+    },
+    dir2 = {
+      5,
+      0,
+      5
+    },
+    gravity = {
+      0.7,
+      -2,
+      0.7
+    },
+    pos = {
+      25.4,
+      -15,
+      144.5
+    },
+    radius = {
+      0,
+      0,
+      0
+    },
+    color = {
+      15,
+      15,
+      10,
+      50
+    },
+    rate = {3, 4},
+    size = {4, 4},
+    life = {4, 4},
+    texture = "smoke2.bmp",
+    speed = {0},
+    srcmode = {5},
+    destmode = {2},
+    maxcount = {20},
+    zenable = {1}
   }
 }
