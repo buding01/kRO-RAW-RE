@@ -112,9 +112,10 @@ SKILL_EFFECT_INFO_LIST = {
   },
   [SKID.KO_KAIHOU] = {
     waveFileName = "effect\\닌자_던지기.wav",
-    effectNum = 1,
+    effectNum = 2,
     effectID = {
-      EFID.EF_KAIHOU
+      EFID.EF_KAIHOU,
+      EFID.EF_KAIHOU1
     },
     onTarget = true
   },
@@ -130,9 +131,8 @@ SKILL_EFFECT_INFO_LIST = {
   },
   [SKID.KG_KYOMU] = {
     targetWaveFileName = "effect\\t_에너지방출.wav",
-    targetEffectNum = 2,
+    targetEffectNum = 1,
     targetEffectID = {
-      EFID.EF_BRANDISH2,
       EFID.EF_KG_KYOMU
     },
     onTarget = true
@@ -151,7 +151,7 @@ SKILL_EFFECT_INFO_LIST = {
     targetWaveFileName = "effect\\t_따듯한마법.wav",
     targetEffectNum = 1,
     targetEffectID = {
-      EFID.EF_FOOD05
+      EFID.EF_ZANGETSU
     },
     onTarget = true
   },
@@ -161,17 +161,16 @@ SKILL_EFFECT_INFO_LIST = {
     targetWaveFileName = "effect\\t_에너지방출.wav",
     targetEffectNum = 1,
     targetEffectID = {
-      EFID.EF_FIREPILLARBOMB
+      EFID.EF_AKAITSUKI
     },
     onTarget = true
   },
   [SKID.OB_OBOROGENSOU] = {
     beginMotionType = ACTOR_STATE.ST_NINJAREADY,
-    beginEffectID = EFID.EF_BLUECASTING,
     targetWaveFileName = "effect\\sign_up.wav",
     targetEffectNum = 1,
     targetEffectID = {
-      EFID.EF_ENERGYCOAT
+      EFID.EF_GENSOU
     },
     onTarget = true
   },
