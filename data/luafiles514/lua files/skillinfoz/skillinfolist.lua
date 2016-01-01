@@ -26108,9 +26108,9 @@ SKILL_INFO_LIST = {
   [SKID.ALL_PRONTERA_RECALL] = {
     "ALL_PRONTERA_RECALL",
     SkillName = "프론테라 귀환",
-    MaxLv = 1,
-    SpAmount = {0},
+    MaxLv = 2,
+    SpAmount = {0, 0},
     bSeperateLv = false,
-    AttackRange = {1}
+    AttackRange = {1, 1}
   }
 }
