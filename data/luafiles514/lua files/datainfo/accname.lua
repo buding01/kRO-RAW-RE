@@ -1162,5 +1162,7 @@ AccNameTable = {
   [ACCESSORY_IDs.ACCESSORY_DragonCintamani_Hat1] = "_여의주를품은용모자1",
   [ACCESSORY_IDs.ACCESSORY_DragonCintamani_Hat2] = "_여의주를품은용모자2",
   [ACCESSORY_IDs.ACCESSORY_DragonCintamani_Hat3] = "_여의주를품은용모자3",
-  [ACCESSORY_IDs.ACCESSORY_DragonCintamani_Hat4] = "_여의주를품은용모자4"
+  [ACCESSORY_IDs.ACCESSORY_DragonCintamani_Hat4] = "_여의주를품은용모자4",
+  [ACCESSORY_IDs.ACCESSORY_Coiledup_Snake_Hat1] = "_똬리튼뱀모자1",
+  [ACCESSORY_IDs.ACCESSORY_Coiledup_Snake_Hat2] = "_똬리튼뱀모자2"
 }
