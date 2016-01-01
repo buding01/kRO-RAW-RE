@@ -1,4 +1,6 @@
 ShadowFactorTable = {
+  [jobtbl.JT_MG_AMDARAIS] = 2,
+  [jobtbl.JT_MG_CORRUPTION_ROOT] = 2,
   [JTtbl.JT_CHICKEN] = 1.5,
   [JTtbl.JT_CHICKEN2] = 1.5,
   [JTtbl.JT_CHICKEN_H] = 1.5,
