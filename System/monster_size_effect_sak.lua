@@ -2550,6 +2550,10 @@ tbl = {
   [3430] = {
     MonsterSize = 1.2,
     MonsterEff = EFFECT.EF_WHITEBODY
+  },
+  [3505] = {
+    MonsterSize = 1.5,
+    MonsterEff = EFFECT.EF_DOUBLEGUMGANG3
   }
 }
 function main()
