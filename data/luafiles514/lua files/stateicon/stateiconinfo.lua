@@ -4300,9 +4300,6 @@ StateIconList[EFST_IDs.EFST_IZAYOI] = {
     },
     {
       "아이템 MATK 증가"
-    },
-    {
-      "매 초당 일정량의 SP 소모"
     }
   }
 }
