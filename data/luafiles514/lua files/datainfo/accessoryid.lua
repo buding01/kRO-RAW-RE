@@ -1168,5 +1168,7 @@ ACCESSORY_IDs = {
   ACCESSORY_DragonCintamani_Hat3 = 1247,
   ACCESSORY_DragonCintamani_Hat4 = 1248,
   ACCESSORY_Coiledup_Snake_Hat1 = 1258,
-  ACCESSORY_Coiledup_Snake_Hat2 = 1259
+  ACCESSORY_Coiledup_Snake_Hat2 = 1259,
+  ACCESSORY_Horse_Hairpin1 = 1271,
+  ACCESSORY_Horse_Hairpin2 = 1272
 }

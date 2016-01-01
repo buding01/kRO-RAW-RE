@@ -3116,5 +3116,15 @@ JobNameTable = {
   [jobtbl.JT_E_TREASURE_BOX] = "TREASUREBOX_2.gr2",
   [jobtbl.JT_GOLD_ANOPHELES] = "ANOPHELES",
   [jobtbl.JT_DAEBAK_GOURD] = "EVENT_GOURD",
-  [jobtbl.JT_HEYDRICH] = "HEYDRICH"
+  [jobtbl.JT_HEYDRICH] = "HEYDRICH",
+  [jobtbl.JT_E_DENIRO] = "DENIRO",
+  [jobtbl.JT_E_VITATA] = "VITATA",
+  [jobtbl.JT_E_ANDRE] = "ANDRE",
+  [jobtbl.JT_E_HORN_SCARABA] = "HORN_SCARABA",
+  [jobtbl.JT_E_HORN_SCARABA2] = "HORN_SCARABA2",
+  [jobtbl.JT_E_RAKE_SCARABA] = "RAKE_SCARABA",
+  [jobtbl.JT_C_HORN_SCARABA] = "I_HORN_SCARABA",
+  [jobtbl.JT_C_HORN_SCARABA2] = "I_HORN_SCARABA2",
+  [jobtbl.JT_C_ANTLER_SCARABA] = "I_ANTLER_SCARABA",
+  [jobtbl.JT_C_RAKE_SCARABA] = "I_RAKE_SCARABA"
 }
