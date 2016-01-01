@@ -2152,5 +2152,9 @@ JobNameTable = {
   [jobtbl.JT_NG_RIDEWORD] = "rideword",
   [jobtbl.JT_NG_MIMIC] = "mimic",
   [jobtbl.JT_NG_EVIL_DRUID] = "evil_druid",
-  [jobtbl.JT_NG_WRAITH_DEAD] = "wraith_dead"
+  [jobtbl.JT_NG_WRAITH_DEAD] = "wraith",
+  [jobtbl.JT_G_MG_KHALITZBURG] = "khalitzburg",
+  [jobtbl.JT_NG_BAPHOMET] = "BAPHOMET",
+  [jobtbl.JT_G_NG_BAPHOMET_] = "BAPHOMET_",
+  [jobtbl.JT_NG_CHIMERA] = "CHIMERA"
 }
