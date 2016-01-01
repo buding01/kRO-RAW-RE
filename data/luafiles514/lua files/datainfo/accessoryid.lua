@@ -1361,5 +1361,6 @@ ACCESSORY_IDs = {
   ACCESSORY_Loose_Wave_Twin_OM = 1400,
   ACCESSORY_Loose_Wave_Twin_BU = 1401,
   ACCESSORY_Loose_Wave_Twin_WH = 1402,
-  ACCESSORY_Piamette_Ribon = 1403
+  ACCESSORY_Piamette_Ribon = 1403,
+  ACCESSORY_Noble_Mask = 1409
 }
