@@ -7168,42 +7168,6 @@ achievement_tbl = {
       item = 644
     },
     score = 10
-  },
-  [220036] = {
-    UI_Type = 0,
-    group = "EAT",
-    major = 1,
-    minor = 2,
-    title = "아웃도어의 시작",
-    content = {
-      summary = "야외 조리기구를 획득 한다",
-      details = "야외 조리기구를 획득 한다"
-    },
-    resource = {
-      [1] = {
-        text = "야외 조리기구를 획득 한다"
-      }
-    },
-    reward = {},
-    score = 20
-  },
-  [220037] = {
-    UI_Type = 0,
-    group = "EAT",
-    major = 1,
-    minor = 2,
-    title = "요리사의 첫발",
-    content = {
-      summary = "1레벨 요리를 획득 한다",
-      details = "1레벨 요리를 획득 한다"
-    },
-    resource = {
-      [1] = {
-        text = "1레벨 요리를 획득 한다"
-      }
-    },
-    reward = {},
-    score = 20
   }
 }
 function main()
