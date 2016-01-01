@@ -25018,68 +25018,68 @@ SKILL_INFO_LIST = {
   },
   [SKID.OB_AKAITSUKI] = {
     "OB_AKAITSUKI",
-    ["SkillName"] = "불길한 붉은 달빛",
-    ["MaxLv"] = 5,
-    ["SpAmount"] = {
+    SkillName = "불길한 붉은 달빛",
+    MaxLv = 5,
+    SpAmount = {
       20,
       30,
       40,
       50,
       60
     },
-    ["bSeperateLv"] = true,
-    ["AttackRange"] = {
+    bSeperateLv = true,
+    AttackRange = {
       7,
       7,
       7,
       7,
       7
     },
-    ["_NeedSkillList"] = {
+    _NeedSkillList = {
       {
         SKID.OB_ZANGETSU,
         2
       }
-    },
-    [SKID.ECLAGE_RECALL] = {
-      "ECLAGE_RECALL",
-      SkillName = "에클라쥬 귀환",
-      MaxLv = 1,
-      SpAmount = {0},
-      bSeperateLv = false,
-      AttackRange = {1}
-    },
-    [SKID.ECL_SNOWFLIP] = {
-      "ECL_SNOWFLIP",
-      SkillName = "스노우플립",
-      MaxLv = 1,
-      SpAmount = {0},
-      bSeperateLv = false,
-      AttackRange = {7}
-    },
-    [SKID.ECL_PEONYMAMY] = {
-      "ECL_PEONYMAMY",
-      SkillName = "페오니마미",
-      MaxLv = 1,
-      SpAmount = {0},
-      bSeperateLv = false,
-      AttackRange = {7}
-    },
-    [SKID.ECL_SADAGUI] = {
-      "ECL_SADAGUI",
-      SkillName = "사다귀",
-      MaxLv = 1,
-      SpAmount = {0},
-      bSeperateLv = false,
-      AttackRange = {7}
-    },
-    [SKID.ECL_SEQUOIADUST] = {
-      "ECL_SEQUOIADUST",
-      SkillName = "세계수의먼지",
-      MaxLv = 1,
-      SpAmount = {0},
-      bSeperateLv = false,
-      AttackRange = {7}
     }
+  },
+  [SKID.ECLAGE_RECALL] = {
+    "ECLAGE_RECALL",
+    SkillName = "에클라쥬 귀환",
+    MaxLv = 1,
+    SpAmount = {0},
+    bSeperateLv = false,
+    AttackRange = {1}
+  },
+  [SKID.ECL_SNOWFLIP] = {
+    "ECL_SNOWFLIP",
+    SkillName = "스노우플립",
+    MaxLv = 1,
+    SpAmount = {0},
+    bSeperateLv = false,
+    AttackRange = {7}
+  },
+  [SKID.ECL_PEONYMAMY] = {
+    "ECL_PEONYMAMY",
+    SkillName = "페오니마미",
+    MaxLv = 1,
+    SpAmount = {0},
+    bSeperateLv = false,
+    AttackRange = {7}
+  },
+  [SKID.ECL_SADAGUI] = {
+    "ECL_SADAGUI",
+    SkillName = "사다귀",
+    MaxLv = 1,
+    SpAmount = {0},
+    bSeperateLv = false,
+    AttackRange = {7}
+  },
+  [SKID.ECL_SEQUOIADUST] = {
+    "ECL_SEQUOIADUST",
+    SkillName = "세계수의먼지",
+    MaxLv = 1,
+    SpAmount = {0},
+    bSeperateLv = false,
+    AttackRange = {7}
   }
 }
