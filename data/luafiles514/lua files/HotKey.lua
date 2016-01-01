@@ -455,6 +455,9 @@ HOTKEY_2 = {
   },
   [50] = {
     EXE = MsgStrID.MSI_HK_SINGLEMAP_ONOFF
+  },
+  [51] = {
+    EXE = MsgStrID.MSI_HK_MAIL_ONOFF
   }
 }
 HOTKEY_3 = {
