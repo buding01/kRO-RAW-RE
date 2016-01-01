@@ -1,7 +1,7 @@
 achievement_tbl = {
   [110000] = {
     UI_Type = 0,
-    group = "COMMUNITY",
+    group = "EAT",
     major = 4,
     minor = 0,
     title = "이 시간에 먹는건 살 안쪄",
@@ -19,7 +19,7 @@ achievement_tbl = {
   },
   [110001] = {
     UI_Type = 0,
-    group = "COMMUNITY",
+    group = "SEE",
     major = 4,
     minor = 0,
     title = "이것이 극성 팬이다",
@@ -55,7 +55,7 @@ achievement_tbl = {
   },
   [120001] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 0,
     title = "프론테라 북쪽 필드 탐험(1)",
@@ -73,7 +73,7 @@ achievement_tbl = {
   },
   [120002] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 0,
     title = "프론테라 북쪽 필드 탐험(2)",
@@ -91,7 +91,7 @@ achievement_tbl = {
   },
   [120003] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 0,
     title = "프론테라 북쪽 필드 탐험(3)",
@@ -109,7 +109,7 @@ achievement_tbl = {
   },
   [120004] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 0,
     title = "프론테라 서쪽 필드 탐험(1)",
@@ -127,7 +127,7 @@ achievement_tbl = {
   },
   [120005] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 0,
     title = "프론테라 서쪽 필드 탐험(2)",
@@ -145,7 +145,7 @@ achievement_tbl = {
   },
   [120006] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 0,
     title = "프론테라 동쪽 필드 탐험",
@@ -163,7 +163,7 @@ achievement_tbl = {
   },
   [120007] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 0,
     title = "프론테라 남쪽 필드 탐험(1)",
@@ -181,7 +181,7 @@ achievement_tbl = {
   },
   [120008] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 0,
     title = "프론테라 남쪽 필드 탐험(2)",
@@ -199,7 +199,7 @@ achievement_tbl = {
   },
   [120009] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 0,
     title = "프론테라 남쪽 필드 탐험(3)",
@@ -217,7 +217,7 @@ achievement_tbl = {
   },
   [120010] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 0,
     title = "프론테라 남쪽 필드 탐험(4)",
@@ -235,7 +235,7 @@ achievement_tbl = {
   },
   [120011] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 0,
     title = "게펜 동쪽 필드 탐험",
@@ -253,7 +253,7 @@ achievement_tbl = {
   },
   [120012] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 0,
     title = "게펜 동남쪽 필드 탐험",
@@ -271,7 +271,7 @@ achievement_tbl = {
   },
   [120013] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 0,
     title = "게펜 서북쪽 필드 탐험(1)",
@@ -289,7 +289,7 @@ achievement_tbl = {
   },
   [120014] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 0,
     title = "게펜 서북쪽 필드 탐험(2)",
@@ -307,7 +307,7 @@ achievement_tbl = {
   },
   [120015] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 0,
     title = "게펜 서북쪽 필드 탐험(3)",
@@ -325,7 +325,7 @@ achievement_tbl = {
   },
   [120016] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 0,
     title = "게펜 남쪽 필드 탐험(1)",
@@ -343,7 +343,7 @@ achievement_tbl = {
   },
   [120017] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 0,
     title = "게펜 남쪽 필드 탐험(2)",
@@ -361,7 +361,7 @@ achievement_tbl = {
   },
   [120018] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 0,
     title = "소그라트 사막 필드 탐험(1)",
@@ -379,7 +379,7 @@ achievement_tbl = {
   },
   [120019] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 0,
     title = "소그라트 사막 필드 탐험(2)",
@@ -397,7 +397,7 @@ achievement_tbl = {
   },
   [120020] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 0,
     title = "소그라트 사막 필드 탐험(3)",
@@ -415,7 +415,7 @@ achievement_tbl = {
   },
   [120021] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 0,
     title = "소그라트 사막 필드 탐험(4)",
@@ -433,7 +433,7 @@ achievement_tbl = {
   },
   [120022] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 0,
     title = "소그라트 사막 필드 탐험(5)",
@@ -451,7 +451,7 @@ achievement_tbl = {
   },
   [120023] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 0,
     title = "소그라트 사막 필드 탐험(6)",
@@ -469,7 +469,7 @@ achievement_tbl = {
   },
   [120024] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 0,
     title = "페이욘 남서쪽 필드 탐험(1)",
@@ -487,7 +487,7 @@ achievement_tbl = {
   },
   [120025] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 0,
     title = "페이욘 남서쪽 필드 탐험(2)",
@@ -505,7 +505,7 @@ achievement_tbl = {
   },
   [120026] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 0,
     title = "페이욘 남서쪽 필드 탐험(3)",
@@ -523,7 +523,7 @@ achievement_tbl = {
   },
   [120027] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 0,
     title = "페이욘 남서쪽 필드 탐험(4)",
@@ -541,7 +541,7 @@ achievement_tbl = {
   },
   [120028] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 0,
     title = "페이욘 동쪽 필드 탐험(1)",
@@ -559,7 +559,7 @@ achievement_tbl = {
   },
   [120029] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 0,
     title = "페이욘 동쪽 필드 탐험(2)",
@@ -577,7 +577,7 @@ achievement_tbl = {
   },
   [120030] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 0,
     title = "페이욘 동쪽 필드 탐험(3)",
@@ -595,7 +595,7 @@ achievement_tbl = {
   },
   [120031] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 0,
     title = "페이욘 동쪽 필드 탐험(4)",
@@ -613,7 +613,7 @@ achievement_tbl = {
   },
   [120032] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 0,
     title = "묘르닐 북쪽 필드 탐험(1)",
@@ -631,7 +631,7 @@ achievement_tbl = {
   },
   [120033] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 0,
     title = "묘르닐 북쪽 필드 탐험(2)",
@@ -649,7 +649,7 @@ achievement_tbl = {
   },
   [120034] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 0,
     title = "묘르닐 북쪽 필드 탐험(3)",
@@ -667,7 +667,7 @@ achievement_tbl = {
   },
   [120035] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 0,
     title = "묘르닐 북쪽 필드 탐험(4)",
@@ -685,7 +685,7 @@ achievement_tbl = {
   },
   [120036] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 0,
     title = "묘르닐 북쪽 필드 탐험(5)",
@@ -703,7 +703,7 @@ achievement_tbl = {
   },
   [120037] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 0,
     title = "묘르닐 남쪽 필드 탐험(1)",
@@ -721,7 +721,7 @@ achievement_tbl = {
   },
   [120038] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 0,
     title = "묘르닐 남쪽 필드 탐험(2)",
@@ -739,7 +739,7 @@ achievement_tbl = {
   },
   [120039] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 0,
     title = "묘르닐 남쪽 필드 탐험(3)",
@@ -757,7 +757,7 @@ achievement_tbl = {
   },
   [120040] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 0,
     title = "묘르닐 남쪽 필드 탐험(4)",
@@ -775,7 +775,7 @@ achievement_tbl = {
   },
   [120041] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 0,
     title = "묘르닐 남쪽 필드 탐험(5)",
@@ -793,7 +793,7 @@ achievement_tbl = {
   },
   [120042] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 0,
     title = "묘르닐 남쪽 필드 탐험(6)",
@@ -811,7 +811,7 @@ achievement_tbl = {
   },
   [120043] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 0,
     title = "알데바란 남쪽 필드 탐험",
@@ -829,7 +829,7 @@ achievement_tbl = {
   },
   [120044] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 0,
     title = "코모도 필드 탐험(1)",
@@ -847,7 +847,7 @@ achievement_tbl = {
   },
   [120045] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 0,
     title = "코모도 필드 탐험(2)",
@@ -865,7 +865,7 @@ achievement_tbl = {
   },
   [120046] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 0,
     title = "코모도 필드 탐험(3)",
@@ -883,7 +883,7 @@ achievement_tbl = {
   },
   [120047] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 0,
     title = "코모도 필드 탐험(4)",
@@ -901,7 +901,7 @@ achievement_tbl = {
   },
   [120048] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 0,
     title = "코모도 필드 탐험(5)",
@@ -919,7 +919,7 @@ achievement_tbl = {
   },
   [120049] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 0,
     title = "코모도 필드 탐험(6)",
@@ -937,7 +937,7 @@ achievement_tbl = {
   },
   [120050] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 0,
     title = "코모도 필드 탐험(7)",
@@ -955,7 +955,7 @@ achievement_tbl = {
   },
   [120051] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 0,
     title = "코모도 필드 탐험(8)",
@@ -973,7 +973,7 @@ achievement_tbl = {
   },
   [120052] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 1,
     title = "국경 검문소 필드 탐험(1)",
@@ -991,7 +991,7 @@ achievement_tbl = {
   },
   [120053] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 1,
     title = "국경 검문소 필드 탐험(2)",
@@ -1009,7 +1009,7 @@ achievement_tbl = {
   },
   [120054] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 1,
     title = "킬 하이르의 별장 필드 탐험",
@@ -1027,7 +1027,7 @@ achievement_tbl = {
   },
   [120055] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 1,
     title = "엘메스 플레투 필드 탐험(1)",
@@ -1045,7 +1045,7 @@ achievement_tbl = {
   },
   [120056] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 1,
     title = "엘메스 플레투 필드 탐험(2)",
@@ -1063,7 +1063,7 @@ achievement_tbl = {
   },
   [120057] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 1,
     title = "엘메스 플레투 필드 탐험(3)",
@@ -1081,7 +1081,7 @@ achievement_tbl = {
   },
   [120058] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 1,
     title = "엘메스 협곡 필드 탐험",
@@ -1099,7 +1099,7 @@ achievement_tbl = {
   },
   [120059] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 1,
     title = "킬 하이르 학원 필드 탐험",
@@ -1117,7 +1117,7 @@ achievement_tbl = {
   },
   [120060] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 1,
     title = "경비대 야영지 필드 탐험",
@@ -1135,7 +1135,7 @@ achievement_tbl = {
   },
   [120061] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 1,
     title = "유노 필드 탐험",
@@ -1153,7 +1153,7 @@ achievement_tbl = {
   },
   [120062] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 1,
     title = "타나토스 타워 앞 필드 탐험",
@@ -1171,7 +1171,7 @@ achievement_tbl = {
   },
   [120063] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 1,
     title = "휘겔 필드 탐험(1)",
@@ -1189,7 +1189,7 @@ achievement_tbl = {
   },
   [120064] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 1,
     title = "휘겔 필드 탐험(2)",
@@ -1207,7 +1207,7 @@ achievement_tbl = {
   },
   [120065] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 1,
     title = "휘겔 필드 탐험(3)",
@@ -1225,7 +1225,7 @@ achievement_tbl = {
   },
   [120066] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 1,
     title = "어비스호수 필드 탐험(1)",
@@ -1243,7 +1243,7 @@ achievement_tbl = {
   },
   [120067] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 1,
     title = "아인브로크 필드 탐험(1)",
@@ -1261,7 +1261,7 @@ achievement_tbl = {
   },
   [120068] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 1,
     title = "아인브로크 필드 탐험(2)",
@@ -1279,7 +1279,7 @@ achievement_tbl = {
   },
   [120069] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 1,
     title = "아인브로크 필드 탐험(3)",
@@ -1297,7 +1297,7 @@ achievement_tbl = {
   },
   [120070] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 1,
     title = "아인브로크 필드 탐험(4)",
@@ -1315,7 +1315,7 @@ achievement_tbl = {
   },
   [120071] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 1,
     title = "아인브로크 필드 탐험(5)",
@@ -1333,7 +1333,7 @@ achievement_tbl = {
   },
   [120072] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 1,
     title = "아인브로크 필드 탐험(6)",
@@ -1351,7 +1351,7 @@ achievement_tbl = {
   },
   [120073] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 1,
     title = "아인브로크 필드 탐험(7)",
@@ -1369,7 +1369,7 @@ achievement_tbl = {
   },
   [120074] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 1,
     title = "아인브로크 필드 탐험(8)",
@@ -1387,7 +1387,7 @@ achievement_tbl = {
   },
   [120075] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 1,
     title = "리히타르젠 필드 탐험(1)",
@@ -1405,7 +1405,7 @@ achievement_tbl = {
   },
   [120076] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 1,
     title = "리히타르젠 필드 탐험(2)",
@@ -1423,7 +1423,7 @@ achievement_tbl = {
   },
   [120077] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 1,
     title = "리히타르젠 필드 탐험(3)",
@@ -1441,7 +1441,7 @@ achievement_tbl = {
   },
   [120078] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 2,
     title = "라헬 아우둠라 평원 필드 탐험(1)",
@@ -1459,7 +1459,7 @@ achievement_tbl = {
   },
   [120079] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 2,
     title = "라헬 이다 평원 필드 탐험(1)",
@@ -1477,7 +1477,7 @@ achievement_tbl = {
   },
   [120080] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 2,
     title = "라헬 이다 평원 필드 탐험(2)",
@@ -1495,7 +1495,7 @@ achievement_tbl = {
   },
   [120081] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 2,
     title = "라헬 이다 평원 필드 탐험(3)",
@@ -1513,7 +1513,7 @@ achievement_tbl = {
   },
   [120082] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 2,
     title = "라헬 아우둠라 초원 필드 탐험(1)",
@@ -1531,7 +1531,7 @@ achievement_tbl = {
   },
   [120083] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 2,
     title = "라헬 아우둠라 초원 필드 탐험(2)",
@@ -1549,7 +1549,7 @@ achievement_tbl = {
   },
   [120084] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 2,
     title = "포르투 루나 필드 탐험",
@@ -1567,7 +1567,7 @@ achievement_tbl = {
   },
   [120085] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 2,
     title = "베인스 필드 탐험(1)",
@@ -1585,7 +1585,7 @@ achievement_tbl = {
   },
   [120086] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 2,
     title = "베인스 필드 탐험(2)",
@@ -1603,7 +1603,7 @@ achievement_tbl = {
   },
   [120087] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 2,
     title = "베인스 필드 탐험(3)",
@@ -1621,7 +1621,7 @@ achievement_tbl = {
   },
   [120088] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 2,
     title = "베인스 필드 탐험(4)",
@@ -1639,7 +1639,7 @@ achievement_tbl = {
   },
   [120089] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 2,
     title = "베인스 필드 탐험(5)",
@@ -1657,7 +1657,7 @@ achievement_tbl = {
   },
   [120090] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 3,
     title = "에클라쥬 필드 탐험",
@@ -1675,7 +1675,7 @@ achievement_tbl = {
   },
   [120091] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 3,
     title = "비프로스트 북부 필드 탐험(1)",
@@ -1693,7 +1693,7 @@ achievement_tbl = {
   },
   [120092] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 3,
     title = "비프로스트 남부 필드 탐험(1)",
@@ -1711,7 +1711,7 @@ achievement_tbl = {
   },
   [120093] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 3,
     title = "스플랑디드 필드 탐험(1)",
@@ -1729,7 +1729,7 @@ achievement_tbl = {
   },
   [120094] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 3,
     title = "스플랑디드 필드 탐험(2)",
@@ -1747,7 +1747,7 @@ achievement_tbl = {
   },
   [120095] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 3,
     title = "스플랑디드 필드 탐험(3)",
@@ -1765,7 +1765,7 @@ achievement_tbl = {
   },
   [120096] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 3,
     title = "마누크 필드 탐험(1)",
@@ -1783,7 +1783,7 @@ achievement_tbl = {
   },
   [120097] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 3,
     title = "마누크 필드 탐험(2)",
@@ -1801,7 +1801,7 @@ achievement_tbl = {
   },
   [120098] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 3,
     title = "마누크 필드 탐험(3)",
@@ -1819,7 +1819,7 @@ achievement_tbl = {
   },
   [120099] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 3,
     title = "카미달 산기슭 필드 탐험(1)",
@@ -1837,7 +1837,7 @@ achievement_tbl = {
   },
   [120100] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 3,
     title = "카미달 산기슭 필드 탐험(2)",
@@ -1855,7 +1855,7 @@ achievement_tbl = {
   },
   [120101] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 4,
     title = "아마쯔 필드 탐험",
@@ -1873,7 +1873,7 @@ achievement_tbl = {
   },
   [120102] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 4,
     title = "쿤룬 필드 탐험",
@@ -1891,7 +1891,7 @@ achievement_tbl = {
   },
   [120103] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 4,
     title = "용지성 필드 탐험",
@@ -1909,7 +1909,7 @@ achievement_tbl = {
   },
   [120104] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 4,
     title = "아요타야 필드 탐험",
@@ -1927,7 +1927,7 @@ achievement_tbl = {
   },
   [120105] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 4,
     title = "모스코비아 필드 탐험",
@@ -1945,7 +1945,7 @@ achievement_tbl = {
   },
   [120106] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 4,
     title = "브라질리스 필드 탐험",
@@ -1963,7 +1963,7 @@ achievement_tbl = {
   },
   [120107] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 4,
     title = "데와타 필드 탐험",
@@ -1981,7 +1981,7 @@ achievement_tbl = {
   },
   [120108] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 4,
     title = "말라야 필드 탐험(1)",
@@ -1999,7 +1999,7 @@ achievement_tbl = {
   },
   [120109] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 4,
     title = "말라야 필드 탐험(2)",
@@ -2017,7 +2017,7 @@ achievement_tbl = {
   },
   [120110] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 5,
     title = "수도원 지하 던전 탐험",
@@ -2035,7 +2035,7 @@ achievement_tbl = {
   },
   [120111] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 5,
     title = "휘겔 어비스 던전 탐험",
@@ -2053,7 +2053,7 @@ achievement_tbl = {
   },
   [120112] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 5,
     title = "시계탑 던전 탐험",
@@ -2071,7 +2071,7 @@ achievement_tbl = {
   },
   [120113] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 5,
     title = "아마쯔 던전 탐험",
@@ -2089,7 +2089,7 @@ achievement_tbl = {
   },
   [120114] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 5,
     title = "개미지옥 던전 탐험",
@@ -2107,7 +2107,7 @@ achievement_tbl = {
   },
   [120115] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 5,
     title = "아요타야 던전 탐험",
@@ -2125,7 +2125,7 @@ achievement_tbl = {
   },
   [120116] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 5,
     title = "코모도 던전 탐험",
@@ -2143,7 +2143,7 @@ achievement_tbl = {
   },
   [120117] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 5,
     title = "브라질리스 던전 탐험",
@@ -2161,7 +2161,7 @@ achievement_tbl = {
   },
   [120118] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 5,
     title = "시계탑 던전 탐험",
@@ -2179,7 +2179,7 @@ achievement_tbl = {
   },
   [120119] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 5,
     title = "이스타나 던전 탐험",
@@ -2197,7 +2197,7 @@ achievement_tbl = {
   },
   [120120] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 5,
     title = "스카라바 홀 던전 탐험",
@@ -2215,7 +2215,7 @@ achievement_tbl = {
   },
   [120121] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 5,
     title = "비프로스트 던전 탐험",
@@ -2233,7 +2233,7 @@ achievement_tbl = {
   },
   [120122] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 5,
     title = "아인베흐 던전 탐험",
@@ -2251,7 +2251,7 @@ achievement_tbl = {
   },
   [120123] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 5,
     title = "게펜지하 던전 탐험",
@@ -2269,7 +2269,7 @@ achievement_tbl = {
   },
   [120124] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 5,
     title = "글래스트헤임 던전 탐험(1)",
@@ -2287,7 +2287,7 @@ achievement_tbl = {
   },
   [120125] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 5,
     title = "글래스트헤임 던전 탐험(2)",
@@ -2305,7 +2305,7 @@ achievement_tbl = {
   },
   [120126] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 5,
     title = "글래스트헤임 던전 탐험(3)",
@@ -2323,7 +2323,7 @@ achievement_tbl = {
   },
   [120127] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 5,
     title = "글래스트헤임 던전 탐험(4)",
@@ -2341,7 +2341,7 @@ achievement_tbl = {
   },
   [120128] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 5,
     title = "쿤룬 던전 탐험",
@@ -2359,7 +2359,7 @@ achievement_tbl = {
   },
   [120129] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 5,
     title = "라헬 던전 탐험",
@@ -2377,7 +2377,7 @@ achievement_tbl = {
   },
   [120130] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 5,
     title = "스핑크스 던전 탐험",
@@ -2395,7 +2395,7 @@ achievement_tbl = {
   },
   [120131] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 5,
     title = "이즈루드 던전 탐험",
@@ -2413,7 +2413,7 @@ achievement_tbl = {
   },
   [120132] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 5,
     title = "기계인형공장 던전 탐험",
@@ -2431,7 +2431,7 @@ achievement_tbl = {
   },
   [120133] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 5,
     title = "생체실험연구소 던전 탐험",
@@ -2449,7 +2449,7 @@ achievement_tbl = {
   },
   [120134] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 5,
     title = "용지성 던전 탐험",
@@ -2467,7 +2467,7 @@ achievement_tbl = {
   },
   [120135] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 5,
     title = "노그로드 던전 탐험",
@@ -2485,7 +2485,7 @@ achievement_tbl = {
   },
   [120136] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 5,
     title = "묘르닐 폐광 던전 탐험",
@@ -2503,7 +2503,7 @@ achievement_tbl = {
   },
   [120137] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 5,
     title = "피라미드 던전 탐험",
@@ -2521,7 +2521,7 @@ achievement_tbl = {
   },
   [120138] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 5,
     title = "오크 지하 던전 탐험",
@@ -2539,7 +2539,7 @@ achievement_tbl = {
   },
   [120139] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 5,
     title = "페이욘 던전 탐험",
@@ -2557,7 +2557,7 @@ achievement_tbl = {
   },
   [120140] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 5,
     title = "미궁 던전 탐험",
@@ -2575,7 +2575,7 @@ achievement_tbl = {
   },
   [120141] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 5,
     title = "지하수로 던전 탐험",
@@ -2593,7 +2593,7 @@ achievement_tbl = {
   },
   [120142] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 5,
     title = "타나토스타워 던전 탐험",
@@ -2611,7 +2611,7 @@ achievement_tbl = {
   },
   [120143] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 5,
     title = "토르 화산 던전 탐험",
@@ -2629,7 +2629,7 @@ achievement_tbl = {
   },
   [120144] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 5,
     title = "침몰선 던전 탐험",
@@ -2647,7 +2647,7 @@ achievement_tbl = {
   },
   [120145] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 5,
     title = "거북이 섬 던전 탐험",
@@ -2665,7 +2665,7 @@ achievement_tbl = {
   },
   [120146] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 5,
     title = "장난감 던전 탐험",
@@ -3180,14 +3180,14 @@ achievement_tbl = {
     group = "BATTLE",
     major = 5,
     minor = 0,
-    title = "기분좋은 바람",
+    title = "포근한 대지",
     content = {
-      summary = "풍속성 페이스웜 퀸 처치",
+      summary = "지속성 페이스웜 퀸 처치",
       details = "메모리얼 던전을 끝까지 진행"
     },
     resource = {
       [1] = {
-        text = "풍속성 페이스웜 퀸 1회 처치",
+        text = "지속성 페이스웜 퀸 1회 처치",
         count = 1
       }
     },
@@ -3218,14 +3218,14 @@ achievement_tbl = {
     group = "BATTLE",
     major = 5,
     minor = 0,
-    title = "아늑한 대지",
+    title = "기분좋은 바람",
     content = {
-      summary = "지속성 페이스웜 퀸 처치",
+      summary = "풍속성 페이스웜 퀸 처치",
       details = "메모리얼 던전을 끝까지 진행"
     },
     resource = {
       [1] = {
-        text = "지속성 페이스웜 퀸 1회 처치",
+        text = "풍속성 페이스웜 퀸 1회 처치",
         count = 1
       }
     },
@@ -3690,7 +3690,7 @@ achievement_tbl = {
   },
   [129001] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 0,
     title = "프론테라의 탐험가",
@@ -3745,7 +3745,7 @@ achievement_tbl = {
   },
   [129002] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 0,
     title = "게펜의 탐험가",
@@ -3788,7 +3788,7 @@ achievement_tbl = {
   },
   [129003] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 0,
     title = "소그라트 사막의 탐험가",
@@ -3827,7 +3827,7 @@ achievement_tbl = {
   },
   [129004] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 0,
     title = "페이욘의 탐험가",
@@ -3874,7 +3874,7 @@ achievement_tbl = {
   },
   [129005] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 0,
     title = "묘르닐 북쪽의 탐험가",
@@ -3909,7 +3909,7 @@ achievement_tbl = {
   },
   [129006] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 0,
     title = "묘르닐 남쪽의 탐험가",
@@ -3952,7 +3952,7 @@ achievement_tbl = {
   },
   [129007] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 0,
     title = "코모도의 탐험가",
@@ -3999,7 +3999,7 @@ achievement_tbl = {
   },
   [129008] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 0,
     title = "룬 미드가츠의 탐험가",
@@ -4042,7 +4042,7 @@ achievement_tbl = {
   },
   [129009] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 1,
     title = "유노의 탐험가",
@@ -4097,7 +4097,7 @@ achievement_tbl = {
   },
   [129010] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 1,
     title = "휘겔의 탐험가",
@@ -4132,7 +4132,7 @@ achievement_tbl = {
   },
   [129011] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 1,
     title = "아인브로크의 탐험가",
@@ -4179,7 +4179,7 @@ achievement_tbl = {
   },
   [129012] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 1,
     title = "리히타르젠의 탐험가",
@@ -4206,7 +4206,7 @@ achievement_tbl = {
   },
   [129013] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 1,
     title = "슈발츠발드의 탐험가",
@@ -4237,7 +4237,7 @@ achievement_tbl = {
   },
   [129014] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 2,
     title = "라헬의 탐험가",
@@ -4280,7 +4280,7 @@ achievement_tbl = {
   },
   [129015] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 2,
     title = "베인스의 탐험가",
@@ -4315,7 +4315,7 @@ achievement_tbl = {
   },
   [129016] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 2,
     title = "아루나펠츠의 탐험가",
@@ -4338,7 +4338,7 @@ achievement_tbl = {
   },
   [129017] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 3,
     title = "라피네의 탐험가",
@@ -4377,7 +4377,7 @@ achievement_tbl = {
   },
   [129018] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 3,
     title = "마누크의 탐험가",
@@ -4412,7 +4412,7 @@ achievement_tbl = {
   },
   [129019] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 3,
     title = "이계의 탐험가",
@@ -4435,7 +4435,7 @@ achievement_tbl = {
   },
   [129020] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "ADVENTURE",
     major = 2,
     minor = 4,
     title = "로컬라이징 필드의 탐험가",
@@ -4486,7 +4486,7 @@ achievement_tbl = {
   },
   [130000] = {
     UI_Type = 0,
-    group = "COMMUNITY",
+    group = "CHATTING",
     major = 4,
     minor = 0,
     title = "사교계 데뷔",
@@ -4522,7 +4522,7 @@ achievement_tbl = {
   },
   [170000] = {
     UI_Type = 0,
-    group = "COMMUNITY",
+    group = "HEAR",
     major = 4,
     minor = 0,
     title = "방송 사고는 아닙니다",
@@ -4540,7 +4540,7 @@ achievement_tbl = {
   },
   [200000] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "GOAL_LEVEL",
     major = 1,
     minor = 0,
     title = "첫 오오라 획득!",
@@ -4562,7 +4562,7 @@ achievement_tbl = {
   },
   [200001] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "GOAL_LEVEL",
     major = 1,
     minor = 0,
     title = "두번째 오오라 획득!",
@@ -4584,7 +4584,7 @@ achievement_tbl = {
   },
   [200002] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "GOAL_LEVEL",
     major = 1,
     minor = 0,
     title = "세번째 오오라 획득!",
@@ -4606,7 +4606,7 @@ achievement_tbl = {
   },
   [200003] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "GOAL_LEVEL",
     major = 1,
     minor = 0,
     title = "잡레벨 마스터!",
@@ -4626,7 +4626,7 @@ achievement_tbl = {
   },
   [200004] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "GOAL_LEVEL",
     major = 1,
     minor = 0,
     title = "잡레벨 그랜드 마스터!",
@@ -4646,7 +4646,7 @@ achievement_tbl = {
   },
   [200005] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "JOB_CHANGE",
     major = 1,
     minor = 0,
     title = "정식모험가",
@@ -4664,7 +4664,7 @@ achievement_tbl = {
   },
   [200006] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "JOB_CHANGE",
     major = 1,
     minor = 0,
     title = "전승직업군으로 첫 발!",
@@ -4682,7 +4682,7 @@ achievement_tbl = {
   },
   [200007] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "JOB_CHANGE",
     major = 1,
     minor = 0,
     title = "베테랑 모험가! (1)",
@@ -4700,7 +4700,7 @@ achievement_tbl = {
   },
   [200008] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "JOB_CHANGE",
     major = 1,
     minor = 0,
     title = "베테랑 모험가! (2)",
@@ -4718,7 +4718,7 @@ achievement_tbl = {
   },
   [200009] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "JOB_CHANGE",
     major = 1,
     minor = 0,
     title = "용사 (1)",
@@ -4736,7 +4736,7 @@ achievement_tbl = {
   },
   [200010] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "JOB_CHANGE",
     major = 1,
     minor = 0,
     title = "용사 (2)",
@@ -4754,7 +4754,7 @@ achievement_tbl = {
   },
   [200011] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "JOB_CHANGE",
     major = 1,
     minor = 0,
     title = "엘리트 모험가! (1)",
@@ -4772,7 +4772,7 @@ achievement_tbl = {
   },
   [200012] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "JOB_CHANGE",
     major = 1,
     minor = 0,
     title = "초월자! (1)",
@@ -4790,7 +4790,7 @@ achievement_tbl = {
   },
   [200013] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "JOB_CHANGE",
     major = 1,
     minor = 0,
     title = "엘리트 모험가! (2)",
@@ -4808,7 +4808,7 @@ achievement_tbl = {
   },
   [200014] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "JOB_CHANGE",
     major = 1,
     minor = 0,
     title = "초월자! (2)",
@@ -4826,7 +4826,7 @@ achievement_tbl = {
   },
   [200015] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "JOB_CHANGE",
     major = 1,
     minor = 0,
     title = "특별한 길을 걷는 자.",
@@ -4844,7 +4844,7 @@ achievement_tbl = {
   },
   [200016] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "JOB_CHANGE",
     major = 1,
     minor = 0,
     title = "이것이 나의 길!",
@@ -4862,7 +4862,7 @@ achievement_tbl = {
   },
   [200017] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "GOAL_STATUS",
     major = 1,
     minor = 0,
     title = "곰 같은 힘이여!",
@@ -4880,7 +4880,7 @@ achievement_tbl = {
   },
   [200018] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "GOAL_STATUS",
     major = 1,
     minor = 0,
     title = "넘치는 마력!",
@@ -4898,7 +4898,7 @@ achievement_tbl = {
   },
   [200019] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "GOAL_STATUS",
     major = 1,
     minor = 0,
     title = "건강한 육체에 건강한 정신!",
@@ -4916,7 +4916,7 @@ achievement_tbl = {
   },
   [200020] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "GOAL_STATUS",
     major = 1,
     minor = 0,
     title = "속도광",
@@ -4934,7 +4934,7 @@ achievement_tbl = {
   },
   [200021] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "GOAL_STATUS",
     major = 1,
     minor = 0,
     title = "매의 눈",
@@ -4952,7 +4952,7 @@ achievement_tbl = {
   },
   [200022] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "GOAL_STATUS",
     major = 1,
     minor = 0,
     title = "럭키 맥스",
@@ -4970,7 +4970,7 @@ achievement_tbl = {
   },
   [200023] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "GOAL_STATUS",
     major = 1,
     minor = 0,
     title = "용 같은 힘이여!",
@@ -4988,7 +4988,7 @@ achievement_tbl = {
   },
   [200024] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "GOAL_STATUS",
     major = 1,
     minor = 0,
     title = "광기의 마력",
@@ -5006,7 +5006,7 @@ achievement_tbl = {
   },
   [200025] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "GOAL_STATUS",
     major = 1,
     minor = 0,
     title = "합금강석",
@@ -5024,7 +5024,7 @@ achievement_tbl = {
   },
   [200026] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "GOAL_STATUS",
     major = 1,
     minor = 0,
     title = "빛의 속도",
@@ -5042,7 +5042,7 @@ achievement_tbl = {
   },
   [200027] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "GOAL_STATUS",
     major = 1,
     minor = 0,
     title = "팔콘의 눈",
@@ -5060,7 +5060,7 @@ achievement_tbl = {
   },
   [200028] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "GOAL_STATUS",
     major = 1,
     minor = 0,
     title = "럭키 피버",
@@ -5078,7 +5078,7 @@ achievement_tbl = {
   },
   [200029] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "GOAL_STATUS",
     major = 1,
     minor = 0,
     title = "애증의 화신",
@@ -5096,7 +5096,7 @@ achievement_tbl = {
   },
   [200030] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "GOAL_STATUS",
     major = 1,
     minor = 0,
     title = "정말 좋아한다구요!",
@@ -5114,7 +5114,7 @@ achievement_tbl = {
   },
   [200031] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "JOB_CHANGE",
     major = 1,
     minor = 0,
     title = "발할라에서 환생!",
@@ -5132,7 +5132,7 @@ achievement_tbl = {
   },
   [230100] = {
     UI_Type = 0,
-    group = "COMMUNITY",
+    group = "GOAL_LEVEL",
     major = 3,
     minor = 1,
     title = "포링은 사랑입니다",
@@ -5163,7 +5163,7 @@ achievement_tbl = {
   },
   [230110] = {
     UI_Type = 0,
-    group = "COMMUNITY",
+    group = "GOAL_LEVEL",
     major = 3,
     minor = 1,
     title = "곤충학자",
@@ -5202,7 +5202,7 @@ achievement_tbl = {
   },
   [230120] = {
     UI_Type = 0,
-    group = "COMMUNITY",
+    group = "GOAL_LEVEL",
     major = 3,
     minor = 1,
     title = "동물들도 우리 친구이지요",
@@ -5249,7 +5249,7 @@ achievement_tbl = {
   },
   [230140] = {
     UI_Type = 0,
-    group = "COMMUNITY",
+    group = "GOAL_LEVEL",
     major = 3,
     minor = 1,
     title = "결성! 몬스터 걸즈!!",
@@ -5292,7 +5292,7 @@ achievement_tbl = {
   },
   [230101] = {
     UI_Type = 0,
-    group = "COMMUNITY",
+    group = "TAMING",
     major = 3,
     minor = 1,
     title = "포링 - 길들이기",
@@ -5310,7 +5310,7 @@ achievement_tbl = {
   },
   [230102] = {
     UI_Type = 0,
-    group = "COMMUNITY",
+    group = "TAMING",
     major = 3,
     minor = 1,
     title = "드롭프스 - 길들이기",
@@ -5328,7 +5328,7 @@ achievement_tbl = {
   },
   [230103] = {
     UI_Type = 0,
-    group = "COMMUNITY",
+    group = "TAMING",
     major = 3,
     minor = 1,
     title = "포포링 - 길들이기",
@@ -5346,7 +5346,7 @@ achievement_tbl = {
   },
   [230104] = {
     UI_Type = 0,
-    group = "COMMUNITY",
+    group = "TAMING",
     major = 3,
     minor = 1,
     title = "풋내기 포링 - 길들이기",
@@ -5364,7 +5364,7 @@ achievement_tbl = {
   },
   [230111] = {
     UI_Type = 0,
-    group = "COMMUNITY",
+    group = "TAMING",
     major = 3,
     minor = 1,
     title = "촌촌 - 길들이기",
@@ -5382,7 +5382,7 @@ achievement_tbl = {
   },
   [230112] = {
     UI_Type = 0,
-    group = "COMMUNITY",
+    group = "TAMING",
     major = 3,
     minor = 1,
     title = "스틸 촌촌 - 길들이기",
@@ -5400,7 +5400,7 @@ achievement_tbl = {
   },
   [230113] = {
     UI_Type = 0,
-    group = "COMMUNITY",
+    group = "TAMING",
     major = 3,
     minor = 1,
     title = "헌터 플라이 - 길들이기",
@@ -5418,7 +5418,7 @@ achievement_tbl = {
   },
   [230114] = {
     UI_Type = 0,
-    group = "COMMUNITY",
+    group = "TAMING",
     major = 3,
     minor = 1,
     title = "로커 - 길들이기",
@@ -5436,7 +5436,7 @@ achievement_tbl = {
   },
   [230115] = {
     UI_Type = 0,
-    group = "COMMUNITY",
+    group = "TAMING",
     major = 3,
     minor = 1,
     title = "스포아 - 길들이기",
@@ -5454,7 +5454,7 @@ achievement_tbl = {
   },
   [230116] = {
     UI_Type = 0,
-    group = "COMMUNITY",
+    group = "TAMING",
     major = 3,
     minor = 1,
     title = "포이즌 스포아 - 길들이기",
@@ -5472,7 +5472,7 @@ achievement_tbl = {
   },
   [230121] = {
     UI_Type = 0,
-    group = "COMMUNITY",
+    group = "TAMING",
     major = 3,
     minor = 1,
     title = "루나틱 - 길들이기",
@@ -5490,7 +5490,7 @@ achievement_tbl = {
   },
   [230122] = {
     UI_Type = 0,
-    group = "COMMUNITY",
+    group = "TAMING",
     major = 3,
     minor = 1,
     title = "픽키 - 길들이기",
@@ -5508,7 +5508,7 @@ achievement_tbl = {
   },
   [230123] = {
     UI_Type = 0,
-    group = "COMMUNITY",
+    group = "TAMING",
     major = 3,
     minor = 1,
     title = "세비지 베베 - 길들이기",
@@ -5526,7 +5526,7 @@ achievement_tbl = {
   },
   [230124] = {
     UI_Type = 0,
-    group = "COMMUNITY",
+    group = "TAMING",
     major = 3,
     minor = 1,
     title = "어린 데저트 울프 - 길들이기",
@@ -5544,7 +5544,7 @@ achievement_tbl = {
   },
   [230125] = {
     UI_Type = 0,
-    group = "COMMUNITY",
+    group = "TAMING",
     major = 3,
     minor = 1,
     title = "스모키 - 길들이기",
@@ -5562,7 +5562,7 @@ achievement_tbl = {
   },
   [230126] = {
     UI_Type = 0,
-    group = "COMMUNITY",
+    group = "TAMING",
     major = 3,
     minor = 1,
     title = "요요 - 길들이기",
@@ -5580,7 +5580,7 @@ achievement_tbl = {
   },
   [230127] = {
     UI_Type = 0,
-    group = "COMMUNITY",
+    group = "TAMING",
     major = 3,
     minor = 1,
     title = "페코페코 - 길들이기",
@@ -5598,7 +5598,7 @@ achievement_tbl = {
   },
   [230128] = {
     UI_Type = 0,
-    group = "COMMUNITY",
+    group = "TAMING",
     major = 3,
     minor = 1,
     title = "쁘띠 - 길들이기",
@@ -5616,7 +5616,7 @@ achievement_tbl = {
   },
   [230141] = {
     UI_Type = 0,
-    group = "COMMUNITY",
+    group = "TAMING",
     major = 3,
     minor = 1,
     title = "무낙 - 길들이기",
@@ -5634,7 +5634,7 @@ achievement_tbl = {
   },
   [230142] = {
     UI_Type = 0,
-    group = "COMMUNITY",
+    group = "TAMING",
     major = 3,
     minor = 1,
     title = "이시스 - 길들이기",
@@ -5652,7 +5652,7 @@ achievement_tbl = {
   },
   [230143] = {
     UI_Type = 0,
-    group = "COMMUNITY",
+    group = "TAMING",
     major = 3,
     minor = 1,
     title = "소희 - 길들이기",
@@ -5670,7 +5670,7 @@ achievement_tbl = {
   },
   [230144] = {
     UI_Type = 0,
-    group = "COMMUNITY",
+    group = "TAMING",
     major = 3,
     minor = 1,
     title = "지르타스 - 길들이기",
@@ -5688,7 +5688,7 @@ achievement_tbl = {
   },
   [230145] = {
     UI_Type = 0,
-    group = "COMMUNITY",
+    group = "TAMING",
     major = 3,
     minor = 1,
     title = "엘리스 - 길들이기",
@@ -5706,7 +5706,7 @@ achievement_tbl = {
   },
   [230146] = {
     UI_Type = 0,
-    group = "COMMUNITY",
+    group = "TAMING",
     major = 3,
     minor = 1,
     title = "서큐버스 - 길들이기",
@@ -5724,7 +5724,7 @@ achievement_tbl = {
   },
   [230147] = {
     UI_Type = 0,
-    group = "COMMUNITY",
+    group = "TAMING",
     major = 3,
     minor = 1,
     title = "로리루리 - 길들이기",
@@ -5742,7 +5742,7 @@ achievement_tbl = {
   },
   [220000] = {
     UI_Type = 0,
-    group = "COMMUNITY",
+    group = "CHATTING",
     major = 1,
     minor = 2,
     title = "커뮤니티 시작",
@@ -5760,7 +5760,7 @@ achievement_tbl = {
   },
   [220001] = {
     UI_Type = 0,
-    group = "COMMUNITY",
+    group = "CHATTING_DYING",
     major = 1,
     minor = 2,
     title = "입만 동동 뜸",
@@ -5778,7 +5778,7 @@ achievement_tbl = {
   },
   [220002] = {
     UI_Type = 0,
-    group = "COMMUNITY",
+    group = "CHATTING20",
     major = 1,
     minor = 2,
     title = "수다 삼매경",
@@ -5796,7 +5796,7 @@ achievement_tbl = {
   },
   [220003] = {
     UI_Type = 0,
-    group = "COMMUNITY",
+    group = "ADD_FRIEND",
     major = 1,
     minor = 2,
     title = "친구야~ 친구야~",
@@ -5814,7 +5814,7 @@ achievement_tbl = {
   },
   [220004] = {
     UI_Type = 0,
-    group = "COMMUNITY",
+    group = "ADD_FRIEND",
     major = 1,
     minor = 2,
     title = "인기쟁이",
@@ -5832,7 +5832,7 @@ achievement_tbl = {
   },
   [220005] = {
     UI_Type = 0,
-    group = "COMMUNITY",
+    group = "PARTY",
     major = 1,
     minor = 2,
     title = "Let's Party~",
@@ -5850,7 +5850,7 @@ achievement_tbl = {
   },
   [220006] = {
     UI_Type = 0,
-    group = "COMMUNITY",
+    group = "MARRY",
     major = 1,
     minor = 2,
     title = "결혼은 하셨는지..?",
@@ -5868,7 +5868,7 @@ achievement_tbl = {
   },
   [220007] = {
     UI_Type = 0,
-    group = "COMMUNITY",
+    group = "BABY",
     major = 1,
     minor = 2,
     title = "키워주실래요?",
@@ -5886,7 +5886,7 @@ achievement_tbl = {
   },
   [220008] = {
     UI_Type = 0,
-    group = "COMMUNITY",
+    group = "BABY",
     major = 1,
     minor = 2,
     title = "부모가 된다는 것",
@@ -5904,7 +5904,7 @@ achievement_tbl = {
   },
   [220009] = {
     UI_Type = 1,
-    group = "COMMUNITY",
+    group = "SPEND_ZENY",
     major = 1,
     minor = 1,
     title = "시장 경제 활성화 (1)",
@@ -5927,7 +5927,7 @@ achievement_tbl = {
   },
   [220010] = {
     UI_Type = 1,
-    group = "COMMUNITY",
+    group = "SPEND_ZENY",
     major = 1,
     minor = 1,
     title = "시장 경제 활성화 (2)",
@@ -5949,7 +5949,7 @@ achievement_tbl = {
   },
   [220011] = {
     UI_Type = 1,
-    group = "COMMUNITY",
+    group = "SPEND_ZENY",
     major = 1,
     minor = 1,
     title = "시장 경제 활성화 (3)",
@@ -5970,7 +5970,7 @@ achievement_tbl = {
   },
   [220012] = {
     UI_Type = 1,
-    group = "COMMUNITY",
+    group = "SPEND_ZENY",
     major = 1,
     minor = 1,
     title = "시장 경제 활성화 (4)",
@@ -5990,7 +5990,7 @@ achievement_tbl = {
   },
   [220013] = {
     UI_Type = 1,
-    group = "COMMUNITY",
+    group = "SPEND_ZENY",
     major = 1,
     minor = 1,
     title = "시장 경제 활성화 (5)",
@@ -6009,7 +6009,7 @@ achievement_tbl = {
   },
   [220014] = {
     UI_Type = 0,
-    group = "COMMUNITY",
+    group = "ENCHANT_SUCCESS",
     major = 1,
     minor = 1,
     title = "제련은 그만둘 수 없어! (1)",
@@ -6027,7 +6027,7 @@ achievement_tbl = {
   },
   [220015] = {
     UI_Type = 0,
-    group = "COMMUNITY",
+    group = "ENCHANT_SUCCESS",
     major = 1,
     minor = 1,
     title = "제련은 그만둘 수 없어! (2)",
@@ -6045,7 +6045,7 @@ achievement_tbl = {
   },
   [220016] = {
     UI_Type = 0,
-    group = "COMMUNITY",
+    group = "ENCHANT_SUCCESS",
     major = 1,
     minor = 1,
     title = "제련은 그만둘 수 없어! (3)",
@@ -6063,7 +6063,7 @@ achievement_tbl = {
   },
   [220017] = {
     UI_Type = 0,
-    group = "COMMUNITY",
+    group = "ENCHANT_SUCCESS",
     major = 1,
     minor = 1,
     title = "제련은 그만둘 수 없어! (4)",
@@ -6081,7 +6081,7 @@ achievement_tbl = {
   },
   [220018] = {
     UI_Type = 0,
-    group = "COMMUNITY",
+    group = "ENCHANT_SUCCESS",
     major = 1,
     minor = 1,
     title = "제련은 그만둘 수 없어! (5)",
@@ -6099,7 +6099,7 @@ achievement_tbl = {
   },
   [220019] = {
     UI_Type = 0,
-    group = "COMMUNITY",
+    group = "ENCHANT_SUCCESS",
     major = 1,
     minor = 1,
     title = "제련은 그만둘 수 없어! (6)",
@@ -6117,7 +6117,7 @@ achievement_tbl = {
   },
   [220020] = {
     UI_Type = 0,
-    group = "COMMUNITY",
+    group = "ENCHANT_SUCCESS",
     major = 1,
     minor = 1,
     title = "제련은 그만둘 수 없어! (7)",
@@ -6135,7 +6135,7 @@ achievement_tbl = {
   },
   [220021] = {
     UI_Type = 0,
-    group = "COMMUNITY",
+    group = "ENCHANT_SUCCESS",
     major = 1,
     minor = 1,
     title = "제련은 그만둘 수 없어! (8)",
@@ -6153,7 +6153,7 @@ achievement_tbl = {
   },
   [220022] = {
     UI_Type = 0,
-    group = "COMMUNITY",
+    group = "ENCHANT_FAIL",
     major = 1,
     minor = 1,
     title = "인간의 욕심은 끝이 없고..",
@@ -6171,7 +6171,7 @@ achievement_tbl = {
   },
   [220023] = {
     UI_Type = 0,
-    group = "BATTLE",
+    group = "GET_ITEM",
     major = 1,
     minor = 1,
     title = "심봤다! (1)",
@@ -6189,7 +6189,7 @@ achievement_tbl = {
   },
   [220024] = {
     UI_Type = 0,
-    group = "BATTLE",
+    group = "GET_ITEM",
     major = 1,
     minor = 1,
     title = "심봤다! (2)",
@@ -6207,7 +6207,7 @@ achievement_tbl = {
   },
   [220025] = {
     UI_Type = 0,
-    group = "BATTLE",
+    group = "GET_ITEM",
     major = 1,
     minor = 1,
     title = "심봤다! (3)",
@@ -6225,7 +6225,7 @@ achievement_tbl = {
   },
   [220026] = {
     UI_Type = 0,
-    group = "BATTLE",
+    group = "GET_ITEM",
     major = 1,
     minor = 1,
     title = "심봤다! (4)",
@@ -6243,7 +6243,7 @@ achievement_tbl = {
   },
   [220027] = {
     UI_Type = 0,
-    group = "BATTLE",
+    group = "GET_ITEM",
     major = 1,
     minor = 1,
     title = "심봤다! (5)",
@@ -6261,7 +6261,7 @@ achievement_tbl = {
   },
   [220028] = {
     UI_Type = 0,
-    group = "BATTLE",
+    group = "GET_ITEM",
     major = 1,
     minor = 1,
     title = "심봤다! (6)",
@@ -6279,7 +6279,7 @@ achievement_tbl = {
   },
   [220029] = {
     UI_Type = 0,
-    group = "BATTLE",
+    group = "GET_ITEM",
     major = 1,
     minor = 1,
     title = "심봤다! (7)",
@@ -6297,7 +6297,7 @@ achievement_tbl = {
   },
   [220030] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "GET_ZENY",
     major = 1,
     minor = 1,
     title = "부자왕 (1)",
@@ -6315,7 +6315,7 @@ achievement_tbl = {
   },
   [220031] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "GET_ZENY",
     major = 1,
     minor = 1,
     title = "부자왕 (2)",
@@ -6333,7 +6333,7 @@ achievement_tbl = {
   },
   [220032] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "GET_ZENY",
     major = 1,
     minor = 1,
     title = "부자왕 (3)",
@@ -6351,7 +6351,7 @@ achievement_tbl = {
   },
   [220033] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "GET_ZENY",
     major = 1,
     minor = 1,
     title = "부자왕 (4)",
@@ -6369,7 +6369,7 @@ achievement_tbl = {
   },
   [220034] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "GET_ZENY",
     major = 1,
     minor = 1,
     title = "부자왕 (5)",
@@ -6387,7 +6387,7 @@ achievement_tbl = {
   },
   [220035] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "GET_ZENY",
     major = 1,
     minor = 1,
     title = "부자왕 (6)",
@@ -6405,7 +6405,7 @@ achievement_tbl = {
   },
   [230200] = {
     UI_Type = 0,
-    group = "COMMUNITY",
+    group = "GOAL_LEVEL",
     major = 3,
     minor = 1,
     title = "포링 탐구자",
@@ -6529,7 +6529,7 @@ achievement_tbl = {
   },
   [240000] = {
     UI_Type = 0,
-    group = "ACTION",
+    group = "GOAL_LEVEL",
     major = 6,
     minor = 0,
     title = "달성과제 도입 후 첫 접속",
@@ -6547,7 +6547,7 @@ achievement_tbl = {
   },
   [240001] = {
     UI_Type = 0,
-    group = "COMMUNITY",
+    group = "GOAL_ACHIEVE",
     major = 6,
     minor = 0,
     title = "달성등급 1 도달",
@@ -6565,7 +6565,7 @@ achievement_tbl = {
   },
   [240002] = {
     UI_Type = 0,
-    group = "COMMUNITY",
+    group = "GOAL_ACHIEVE",
     major = 6,
     minor = 0,
     title = "달성등급 2 도달",
@@ -6583,7 +6583,7 @@ achievement_tbl = {
   },
   [240003] = {
     UI_Type = 0,
-    group = "COMMUNITY",
+    group = "GOAL_ACHIEVE",
     major = 6,
     minor = 0,
     title = "달성등급 3 도달",
@@ -6601,7 +6601,7 @@ achievement_tbl = {
   },
   [240004] = {
     UI_Type = 0,
-    group = "COMMUNITY",
+    group = "GOAL_ACHIEVE",
     major = 6,
     minor = 0,
     title = "달성등급 4 도달",
@@ -6619,7 +6619,7 @@ achievement_tbl = {
   },
   [240005] = {
     UI_Type = 0,
-    group = "COMMUNITY",
+    group = "GOAL_ACHIEVE",
     major = 6,
     minor = 0,
     title = "달성등급 5 도달",
@@ -6637,7 +6637,7 @@ achievement_tbl = {
   },
   [240006] = {
     UI_Type = 0,
-    group = "COMMUNITY",
+    group = "GOAL_ACHIEVE",
     major = 6,
     minor = 0,
     title = "달성등급 6 도달",
@@ -6655,7 +6655,7 @@ achievement_tbl = {
   },
   [240007] = {
     UI_Type = 0,
-    group = "COMMUNITY",
+    group = "GOAL_ACHIEVE",
     major = 6,
     minor = 0,
     title = "달성등급 7 도달",
@@ -6673,7 +6673,7 @@ achievement_tbl = {
   },
   [240008] = {
     UI_Type = 0,
-    group = "COMMUNITY",
+    group = "GOAL_ACHIEVE",
     major = 6,
     minor = 0,
     title = "달성등급 8 도달",
@@ -6691,7 +6691,7 @@ achievement_tbl = {
   },
   [240009] = {
     UI_Type = 0,
-    group = "COMMUNITY",
+    group = "GOAL_ACHIEVE",
     major = 6,
     minor = 0,
     title = "달성등급 9 도달",
@@ -6709,7 +6709,7 @@ achievement_tbl = {
   },
   [240010] = {
     UI_Type = 0,
-    group = "COMMUNITY",
+    group = "GOAL_ACHIEVE",
     major = 6,
     minor = 0,
     title = "달성등급 10 도달",
@@ -6731,7 +6731,7 @@ achievement_tbl = {
   },
   [240011] = {
     UI_Type = 0,
-    group = "COMMUNITY",
+    group = "GOAL_ACHIEVE",
     major = 6,
     minor = 0,
     title = "달성등급 11 도달",
@@ -6749,7 +6749,7 @@ achievement_tbl = {
   },
   [240012] = {
     UI_Type = 0,
-    group = "COMMUNITY",
+    group = "GOAL_ACHIEVE",
     major = 6,
     minor = 0,
     title = "달성등급 12 도달",
@@ -6767,7 +6767,7 @@ achievement_tbl = {
   },
   [240013] = {
     UI_Type = 0,
-    group = "COMMUNITY",
+    group = "GOAL_ACHIEVE",
     major = 6,
     minor = 0,
     title = "달성등급 13 도달",
@@ -6785,7 +6785,7 @@ achievement_tbl = {
   },
   [240014] = {
     UI_Type = 0,
-    group = "COMMUNITY",
+    group = "GOAL_ACHIEVE",
     major = 6,
     minor = 0,
     title = "달성등급 14 도달",
@@ -6803,7 +6803,7 @@ achievement_tbl = {
   },
   [240015] = {
     UI_Type = 0,
-    group = "COMMUNITY",
+    group = "GOAL_ACHIEVE",
     major = 6,
     minor = 0,
     title = "달성등급 15 도달",
@@ -6821,7 +6821,7 @@ achievement_tbl = {
   },
   [240016] = {
     UI_Type = 0,
-    group = "COMMUNITY",
+    group = "GOAL_ACHIEVE",
     major = 6,
     minor = 0,
     title = "달성등급 16 도달",
@@ -6839,7 +6839,7 @@ achievement_tbl = {
   },
   [240017] = {
     UI_Type = 0,
-    group = "COMMUNITY",
+    group = "GOAL_ACHIEVE",
     major = 6,
     minor = 0,
     title = "달성등급 17 도달",
@@ -6857,7 +6857,7 @@ achievement_tbl = {
   },
   [240018] = {
     UI_Type = 0,
-    group = "COMMUNITY",
+    group = "GOAL_ACHIEVE",
     major = 6,
     minor = 0,
     title = "달성등급 18 도달",
@@ -6875,7 +6875,7 @@ achievement_tbl = {
   },
   [240019] = {
     UI_Type = 0,
-    group = "COMMUNITY",
+    group = "GOAL_ACHIEVE",
     major = 6,
     minor = 0,
     title = "달성등급 19 도달",
@@ -6893,7 +6893,7 @@ achievement_tbl = {
   },
   [240020] = {
     UI_Type = 0,
-    group = "COMMUNITY",
+    group = "GOAL_ACHIEVE",
     major = 6,
     minor = 0,
     title = "달성등급 20 도달",
@@ -6912,6 +6912,42 @@ achievement_tbl = {
       item = 644
     },
     score = 10
+  },
+  [220036] = {
+    UI_Type = 0,
+    group = "EAT",
+    major = 1,
+    minor = 2,
+    title = "아웃도어의 시작",
+    content = {
+      summary = "야외 조리기구를 획득 한다",
+      details = "야외 조리기구를 획득 한다"
+    },
+    resource = {
+      [1] = {
+        text = "야외 조리기구를 획득 한다"
+      }
+    },
+    reward = {},
+    score = 20
+  },
+  [220037] = {
+    UI_Type = 0,
+    group = "EAT",
+    major = 1,
+    minor = 2,
+    title = "요리사의 첫발",
+    content = {
+      summary = "1레벨 요리를 획득 한다",
+      details = "1레벨 요리를 획득 한다"
+    },
+    resource = {
+      [1] = {
+        text = "1레벨 요리를 획득 한다"
+      }
+    },
+    reward = {},
+    score = 20
   }
 }
 function main()
