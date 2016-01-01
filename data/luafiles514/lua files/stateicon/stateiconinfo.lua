@@ -1320,30 +1320,6 @@ StateIconList[EFST_IDs.EFST_MOVHASTE_HORSE] = {
     }
   }
 }
-StateIconList[EFST_IDs.EFST_CRESCENTELBOW] = {
-  haveTimeLimit = 1,
-  posTimeLimitStr = 2,
-  descript = {
-    {
-      "파쇄주(破碎柱)",
-      COLOR_TITLE_BUFF
-    },
-    {"%s", COLOR_TIME},
-    {
-      "상대의 공격에 맞춰 반격 시도"
-    },
-    {
-      "대상을 넉 백시키며 데미지를 입히고"
-    },
-    {
-      "그 데미지의 일부를 입음"
-    },
-    {
-      "보스 몬스터에게 사용 불가",
-      COLOR_SYSTEM
-    }
-  }
-}
 StateIconList[EFST_IDs.EFST_SONG_OF_MANA] = {
   haveTimeLimit = 1,
   posTimeLimitStr = 2,
