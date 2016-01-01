@@ -5622,3 +5622,25 @@ StateIconList[EFST_IDs.EFST_CHUSEOK_WEEKEND] = {
     }
   }
 }
+StateIconList[EFST_IDs.EFST_JUMPINGCLAN] = {
+  descript = {
+    {"점핑 클랜", COLOR_TITLE_BUFF},
+    {
+      "All State + 1."
+    }
+  }
+}
+StateIconList[EFST_IDs.EFST_ESSENCE_OF_TIME] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
+  descript = {
+    {
+      "시간의 조각 응집중",
+      COLOR_SYSTEM
+    },
+    {"%s", COLOR_TIME},
+    {
+      "이미 시간의 정수를 얻었습니다."
+    }
+  }
+}
