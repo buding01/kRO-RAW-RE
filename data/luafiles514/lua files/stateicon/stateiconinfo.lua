@@ -4842,3 +4842,20 @@ StateIconList[EFST_IDs.EFST_FENRIR_CARD] = {
     {"%s", COLOR_TIME}
   }
 }
+StateIconList[EFST_IDs.EFST_HANDICAPSTATE_ICEEXPLO] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 5,
+  descript = {
+    {"동빙폭탄", COLOR_TITLE_DEBUFF},
+    {
+      "이동속도 감소"
+    },
+    {
+      "일정 시간 뒤에 폭발하여"
+    },
+    {
+      "주변에 큰 데미지를 준다."
+    },
+    {"%s", COLOR_TIME}
+  }
+}
