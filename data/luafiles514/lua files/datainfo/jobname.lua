@@ -3366,5 +3366,6 @@ JobNameTable = {
   [jobtbl.JT_E_WILD_RABBIT] = "G_SPRING_RABBIT",
   [jobtbl.JT_4_NPC_TRAP] = "4_NPC_TRAP",
   [jobtbl.JT_E_WILD_MOBSTER] = "MOBSTER",
-  [jobtbl.JT_IFN_POIRING] = "GOLDPORING"
+  [jobtbl.JT_IFN_POIRING] = "GOLDPORING",
+  [jobtbl.JT_MOON_RABBIT] = "lunatic"
 }
