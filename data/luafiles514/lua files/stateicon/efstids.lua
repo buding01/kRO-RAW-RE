@@ -714,6 +714,10 @@ EFST_IDs = {
   EFST_2013_VALENTINE3 = 733,
   EFST_CHILL = 736,
   EFST_BURNT = 737,
+  EFST_SWORDCLAN = 762,
+  EFST_ARCWANDCLAN = 763,
+  EFST_GOLDENMACECLAN = 764,
+  EFST_CROSSBOWCLAN = 765,
   __newindex = function()
     error("unknown state")
   end

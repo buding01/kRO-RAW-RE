@@ -5070,3 +5070,56 @@ StateIconList[EFST_IDs.EFST_DARKCROW] = {
     {"%s", COLOR_TIME}
   }
 }
+StateIconList[EFST_IDs.EFST_SWORDCLAN] = {
+  descript = {
+    {"소드 클랜", COLOR_TITLE_BUFF},
+    {
+      "STR + 1, VIT + 1"
+    },
+    {
+      "MHP + 30, MSP + 10"
+    }
+  }
+}
+StateIconList[EFST_IDs.EFST_ARCWANDCLAN] = {
+  descript = {
+    {
+      "아크완드 클랜",
+      COLOR_TITLE_BUFF
+    },
+    {
+      "INT + 1, DEX + 1"
+    },
+    {
+      "MHP + 30, MSP + 10"
+    }
+  }
+}
+StateIconList[EFST_IDs.EFST_GOLDENMACECLAN] = {
+  descript = {
+    {
+      "골든메이스 클랜",
+      COLOR_TITLE_BUFF
+    },
+    {
+      "LUK + 1, INT + 1"
+    },
+    {
+      "MHP + 30, MSP + 10"
+    }
+  }
+}
+StateIconList[EFST_IDs.EFST_CROSSBOWCLAN] = {
+  descript = {
+    {
+      "크로스보우 클랜",
+      COLOR_TITLE_BUFF
+    },
+    {
+      "DEX + 1, AGI + 1"
+    },
+    {
+      "MHP + 30, MSP + 10"
+    }
+  }
+}
