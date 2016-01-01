@@ -2904,6 +2904,7 @@ JobNameTable = {
   [jobtbl.JT_ROCK_STEP] = "VENATU_1",
   [jobtbl.JT_KICK_STEP] = "DIMIK",
   [jobtbl.JT_KICK_AND_KICK] = "ARCHDAM",
+  [jobtbl.JT_BOMB] = "CONSTANT",
   [jobtbl.JT_RUIN_BELIEVER1] = "MOBSTER",
   [jobtbl.JT_RUIN_BELIEVER2] = "MOBSTER",
   [jobtbl.JT_ILLEGAL_PROMOTION] = "ANOPHELES",
