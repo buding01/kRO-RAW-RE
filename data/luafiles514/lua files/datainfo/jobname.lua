@@ -3398,5 +3398,6 @@ JobNameTable = {
   [jobtbl.JT_4_DR_M_02] = "4_dr_m_02",
   [jobtbl.JT_4_DR_F_01] = "4_dr_f_01",
   [jobtbl.JT_4_DR_F_02] = "4_dr_f_02",
-  [jobtbl.JT_4_DR_KID_01] = "4_dr_kid_01"
+  [jobtbl.JT_4_DR_KID_01] = "4_dr_kid_01",
+  [jobtbl.JT_4_JACK_HEAD] = "4_jack_head"
 }
