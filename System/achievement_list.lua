@@ -3180,14 +3180,14 @@ achievement_tbl = {
     group = "BATTLE",
     major = 5,
     minor = 0,
-    title = "포근한 대지",
+    title = "기분좋은 바람",
     content = {
-      summary = "지속성 페이스웜 퀸 처치",
+      summary = "풍속성 페이스웜 퀸 처치",
       details = "메모리얼 던전을 끝까지 진행"
     },
     resource = {
       [1] = {
-        text = "지속성 페이스웜 퀸 1회 처치",
+        text = "풍속성 페이스웜 퀸 1회 처치",
         count = 1
       }
     },
@@ -3218,14 +3218,14 @@ achievement_tbl = {
     group = "BATTLE",
     major = 5,
     minor = 0,
-    title = "기분좋은 바람",
+    title = "아늑한 대지",
     content = {
-      summary = "풍속성 페이스웜 퀸 처치",
+      summary = "지속성 페이스웜 퀸 처치",
       details = "메모리얼 던전을 끝까지 진행"
     },
     resource = {
       [1] = {
-        text = "풍속성 페이스웜 퀸 1회 처치",
+        text = "지속성 페이스웜 퀸 1회 처치",
         count = 1
       }
     },
@@ -4637,7 +4637,11 @@ achievement_tbl = {
     resource = {
       [1] = {text = "잡 레벨 70"}
     },
-    reward = {buff = 10, item = 12817},
+    reward = {
+      title = 1004,
+      buff = 10,
+      item = 12817
+    },
     score = 50
   },
   [200005] = {
