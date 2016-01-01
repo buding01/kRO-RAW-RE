@@ -2681,6 +2681,231 @@ achievement_tbl = {
     reward = {item = 22876},
     score = 20
   },
+  [127001] = {
+    UI_Type = 1,
+    group = "CHATTING",
+    major = 4,
+    minor = 1,
+    title = "프론테라 공헌도",
+    content = {
+      summary = "룬 미드가츠 대도시 명성",
+      details = "당신에 대한 프론테라의 평가"
+    },
+    resource = {
+      [1] = {text = "이방인", count = 3000},
+      [2] = {
+        text = "마을 새내기",
+        count = 6000
+      },
+      [3] = {text = "이웃 사촌", count = 12000},
+      [4] = {text = "저명 인사", count = 20000},
+      [5] = {
+        text = "도시의 권력자",
+        count = 1000
+      }
+    },
+    score = 10
+  },
+  [127002] = {
+    UI_Type = 1,
+    group = "CHATTING",
+    major = 4,
+    minor = 1,
+    title = "게펜 공헌도",
+    content = {
+      summary = "룬 미드가츠 대도시 명성",
+      details = "당신에 대한 게펜의 평가"
+    },
+    resource = {
+      [1] = {text = "이방인", count = 3000},
+      [2] = {
+        text = "마을 새내기",
+        count = 6000
+      },
+      [3] = {text = "이웃 사촌", count = 12000},
+      [4] = {text = "저명 인사", count = 20000},
+      [5] = {
+        text = "도시의 권력자",
+        count = 1000
+      }
+    },
+    score = 10
+  },
+  [127003] = {
+    UI_Type = 1,
+    group = "CHATTING",
+    major = 4,
+    minor = 1,
+    title = "모로크 공헌도",
+    content = {
+      summary = "룬 미드가츠 대도시 명성",
+      details = "당신에 대한 모로크의 평가"
+    },
+    resource = {
+      [1] = {text = "이방인", count = 3000},
+      [2] = {
+        text = "마을 새내기",
+        count = 6000
+      },
+      [3] = {text = "이웃 사촌", count = 12000},
+      [4] = {text = "저명 인사", count = 20000},
+      [5] = {
+        text = "도시의 권력자",
+        count = 1000
+      }
+    },
+    score = 10
+  },
+  [127004] = {
+    UI_Type = 1,
+    group = "CHATTING",
+    major = 4,
+    minor = 1,
+    title = "페이욘 공헌도",
+    content = {
+      summary = "룬 미드가츠 대도시 명성",
+      details = "당신에 대한 페이욘의 평가"
+    },
+    resource = {
+      [1] = {text = "이방인", count = 3000},
+      [2] = {
+        text = "마을 새내기",
+        count = 6000
+      },
+      [3] = {text = "이웃 사촌", count = 12000},
+      [4] = {text = "저명 인사", count = 20000},
+      [5] = {
+        text = "도시의 권력자",
+        count = 1000
+      }
+    },
+    score = 10
+  },
+  [127005] = {
+    UI_Type = 1,
+    group = "CHATTING",
+    major = 4,
+    minor = 1,
+    title = "유노 공헌도",
+    content = {
+      summary = "슈발츠발드 대도시 명성",
+      details = "당신에 대한 유노의 평가"
+    },
+    resource = {
+      [1] = {text = "이방인", count = 3000},
+      [2] = {
+        text = "마을 새내기",
+        count = 6000
+      },
+      [3] = {text = "이웃 사촌", count = 12000},
+      [4] = {text = "저명 인사", count = 20000},
+      [5] = {
+        text = "도시의 권력자",
+        count = 1000
+      }
+    },
+    score = 10
+  },
+  [127006] = {
+    UI_Type = 1,
+    group = "CHATTING",
+    major = 4,
+    minor = 1,
+    title = "리히타르젠 공헌도",
+    content = {
+      summary = "슈발츠발드 대도시 명성",
+      details = "당신에 대한 리히타르젠의 평가"
+    },
+    resource = {
+      [1] = {text = "이방인", count = 3000},
+      [2] = {
+        text = "마을 새내기",
+        count = 6000
+      },
+      [3] = {text = "이웃 사촌", count = 12000},
+      [4] = {text = "저명 인사", count = 20000},
+      [5] = {
+        text = "도시의 권력자",
+        count = 1000
+      }
+    },
+    score = 10
+  },
+  [127007] = {
+    UI_Type = 1,
+    group = "CHATTING",
+    major = 4,
+    minor = 1,
+    title = "아인브로크 공헌도",
+    content = {
+      summary = "슈발츠발드 대도시 명성",
+      details = "당신에 대한 아인브로크의 평가"
+    },
+    resource = {
+      [1] = {text = "이방인", count = 3000},
+      [2] = {
+        text = "마을 새내기",
+        count = 6000
+      },
+      [3] = {text = "이웃 사촌", count = 12000},
+      [4] = {text = "저명 인사", count = 20000},
+      [5] = {
+        text = "도시의 권력자",
+        count = 1000
+      }
+    },
+    score = 10
+  },
+  [127008] = {
+    UI_Type = 1,
+    group = "CHATTING",
+    major = 4,
+    minor = 1,
+    title = "라헬 공헌도",
+    content = {
+      summary = "아루나펠츠 대도시 명성",
+      details = "당신에 대한 라헬의 평가"
+    },
+    resource = {
+      [1] = {text = "이방인", count = 3000},
+      [2] = {
+        text = "마을 새내기",
+        count = 6000
+      },
+      [3] = {text = "이웃 사촌", count = 12000},
+      [4] = {text = "저명 인사", count = 20000},
+      [5] = {
+        text = "도시의 권력자",
+        count = 1000
+      }
+    },
+    score = 10
+  },
+  [127009] = {
+    UI_Type = 1,
+    group = "CHATTING",
+    major = 4,
+    minor = 1,
+    title = "베인스 공헌도",
+    content = {
+      summary = "아루나펠츠 대도시 명성",
+      details = "당신에 대한 베인스의 평가"
+    },
+    resource = {
+      [1] = {text = "이방인", count = 3000},
+      [2] = {
+        text = "마을 새내기",
+        count = 6000
+      },
+      [3] = {text = "이웃 사촌", count = 12000},
+      [4] = {text = "저명 인사", count = 20000},
+      [5] = {
+        text = "도시의 권력자",
+        count = 1000
+      }
+    },
+    score = 10
+  },
   [128000] = {
     UI_Type = 1,
     group = "BATTLE",
@@ -4537,6 +4762,37 @@ achievement_tbl = {
     },
     reward = {},
     score = 10
+  },
+  [190000] = {
+    UI_Type = 1,
+    group = "CHATTING",
+    major = 4,
+    minor = 1,
+    title = "도시상인연합의 노동자",
+    content = {
+      summary = "훌륭한 도시상인연합의 노동자",
+      details = "도시상인연합의 모든 의뢰에 도전하고 싶은가? 그렇다면 더욱 열심히 일하라!! 도시상인연합은 결코 만만한 곳이 아니다."
+    },
+    resource = {
+      [1] = {
+        text = "초보자 아메디스트 등급",
+        count = 1
+      },
+      [2] = {
+        text = "숙련자 사드오닉스 등급",
+        count = 10
+      },
+      [3] = {
+        text = "능력자 아쿠아마린 등급",
+        count = 30
+      },
+      [4] = {
+        text = "찬란한 다이아몬드 등급",
+        count = 100
+      }
+    },
+    reward = {},
+    score = 50
   },
   [200000] = {
     UI_Type = 0,
