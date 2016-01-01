@@ -169,5 +169,15 @@ NameTable_VAR = {
   [EnumVAR.DEC_SPELL_CAST_TIME[1]] = "변동 캐스팅 시간 %d%% 감소",
   [EnumVAR.DEC_SPELL_DELAY_TIME[1]] = "스킬 후 딜레이 %d%% 감소",
   [EnumVAR.DEC_SP_CONSUMPTION[1]] = "스킬 사용 시 SP소모량 %d%% 감소",
+  [EnumVAR.WEAPON_ATTR_NOTHING[1]] = "무기에 무속성 부여",
+  [EnumVAR.WEAPON_ATTR_WATER[1]] = "무기에 수속성 부여",
+  [EnumVAR.WEAPON_ATTR_GROUND[1]] = "무기에 지속성 부여",
+  [EnumVAR.WEAPON_ATTR_FIRE[1]] = "무기에 화속성 부여",
+  [EnumVAR.WEAPON_ATTR_WIND[1]] = "무기에 풍속성 부여",
+  [EnumVAR.WEAPON_ATTR_POISON[1]] = "무기에 독속성 부여",
+  [EnumVAR.WEAPON_ATTR_SAINT[1]] = "무기에 성속성 부여",
+  [EnumVAR.WEAPON_ATTR_DARKNESS[1]] = "무기에 암속성 부여",
+  [EnumVAR.WEAPON_ATTR_TELEKINESIS[1]] = "무기에 염속성 부여",
+  [EnumVAR.WEAPON_ATTR_UNDEAD[1]] = "무기에 언데드속성 부여",
   [EnumVAR.EnumVAR_LAST[1]] = "END"
 }
