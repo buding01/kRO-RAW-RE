@@ -5664,6 +5664,42 @@ achievement_tbl = {
     reward = {},
     score = 10
   },
+  [230146] = {
+    UI_Type = 0,
+    group = "COMMUNITY",
+    major = 3,
+    minor = 1,
+    title = "서큐버스 - 길들이기",
+    content = {
+      summary = "서큐버스를 테이밍에 성공한다",
+      details = "서큐버스를 펫으로 만들자. '소년의 순정' 아이템으로 꼬실 수 있다."
+    },
+    resource = {
+      [1] = {
+        text = "서큐버스를 테이밍에 성공"
+      }
+    },
+    reward = {},
+    score = 10
+  },
+  [230147] = {
+    UI_Type = 0,
+    group = "COMMUNITY",
+    major = 3,
+    minor = 1,
+    title = "로리루리 - 길들이기",
+    content = {
+      summary = "로리루리를 테이밍에 성공한다",
+      details = "로리루리를 펫으로 만들자. '새빨간 쥬스' 아이템으로 꼬실 수 있다."
+    },
+    resource = {
+      [1] = {
+        text = "로리루리를 테이밍에 성공"
+      }
+    },
+    reward = {},
+    score = 10
+  },
   [220000] = {
     UI_Type = 0,
     group = "COMMUNITY",
