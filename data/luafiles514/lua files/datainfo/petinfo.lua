@@ -63,10 +63,10 @@ PetNameTable = {
   [jobtbl.JT_DOMOVOI] = "DOMOVOI",
   [jobtbl.JT_LITTLE_PORING] = "LITTLE_PORING",
   [jobtbl.JT_BLUE_UNICORN] = "BLUE_UNICORN",
-  [jobtbl.JT_MASTERING] = "MASTERING",
-  [jobtbl.JT_SAVAGE] = "SAVAGE",
-  [jobtbl.JT_GRAND_PECO] = "GRANDPECO",
-  [jobtbl.JT_HIGH_ORC] = "HIGH_ORC"
+  [jobtbl.JT_MASTERING] = "mastering",
+  [jobtbl.JT_SAVAGE] = "savage",
+  [jobtbl.JT_GRAND_PECO] = "grand_peco",
+  [jobtbl.JT_HIGH_ORC] = "high_orc"
 }
 PetIllustNameTable = {
   [jobtbl.JT_BAPHOMET_] = "Æê_¹ÙÆ÷¸ÞÆ®.bmp",
