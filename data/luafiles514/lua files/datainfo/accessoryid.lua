@@ -1172,5 +1172,6 @@ ACCESSORY_IDs = {
   ACCESSORY_Horse_Hairpin1 = 1271,
   ACCESSORY_Horse_Hairpin2 = 1272,
   ACCESSORY_Lamb_Hat1 = 1277,
-  ACCESSORY_Lamb_Hat2 = 1278
+  ACCESSORY_Lamb_Hat2 = 1278,
+  ACCESSORY_Drooping_Dorasuke = 1290
 }
