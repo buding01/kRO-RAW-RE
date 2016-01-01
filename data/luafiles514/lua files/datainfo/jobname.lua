@@ -3349,5 +3349,6 @@ JobNameTable = {
   [jobtbl.JT_P_SOLDIER_SKELETON] = "P_SOLDIER_SKELETON",
   [jobtbl.JT_P_ARCHER_SKELETON] = "P_ARCHER_SKELETON",
   [jobtbl.JT_P_SKELETON] = "P_SKELETON",
-  [jobtbl.JT_4_F_BIJOU] = "4_F_BIJOU"
+  [jobtbl.JT_4_F_BIJOU] = "4_F_BIJOU",
+  [jobtbl.JT_AS_D_CURSED_SOLDIER] = "RAGGED_ZOMBIE"
 }

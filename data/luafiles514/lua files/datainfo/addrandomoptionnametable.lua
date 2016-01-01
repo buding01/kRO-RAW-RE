@@ -74,6 +74,7 @@ NameTable_VAR = {
   [EnumVAR.MDAMAGE_PROPERTY_TELEKINESIS_TARGET[1]] = "염속성 몬스터에게 마법 데미지 %d%% 증가",
   [EnumVAR.MDAMAGE_PROPERTY_UNDEAD_USER[1]] = "언데드속성 몬스터로부터 받는 마법 데미지 %d%% 감소",
   [EnumVAR.MDAMAGE_PROPERTY_UNDEAD_TARGET[1]] = "언데드속성 몬스터에게 마법 데미지 %d%% 증가",
+  [EnumVAR.BODY_ATTR_NOTHING[1]] = "갑옷에 무속성이 영구부여",
   [EnumVAR.BODY_ATTR_WATER[1]] = "갑옷에 수속성이 영구부여",
   [EnumVAR.BODY_ATTR_GROUND[1]] = "갑옷에 지속성이 영구부여",
   [EnumVAR.BODY_ATTR_FIRE[1]] = "갑옷에 화속성이 영구부여",
@@ -179,5 +180,7 @@ NameTable_VAR = {
   [EnumVAR.WEAPON_ATTR_DARKNESS[1]] = "무기에 암속성 부여",
   [EnumVAR.WEAPON_ATTR_TELEKINESIS[1]] = "무기에 염속성 부여",
   [EnumVAR.WEAPON_ATTR_UNDEAD[1]] = "무기에 언데드속성 부여",
+  [EnumVAR.WEAPON_INDESTRUCTIBLE[1]] = "파괴 불가",
+  [EnumVAR.BODY_INDESTRUCTIBLE[1]] = "파괴 불가",
   [EnumVAR.EnumVAR_LAST[1]] = "END"
 }
