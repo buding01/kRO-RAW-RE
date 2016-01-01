@@ -4601,3 +4601,123 @@ StateIconList[EFST_IDs.EFST_GLASTHEIM_HPSP] = {
     {"%s", COLOR_TIME}
   }
 }
+StateIconList[EFST_IDs.EFST_ALMIGHTY] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 3,
+  descript = {
+    {"올마이티", COLOR_TITLE_BUFF},
+    {
+      "ATK, MATK 증가"
+    },
+    {"%s", COLOR_TIME}
+  }
+}
+StateIconList[EFST_IDs.EFST_GVG_GIANT] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 3,
+  descript = {
+    {
+      "서리거인의 피",
+      COLOR_TITLE_BUFF
+    },
+    {
+      "플레이어형 적에게 주는 데미지 추가"
+    },
+    {"%s", COLOR_TIME}
+  }
+}
+StateIconList[EFST_IDs.EFST_GVG_GOLEM] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 3,
+  descript = {
+    {"골렘의 핵", COLOR_TITLE_BUFF},
+    {
+      "플레이어형 적에게 받는 데미지 감소"
+    },
+    {"%s", COLOR_TIME}
+  }
+}
+StateIconList[EFST_IDs.EFST_GVG_STUN] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 3,
+  descript = {
+    {
+      "요정의눈물(스턴)",
+      COLOR_TITLE_BUFF
+    },
+    {"스턴 면역"},
+    {"%s", COLOR_TIME}
+  }
+}
+StateIconList[EFST_IDs.EFST_GVG_STONE] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 3,
+  descript = {
+    {
+      "요정의눈물(석화)",
+      COLOR_TITLE_BUFF
+    },
+    {"석화 면역"},
+    {"%s", COLOR_TIME}
+  }
+}
+StateIconList[EFST_IDs.EFST_GVG_FREEZ] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 3,
+  descript = {
+    {
+      "요정의눈물(동빙)",
+      COLOR_TITLE_BUFF
+    },
+    {"동빙 면역"},
+    {"%s", COLOR_TIME}
+  }
+}
+StateIconList[EFST_IDs.EFST_GVG_SLEEP] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 3,
+  descript = {
+    {
+      "요정의눈물(수면)",
+      COLOR_TITLE_BUFF
+    },
+    {"수면 면역"},
+    {"%s", COLOR_TIME}
+  }
+}
+StateIconList[EFST_IDs.EFST_GVG_CURSE] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 3,
+  descript = {
+    {
+      "요정의눈물(저주)",
+      COLOR_TITLE_BUFF
+    },
+    {"저주 면역"},
+    {"%s", COLOR_TIME}
+  }
+}
+StateIconList[EFST_IDs.EFST_GVG_SILENCE] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 3,
+  descript = {
+    {
+      "요정의눈물(침묵)",
+      COLOR_TITLE_BUFF
+    },
+    {"침묵 면역"},
+    {"%s", COLOR_TIME}
+  }
+}
+StateIconList[EFST_IDs.EFST_GVG_BLIND] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 3,
+  descript = {
+    {
+      "요정의눈물(암흑)",
+      COLOR_TITLE_BUFF
+    },
+    {"암흑 면역"},
+    {"%s", COLOR_TIME}
+  }
+}
