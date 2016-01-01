@@ -3317,12 +3317,6 @@ SKILL_INFO_LIST = {
       10,
       10,
       10
-    },
-    _NeedSkillList = {
-      {
-        SKID.AS_ENCHANTPOISON,
-        3
-      }
     }
   },
   [SKID.GS_INCREASING] = {
@@ -13056,10 +13050,10 @@ SKILL_INFO_LIST = {
     MaxLv = 5,
     SpAmount = {
       40,
+      42,
       44,
       46,
-      48,
-      50
+      48
     },
     bSeperateLv = true,
     AttackRange = {
@@ -25100,7 +25094,7 @@ SKILL_INFO_LIST = {
     "MER_INVINCIBLEOFF2",
     SkillName = "마인드 블래스터",
     MaxLv = 1,
-    SpAmount = {0},
+    SpAmount = {1},
     bSeperateLv = false,
     AttackRange = {2}
   }

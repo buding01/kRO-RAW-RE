@@ -45,7 +45,8 @@ StateIconImgList = {
     [EFST_IDs.EFST_GEFFEN_MAGIC3] = "efst_def.TGA",
     [EFST_IDs.EFST_QUEST_BUFF1] = "gogi.TGA",
     [EFST_IDs.EFST_QUEST_BUFF2] = "gogi.TGA",
-    [EFST_IDs.EFST_QUEST_BUFF3] = "gogi.TGA"
+    [EFST_IDs.EFST_QUEST_BUFF3] = "gogi.TGA",
+    [EFST_IDs.EFST_FENRIR_CARD] = "efst_matk.TGA"
   },
   [PRIORITY_GREEN] = {
     [EFST_IDs.EFST_SET_NUM_DEF] = "SETDEF.TGA",

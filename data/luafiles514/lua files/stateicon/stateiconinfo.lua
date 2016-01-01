@@ -4854,3 +4854,15 @@ StateIconList[EFST_IDs.EFST_QUEST_BUFF3] = {
     {"%s", COLOR_TIME}
   }
 }
+StateIconList[EFST_IDs.EFST_FENRIR_CARD] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 4,
+  descript = {
+    {"펜릴의 힘", COLOR_TITLE_BUFF},
+    {"MATK 증가"},
+    {
+      "고정 캐스팅 감소"
+    },
+    {"%s", COLOR_TIME}
+  }
+}

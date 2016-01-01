@@ -695,6 +695,7 @@ EFST_IDs = {
   EFST_QUEST_BUFF1 = 705,
   EFST_QUEST_BUFF2 = 706,
   EFST_QUEST_BUFF3 = 707,
+  EFST_FENRIR_CARD = 711,
   __newindex = function()
     error("unknown state")
   end
