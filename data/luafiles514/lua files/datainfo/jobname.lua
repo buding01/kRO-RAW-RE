@@ -2947,5 +2947,14 @@ JobNameTable = {
   [jobtbl.JT_RECON_ROBOT] = "RECON_ROBOT",
   [jobtbl.JT_REPAIR_ROBOT] = "REPAIR_ROBOT",
   [jobtbl.JT_EXPLORATION_ROVER] = "EXPLORATION_ROVER",
-  [jobtbl.JT_BOILED_RICE_DUANWU] = "BOILED_RICE"
+  [jobtbl.JT_BOILED_RICE_DUANWU] = "BOILED_RICE",
+  [jobtbl.JT_ELEPHANT] = "ELEPHANT",
+  [jobtbl.JT_GORILLA] = "GORILLA",
+  [jobtbl.JT_LION] = "LION",
+  [jobtbl.JT_RHINO] = "RHINO",
+  [jobtbl.JT_M_E_DEVILING] = "DEVILING",
+  [jobtbl.JT_J_REB_SHECIL1] = "L_SHECIL",
+  [jobtbl.JT_J_REB_SHECIL2] = "SHECIL",
+  [jobtbl.JT_POURING_SEA_FES] = "POURING",
+  [jobtbl.JT_E_POPORING_CRO] = "E_POPORING_CRO"
 }

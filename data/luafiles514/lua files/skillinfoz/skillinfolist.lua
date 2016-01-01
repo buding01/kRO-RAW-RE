@@ -25478,5 +25478,595 @@ SKILL_INFO_LIST = {
     SpAmount = {1},
     bSeperateLv = false,
     AttackRange = {1}
+  },
+  [SKID.NPC_REVERBERATION] = {
+    "NPC_REVERBERATION",
+    SkillName = "진동 잔향",
+    MaxLv = 5,
+    SpAmount = {
+      0,
+      0,
+      0,
+      0,
+      0
+    },
+    bSeperateLv = false,
+    AttackRange = {
+      1,
+      1,
+      1,
+      1,
+      1
+    }
+  },
+  [SKID.NPC_LEX_AETERNA] = {
+    "NPC_LEX_AETERNA",
+    SkillName = "광범위 렉스 에테르나",
+    MaxLv = 5,
+    SpAmount = {
+      0,
+      0,
+      0,
+      0,
+      0
+    },
+    bSeperateLv = false,
+    AttackRange = {
+      1,
+      1,
+      1,
+      1,
+      1
+    }
+  },
+  [SKID.RL_D_TAIL] = {
+    "RL_D_TAIL",
+    SkillName = "드래곤 테일",
+    MaxLv = 5,
+    SpAmount = {
+      60,
+      70,
+      80,
+      90,
+      100
+    },
+    bSeperateLv = true,
+    AttackRange = {
+      0,
+      0,
+      0,
+      0,
+      0
+    },
+    _NeedSkillList = {
+      {
+        SKID.RL_H_MINE,
+        3
+      },
+      {
+        SKID.RL_C_MARKER,
+        1
+      }
+    }
+  },
+  [SKID.RL_R_TRIP] = {
+    "RL_R_TRIP",
+    SkillName = "라운드 트립",
+    MaxLv = 5,
+    SpAmount = {
+      40,
+      45,
+      50,
+      55,
+      60
+    },
+    bSeperateLv = true,
+    AttackRange = {
+      0,
+      0,
+      0,
+      0,
+      0
+    },
+    _NeedSkillList = {
+      {
+        SKID.RL_FIRE_RAIN,
+        1
+      }
+    }
+  },
+  [SKID.RL_RICHS_COIN] = {
+    "RL_RICHS_COIN",
+    SkillName = "리치스 코인",
+    MaxLv = 1,
+    SpAmount = {10},
+    bSeperateLv = false,
+    AttackRange = {0},
+    _NeedSkillList = {
+      {
+        SKID.GS_GLITTERING,
+        5
+      }
+    }
+  },
+  [SKID.RL_MASS_SPIRAL] = {
+    "RL_MASS_SPIRAL",
+    SkillName = "매스 스파이럴",
+    MaxLv = 5,
+    SpAmount = {
+      80,
+      84,
+      88,
+      92,
+      96
+    },
+    bSeperateLv = true,
+    AttackRange = {
+      15,
+      15,
+      15,
+      15,
+      15
+    },
+    _NeedSkillList = {
+      {
+        SKID.GS_PIERCINGSHOT,
+        5
+      }
+    }
+  },
+  [SKID.RL_B_TRAP] = {
+    "RL_B_TRAP",
+    SkillName = "바인드 트랩",
+    MaxLv = 5,
+    SpAmount = {
+      30,
+      32,
+      34,
+      36,
+      38
+    },
+    bSeperateLv = true,
+    AttackRange = {
+      0,
+      0,
+      0,
+      0,
+      0
+    }
+  },
+  [SKID.RL_BANISHING_BUSTER] = {
+    "RL_BANISHING_BUSTER",
+    SkillName = "배니싱 버스터",
+    MaxLv = 5,
+    SpAmount = {
+      55,
+      60,
+      65,
+      70,
+      75
+    },
+    bSeperateLv = true,
+    AttackRange = {
+      9,
+      9,
+      9,
+      9,
+      9
+    },
+    _NeedSkillList = {
+      {
+        SKID.RL_S_STORM,
+        1
+      }
+    }
+  },
+  [SKID.RL_S_STORM] = {
+    "RL_S_STORM",
+    SkillName = "섀터 스톰",
+    MaxLv = 5,
+    SpAmount = {
+      55,
+      60,
+      65,
+      70,
+      75
+    },
+    bSeperateLv = true,
+    AttackRange = {
+      9,
+      9,
+      9,
+      9,
+      9
+    },
+    _NeedSkillList = {
+      {
+        SKID.GS_DISARM,
+        5
+      },
+      {
+        SKID.GS_DUST,
+        5
+      }
+    }
+  },
+  [SKID.RL_SLUGSHOT] = {
+    "RL_SLUGSHOT",
+    SkillName = "슬러그 샷",
+    MaxLv = 5,
+    SpAmount = {
+      55,
+      60,
+      65,
+      70,
+      75
+    },
+    bSeperateLv = true,
+    AttackRange = {
+      9,
+      9,
+      9,
+      9,
+      9
+    },
+    _NeedSkillList = {
+      {
+        SKID.RL_BANISHING_BUSTER,
+        5
+      }
+    }
+  },
+  [SKID.RL_AM_BLAST] = {
+    "RL_AM_BLAST",
+    SkillName = "안티 매터리얼 블래스트",
+    MaxLv = 5,
+    SpAmount = {
+      80,
+      84,
+      88,
+      92,
+      96
+    },
+    bSeperateLv = true,
+    AttackRange = {
+      9,
+      9,
+      9,
+      9,
+      9
+    },
+    _NeedSkillList = {
+      {
+        SKID.RL_MASS_SPIRAL,
+        1
+      }
+    }
+  },
+  [SKID.RL_E_CHAIN] = {
+    "RL_E_CHAIN",
+    SkillName = "이터널 체인",
+    MaxLv = 10,
+    SpAmount = {
+      45,
+      45,
+      45,
+      45,
+      45,
+      45,
+      45,
+      45,
+      45,
+      45
+    },
+    bSeperateLv = true,
+    AttackRange = {
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    },
+    _NeedSkillList = {
+      {
+        SKID.GS_CHAINACTION,
+        10
+      }
+    }
+  },
+  [SKID.RL_QD_SHOT] = {
+    "RL_QD_SHOT",
+    SkillName = "퀵 드로우 샷",
+    MaxLv = 1,
+    SpAmount = {5},
+    bSeperateLv = false,
+    AttackRange = {0},
+    _NeedSkillList = {
+      {
+        SKID.RL_E_CHAIN,
+        1
+      }
+    }
+  },
+  [SKID.RL_C_MARKER] = {
+    "RL_C_MARKER",
+    SkillName = "크림즌 마커",
+    MaxLv = 1,
+    SpAmount = {10},
+    bSeperateLv = false,
+    AttackRange = {11},
+    _NeedSkillList = {
+      {
+        SKID.GS_INCREASING,
+        1
+      }
+    }
+  },
+  [SKID.RL_FIREDANCE] = {
+    "RL_FIREDANCE",
+    SkillName = "파이어 댄스",
+    MaxLv = 5,
+    SpAmount = {
+      10,
+      15,
+      20,
+      25,
+      30
+    },
+    bSeperateLv = true,
+    AttackRange = {
+      0,
+      0,
+      0,
+      0,
+      0
+    },
+    _NeedSkillList = {
+      {
+        SKID.RL_FALLEN_ANGEL,
+        1
+      }
+    }
+  },
+  [SKID.RL_FIRE_RAIN] = {
+    "RL_FIRE_RAIN",
+    SkillName = "파이어 레인",
+    MaxLv = 5,
+    SpAmount = {
+      70,
+      70,
+      70,
+      70,
+      70
+    },
+    bSeperateLv = true,
+    AttackRange = {
+      3,
+      3,
+      3,
+      3,
+      3
+    },
+    _NeedSkillList = {
+      {
+        SKID.GS_GATLINGFEVER,
+        5
+      }
+    }
+  },
+  [SKID.RL_FALLEN_ANGEL] = {
+    "RL_FALLEN_ANGEL",
+    SkillName = "펄른 엔젤",
+    MaxLv = 5,
+    SpAmount = {
+      90,
+      90,
+      90,
+      90,
+      90
+    },
+    bSeperateLv = true,
+    AttackRange = {
+      9,
+      9,
+      9,
+      9,
+      9
+    },
+    _NeedSkillList = {
+      {
+        SKID.GS_DESPERADO,
+        10
+      }
+    }
+  },
+  [SKID.RL_P_ALTER] = {
+    "RL_P_ALTER",
+    SkillName = "플래티넘 알터",
+    MaxLv = 5,
+    SpAmount = {
+      20,
+      24,
+      28,
+      32,
+      36
+    },
+    bSeperateLv = true,
+    AttackRange = {
+      0,
+      0,
+      0,
+      0,
+      0
+    }
+  },
+  [SKID.RL_FLICKER] = {
+    "RL_FLICKER",
+    SkillName = "플리커",
+    MaxLv = 1,
+    SpAmount = {2},
+    bSeperateLv = false,
+    AttackRange = {0},
+    _NeedSkillList = {
+      {
+        SKID.GS_FLING,
+        1
+      }
+    }
+  },
+  [SKID.RL_H_MINE] = {
+    "RL_H_MINE",
+    SkillName = "하울링 마인",
+    MaxLv = 5,
+    SpAmount = {
+      45,
+      50,
+      55,
+      60,
+      65
+    },
+    bSeperateLv = true,
+    AttackRange = {
+      7,
+      8,
+      9,
+      10,
+      11
+    },
+    _NeedSkillList = {
+      {
+        SKID.GS_GROUNDDRIFT,
+        5
+      }
+    }
+  },
+  [SKID.RL_HAMMER_OF_GOD] = {
+    "RL_HAMMER_OF_GOD",
+    SkillName = "해머 오브 갓",
+    MaxLv = 5,
+    SpAmount = {
+      70,
+      80,
+      90,
+      100,
+      110
+    },
+    bSeperateLv = true,
+    AttackRange = {
+      7,
+      8,
+      9,
+      10,
+      11
+    },
+    _NeedSkillList = {
+      {
+        SKID.RL_AM_BLAST,
+        5
+      }
+    }
+  },
+  [SKID.RL_HEAT_BARREL] = {
+    "RL_HEAT_BARREL",
+    SkillName = "히트 배럴",
+    MaxLv = 5,
+    SpAmount = {
+      30,
+      40,
+      50,
+      60,
+      70
+    },
+    bSeperateLv = true,
+    AttackRange = {
+      0,
+      0,
+      0,
+      0,
+      0
+    },
+    _NeedSkillList = {
+      {
+        SKID.RL_FIREDANCE,
+        5
+      }
+    }
+  },
+  [SKID.BA_POEMBRAGI2] = {
+    "BA_POEMBRAGI2",
+    SkillName = "브라기의 시",
+    MaxLv = 10,
+    SpAmount = {
+      40,
+      45,
+      50,
+      55,
+      60,
+      65,
+      70,
+      75,
+      80,
+      85
+    },
+    bSeperateLv = true,
+    AttackRange = {
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    },
+    _NeedSkillList = {
+      {
+        SKID.BA_DISSONANCE,
+        3
+      }
+    }
+  },
+  [SKID.DC_FORTUNEKISS2] = {
+    "DC_FORTUNEKISS2",
+    SkillName = "행운의 키스",
+    MaxLv = 10,
+    SpAmount = {
+      43,
+      46,
+      49,
+      52,
+      55,
+      58,
+      61,
+      64,
+      67,
+      70
+    },
+    bSeperateLv = true,
+    AttackRange = {
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    },
+    _NeedSkillList = {
+      {
+        SKID.DC_UGLYDANCE,
+        3
+      }
+    }
   }
 }
