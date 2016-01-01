@@ -4862,25 +4862,33 @@ StateIconList[EFST_IDs.EFST_HANDICAPSTATE_ICEEXPLO] = {
 StateIconList[EFST_IDs.EFST_ITEM_ATKMAX] = {
   descript = {
     {"MAX ATK", COLOR_TITLE_TOGGLE},
-    {"사내전용"}
+    {
+      "최대 물리데미지"
+    }
   }
 }
 StateIconList[EFST_IDs.EFST_ITEM_ATKMIN] = {
   descript = {
     {"MIN ATK", COLOR_TITLE_TOGGLE},
-    {"사내전용"}
+    {
+      "최소 물리데미지"
+    }
   }
 }
 StateIconList[EFST_IDs.EFST_ITEM_MATKMAX] = {
   descript = {
     {"MAX MATK", COLOR_TITLE_TOGGLE},
-    {"사내전용"}
+    {
+      "최대 마법데미지"
+    }
   }
 }
 StateIconList[EFST_IDs.EFST_ITEM_MATKMIN] = {
   descript = {
     {"MIN MATK", COLOR_TITLE_TOGGLE},
-    {"사내전용"}
+    {
+      "최소 마법데미지"
+    }
   }
 }
 StateIconList[EFST_IDs.EFST_2013_VALENTINE1] = {
