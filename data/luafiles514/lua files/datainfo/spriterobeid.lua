@@ -5,5 +5,7 @@ SPRITE_ROBE_IDs = {
   ROBE_AMISTR_BAG = 4,
   ROBE_Love_Dad_Wings_2012 = 5,
   ROBE_KIRIN_WING = 6,
-  ROBE_Ribbon_Piamat = 7
+  ROBE_Ribbon_Piamat = 7,
+  ROBE_RUDRA_WING = 8,
+  ROBE_Wing_Of_Happiness = 9
 }
