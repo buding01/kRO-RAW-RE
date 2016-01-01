@@ -1285,14 +1285,9 @@ Navi_NpcDistance = {
         154
       },
       {
-        "job3_rune01",
-        18816,
-        14
-      },
-      {
         "lou_fild01",
         18420,
-        14
+        154
       },
       {
         "malangdo",
@@ -1307,12 +1302,12 @@ Navi_NpcDistance = {
       {
         "morocc",
         15372,
-        183
+        14
       },
       {
         "morocc",
         15378,
-        183
+        14
       },
       {
         "moscovia",
@@ -1478,14 +1473,9 @@ Navi_NpcDistance = {
         164
       },
       {
-        "job3_rune01",
-        18816,
-        32
-      },
-      {
         "lou_fild01",
         18420,
-        32
+        164
       },
       {
         "malangdo",
@@ -1500,12 +1490,12 @@ Navi_NpcDistance = {
       {
         "morocc",
         15372,
-        208
+        32
       },
       {
         "morocc",
         15378,
-        208
+        32
       },
       {
         "moscovia",
@@ -1671,14 +1661,9 @@ Navi_NpcDistance = {
         171
       },
       {
-        "job3_rune01",
-        18816,
-        32
-      },
-      {
         "lou_fild01",
         18420,
-        32
+        171
       },
       {
         "malangdo",
@@ -1693,12 +1678,12 @@ Navi_NpcDistance = {
       {
         "morocc",
         15372,
-        208
+        32
       },
       {
         "morocc",
         15378,
-        208
+        32
       },
       {
         "moscovia",
@@ -1864,14 +1849,9 @@ Navi_NpcDistance = {
         157
       },
       {
-        "job3_rune01",
-        18816,
-        36
-      },
-      {
         "lou_fild01",
         18420,
-        36
+        157
       },
       {
         "malangdo",
@@ -1886,12 +1866,12 @@ Navi_NpcDistance = {
       {
         "morocc",
         15372,
-        212
+        36
       },
       {
         "morocc",
         15378,
-        212
+        36
       },
       {
         "moscovia",
@@ -2057,14 +2037,9 @@ Navi_NpcDistance = {
         144
       },
       {
-        "job3_rune01",
-        18816,
-        36
-      },
-      {
         "lou_fild01",
         18420,
-        36
+        144
       },
       {
         "malangdo",
@@ -2079,12 +2054,12 @@ Navi_NpcDistance = {
       {
         "morocc",
         15372,
-        173
+        36
       },
       {
         "morocc",
         15378,
-        173
+        36
       },
       {
         "moscovia",
@@ -2250,14 +2225,9 @@ Navi_NpcDistance = {
         88
       },
       {
-        "job3_rune01",
-        18816,
-        146
-      },
-      {
         "lou_fild01",
         18420,
-        146
+        88
       },
       {
         "malangdo",
@@ -2272,12 +2242,12 @@ Navi_NpcDistance = {
       {
         "morocc",
         15372,
-        204
+        146
       },
       {
         "morocc",
         15378,
-        204
+        146
       },
       {
         "moscovia",
@@ -2443,14 +2413,9 @@ Navi_NpcDistance = {
         90
       },
       {
-        "job3_rune01",
-        18816,
-        142
-      },
-      {
         "lou_fild01",
         18420,
-        142
+        90
       },
       {
         "malangdo",
@@ -2465,12 +2430,12 @@ Navi_NpcDistance = {
       {
         "morocc",
         15372,
-        206
+        142
       },
       {
         "morocc",
         15378,
-        206
+        142
       },
       {
         "moscovia",
@@ -2636,14 +2601,9 @@ Navi_NpcDistance = {
         163
       },
       {
-        "job3_rune01",
-        18816,
-        22
-      },
-      {
         "lou_fild01",
         18420,
-        22
+        163
       },
       {
         "malangdo",
@@ -2658,12 +2618,12 @@ Navi_NpcDistance = {
       {
         "morocc",
         15372,
-        192
+        22
       },
       {
         "morocc",
         15378,
-        192
+        22
       },
       {
         "moscovia",
@@ -2829,14 +2789,9 @@ Navi_NpcDistance = {
         183
       },
       {
-        "job3_rune01",
-        18816,
-        73
-      },
-      {
         "lou_fild01",
         18420,
-        73
+        183
       },
       {
         "malangdo",
@@ -2851,12 +2806,12 @@ Navi_NpcDistance = {
       {
         "morocc",
         15372,
-        212
+        73
       },
       {
         "morocc",
         15378,
-        212
+        73
       },
       {
         "moscovia",
@@ -3022,14 +2977,9 @@ Navi_NpcDistance = {
         14
       },
       {
-        "job3_rune01",
-        18816,
-        149
-      },
-      {
         "lou_fild01",
         18420,
-        149
+        14
       },
       {
         "malangdo",
@@ -3044,12 +2994,12 @@ Navi_NpcDistance = {
       {
         "morocc",
         15372,
-        152
+        149
       },
       {
         "morocc",
         15378,
-        152
+        149
       },
       {
         "moscovia",
@@ -3215,14 +3165,9 @@ Navi_NpcDistance = {
         75
       },
       {
-        "job3_rune01",
-        18816,
-        88
-      },
-      {
         "lou_fild01",
         18420,
-        88
+        75
       },
       {
         "malangdo",
@@ -3237,12 +3182,12 @@ Navi_NpcDistance = {
       {
         "morocc",
         15372,
-        104
+        88
       },
       {
         "morocc",
         15378,
-        104
+        88
       },
       {
         "moscovia",
@@ -3408,14 +3353,9 @@ Navi_NpcDistance = {
         173
       },
       {
-        "job3_rune01",
-        18816,
-        69
-      },
-      {
         "lou_fild01",
         18420,
-        69
+        173
       },
       {
         "malangdo",
@@ -3430,12 +3370,12 @@ Navi_NpcDistance = {
       {
         "morocc",
         15372,
-        202
+        69
       },
       {
         "morocc",
         15378,
-        202
+        69
       },
       {
         "moscovia",
@@ -3601,14 +3541,9 @@ Navi_NpcDistance = {
         148
       },
       {
-        "job3_rune01",
-        18816,
-        145
-      },
-      {
         "lou_fild01",
         18420,
-        145
+        148
       },
       {
         "malangdo",
@@ -3623,12 +3558,12 @@ Navi_NpcDistance = {
       {
         "morocc",
         15372,
-        168
+        145
       },
       {
         "morocc",
         15378,
-        168
+        145
       },
       {
         "moscovia",
@@ -3794,14 +3729,9 @@ Navi_NpcDistance = {
         118
       },
       {
-        "job3_rune01",
-        18816,
-        123
-      },
-      {
         "lou_fild01",
         18420,
-        123
+        118
       },
       {
         "malangdo",
@@ -3816,12 +3746,12 @@ Navi_NpcDistance = {
       {
         "morocc",
         15372,
-        133
+        123
       },
       {
         "morocc",
         15378,
-        133
+        123
       },
       {
         "moscovia",
@@ -3987,14 +3917,9 @@ Navi_NpcDistance = {
         14
       },
       {
-        "job3_rune01",
-        18816,
-        152
-      },
-      {
         "lou_fild01",
         18420,
-        152
+        14
       },
       {
         "malangdo",
@@ -4009,12 +3934,12 @@ Navi_NpcDistance = {
       {
         "morocc",
         15372,
-        155
+        152
       },
       {
         "morocc",
         15378,
-        155
+        152
       },
       {
         "moscovia",
@@ -4180,14 +4105,9 @@ Navi_NpcDistance = {
         10
       },
       {
-        "job3_rune01",
-        18816,
-        171
-      },
-      {
         "lou_fild01",
         18420,
-        171
+        10
       },
       {
         "malangdo",
@@ -4202,12 +4122,12 @@ Navi_NpcDistance = {
       {
         "morocc",
         15372,
-        174
+        171
       },
       {
         "morocc",
         15378,
-        174
+        171
       },
       {
         "moscovia",
@@ -4373,14 +4293,9 @@ Navi_NpcDistance = {
         195
       },
       {
-        "job3_rune01",
-        18816,
-        139
-      },
-      {
         "lou_fild01",
         18420,
-        139
+        195
       },
       {
         "malangdo",
@@ -4395,12 +4310,12 @@ Navi_NpcDistance = {
       {
         "morocc",
         15372,
-        215
+        139
       },
       {
         "morocc",
         15378,
-        215
+        139
       },
       {
         "moscovia",
@@ -4566,14 +4481,9 @@ Navi_NpcDistance = {
         155
       },
       {
-        "job3_rune01",
-        18816,
-        15
-      },
-      {
         "lou_fild01",
         18420,
-        15
+        155
       },
       {
         "malangdo",
@@ -4588,12 +4498,12 @@ Navi_NpcDistance = {
       {
         "morocc",
         15372,
-        184
+        15
       },
       {
         "morocc",
         15378,
-        184
+        15
       },
       {
         "moscovia",
@@ -4759,14 +4669,9 @@ Navi_NpcDistance = {
         151
       },
       {
-        "job3_rune01",
-        18816,
-        15
-      },
-      {
         "lou_fild01",
         18420,
-        15
+        151
       },
       {
         "malangdo",
@@ -4781,12 +4686,12 @@ Navi_NpcDistance = {
       {
         "morocc",
         15372,
-        180
+        15
       },
       {
         "morocc",
         15378,
-        180
+        15
       },
       {
         "moscovia",
@@ -4952,14 +4857,9 @@ Navi_NpcDistance = {
         166
       },
       {
-        "job3_rune01",
-        18816,
-        17
-      },
-      {
         "lou_fild01",
         18420,
-        17
+        166
       },
       {
         "malangdo",
@@ -4974,12 +4874,12 @@ Navi_NpcDistance = {
       {
         "morocc",
         15372,
-        195
+        17
       },
       {
         "morocc",
         15378,
-        195
+        17
       },
       {
         "moscovia",
@@ -5145,14 +5045,9 @@ Navi_NpcDistance = {
         127
       },
       {
-        "job3_rune01",
-        18816,
-        130
-      },
-      {
         "lou_fild01",
         18420,
-        130
+        127
       },
       {
         "malangdo",
@@ -5167,12 +5062,12 @@ Navi_NpcDistance = {
       {
         "morocc",
         15372,
-        231
+        130
       },
       {
         "morocc",
         15378,
-        231
+        130
       },
       {
         "moscovia",
@@ -5338,14 +5233,9 @@ Navi_NpcDistance = {
         96
       },
       {
-        "job3_rune01",
-        18816,
-        134
-      },
-      {
         "lou_fild01",
         18420,
-        134
+        96
       },
       {
         "malangdo",
@@ -5360,12 +5250,12 @@ Navi_NpcDistance = {
       {
         "morocc",
         15372,
-        206
+        134
       },
       {
         "morocc",
         15378,
-        206
+        134
       },
       {
         "moscovia",
@@ -5531,14 +5421,9 @@ Navi_NpcDistance = {
         173
       },
       {
-        "job3_rune01",
-        18816,
-        195
-      },
-      {
         "lou_fild01",
         18420,
-        195
+        173
       },
       {
         "malangdo",
@@ -5553,12 +5438,12 @@ Navi_NpcDistance = {
       {
         "morocc",
         15372,
-        32
+        195
       },
       {
         "morocc",
         15378,
-        32
+        195
       },
       {
         "moscovia",
@@ -5724,14 +5609,9 @@ Navi_NpcDistance = {
         157
       },
       {
-        "job3_rune01",
-        18816,
-        179
-      },
-      {
         "lou_fild01",
         18420,
-        179
+        157
       },
       {
         "malangdo",
@@ -5746,12 +5626,12 @@ Navi_NpcDistance = {
       {
         "morocc",
         15372,
-        16
+        179
       },
       {
         "morocc",
         15378,
-        16
+        179
       },
       {
         "moscovia",
@@ -5917,14 +5797,9 @@ Navi_NpcDistance = {
         17
       },
       {
-        "job3_rune01",
-        18816,
-        157
-      },
-      {
         "lou_fild01",
         18420,
-        157
+        17
       },
       {
         "malangdo",
@@ -5939,12 +5814,12 @@ Navi_NpcDistance = {
       {
         "morocc",
         15372,
-        160
+        157
       },
       {
         "morocc",
         15378,
-        160
+        157
       },
       {
         "moscovia",
@@ -6110,14 +5985,9 @@ Navi_NpcDistance = {
         218
       },
       {
-        "job3_rune01",
-        18816,
-        217
-      },
-      {
         "lou_fild01",
         18420,
-        217
+        218
       },
       {
         "malangdo",
@@ -6132,12 +6002,12 @@ Navi_NpcDistance = {
       {
         "morocc",
         15372,
-        233
+        217
       },
       {
         "morocc",
         15378,
-        233
+        217
       },
       {
         "moscovia",
@@ -6303,14 +6173,9 @@ Navi_NpcDistance = {
         158
       },
       {
-        "job3_rune01",
-        18816,
-        5
-      },
-      {
         "lou_fild01",
         18420,
-        5
+        158
       },
       {
         "malangdo",
@@ -6325,12 +6190,12 @@ Navi_NpcDistance = {
       {
         "morocc",
         15372,
-        187
+        5
       },
       {
         "morocc",
         15378,
-        187
+        5
       },
       {
         "moscovia",
@@ -6496,14 +6361,9 @@ Navi_NpcDistance = {
         220
       },
       {
-        "job3_rune01",
-        18816,
-        219
-      },
-      {
         "lou_fild01",
         18420,
-        219
+        220
       },
       {
         "malangdo",
@@ -6518,12 +6378,12 @@ Navi_NpcDistance = {
       {
         "morocc",
         15372,
-        235
+        219
       },
       {
         "morocc",
         15378,
-        235
+        219
       },
       {
         "moscovia",
@@ -6689,14 +6549,9 @@ Navi_NpcDistance = {
         39
       },
       {
-        "job3_rune01",
-        18816,
-        124
-      },
-      {
         "lou_fild01",
         18420,
-        124
+        39
       },
       {
         "malangdo",
@@ -6711,12 +6566,12 @@ Navi_NpcDistance = {
       {
         "morocc",
         15372,
-        127
+        124
       },
       {
         "morocc",
         15378,
-        127
+        124
       },
       {
         "moscovia",
@@ -6882,14 +6737,9 @@ Navi_NpcDistance = {
         162
       },
       {
-        "job3_rune01",
-        18816,
-        15
-      },
-      {
         "lou_fild01",
         18420,
-        15
+        162
       },
       {
         "malangdo",
@@ -6904,12 +6754,12 @@ Navi_NpcDistance = {
       {
         "morocc",
         15372,
-        191
+        15
       },
       {
         "morocc",
         15378,
-        191
+        15
       },
       {
         "moscovia",
@@ -7075,14 +6925,9 @@ Navi_NpcDistance = {
         223
       },
       {
-        "job3_rune01",
-        18816,
-        222
-      },
-      {
         "lou_fild01",
         18420,
-        222
+        223
       },
       {
         "malangdo",
@@ -7097,12 +6942,12 @@ Navi_NpcDistance = {
       {
         "morocc",
         15372,
-        238
+        222
       },
       {
         "morocc",
         15378,
-        238
+        222
       },
       {
         "moscovia",
@@ -7268,14 +7113,9 @@ Navi_NpcDistance = {
         158
       },
       {
-        "job3_rune01",
-        18816,
-        5
-      },
-      {
         "lou_fild01",
         18420,
-        5
+        158
       },
       {
         "malangdo",
@@ -7290,12 +7130,12 @@ Navi_NpcDistance = {
       {
         "morocc",
         15372,
-        187
+        5
       },
       {
         "morocc",
         15378,
-        187
+        5
       },
       {
         "moscovia",
@@ -7461,14 +7301,9 @@ Navi_NpcDistance = {
         22
       },
       {
-        "job3_rune01",
-        18816,
-        141
-      },
-      {
         "lou_fild01",
         18420,
-        141
+        22
       },
       {
         "malangdo",
@@ -7483,12 +7318,12 @@ Navi_NpcDistance = {
       {
         "morocc",
         15372,
-        144
+        141
       },
       {
         "morocc",
         15378,
-        144
+        141
       },
       {
         "moscovia",
@@ -7654,14 +7489,9 @@ Navi_NpcDistance = {
         174
       },
       {
-        "job3_rune01",
-        18816,
-        32
-      },
-      {
         "lou_fild01",
         18420,
-        32
+        174
       },
       {
         "malangdo",
@@ -7676,12 +7506,12 @@ Navi_NpcDistance = {
       {
         "morocc",
         15372,
-        203
+        32
       },
       {
         "morocc",
         15378,
-        203
+        32
       },
       {
         "moscovia",
@@ -7847,14 +7677,9 @@ Navi_NpcDistance = {
         165
       },
       {
-        "job3_rune01",
-        18816,
-        4
-      },
-      {
         "lou_fild01",
         18420,
-        4
+        165
       },
       {
         "malangdo",
@@ -7869,12 +7694,12 @@ Navi_NpcDistance = {
       {
         "morocc",
         15372,
-        194
+        4
       },
       {
         "morocc",
         15378,
-        194
+        4
       },
       {
         "moscovia",
@@ -8040,14 +7865,9 @@ Navi_NpcDistance = {
         165
       },
       {
-        "job3_rune01",
-        18816,
-        5
-      },
-      {
         "lou_fild01",
         18420,
-        5
+        165
       },
       {
         "malangdo",
@@ -8062,12 +7882,12 @@ Navi_NpcDistance = {
       {
         "morocc",
         15372,
-        194
+        5
       },
       {
         "morocc",
         15378,
-        194
+        5
       },
       {
         "moscovia",
@@ -8233,14 +8053,9 @@ Navi_NpcDistance = {
         123
       },
       {
-        "job3_rune01",
-        18816,
-        49
-      },
-      {
         "lou_fild01",
         18420,
-        49
+        123
       },
       {
         "malangdo",
@@ -8255,12 +8070,12 @@ Navi_NpcDistance = {
       {
         "morocc",
         15372,
-        151
+        49
       },
       {
         "morocc",
         15378,
-        151
+        49
       },
       {
         "moscovia",
@@ -8426,14 +8241,9 @@ Navi_NpcDistance = {
         153
       },
       {
-        "job3_rune01",
-        18816,
-        170
-      },
-      {
         "lou_fild01",
         18420,
-        170
+        153
       },
       {
         "malangdo",
@@ -8448,12 +8258,12 @@ Navi_NpcDistance = {
       {
         "morocc",
         15372,
-        168
+        170
       },
       {
         "morocc",
         15378,
-        168
+        170
       },
       {
         "moscovia",
@@ -8619,14 +8429,9 @@ Navi_NpcDistance = {
         78
       },
       {
-        "job3_rune01",
-        18816,
-        131
-      },
-      {
         "lou_fild01",
         18420,
-        131
+        78
       },
       {
         "malangdo",
@@ -8641,12 +8446,12 @@ Navi_NpcDistance = {
       {
         "morocc",
         15372,
-        192
+        131
       },
       {
         "morocc",
         15378,
-        192
+        131
       },
       {
         "moscovia",
@@ -8812,14 +8617,9 @@ Navi_NpcDistance = {
         216
       },
       {
-        "job3_rune01",
-        18816,
-        215
-      },
-      {
         "lou_fild01",
         18420,
-        215
+        216
       },
       {
         "malangdo",
@@ -8834,12 +8634,12 @@ Navi_NpcDistance = {
       {
         "morocc",
         15372,
-        231
+        215
       },
       {
         "morocc",
         15378,
-        231
+        215
       },
       {
         "moscovia",
@@ -9005,14 +8805,9 @@ Navi_NpcDistance = {
         104
       },
       {
-        "job3_rune01",
-        18816,
-        134
-      },
-      {
         "lou_fild01",
         18420,
-        134
+        104
       },
       {
         "malangdo",
@@ -9027,12 +8822,12 @@ Navi_NpcDistance = {
       {
         "morocc",
         15372,
-        208
+        134
       },
       {
         "morocc",
         15378,
-        208
+        134
       },
       {
         "moscovia",
@@ -9198,14 +8993,9 @@ Navi_NpcDistance = {
         116
       },
       {
-        "job3_rune01",
-        18816,
-        130
-      },
-      {
         "lou_fild01",
         18420,
-        130
+        116
       },
       {
         "malangdo",
@@ -9220,12 +9010,12 @@ Navi_NpcDistance = {
       {
         "morocc",
         15372,
-        220
+        130
       },
       {
         "morocc",
         15378,
-        220
+        130
       },
       {
         "moscovia",
@@ -9391,14 +9181,9 @@ Navi_NpcDistance = {
         138
       },
       {
-        "job3_rune01",
-        18816,
-        134
-      },
-      {
         "lou_fild01",
         18420,
-        134
+        138
       },
       {
         "malangdo",
@@ -9413,12 +9198,12 @@ Navi_NpcDistance = {
       {
         "morocc",
         15372,
-        242
+        134
       },
       {
         "morocc",
         15378,
-        242
+        134
       },
       {
         "moscovia",
@@ -9584,14 +9369,9 @@ Navi_NpcDistance = {
         149
       },
       {
-        "job3_rune01",
-        18816,
-        134
-      },
-      {
         "lou_fild01",
         18420,
-        134
+        149
       },
       {
         "malangdo",
@@ -9606,12 +9386,12 @@ Navi_NpcDistance = {
       {
         "morocc",
         15372,
-        253
+        134
       },
       {
         "morocc",
         15378,
-        253
+        134
       },
       {
         "moscovia",
@@ -9777,14 +9557,9 @@ Navi_NpcDistance = {
         161
       },
       {
-        "job3_rune01",
-        18816,
-        7
-      },
-      {
         "lou_fild01",
         18420,
-        7
+        161
       },
       {
         "malangdo",
@@ -9799,12 +9574,12 @@ Navi_NpcDistance = {
       {
         "morocc",
         15372,
-        190
+        7
       },
       {
         "morocc",
         15378,
-        190
+        7
       },
       {
         "moscovia",
@@ -9970,14 +9745,9 @@ Navi_NpcDistance = {
         92
       },
       {
-        "job3_rune01",
-        18816,
-        109
-      },
-      {
         "lou_fild01",
         18420,
-        109
+        92
       },
       {
         "malangdo",
@@ -9992,12 +9762,12 @@ Navi_NpcDistance = {
       {
         "morocc",
         15372,
-        110
+        109
       },
       {
         "morocc",
         15378,
-        110
+        109
       },
       {
         "moscovia",
@@ -10163,14 +9933,9 @@ Navi_NpcDistance = {
         89
       },
       {
-        "job3_rune01",
-        18816,
-        106
-      },
-      {
         "lou_fild01",
         18420,
-        106
+        89
       },
       {
         "malangdo",
@@ -10185,12 +9950,12 @@ Navi_NpcDistance = {
       {
         "morocc",
         15372,
-        109
+        106
       },
       {
         "morocc",
         15378,
-        109
+        106
       },
       {
         "moscovia",
@@ -10356,14 +10121,9 @@ Navi_NpcDistance = {
         38
       },
       {
-        "job3_rune01",
-        18816,
-        128
-      },
-      {
         "lou_fild01",
         18420,
-        128
+        38
       },
       {
         "malangdo",
@@ -10378,12 +10138,12 @@ Navi_NpcDistance = {
       {
         "morocc",
         15372,
-        131
+        128
       },
       {
         "morocc",
         15378,
-        131
+        128
       },
       {
         "moscovia",
@@ -10557,14 +10317,9 @@ Navi_NpcDistance = {
         33
       },
       {
-        "job3_rune01",
-        18816,
-        153
-      },
-      {
         "lou_fild01",
         18420,
-        153
+        33
       },
       {
         "malangdo",
@@ -10579,12 +10334,12 @@ Navi_NpcDistance = {
       {
         "morocc",
         15372,
-        156
+        153
       },
       {
         "morocc",
         15378,
-        156
+        153
       },
       {
         "moscovia",
@@ -10750,14 +10505,9 @@ Navi_NpcDistance = {
         134
       },
       {
-        "job3_rune01",
-        18816,
-        151
-      },
-      {
         "lou_fild01",
         18420,
-        151
+        134
       },
       {
         "malangdo",
@@ -10772,12 +10522,12 @@ Navi_NpcDistance = {
       {
         "morocc",
         15372,
-        149
+        151
       },
       {
         "morocc",
         15378,
-        149
+        151
       },
       {
         "moscovia",
@@ -10943,14 +10693,9 @@ Navi_NpcDistance = {
         190
       },
       {
-        "job3_rune01",
-        18816,
-        79
-      },
-      {
         "lou_fild01",
         18420,
-        79
+        190
       },
       {
         "malangdo",
@@ -10965,12 +10710,12 @@ Navi_NpcDistance = {
       {
         "morocc",
         15372,
-        219
+        79
       },
       {
         "morocc",
         15378,
-        219
+        79
       },
       {
         "moscovia",
@@ -11136,14 +10881,9 @@ Navi_NpcDistance = {
         79
       },
       {
-        "job3_rune01",
-        18816,
-        92
-      },
-      {
         "lou_fild01",
         18420,
-        92
+        79
       },
       {
         "malangdo",
@@ -11158,12 +10898,12 @@ Navi_NpcDistance = {
       {
         "morocc",
         15372,
-        100
+        92
       },
       {
         "morocc",
         15378,
-        100
+        92
       },
       {
         "moscovia",
@@ -11329,14 +11069,9 @@ Navi_NpcDistance = {
         134
       },
       {
-        "job3_rune01",
-        18816,
-        29
-      },
-      {
         "lou_fild01",
         18420,
-        29
+        134
       },
       {
         "malangdo",
@@ -11351,12 +11086,12 @@ Navi_NpcDistance = {
       {
         "morocc",
         15372,
-        163
+        29
       },
       {
         "morocc",
         15378,
-        163
+        29
       },
       {
         "moscovia",
@@ -11522,14 +11257,9 @@ Navi_NpcDistance = {
         160
       },
       {
-        "job3_rune01",
-        18816,
-        18
-      },
-      {
         "lou_fild01",
         18420,
-        18
+        160
       },
       {
         "malangdo",
@@ -11544,12 +11274,12 @@ Navi_NpcDistance = {
       {
         "morocc",
         15372,
-        189
+        18
       },
       {
         "morocc",
         15378,
-        189
+        18
       },
       {
         "moscovia",
@@ -11715,14 +11445,9 @@ Navi_NpcDistance = {
         97
       },
       {
-        "job3_rune01",
-        18816,
-        105
-      },
-      {
         "lou_fild01",
         18420,
-        105
+        97
       },
       {
         "malangdo",
@@ -11737,12 +11462,12 @@ Navi_NpcDistance = {
       {
         "morocc",
         15372,
-        199
+        105
       },
       {
         "morocc",
         15378,
-        199
+        105
       },
       {
         "moscovia",
@@ -44762,11 +44487,6 @@ Navi_NpcDistance = {
         96
       },
       {
-        "job3_rune01",
-        18813,
-        96
-      },
-      {
         "prontera",
         15320,
         96
@@ -44862,11 +44582,6 @@ Navi_NpcDistance = {
       {
         "izlude",
         15349,
-        45
-      },
-      {
-        "job3_rune01",
-        18813,
         45
       },
       {
@@ -44968,11 +44683,6 @@ Navi_NpcDistance = {
         92
       },
       {
-        "job3_rune01",
-        18813,
-        92
-      },
-      {
         "prontera",
         15320,
         92
@@ -45068,11 +44778,6 @@ Navi_NpcDistance = {
       {
         "izlude",
         15349,
-        52
-      },
-      {
-        "job3_rune01",
-        18813,
         52
       },
       {
@@ -45174,11 +44879,6 @@ Navi_NpcDistance = {
         92
       },
       {
-        "job3_rune01",
-        18813,
-        92
-      },
-      {
         "prontera",
         15320,
         92
@@ -45274,11 +44974,6 @@ Navi_NpcDistance = {
       {
         "izlude",
         15349,
-        107
-      },
-      {
-        "job3_rune01",
-        18813,
         107
       },
       {
@@ -45380,11 +45075,6 @@ Navi_NpcDistance = {
         63
       },
       {
-        "job3_rune01",
-        18813,
-        63
-      },
-      {
         "prontera",
         15320,
         63
@@ -45480,11 +45170,6 @@ Navi_NpcDistance = {
       {
         "izlude",
         15349,
-        60
-      },
-      {
-        "job3_rune01",
-        18813,
         60
       },
       {
@@ -45586,11 +45271,6 @@ Navi_NpcDistance = {
         49
       },
       {
-        "job3_rune01",
-        18813,
-        49
-      },
-      {
         "prontera",
         15320,
         49
@@ -45686,11 +45366,6 @@ Navi_NpcDistance = {
       {
         "izlude",
         15349,
-        49
-      },
-      {
-        "job3_rune01",
-        18813,
         49
       },
       {
@@ -45792,11 +45467,6 @@ Navi_NpcDistance = {
         30
       },
       {
-        "job3_rune01",
-        18813,
-        30
-      },
-      {
         "prontera",
         15320,
         30
@@ -45895,11 +45565,6 @@ Navi_NpcDistance = {
         74
       },
       {
-        "job3_rune01",
-        18813,
-        74
-      },
-      {
         "prontera",
         15320,
         74
@@ -45995,11 +45660,6 @@ Navi_NpcDistance = {
       {
         "izlude",
         15349,
-        74
-      },
-      {
-        "job3_rune01",
-        18813,
         74
       },
       {
@@ -46109,11 +45769,6 @@ Navi_NpcDistance = {
         45
       },
       {
-        "job3_rune01",
-        18813,
-        45
-      },
-      {
         "prontera",
         15320,
         45
@@ -46209,11 +45864,6 @@ Navi_NpcDistance = {
       {
         "izlude",
         15349,
-        71
-      },
-      {
-        "job3_rune01",
-        18813,
         71
       },
       {
@@ -46315,11 +45965,6 @@ Navi_NpcDistance = {
         73
       },
       {
-        "job3_rune01",
-        18813,
-        73
-      },
-      {
         "prontera",
         15320,
         73
@@ -46415,11 +46060,6 @@ Navi_NpcDistance = {
       {
         "izlude",
         15349,
-        64
-      },
-      {
-        "job3_rune01",
-        18813,
         64
       },
       {
@@ -46521,11 +46161,6 @@ Navi_NpcDistance = {
         96
       },
       {
-        "job3_rune01",
-        18813,
-        96
-      },
-      {
         "prontera",
         15320,
         96
@@ -46621,11 +46256,6 @@ Navi_NpcDistance = {
       {
         "izlude",
         15349,
-        115
-      },
-      {
-        "job3_rune01",
-        18813,
         115
       },
       {
@@ -46727,11 +46357,6 @@ Navi_NpcDistance = {
         48
       },
       {
-        "job3_rune01",
-        18813,
-        48
-      },
-      {
         "prontera",
         15320,
         48
@@ -46827,11 +46452,6 @@ Navi_NpcDistance = {
       {
         "izlude",
         15349,
-        59
-      },
-      {
-        "job3_rune01",
-        18813,
         59
       },
       {
@@ -46933,11 +46553,6 @@ Navi_NpcDistance = {
         54
       },
       {
-        "job3_rune01",
-        18813,
-        54
-      },
-      {
         "prontera",
         15320,
         54
@@ -47033,11 +46648,6 @@ Navi_NpcDistance = {
       {
         "izlude",
         15349,
-        68
-      },
-      {
-        "job3_rune01",
-        18813,
         68
       },
       {
@@ -47139,11 +46749,6 @@ Navi_NpcDistance = {
         71
       },
       {
-        "job3_rune01",
-        18813,
-        71
-      },
-      {
         "prontera",
         15320,
         71
@@ -47239,11 +46844,6 @@ Navi_NpcDistance = {
       {
         "izlude",
         15349,
-        45
-      },
-      {
-        "job3_rune01",
-        18813,
         45
       },
       {
@@ -47345,11 +46945,6 @@ Navi_NpcDistance = {
         103
       },
       {
-        "job3_rune01",
-        18813,
-        103
-      },
-      {
         "prontera",
         15320,
         103
@@ -47445,11 +47040,6 @@ Navi_NpcDistance = {
       {
         "izlude",
         15349,
-        103
-      },
-      {
-        "job3_rune01",
-        18813,
         103
       },
       {
@@ -47551,11 +47141,6 @@ Navi_NpcDistance = {
         41
       },
       {
-        "job3_rune01",
-        18813,
-        41
-      },
-      {
         "prontera",
         15320,
         41
@@ -47651,11 +47236,6 @@ Navi_NpcDistance = {
       {
         "izlude",
         15349,
-        43
-      },
-      {
-        "job3_rune01",
-        18813,
         43
       },
       {
@@ -47757,11 +47337,6 @@ Navi_NpcDistance = {
         35
       },
       {
-        "job3_rune01",
-        18813,
-        35
-      },
-      {
         "prontera",
         15320,
         35
@@ -47857,11 +47432,6 @@ Navi_NpcDistance = {
       {
         "izlude",
         15349,
-        30
-      },
-      {
-        "job3_rune01",
-        18813,
         30
       },
       {
@@ -47963,11 +47533,6 @@ Navi_NpcDistance = {
         23
       },
       {
-        "job3_rune01",
-        18813,
-        23
-      },
-      {
         "prontera",
         15320,
         23
@@ -48063,11 +47628,6 @@ Navi_NpcDistance = {
       {
         "izlude",
         15349,
-        20
-      },
-      {
-        "job3_rune01",
-        18813,
         20
       },
       {
@@ -48169,11 +47729,6 @@ Navi_NpcDistance = {
         71
       },
       {
-        "job3_rune01",
-        18813,
-        71
-      },
-      {
         "prontera",
         15320,
         71
@@ -48269,11 +47824,6 @@ Navi_NpcDistance = {
       {
         "izlude",
         15349,
-        42
-      },
-      {
-        "job3_rune01",
-        18813,
         42
       },
       {
@@ -48375,11 +47925,6 @@ Navi_NpcDistance = {
         69
       },
       {
-        "job3_rune01",
-        18813,
-        69
-      },
-      {
         "prontera",
         15320,
         69
@@ -48475,11 +48020,6 @@ Navi_NpcDistance = {
       {
         "izlude",
         15349,
-        87
-      },
-      {
-        "job3_rune01",
-        18813,
         87
       },
       {
@@ -48581,11 +48121,6 @@ Navi_NpcDistance = {
         96
       },
       {
-        "job3_rune01",
-        18813,
-        96
-      },
-      {
         "prontera",
         15320,
         96
@@ -48681,11 +48216,6 @@ Navi_NpcDistance = {
       {
         "izlude",
         15349,
-        78
-      },
-      {
-        "job3_rune01",
-        18813,
         78
       },
       {
@@ -48787,11 +48317,6 @@ Navi_NpcDistance = {
         83
       },
       {
-        "job3_rune01",
-        18813,
-        83
-      },
-      {
         "prontera",
         15320,
         83
@@ -48887,11 +48412,6 @@ Navi_NpcDistance = {
       {
         "izlude",
         15349,
-        43
-      },
-      {
-        "job3_rune01",
-        18813,
         43
       },
       {
@@ -56859,11 +56379,6 @@ Navi_NpcDistance = {
         86
       },
       {
-        "job3_rune01",
-        18812,
-        86
-      },
-      {
         "malangdo",
         15067,
         86
@@ -56979,11 +56494,6 @@ Navi_NpcDistance = {
       {
         "jawaii",
         11717,
-        86
-      },
-      {
-        "job3_rune01",
-        18812,
         86
       },
       {
@@ -57105,11 +56615,6 @@ Navi_NpcDistance = {
         104
       },
       {
-        "job3_rune01",
-        18812,
-        104
-      },
-      {
         "malangdo",
         15067,
         104
@@ -57225,11 +56730,6 @@ Navi_NpcDistance = {
       {
         "jawaii",
         11717,
-        146
-      },
-      {
-        "job3_rune01",
-        18812,
         146
       },
       {
@@ -57351,11 +56851,6 @@ Navi_NpcDistance = {
         90
       },
       {
-        "job3_rune01",
-        18812,
-        90
-      },
-      {
         "malangdo",
         15067,
         90
@@ -57471,11 +56966,6 @@ Navi_NpcDistance = {
       {
         "jawaii",
         11717,
-        37
-      },
-      {
-        "job3_rune01",
-        18812,
         37
       },
       {
@@ -57597,11 +57087,6 @@ Navi_NpcDistance = {
         132
       },
       {
-        "job3_rune01",
-        18812,
-        132
-      },
-      {
         "malangdo",
         15067,
         132
@@ -57717,11 +57202,6 @@ Navi_NpcDistance = {
       {
         "jawaii",
         11717,
-        78
-      },
-      {
-        "job3_rune01",
-        18812,
         78
       },
       {
@@ -57843,11 +57323,6 @@ Navi_NpcDistance = {
         154
       },
       {
-        "job3_rune01",
-        18812,
-        154
-      },
-      {
         "malangdo",
         15067,
         154
@@ -57963,11 +57438,6 @@ Navi_NpcDistance = {
       {
         "jawaii",
         11717,
-        156
-      },
-      {
-        "job3_rune01",
-        18812,
         156
       },
       {
@@ -58089,11 +57559,6 @@ Navi_NpcDistance = {
         45
       },
       {
-        "job3_rune01",
-        18812,
-        45
-      },
-      {
         "malangdo",
         15067,
         45
@@ -58212,11 +57677,6 @@ Navi_NpcDistance = {
         94
       },
       {
-        "job3_rune01",
-        18812,
-        94
-      },
-      {
         "malangdo",
         15067,
         94
@@ -58332,11 +57792,6 @@ Navi_NpcDistance = {
       {
         "jawaii",
         11717,
-        99
-      },
-      {
-        "job3_rune01",
-        18812,
         99
       },
       {
@@ -58466,11 +57921,6 @@ Navi_NpcDistance = {
         206
       },
       {
-        "job3_rune01",
-        18812,
-        206
-      },
-      {
         "malangdo",
         15067,
         206
@@ -58586,11 +58036,6 @@ Navi_NpcDistance = {
       {
         "jawaii",
         11717,
-        176
-      },
-      {
-        "job3_rune01",
-        18812,
         176
       },
       {
@@ -58712,11 +58157,6 @@ Navi_NpcDistance = {
         109
       },
       {
-        "job3_rune01",
-        18812,
-        109
-      },
-      {
         "malangdo",
         15067,
         109
@@ -58832,11 +58272,6 @@ Navi_NpcDistance = {
       {
         "jawaii",
         11717,
-        96
-      },
-      {
-        "job3_rune01",
-        18812,
         96
       },
       {
@@ -58958,11 +58393,6 @@ Navi_NpcDistance = {
         83
       },
       {
-        "job3_rune01",
-        18812,
-        83
-      },
-      {
         "malangdo",
         15067,
         83
@@ -59078,11 +58508,6 @@ Navi_NpcDistance = {
       {
         "jawaii",
         11717,
-        87
-      },
-      {
-        "job3_rune01",
-        18812,
         87
       },
       {
@@ -59204,11 +58629,6 @@ Navi_NpcDistance = {
         66
       },
       {
-        "job3_rune01",
-        18812,
-        66
-      },
-      {
         "malangdo",
         15067,
         66
@@ -59324,11 +58744,6 @@ Navi_NpcDistance = {
       {
         "jawaii",
         11717,
-        85
-      },
-      {
-        "job3_rune01",
-        18812,
         85
       },
       {
@@ -59450,11 +58865,6 @@ Navi_NpcDistance = {
         164
       },
       {
-        "job3_rune01",
-        18812,
-        164
-      },
-      {
         "malangdo",
         15067,
         164
@@ -59570,11 +58980,6 @@ Navi_NpcDistance = {
       {
         "jawaii",
         11717,
-        157
-      },
-      {
-        "job3_rune01",
-        18812,
         157
       },
       {
@@ -59696,11 +59101,6 @@ Navi_NpcDistance = {
         73
       },
       {
-        "job3_rune01",
-        18812,
-        73
-      },
-      {
         "malangdo",
         15067,
         73
@@ -59816,11 +59216,6 @@ Navi_NpcDistance = {
       {
         "jawaii",
         11717,
-        84
-      },
-      {
-        "job3_rune01",
-        18812,
         84
       },
       {
@@ -59942,11 +59337,6 @@ Navi_NpcDistance = {
         87
       },
       {
-        "job3_rune01",
-        18812,
-        87
-      },
-      {
         "malangdo",
         15067,
         87
@@ -60062,11 +59452,6 @@ Navi_NpcDistance = {
       {
         "jawaii",
         11717,
-        88
-      },
-      {
-        "job3_rune01",
-        18812,
         88
       },
       {
@@ -60188,11 +59573,6 @@ Navi_NpcDistance = {
         192
       },
       {
-        "job3_rune01",
-        18812,
-        192
-      },
-      {
         "malangdo",
         15067,
         192
@@ -60308,11 +59688,6 @@ Navi_NpcDistance = {
       {
         "jawaii",
         11717,
-        105
-      },
-      {
-        "job3_rune01",
-        18812,
         105
       },
       {
@@ -60434,11 +59809,6 @@ Navi_NpcDistance = {
         96
       },
       {
-        "job3_rune01",
-        18812,
-        96
-      },
-      {
         "malangdo",
         15067,
         96
@@ -60554,11 +59924,6 @@ Navi_NpcDistance = {
       {
         "jawaii",
         11717,
-        98
-      },
-      {
-        "job3_rune01",
-        18812,
         98
       },
       {
@@ -60680,11 +60045,6 @@ Navi_NpcDistance = {
         183
       },
       {
-        "job3_rune01",
-        18812,
-        183
-      },
-      {
         "malangdo",
         15067,
         183
@@ -60800,11 +60160,6 @@ Navi_NpcDistance = {
       {
         "jawaii",
         11717,
-        8
-      },
-      {
-        "job3_rune01",
-        18812,
         8
       },
       {
@@ -60926,11 +60281,6 @@ Navi_NpcDistance = {
         172
       },
       {
-        "job3_rune01",
-        18812,
-        172
-      },
-      {
         "malangdo",
         15067,
         172
@@ -61046,11 +60396,6 @@ Navi_NpcDistance = {
       {
         "jawaii",
         11717,
-        136
-      },
-      {
-        "job3_rune01",
-        18812,
         136
       },
       {
@@ -61172,11 +60517,6 @@ Navi_NpcDistance = {
         134
       },
       {
-        "job3_rune01",
-        18812,
-        134
-      },
-      {
         "malangdo",
         15067,
         134
@@ -61292,11 +60632,6 @@ Navi_NpcDistance = {
       {
         "jawaii",
         11717,
-        74
-      },
-      {
-        "job3_rune01",
-        18812,
         74
       },
       {
@@ -61418,11 +60753,6 @@ Navi_NpcDistance = {
         79
       },
       {
-        "job3_rune01",
-        18812,
-        79
-      },
-      {
         "malangdo",
         15067,
         79
@@ -61538,11 +60868,6 @@ Navi_NpcDistance = {
       {
         "jawaii",
         11717,
-        78
-      },
-      {
-        "job3_rune01",
-        18812,
         78
       },
       {
@@ -61664,11 +60989,6 @@ Navi_NpcDistance = {
         68
       },
       {
-        "job3_rune01",
-        18812,
-        68
-      },
-      {
         "malangdo",
         15067,
         68
@@ -61784,11 +61104,6 @@ Navi_NpcDistance = {
       {
         "jawaii",
         11717,
-        70
-      },
-      {
-        "job3_rune01",
-        18812,
         70
       },
       {
@@ -61910,11 +61225,6 @@ Navi_NpcDistance = {
         116
       },
       {
-        "job3_rune01",
-        18812,
-        116
-      },
-      {
         "malangdo",
         15067,
         116
@@ -62030,11 +61340,6 @@ Navi_NpcDistance = {
       {
         "jawaii",
         11717,
-        104
-      },
-      {
-        "job3_rune01",
-        18812,
         104
       },
       {
@@ -62156,11 +61461,6 @@ Navi_NpcDistance = {
         118
       },
       {
-        "job3_rune01",
-        18812,
-        118
-      },
-      {
         "malangdo",
         15067,
         118
@@ -62276,11 +61576,6 @@ Navi_NpcDistance = {
       {
         "jawaii",
         11717,
-        69
-      },
-      {
-        "job3_rune01",
-        18812,
         69
       },
       {
@@ -62402,11 +61697,6 @@ Navi_NpcDistance = {
         78
       },
       {
-        "job3_rune01",
-        18812,
-        78
-      },
-      {
         "malangdo",
         15067,
         78
@@ -62522,11 +61812,6 @@ Navi_NpcDistance = {
       {
         "jawaii",
         11717,
-        103
-      },
-      {
-        "job3_rune01",
-        18812,
         103
       },
       {
@@ -62648,11 +61933,6 @@ Navi_NpcDistance = {
         109
       },
       {
-        "job3_rune01",
-        18812,
-        109
-      },
-      {
         "malangdo",
         15067,
         109
@@ -62768,11 +62048,6 @@ Navi_NpcDistance = {
       {
         "jawaii",
         11717,
-        116
-      },
-      {
-        "job3_rune01",
-        18812,
         116
       },
       {
@@ -62894,11 +62169,6 @@ Navi_NpcDistance = {
         114
       },
       {
-        "job3_rune01",
-        18812,
-        114
-      },
-      {
         "malangdo",
         15067,
         114
@@ -63014,11 +62284,6 @@ Navi_NpcDistance = {
       {
         "jawaii",
         11717,
-        113
-      },
-      {
-        "job3_rune01",
-        18812,
         113
       },
       {
@@ -63140,11 +62405,6 @@ Navi_NpcDistance = {
         115
       },
       {
-        "job3_rune01",
-        18812,
-        115
-      },
-      {
         "malangdo",
         15067,
         115
@@ -63263,11 +62523,6 @@ Navi_NpcDistance = {
         145
       },
       {
-        "job3_rune01",
-        18812,
-        145
-      },
-      {
         "malangdo",
         15067,
         145
@@ -63383,11 +62638,6 @@ Navi_NpcDistance = {
       {
         "jawaii",
         11717,
-        80
-      },
-      {
-        "job3_rune01",
-        18812,
         80
       },
       {
@@ -64484,7 +63734,7 @@ Navi_NpcDistance = {
     }
   },
   "job3_rune01",
-  6,
+  5,
   {
     {
       15691,
@@ -64569,24 +63819,6 @@ Navi_NpcDistance = {
         "glast_01",
         18790,
         35
-      },
-      {
-        "",
-        0,
-        0
-      }
-    },
-    {
-      18811,
-      {
-        "gl_knt02",
-        18793,
-        13
-      },
-      {
-        "glast_01",
-        18790,
-        13
       },
       {
         "",
@@ -98373,11 +97605,6 @@ Navi_NpcDistance = {
         223
       },
       {
-        "job3_rune01",
-        18815,
-        223
-      },
-      {
         "moc_fild07",
         10210,
         40
@@ -98503,11 +97730,6 @@ Navi_NpcDistance = {
       {
         "izlude",
         15351,
-        155
-      },
-      {
-        "job3_rune01",
-        18815,
         155
       },
       {
@@ -98639,11 +97861,6 @@ Navi_NpcDistance = {
         78
       },
       {
-        "job3_rune01",
-        18815,
-        78
-      },
-      {
         "moc_fild07",
         10210,
         218
@@ -98769,11 +97986,6 @@ Navi_NpcDistance = {
       {
         "izlude",
         15351,
-        79
-      },
-      {
-        "job3_rune01",
-        18815,
         79
       },
       {
@@ -98905,11 +98117,6 @@ Navi_NpcDistance = {
         137
       },
       {
-        "job3_rune01",
-        18815,
-        137
-      },
-      {
         "moc_fild07",
         10210,
         127
@@ -99035,11 +98242,6 @@ Navi_NpcDistance = {
       {
         "izlude",
         15351,
-        128
-      },
-      {
-        "job3_rune01",
-        18815,
         128
       },
       {
@@ -99171,11 +98373,6 @@ Navi_NpcDistance = {
         223
       },
       {
-        "job3_rune01",
-        18815,
-        223
-      },
-      {
         "moc_fild07",
         10210,
         62
@@ -99301,11 +98498,6 @@ Navi_NpcDistance = {
       {
         "izlude",
         15351,
-        224
-      },
-      {
-        "job3_rune01",
-        18815,
         224
       },
       {
@@ -99437,11 +98629,6 @@ Navi_NpcDistance = {
         154
       },
       {
-        "job3_rune01",
-        18815,
-        154
-      },
-      {
         "moc_fild07",
         10210,
         116
@@ -99567,11 +98754,6 @@ Navi_NpcDistance = {
       {
         "izlude",
         15351,
-        143
-      },
-      {
-        "job3_rune01",
-        18815,
         143
       },
       {
@@ -99703,11 +98885,6 @@ Navi_NpcDistance = {
         205
       },
       {
-        "job3_rune01",
-        18815,
-        205
-      },
-      {
         "moc_fild07",
         10210,
         63
@@ -99833,11 +99010,6 @@ Navi_NpcDistance = {
       {
         "izlude",
         15351,
-        93
-      },
-      {
-        "job3_rune01",
-        18815,
         93
       },
       {
@@ -99969,11 +99141,6 @@ Navi_NpcDistance = {
         70
       },
       {
-        "job3_rune01",
-        18815,
-        70
-      },
-      {
         "moc_fild07",
         10210,
         201
@@ -100099,11 +99266,6 @@ Navi_NpcDistance = {
       {
         "izlude",
         15351,
-        260
-      },
-      {
-        "job3_rune01",
-        18815,
         260
       },
       {
@@ -100235,11 +99397,6 @@ Navi_NpcDistance = {
         262
       },
       {
-        "job3_rune01",
-        18815,
-        262
-      },
-      {
         "moc_fild07",
         10210,
         124
@@ -100365,11 +99522,6 @@ Navi_NpcDistance = {
       {
         "izlude",
         15351,
-        83
-      },
-      {
-        "job3_rune01",
-        18815,
         83
       },
       {
@@ -100501,11 +99653,6 @@ Navi_NpcDistance = {
         86
       },
       {
-        "job3_rune01",
-        18815,
-        86
-      },
-      {
         "moc_fild07",
         10210,
         215
@@ -100631,11 +99778,6 @@ Navi_NpcDistance = {
       {
         "izlude",
         15351,
-        226
-      },
-      {
-        "job3_rune01",
-        18815,
         226
       },
       {
@@ -100767,11 +99909,6 @@ Navi_NpcDistance = {
         169
       },
       {
-        "job3_rune01",
-        18815,
-        169
-      },
-      {
         "moc_fild07",
         10210,
         160
@@ -100900,11 +100037,6 @@ Navi_NpcDistance = {
         167
       },
       {
-        "job3_rune01",
-        18815,
-        167
-      },
-      {
         "moc_fild07",
         10210,
         162
@@ -101030,11 +100162,6 @@ Navi_NpcDistance = {
       {
         "izlude",
         15351,
-        165
-      },
-      {
-        "job3_rune01",
-        18815,
         165
       },
       {
@@ -101174,11 +100301,6 @@ Navi_NpcDistance = {
         58
       },
       {
-        "job3_rune01",
-        18815,
-        58
-      },
-      {
         "moc_fild07",
         10210,
         209
@@ -101304,11 +100426,6 @@ Navi_NpcDistance = {
       {
         "izlude",
         15351,
-        68
-      },
-      {
-        "job3_rune01",
-        18815,
         68
       },
       {
@@ -101440,11 +100557,6 @@ Navi_NpcDistance = {
         37
       },
       {
-        "job3_rune01",
-        18815,
-        37
-      },
-      {
         "moc_fild07",
         10210,
         224
@@ -101570,11 +100682,6 @@ Navi_NpcDistance = {
       {
         "izlude",
         15351,
-        119
-      },
-      {
-        "job3_rune01",
-        18815,
         119
       },
       {
@@ -101706,11 +100813,6 @@ Navi_NpcDistance = {
         237
       },
       {
-        "job3_rune01",
-        18815,
-        237
-      },
-      {
         "moc_fild07",
         10210,
         20
@@ -101836,11 +100938,6 @@ Navi_NpcDistance = {
       {
         "izlude",
         15351,
-        227
-      },
-      {
-        "job3_rune01",
-        18815,
         227
       },
       {
@@ -101972,11 +101069,6 @@ Navi_NpcDistance = {
         52
       },
       {
-        "job3_rune01",
-        18815,
-        52
-      },
-      {
         "moc_fild07",
         10210,
         225
@@ -102102,11 +101194,6 @@ Navi_NpcDistance = {
       {
         "izlude",
         15351,
-        126
-      },
-      {
-        "job3_rune01",
-        18815,
         126
       },
       {
@@ -102238,11 +101325,6 @@ Navi_NpcDistance = {
         56
       },
       {
-        "job3_rune01",
-        18815,
-        56
-      },
-      {
         "moc_fild07",
         10210,
         215
@@ -102368,11 +101450,6 @@ Navi_NpcDistance = {
       {
         "izlude",
         15351,
-        250
-      },
-      {
-        "job3_rune01",
-        18815,
         250
       },
       {
@@ -102504,11 +101581,6 @@ Navi_NpcDistance = {
         9
       },
       {
-        "job3_rune01",
-        18815,
-        9
-      },
-      {
         "moc_fild07",
         10210,
         264
@@ -102634,11 +101706,6 @@ Navi_NpcDistance = {
       {
         "izlude",
         15351,
-        186
-      },
-      {
-        "job3_rune01",
-        18815,
         186
       },
       {
@@ -102770,11 +101837,6 @@ Navi_NpcDistance = {
         152
       },
       {
-        "job3_rune01",
-        18815,
-        152
-      },
-      {
         "moc_fild07",
         10210,
         140
@@ -102900,11 +101962,6 @@ Navi_NpcDistance = {
       {
         "izlude",
         15351,
-        48
-      },
-      {
-        "job3_rune01",
-        18815,
         48
       },
       {
@@ -103044,11 +102101,6 @@ Navi_NpcDistance = {
         203
       },
       {
-        "job3_rune01",
-        18815,
-        203
-      },
-      {
         "moc_fild07",
         10210,
         130
@@ -103174,11 +102226,6 @@ Navi_NpcDistance = {
       {
         "izlude",
         15351,
-        65
-      },
-      {
-        "job3_rune01",
-        18815,
         65
       },
       {
@@ -103318,11 +102365,6 @@ Navi_NpcDistance = {
         70
       },
       {
-        "job3_rune01",
-        18815,
-        70
-      },
-      {
         "moc_fild07",
         10210,
         206
@@ -103448,11 +102490,6 @@ Navi_NpcDistance = {
       {
         "izlude",
         15351,
-        135
-      },
-      {
-        "job3_rune01",
-        18815,
         135
       },
       {
@@ -103584,11 +102621,6 @@ Navi_NpcDistance = {
         25
       },
       {
-        "job3_rune01",
-        18815,
-        25
-      },
-      {
         "moc_fild07",
         10210,
         232
@@ -103714,11 +102746,6 @@ Navi_NpcDistance = {
       {
         "izlude",
         15351,
-        278
-      },
-      {
-        "job3_rune01",
-        18815,
         278
       },
       {
@@ -103850,11 +102877,6 @@ Navi_NpcDistance = {
         106
       },
       {
-        "job3_rune01",
-        18815,
-        106
-      },
-      {
         "moc_fild07",
         10210,
         264
@@ -103983,11 +103005,6 @@ Navi_NpcDistance = {
         97
       },
       {
-        "job3_rune01",
-        18815,
-        97
-      },
-      {
         "moc_fild07",
         10210,
         263
@@ -104113,11 +103130,6 @@ Navi_NpcDistance = {
       {
         "izlude",
         15351,
-        22
-      },
-      {
-        "job3_rune01",
-        18815,
         22
       },
       {
@@ -104257,11 +103269,6 @@ Navi_NpcDistance = {
         44
       },
       {
-        "job3_rune01",
-        18815,
-        44
-      },
-      {
         "moc_fild07",
         10210,
         267
@@ -104387,11 +103394,6 @@ Navi_NpcDistance = {
       {
         "izlude",
         15351,
-        52
-      },
-      {
-        "job3_rune01",
-        18815,
         52
       },
       {
@@ -108975,11 +107977,6 @@ Navi_NpcDistance = {
         45
       },
       {
-        "job3_rune01",
-        18814,
-        45
-      },
-      {
         "morocc",
         15371,
         45
@@ -109110,11 +108107,6 @@ Navi_NpcDistance = {
       {
         "izlude",
         15350,
-        49
-      },
-      {
-        "job3_rune01",
-        18814,
         49
       },
       {
@@ -109251,11 +108243,6 @@ Navi_NpcDistance = {
         140
       },
       {
-        "job3_rune01",
-        18814,
-        140
-      },
-      {
         "morocc",
         15371,
         140
@@ -109386,11 +108373,6 @@ Navi_NpcDistance = {
       {
         "izlude",
         15350,
-        154
-      },
-      {
-        "job3_rune01",
-        18814,
         154
       },
       {
@@ -109527,11 +108509,6 @@ Navi_NpcDistance = {
         28
       },
       {
-        "job3_rune01",
-        18814,
-        28
-      },
-      {
         "morocc",
         15371,
         28
@@ -109662,11 +108639,6 @@ Navi_NpcDistance = {
       {
         "izlude",
         15350,
-        189
-      },
-      {
-        "job3_rune01",
-        18814,
         189
       },
       {
@@ -109803,11 +108775,6 @@ Navi_NpcDistance = {
         143
       },
       {
-        "job3_rune01",
-        18814,
-        143
-      },
-      {
         "morocc",
         15371,
         143
@@ -109938,11 +108905,6 @@ Navi_NpcDistance = {
       {
         "izlude",
         15350,
-        144
-      },
-      {
-        "job3_rune01",
-        18814,
         144
       },
       {
@@ -110079,11 +109041,6 @@ Navi_NpcDistance = {
         61
       },
       {
-        "job3_rune01",
-        18814,
-        61
-      },
-      {
         "morocc",
         15371,
         61
@@ -110214,11 +109171,6 @@ Navi_NpcDistance = {
       {
         "izlude",
         15350,
-        178
-      },
-      {
-        "job3_rune01",
-        18814,
         178
       },
       {
@@ -110355,11 +109307,6 @@ Navi_NpcDistance = {
         181
       },
       {
-        "job3_rune01",
-        18814,
-        181
-      },
-      {
         "morocc",
         15371,
         181
@@ -110490,11 +109437,6 @@ Navi_NpcDistance = {
       {
         "izlude",
         15350,
-        137
-      },
-      {
-        "job3_rune01",
-        18814,
         137
       },
       {
@@ -110631,11 +109573,6 @@ Navi_NpcDistance = {
         125
       },
       {
-        "job3_rune01",
-        18814,
-        125
-      },
-      {
         "morocc",
         15371,
         125
@@ -110766,11 +109703,6 @@ Navi_NpcDistance = {
       {
         "izlude",
         15350,
-        125
-      },
-      {
-        "job3_rune01",
-        18814,
         125
       },
       {
@@ -110907,11 +109839,6 @@ Navi_NpcDistance = {
         56
       },
       {
-        "job3_rune01",
-        18814,
-        56
-      },
-      {
         "morocc",
         15371,
         56
@@ -111042,11 +109969,6 @@ Navi_NpcDistance = {
       {
         "izlude",
         15350,
-        120
-      },
-      {
-        "job3_rune01",
-        18814,
         120
       },
       {
@@ -111183,11 +110105,6 @@ Navi_NpcDistance = {
         51
       },
       {
-        "job3_rune01",
-        18814,
-        51
-      },
-      {
         "morocc",
         15371,
         51
@@ -111318,11 +110235,6 @@ Navi_NpcDistance = {
       {
         "izlude",
         15350,
-        47
-      },
-      {
-        "job3_rune01",
-        18814,
         47
       },
       {
@@ -111459,11 +110371,6 @@ Navi_NpcDistance = {
         169
       },
       {
-        "job3_rune01",
-        18814,
-        169
-      },
-      {
         "morocc",
         15371,
         169
@@ -111594,11 +110501,6 @@ Navi_NpcDistance = {
       {
         "izlude",
         15350,
-        39
-      },
-      {
-        "job3_rune01",
-        18814,
         39
       },
       {
@@ -111735,11 +110637,6 @@ Navi_NpcDistance = {
         74
       },
       {
-        "job3_rune01",
-        18814,
-        74
-      },
-      {
         "morocc",
         15371,
         74
@@ -111870,11 +110767,6 @@ Navi_NpcDistance = {
       {
         "izlude",
         15350,
-        62
-      },
-      {
-        "job3_rune01",
-        18814,
         62
       },
       {
@@ -112011,11 +110903,6 @@ Navi_NpcDistance = {
         75
       },
       {
-        "job3_rune01",
-        18814,
-        75
-      },
-      {
         "morocc",
         15371,
         75
@@ -112146,11 +111033,6 @@ Navi_NpcDistance = {
       {
         "izlude",
         15350,
-        97
-      },
-      {
-        "job3_rune01",
-        18814,
         97
       },
       {
@@ -112287,11 +111169,6 @@ Navi_NpcDistance = {
         264
       },
       {
-        "job3_rune01",
-        18814,
-        264
-      },
-      {
         "morocc",
         15371,
         264
@@ -112422,11 +111299,6 @@ Navi_NpcDistance = {
       {
         "izlude",
         15350,
-        45
-      },
-      {
-        "job3_rune01",
-        18814,
         45
       },
       {
@@ -112563,11 +111435,6 @@ Navi_NpcDistance = {
         100
       },
       {
-        "job3_rune01",
-        18814,
-        100
-      },
-      {
         "morocc",
         15371,
         100
@@ -112698,11 +111565,6 @@ Navi_NpcDistance = {
       {
         "izlude",
         15350,
-        10
-      },
-      {
-        "job3_rune01",
-        18814,
         10
       },
       {
@@ -112839,11 +111701,6 @@ Navi_NpcDistance = {
         126
       },
       {
-        "job3_rune01",
-        18814,
-        126
-      },
-      {
         "morocc",
         15371,
         126
@@ -112974,11 +111831,6 @@ Navi_NpcDistance = {
       {
         "izlude",
         15350,
-        63
-      },
-      {
-        "job3_rune01",
-        18814,
         63
       },
       {
@@ -113115,11 +111967,6 @@ Navi_NpcDistance = {
         302
       },
       {
-        "job3_rune01",
-        18814,
-        302
-      },
-      {
         "morocc",
         15371,
         302
@@ -113250,11 +112097,6 @@ Navi_NpcDistance = {
       {
         "izlude",
         15350,
-        48
-      },
-      {
-        "job3_rune01",
-        18814,
         48
       },
       {
@@ -113391,11 +112233,6 @@ Navi_NpcDistance = {
         288
       },
       {
-        "job3_rune01",
-        18814,
-        288
-      },
-      {
         "morocc",
         15371,
         288
@@ -113526,11 +112363,6 @@ Navi_NpcDistance = {
       {
         "izlude",
         15350,
-        265
-      },
-      {
-        "job3_rune01",
-        18814,
         265
       },
       {
@@ -113667,11 +112499,6 @@ Navi_NpcDistance = {
         266
       },
       {
-        "job3_rune01",
-        18814,
-        266
-      },
-      {
         "morocc",
         15371,
         266
@@ -113802,11 +112629,6 @@ Navi_NpcDistance = {
       {
         "izlude",
         15350,
-        266
-      },
-      {
-        "job3_rune01",
-        18814,
         266
       },
       {
@@ -113943,11 +112765,6 @@ Navi_NpcDistance = {
         120
       },
       {
-        "job3_rune01",
-        18814,
-        120
-      },
-      {
         "morocc",
         15371,
         120
@@ -114078,11 +112895,6 @@ Navi_NpcDistance = {
       {
         "izlude",
         15350,
-        112
-      },
-      {
-        "job3_rune01",
-        18814,
         112
       },
       {
@@ -114219,11 +113031,6 @@ Navi_NpcDistance = {
         108
       },
       {
-        "job3_rune01",
-        18814,
-        108
-      },
-      {
         "morocc",
         15371,
         108
@@ -114354,11 +113161,6 @@ Navi_NpcDistance = {
       {
         "izlude",
         15350,
-        104
-      },
-      {
-        "job3_rune01",
-        18814,
         104
       },
       {
@@ -114495,11 +113297,6 @@ Navi_NpcDistance = {
         47
       },
       {
-        "job3_rune01",
-        18814,
-        47
-      },
-      {
         "morocc",
         15371,
         47
@@ -114630,11 +113427,6 @@ Navi_NpcDistance = {
       {
         "izlude",
         15350,
-        123
-      },
-      {
-        "job3_rune01",
-        18814,
         123
       },
       {
@@ -114771,11 +113563,6 @@ Navi_NpcDistance = {
         122
       },
       {
-        "job3_rune01",
-        18814,
-        122
-      },
-      {
         "morocc",
         15371,
         122
@@ -114906,11 +113693,6 @@ Navi_NpcDistance = {
       {
         "izlude",
         15350,
-        117
-      },
-      {
-        "job3_rune01",
-        18814,
         117
       },
       {
@@ -115047,11 +113829,6 @@ Navi_NpcDistance = {
         70
       },
       {
-        "job3_rune01",
-        18814,
-        70
-      },
-      {
         "morocc",
         15371,
         70
@@ -115182,11 +113959,6 @@ Navi_NpcDistance = {
       {
         "izlude",
         15350,
-        109
-      },
-      {
-        "job3_rune01",
-        18814,
         109
       },
       {
@@ -115323,11 +114095,6 @@ Navi_NpcDistance = {
         273
       },
       {
-        "job3_rune01",
-        18814,
-        273
-      },
-      {
         "morocc",
         15371,
         273
@@ -115458,11 +114225,6 @@ Navi_NpcDistance = {
       {
         "izlude",
         15350,
-        180
-      },
-      {
-        "job3_rune01",
-        18814,
         180
       },
       {
@@ -115599,11 +114361,6 @@ Navi_NpcDistance = {
         108
       },
       {
-        "job3_rune01",
-        18814,
-        108
-      },
-      {
         "morocc",
         15371,
         108
@@ -115737,11 +114494,6 @@ Navi_NpcDistance = {
         110
       },
       {
-        "job3_rune01",
-        18814,
-        110
-      },
-      {
         "morocc",
         15371,
         110
@@ -115872,11 +114624,6 @@ Navi_NpcDistance = {
       {
         "izlude",
         15350,
-        54
-      },
-      {
-        "job3_rune01",
-        18814,
         54
       },
       {
