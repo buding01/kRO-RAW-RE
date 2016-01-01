@@ -1,31 +1,31 @@
 mapNPCInfoTable = {
   prontera = {
     {
-      name = "카프라직원",
+      name = "편의서비스",
       X = 146,
       Y = 89,
       TYPE = 6
     },
     {
-      name = "카프라직원",
+      name = "편의서비스",
       X = 151,
       Y = 29,
       TYPE = 6
     },
     {
-      name = "카프라직원",
+      name = "편의서비스",
       X = 282,
       Y = 200,
       TYPE = 6
     },
     {
-      name = "카프라직원",
+      name = "편의서비스",
       X = 29,
       Y = 207,
       TYPE = 6
     },
     {
-      name = "카프라직원",
+      name = "편의서비스",
       X = 152,
       Y = 326,
       TYPE = 6
@@ -93,7 +93,7 @@ mapNPCInfoTable = {
   },
   prt_fild05 = {
     {
-      name = "카프라직원",
+      name = "편의서비스",
       X = 290,
       Y = 224,
       TYPE = 6
@@ -107,7 +107,7 @@ mapNPCInfoTable = {
   },
   izlude = {
     {
-      name = "카프라직원",
+      name = "편의서비스",
       X = 128,
       Y = 148,
       TYPE = 6
@@ -145,13 +145,13 @@ mapNPCInfoTable = {
   },
   geffen = {
     {
-      name = "카프라직원",
+      name = "편의서비스",
       X = 120,
       Y = 62,
       TYPE = 6
     },
     {
-      name = "카프라직원",
+      name = "편의서비스",
       X = 203,
       Y = 123,
       TYPE = 6
@@ -207,7 +207,7 @@ mapNPCInfoTable = {
   },
   aldebaran = {
     {
-      name = "카프라직원",
+      name = "편의서비스",
       X = 143,
       Y = 119,
       TYPE = 6
@@ -251,13 +251,13 @@ mapNPCInfoTable = {
   },
   payon = {
     {
-      name = "카프라직원",
+      name = "편의서비스",
       X = 181,
       Y = 104,
       TYPE = 6
     },
     {
-      name = "카프라직원",
+      name = "편의서비스",
       X = 175,
       Y = 226,
       TYPE = 6
@@ -313,7 +313,7 @@ mapNPCInfoTable = {
   },
   pay_arche = {
     {
-      name = "카프라직원",
+      name = "편의서비스",
       X = 55,
       Y = 123,
       TYPE = 6
@@ -333,13 +333,13 @@ mapNPCInfoTable = {
   },
   morocc = {
     {
-      name = "카프라직원",
+      name = "편의서비스",
       X = 160,
       Y = 258,
       TYPE = 6
     },
     {
-      name = "카프라직원",
+      name = "편의서비스",
       X = 156,
       Y = 97,
       TYPE = 6
@@ -395,7 +395,7 @@ mapNPCInfoTable = {
   },
   moc_ruins = {
     {
-      name = "카프라직원",
+      name = "편의서비스",
       X = 59,
       Y = 157,
       TYPE = 6
@@ -433,13 +433,13 @@ mapNPCInfoTable = {
   },
   alberta = {
     {
-      name = "카프라직원",
+      name = "편의서비스",
       X = 28,
       Y = 229,
       TYPE = 6
     },
     {
-      name = "카프라직원",
+      name = "편의서비스",
       X = 113,
       Y = 60,
       TYPE = 6
@@ -489,19 +489,19 @@ mapNPCInfoTable = {
   },
   yuno = {
     {
-      name = "카프라직원",
+      name = "편의서비스",
       X = 327,
       Y = 108,
       TYPE = 6
     },
     {
-      name = "카프라직원",
+      name = "편의서비스",
       X = 277,
       Y = 221,
       TYPE = 6
     },
     {
-      name = "카프라직원",
+      name = "편의서비스",
       X = 152,
       Y = 187,
       TYPE = 6
@@ -533,7 +533,7 @@ mapNPCInfoTable = {
   },
   comodo = {
     {
-      name = "카프라직원",
+      name = "편의서비스",
       X = 195,
       Y = 150,
       TYPE = 6
@@ -577,13 +577,13 @@ mapNPCInfoTable = {
   },
   einbroch = {
     {
-      name = "카프라직원",
+      name = "편의서비스",
       X = 59,
       Y = 203,
       TYPE = 6
     },
     {
-      name = "카프라직원",
+      name = "편의서비스",
       X = 242,
       Y = 205,
       TYPE = 6
@@ -633,7 +633,7 @@ mapNPCInfoTable = {
   },
   einbech = {
     {
-      name = "카프라직원",
+      name = "편의서비스",
       X = 181,
       Y = 132,
       TYPE = 6
@@ -659,19 +659,19 @@ mapNPCInfoTable = {
   },
   lighthalzen = {
     {
-      name = "카프라직원",
+      name = "편의서비스",
       X = 191,
       Y = 320,
       TYPE = 6
     },
     {
-      name = "카프라직원",
+      name = "편의서비스",
       X = 164,
       Y = 100,
       TYPE = 6
     },
     {
-      name = "카프라직원",
+      name = "편의서비스",
       X = 94,
       Y = 248,
       TYPE = 6
@@ -727,7 +727,7 @@ mapNPCInfoTable = {
   },
   hugel = {
     {
-      name = "카프라직원",
+      name = "편의서비스",
       X = 88,
       Y = 168,
       TYPE = 6
@@ -765,7 +765,7 @@ mapNPCInfoTable = {
   },
   rachel = {
     {
-      name = "카프라직원",
+      name = "편의서비스",
       X = 109,
       Y = 138,
       TYPE = 6
@@ -797,7 +797,7 @@ mapNPCInfoTable = {
   },
   veins = {
     {
-      name = "카프라직원",
+      name = "편의서비스",
       X = 208,
       Y = 128,
       TYPE = 6
@@ -835,7 +835,7 @@ mapNPCInfoTable = {
   },
   brasilis = {
     {
-      name = "카프라직원",
+      name = "편의서비스",
       X = 197,
       Y = 221,
       TYPE = 6
@@ -867,7 +867,7 @@ mapNPCInfoTable = {
   },
   dewata = {
     {
-      name = "카프라직원",
+      name = "편의서비스",
       X = 202,
       Y = 184,
       TYPE = 6
@@ -905,13 +905,13 @@ mapNPCInfoTable = {
   },
   malaya = {
     {
-      name = "카프라직원",
+      name = "편의서비스",
       X = 71,
       Y = 79,
       TYPE = 6
     },
     {
-      name = "카프라직원",
+      name = "편의서비스",
       X = 234,
       Y = 204,
       TYPE = 6
@@ -955,7 +955,7 @@ mapNPCInfoTable = {
   },
   louyang = {
     {
-      name = "카프라직원",
+      name = "편의서비스",
       X = 210,
       Y = 104,
       TYPE = 6
@@ -981,7 +981,7 @@ mapNPCInfoTable = {
   },
   ayothaya = {
     {
-      name = "카프라직원",
+      name = "편의서비스",
       X = 212,
       Y = 169,
       TYPE = 6
@@ -1013,7 +1013,7 @@ mapNPCInfoTable = {
   },
   moscovia = {
     {
-      name = "카프라직원",
+      name = "편의서비스",
       X = 223,
       Y = 191,
       TYPE = 6
@@ -1045,7 +1045,7 @@ mapNPCInfoTable = {
   },
   amatsu = {
     {
-      name = "카프라직원",
+      name = "편의서비스",
       X = 102,
       Y = 149,
       TYPE = 6
@@ -1071,7 +1071,7 @@ mapNPCInfoTable = {
   },
   gonryun = {
     {
-      name = "카프라직원",
+      name = "편의서비스",
       X = 159,
       Y = 122,
       TYPE = 6
@@ -1103,7 +1103,7 @@ mapNPCInfoTable = {
   },
   umbala = {
     {
-      name = "카프라직원",
+      name = "편의서비스",
       X = 87,
       Y = 160,
       TYPE = 6
@@ -1129,7 +1129,7 @@ mapNPCInfoTable = {
   },
   niflheim = {
     {
-      name = "카프라직원",
+      name = "편의서비스",
       X = 202,
       Y = 180,
       TYPE = 6
@@ -1155,7 +1155,7 @@ mapNPCInfoTable = {
   },
   izlu2dun = {
     {
-      name = "카프라직원",
+      name = "편의서비스",
       X = 106,
       Y = 58,
       TYPE = 6
@@ -1163,7 +1163,7 @@ mapNPCInfoTable = {
   },
   alb2trea = {
     {
-      name = "카프라직원",
+      name = "편의서비스",
       X = 59,
       Y = 69,
       TYPE = 6
@@ -1171,7 +1171,7 @@ mapNPCInfoTable = {
   },
   mjolnir_02 = {
     {
-      name = "카프라직원",
+      name = "편의서비스",
       X = 82,
       Y = 362,
       TYPE = 6
@@ -1179,7 +1179,7 @@ mapNPCInfoTable = {
   },
   gef_fild10 = {
     {
-      name = "카프라직원",
+      name = "편의서비스",
       X = 73,
       Y = 340,
       TYPE = 6
@@ -1187,7 +1187,7 @@ mapNPCInfoTable = {
   },
   dicastes01 = {
     {
-      name = "카프라직원",
+      name = "편의서비스",
       X = 136,
       Y = 106,
       TYPE = 6
@@ -1201,7 +1201,7 @@ mapNPCInfoTable = {
   },
   malangdo = {
     {
-      name = "카프라직원",
+      name = "편의서비스",
       X = 184,
       Y = 138,
       TYPE = 6
@@ -1243,6 +1243,50 @@ mapNPCInfoTable = {
       X = 171,
       Y = 158,
       TYPE = 1
+    }
+  },
+  mora = {
+    {
+      name = "편의서비스",
+      X = 48,
+      Y = 128,
+      TYPE = 6
+    },
+    {
+      name = "안내원",
+      X = 115,
+      Y = 138,
+      TYPE = 4
+    },
+    {
+      name = "안내원",
+      X = 72,
+      Y = 51,
+      TYPE = 4
+    },
+    {
+      name = "안내원",
+      X = 25,
+      Y = 158,
+      TYPE = 4
+    },
+    {
+      name = "안내원",
+      X = 167,
+      Y = 76,
+      TYPE = 4
+    },
+    {
+      name = "도구점",
+      X = 112,
+      Y = 110,
+      TYPE = 0
+    },
+    {
+      name = "여관",
+      X = 44,
+      Y = 137,
+      TYPE = 5
     }
   }
 }
