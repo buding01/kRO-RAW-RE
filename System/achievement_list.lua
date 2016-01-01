@@ -1469,6 +1469,24 @@ achievement_tbl = {
     reward = {buff = 21},
     score = 20
   },
+  [200029] = {
+    UI_Type = 0,
+    group = "ACTION",
+    major = 1,
+    minor = 0,
+    title = "애증의 화신",
+    content = {
+      summary = "노비스로 99 베이스 레벨을 달성한다",
+      details = "직업이 노비스 상태에서 베이스 레벨을 99 까지 달성한다."
+    },
+    resource = {
+      [1] = {
+        text = "노비스 상태에서 99 베이스 레벨을 달성"
+      }
+    },
+    reward = {buff = 10, item = 16483},
+    score = 30
+  },
   [200030] = {
     UI_Type = 0,
     group = "ACTION",
