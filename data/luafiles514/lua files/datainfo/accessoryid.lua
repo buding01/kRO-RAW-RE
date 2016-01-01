@@ -1150,5 +1150,6 @@ ACCESSORY_IDs = {
   ACCESSORY_Mouton_Life = 1156,
   ACCESSORY_Snow_Rabbit_Knit_Hat = 1157,
   ACCESSORY_Galanthus_Guard = 1158,
-  ACCESSORY_Horse_King = 1189
+  ACCESSORY_Horse_King = 1189,
+  ACCESSORY_Riot_Chip = 1201
 }

@@ -1146,5 +1146,6 @@ AccNameTable = {
   [ACCESSORY_IDs.ACCESSORY_Mouton_Life] = "_무통라이프",
   [ACCESSORY_IDs.ACCESSORY_Snow_Rabbit_Knit_Hat] = "_눈토끼니트모자",
   [ACCESSORY_IDs.ACCESSORY_Galanthus_Guard] = "_가란사스가드",
-  [ACCESSORY_IDs.ACCESSORY_Horse_King] = "_마왕"
+  [ACCESSORY_IDs.ACCESSORY_Horse_King] = "_마왕",
+  [ACCESSORY_IDs.ACCESSORY_Riot_Chip] = "_폭주하는칩"
 }

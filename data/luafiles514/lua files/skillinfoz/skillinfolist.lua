@@ -13549,11 +13549,11 @@ SKILL_INFO_LIST = {
     SkillName = "Áö·ÚÁø(ò¢Öôòè)",
     MaxLv = 5,
     SpAmount = {
-      20,
-      25,
-      30,
-      35,
-      40
+      36,
+      40,
+      44,
+      48,
+      52
     },
     bSeperateLv = true,
     AttackRange = {
