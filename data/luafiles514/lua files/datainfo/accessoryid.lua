@@ -1411,6 +1411,9 @@ ACCESSORY_IDs = {
   ACCESSORY_Commandments_Of_Chain = 1417,
   ACCESSORY_Subject_Aura_Red = 1418,
   ACCESSORY_Bldy_Light_Dark_Crown = 1419,
+  ACCESSORY_Wild_Poring_Rider = 1422,
+  ACCESSORY_Valhalla_Idol = 1423,
   ACCESSORY_Blessing_Of_Angels = 1425,
+  ACCESSORY_Louise_Red_Hat = 1443,
   ACCESSORY_GrimReaper_Protection = 1450
 }

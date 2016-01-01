@@ -1408,5 +1408,8 @@ AccNameTable = {
   [ACCESSORY_IDs.ACCESSORY_Subject_Aura_Red] = "_사념의오오라_빨강",
   [ACCESSORY_IDs.ACCESSORY_Bldy_Light_Dark_Crown] = "_피의빛과어둠진홍관",
   [ACCESSORY_IDs.ACCESSORY_Blessing_Of_Angels] = "_천사들의축복",
-  [ACCESSORY_IDs.ACCESSORY_GrimReaper_Protection] = "_사신님의가호"
+  [ACCESSORY_IDs.ACCESSORY_GrimReaper_Protection] = "_사신님의가호",
+  [ACCESSORY_IDs.ACCESSORY_Wild_Poring_Rider] = "_와일드포링라이더",
+  [ACCESSORY_IDs.ACCESSORY_Louise_Red_Hat] = "_루이제빨간모자",
+  [ACCESSORY_IDs.ACCESSORY_Valhalla_Idol] = "_발할라아이돌"
 }

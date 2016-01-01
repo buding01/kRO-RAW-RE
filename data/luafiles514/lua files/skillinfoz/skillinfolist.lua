@@ -1,4 +1,873 @@
 SKILL_INFO_LIST = {
+  [SKID.NPC_HALLUCINATIONWALK] = {
+    "NPC_HALLUCINATIONWALK",
+    SkillName = "할루시네이션 워크",
+    MaxLv = 5,
+    SpAmount = {
+      0,
+      0,
+      0,
+      0,
+      0
+    },
+    bSeperateLv = false,
+    AttackRange = {
+      1,
+      1,
+      1,
+      1,
+      1
+    }
+  },
+  [SKID.NPC_ELECTRICWALK] = {
+    "NPC_ELECTRICWALK",
+    SkillName = "일렉트릭워크",
+    MaxLv = 5,
+    SpAmount = {
+      0,
+      0,
+      0,
+      0,
+      0
+    },
+    bSeperateLv = false,
+    AttackRange = {
+      1,
+      1,
+      1,
+      1,
+      1
+    }
+  },
+  [SKID.NPC_FIREWALK] = {
+    "NPC_FIREWALK",
+    SkillName = "파이어 워크",
+    MaxLv = 5,
+    SpAmount = {
+      0,
+      0,
+      0,
+      0,
+      0
+    },
+    bSeperateLv = false,
+    AttackRange = {
+      1,
+      1,
+      1,
+      1,
+      1
+    }
+  },
+  [SKID.NPC_MILLENNIUMSHIELD] = {
+    "NPC_MILLENNIUMSHIELD",
+    SkillName = "밀레니엄 실드",
+    MaxLv = 1,
+    SpAmount = {0},
+    bSeperateLv = false,
+    AttackRange = {1}
+  },
+  [SKID.NPC_IGNITIONBREAK] = {
+    "NPC_IGNITIONBREAK",
+    SkillName = "익시드 브레이크",
+    MaxLv = 5,
+    SpAmount = {
+      0,
+      0,
+      0,
+      0,
+      0
+    },
+    bSeperateLv = false,
+    AttackRange = {
+      1,
+      1,
+      1,
+      1,
+      1
+    },
+    SkillScale = {
+      [1] = {x = 11, y = 11},
+      [2] = {x = 11, y = 11},
+      [3] = {x = 11, y = 11},
+      [4] = {x = 11, y = 11},
+      [5] = {x = 11, y = 11}
+    }
+  },
+  [SKID.NPC_MANDRAGORA] = {
+    "NPC_MANDRAGORA",
+    SkillName = "하울링 오브 만드라고라",
+    MaxLv = 5,
+    SpAmount = {
+      0,
+      0,
+      0,
+      0,
+      0
+    },
+    bSeperateLv = false,
+    AttackRange = {
+      1,
+      1,
+      1,
+      1,
+      1
+    },
+    SkillScale = {
+      [1] = {x = 11, y = 11},
+      [2] = {x = 13, y = 13},
+      [3] = {x = 15, y = 15},
+      [4] = {x = 17, y = 17},
+      [5] = {x = 19, y = 19}
+    }
+  },
+  [SKID.NPC_FATALMENACE] = {
+    "NPC_FATALMENACE",
+    SkillName = "페이탈 메나스",
+    MaxLv = 5,
+    SpAmount = {
+      0,
+      0,
+      0,
+      0,
+      0
+    },
+    bSeperateLv = false,
+    AttackRange = {
+      1,
+      1,
+      1,
+      1,
+      1
+    },
+    SkillScale = {
+      [1] = {x = 3, y = 3},
+      [2] = {x = 5, y = 5},
+      [3] = {x = 7, y = 7},
+      [4] = {x = 9, y = 9},
+      [5] = {x = 11, y = 11}
+    }
+  },
+  [SKID.NPC_SR_CURSEDCIRCLE] = {
+    "NPC_SR_CURSEDCIRCLE",
+    SkillName = "주박진",
+    MaxLv = 5,
+    SpAmount = {
+      0,
+      0,
+      0,
+      0,
+      0
+    },
+    bSeperateLv = false,
+    AttackRange = {
+      1,
+      1,
+      1,
+      1,
+      1
+    },
+    SkillScale = {
+      [1] = {x = 3, y = 3},
+      [2] = {x = 5, y = 5},
+      [3] = {x = 7, y = 7},
+      [4] = {x = 9, y = 9},
+      [5] = {x = 11, y = 11}
+    }
+  },
+  [SKID.NPC_JACKFROST] = {
+    "NPC_JACKFROST",
+    SkillName = "잭 프로스트",
+    MaxLv = 5,
+    SpAmount = {
+      0,
+      0,
+      0,
+      0,
+      0
+    },
+    bSeperateLv = false,
+    AttackRange = {
+      1,
+      1,
+      1,
+      1,
+      1
+    },
+    SkillScale = {
+      [1] = {x = 11, y = 11},
+      [2] = {x = 13, y = 13},
+      [3] = {x = 15, y = 15},
+      [4] = {x = 17, y = 17},
+      [5] = {x = 19, y = 19}
+    }
+  },
+  [SKID.NPC_VENOMFOG] = {
+    "NPC_VENOMFOG",
+    SkillName = "독안개",
+    MaxLv = 10,
+    SpAmount = {
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    },
+    bSeperateLv = false,
+    AttackRange = {
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    },
+    SkillScale = {
+      [1] = {x = 11, y = 11},
+      [2] = {x = 11, y = 11},
+      [3] = {x = 11, y = 11},
+      [4] = {x = 11, y = 11},
+      [5] = {x = 11, y = 11},
+      [6] = {x = 11, y = 11},
+      [7] = {x = 11, y = 11},
+      [8] = {x = 11, y = 11},
+      [9] = {x = 11, y = 11},
+      [10] = {x = 27, y = 27}
+    }
+  },
+  [SKID.NPC_ASSASSINCROSS] = {
+    "NPC_ASSASSINCROSS",
+    SkillName = "석양의 어쌔신 크로스",
+    MaxLv = 10,
+    SpAmount = {
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    },
+    bSeperateLv = false,
+    AttackRange = {
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    },
+    SkillScale = {
+      [1] = {x = 7, y = 7},
+      [2] = {x = 7, y = 7},
+      [3] = {x = 7, y = 7},
+      [4] = {x = 7, y = 7},
+      [5] = {x = 7, y = 7},
+      [6] = {x = 7, y = 7},
+      [7] = {x = 7, y = 7},
+      [8] = {x = 7, y = 7},
+      [9] = {x = 7, y = 7},
+      [10] = {x = 7, y = 7}
+    }
+  },
+  [SKID.NPC_FLAMECROSS] = {
+    "NPC_FLAMECROSS",
+    SkillName = "플레임 크로스",
+    MaxLv = 5,
+    SpAmount = {
+      0,
+      0,
+      0,
+      0,
+      0
+    },
+    bSeperateLv = false,
+    AttackRange = {
+      9,
+      9,
+      9,
+      9,
+      9
+    },
+    SkillScale = {
+      [1] = {x = 7, y = 7},
+      [2] = {x = 7, y = 7},
+      [3] = {x = 7, y = 7},
+      [4] = {x = 7, y = 7},
+      [5] = {x = 7, y = 7}
+    }
+  },
+  [SKID.NPC_ICEMINE] = {
+    "NPC_ICEMINE",
+    SkillName = "얼음 지뢰",
+    MaxLv = 5,
+    SpAmount = {
+      0,
+      0,
+      0,
+      0,
+      0
+    },
+    bSeperateLv = false,
+    AttackRange = {
+      9,
+      9,
+      9,
+      9,
+      9
+    },
+    SkillScale = {
+      [1] = {x = 7, y = 7},
+      [2] = {x = 7, y = 7},
+      [3] = {x = 7, y = 7},
+      [4] = {x = 7, y = 7},
+      [5] = {x = 7, y = 7}
+    }
+  },
+  [SKID.NPC_DISSONANCE] = {
+    "NPC_DISSONANCE",
+    SkillName = "불협화음",
+    MaxLv = 5,
+    SpAmount = {
+      0,
+      0,
+      0,
+      0,
+      0
+    },
+    bSeperateLv = false,
+    AttackRange = {
+      1,
+      1,
+      1,
+      1,
+      1
+    },
+    SkillScale = {
+      [1] = {x = 7, y = 7},
+      [2] = {x = 7, y = 7},
+      [3] = {x = 7, y = 7},
+      [4] = {x = 7, y = 7},
+      [5] = {x = 7, y = 7}
+    }
+  },
+  [SKID.NPC_UGLYDANCE] = {
+    "NPC_UGLYDANCE",
+    SkillName = "막춤",
+    MaxLv = 5,
+    SpAmount = {
+      0,
+      0,
+      0,
+      0,
+      0
+    },
+    bSeperateLv = false,
+    AttackRange = {
+      1,
+      1,
+      1,
+      1,
+      1
+    },
+    SkillScale = {
+      [1] = {x = 7, y = 7},
+      [2] = {x = 7, y = 7},
+      [3] = {x = 7, y = 7},
+      [4] = {x = 7, y = 7},
+      [5] = {x = 7, y = 7}
+    }
+  },
+  [SKID.NPC_WIDEHEALTHFEAR] = {
+    "NPC_WIDEHEALTHFEAR",
+    SkillName = "광역 공포",
+    MaxLv = 5,
+    SpAmount = {
+      0,
+      0,
+      0,
+      0,
+      0
+    },
+    bSeperateLv = false,
+    AttackRange = {
+      1,
+      1,
+      1,
+      1,
+      1
+    },
+    SkillScale = {
+      [1] = {x = 5, y = 5},
+      [2] = {x = 11, y = 11},
+      [3] = {x = 17, y = 17},
+      [4] = {x = 23, y = 23},
+      [5] = {x = 29, y = 29}
+    }
+  },
+  [SKID.NPC_WIDE_DEEP_SLEEP] = {
+    "NPC_WIDE_DEEP_SLEEP",
+    SkillName = "광역 깊은잠",
+    MaxLv = 5,
+    SpAmount = {
+      0,
+      0,
+      0,
+      0,
+      0
+    },
+    bSeperateLv = false,
+    AttackRange = {
+      1,
+      1,
+      1,
+      1,
+      1
+    },
+    SkillScale = {
+      [1] = {x = 5, y = 5},
+      [2] = {x = 11, y = 11},
+      [3] = {x = 17, y = 17},
+      [4] = {x = 23, y = 23},
+      [5] = {x = 29, y = 29}
+    }
+  },
+  [SKID.NPC_WIDESIREN] = {
+    "NPC_WIDESIREN",
+    SkillName = "광역 매혹",
+    MaxLv = 5,
+    SpAmount = {
+      0,
+      0,
+      0,
+      0,
+      0
+    },
+    bSeperateLv = false,
+    AttackRange = {
+      1,
+      1,
+      1,
+      1,
+      1
+    },
+    SkillScale = {
+      [1] = {x = 5, y = 5},
+      [2] = {x = 11, y = 11},
+      [3] = {x = 17, y = 17},
+      [4] = {x = 23, y = 23},
+      [5] = {x = 29, y = 29}
+    }
+  },
+  [SKID.NPC_WIDEBODYBURNNING] = {
+    "NPC_WIDEBODYBURNNING",
+    SkillName = "광역 발화",
+    MaxLv = 5,
+    SpAmount = {
+      0,
+      0,
+      0,
+      0,
+      0
+    },
+    bSeperateLv = false,
+    AttackRange = {
+      1,
+      1,
+      1,
+      1,
+      1
+    },
+    SkillScale = {
+      [1] = {x = 5, y = 5},
+      [2] = {x = 11, y = 11},
+      [3] = {x = 17, y = 17},
+      [4] = {x = 23, y = 23},
+      [5] = {x = 29, y = 29}
+    }
+  },
+  [SKID.NPC_WIDEFROSTMISTY] = {
+    "NPC_WIDEFROSTMISTY",
+    SkillName = "광역 빙결",
+    MaxLv = 5,
+    SpAmount = {
+      0,
+      0,
+      0,
+      0,
+      0
+    },
+    bSeperateLv = false,
+    AttackRange = {
+      1,
+      1,
+      1,
+      1,
+      1
+    },
+    SkillScale = {
+      [1] = {x = 5, y = 5},
+      [2] = {x = 11, y = 11},
+      [3] = {x = 17, y = 17},
+      [4] = {x = 23, y = 23},
+      [5] = {x = 29, y = 29}
+    }
+  },
+  [SKID.NPC_WIDECOLD] = {
+    "NPC_WIDECOLD",
+    SkillName = "광역 냉동",
+    MaxLv = 5,
+    SpAmount = {
+      0,
+      0,
+      0,
+      0,
+      0
+    },
+    bSeperateLv = false,
+    AttackRange = {
+      1,
+      1,
+      1,
+      1,
+      1
+    },
+    SkillScale = {
+      [1] = {x = 5, y = 5},
+      [2] = {x = 11, y = 11},
+      [3] = {x = 17, y = 17},
+      [4] = {x = 23, y = 23},
+      [5] = {x = 29, y = 29}
+    }
+  },
+  [SKID.NPC_CLOUD_KILL] = {
+    "NPC_CLOUD_KILL",
+    SkillName = "클라우드 킬",
+    MaxLv = 5,
+    SpAmount = {
+      0,
+      0,
+      0,
+      0,
+      0
+    },
+    bSeperateLv = false,
+    AttackRange = {
+      9,
+      9,
+      9,
+      9,
+      9
+    },
+    SkillScale = {
+      [1] = {x = 3, y = 3},
+      [2] = {x = 5, y = 5},
+      [3] = {x = 7, y = 7},
+      [4] = {x = 7, y = 7},
+      [5] = {x = 7, y = 7}
+    }
+  },
+  [SKID.NPC_RAYOFGENESIS] = {
+    "NPC_RAYOFGENESIS",
+    SkillName = "레이 오브 제네시스",
+    MaxLv = 10,
+    SpAmount = {
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    },
+    bSeperateLv = false,
+    AttackRange = {
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    },
+    SkillScale = {
+      [1] = {x = 11, y = 11},
+      [2] = {x = 11, y = 11},
+      [3] = {x = 17, y = 17},
+      [4] = {x = 17, y = 17},
+      [5] = {x = 23, y = 23},
+      [6] = {x = 23, y = 23},
+      [7] = {x = 27, y = 27},
+      [8] = {x = 27, y = 27},
+      [9] = {x = 27, y = 27},
+      [10] = {x = 27, y = 27}
+    }
+  },
+  [SKID.NPC_PSYCHIC_WAVE] = {
+    "NPC_PSYCHIC_WAVE",
+    SkillName = "사이킥 웨이브",
+    MaxLv = 10,
+    SpAmount = {
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    },
+    bSeperateLv = false,
+    AttackRange = {
+      9,
+      9,
+      9,
+      9,
+      9,
+      9,
+      9,
+      9,
+      9,
+      9
+    },
+    SkillScale = {
+      [1] = {x = 7, y = 7},
+      [2] = {x = 9, y = 9},
+      [3] = {x = 11, y = 11},
+      [4] = {x = 11, y = 11},
+      [5] = {x = 11, y = 11},
+      [6] = {x = 11, y = 11},
+      [7] = {x = 11, y = 11},
+      [8] = {x = 11, y = 11},
+      [9] = {x = 11, y = 11},
+      [10] = {x = 11, y = 11}
+    }
+  },
+  [SKID.NPC_MAGMA_ERUPTION] = {
+    "NPC_MAGMA_ERUPTION",
+    SkillName = "용암 분출",
+    MaxLv = 5,
+    SpAmount = {
+      0,
+      0,
+      0,
+      0,
+      0
+    },
+    bSeperateLv = false,
+    AttackRange = {
+      1,
+      1,
+      1,
+      1,
+      1
+    },
+    SkillScale = {
+      [1] = {x = 7, y = 7},
+      [2] = {x = 7, y = 7},
+      [3] = {x = 7, y = 7},
+      [4] = {x = 7, y = 7},
+      [5] = {x = 7, y = 7}
+    }
+  },
+  [SKID.NPC_COMET] = {
+    "NPC_COMET",
+    SkillName = "커미트",
+    MaxLv = 5,
+    SpAmount = {
+      0,
+      0,
+      0,
+      0,
+      0
+    },
+    bSeperateLv = false,
+    AttackRange = {
+      1,
+      1,
+      1,
+      1,
+      1
+    },
+    SkillScale = {
+      [1] = {x = 19, y = 19},
+      [2] = {x = 19, y = 19},
+      [3] = {x = 19, y = 19},
+      [4] = {x = 19, y = 19},
+      [5] = {x = 19, y = 19}
+    }
+  },
+  [SKID.NPC_MAXPAIN] = {
+    "NPC_MAXPAIN",
+    SkillName = "맥스 페인",
+    MaxLv = 10,
+    SpAmount = {
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    },
+    bSeperateLv = false,
+    AttackRange = {
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    }
+  },
+  [SKID.NPC_WIDEWEB] = {
+    "NPC_WIDEWEB",
+    SkillName = "광역 스파이더 웹",
+    MaxLv = 1,
+    SpAmount = {0},
+    bSeperateLv = false,
+    AttackRange = {1},
+    SkillScale = {
+      [1] = {x = 15, y = 15}
+    }
+  },
+  [SKID.NPC_WIDESIGHT] = {
+    "NPC_WIDESIGHT",
+    SkillName = "광역 사이트",
+    MaxLv = 1,
+    SpAmount = {0},
+    bSeperateLv = false,
+    AttackRange = {1},
+    SkillScale = {
+      [1] = {x = 11, y = 11}
+    }
+  },
+  [SKID.NPC_WIDESUCK] = {
+    "NPC_WIDESUCK",
+    SkillName = "광역 흡혈",
+    MaxLv = 1,
+    SpAmount = {0},
+    bSeperateLv = false,
+    AttackRange = {1},
+    SkillScale = {
+      [1] = {x = 27, y = 27}
+    }
+  },
+  [SKID.NPC_STORMGUST2] = {
+    "NPC_STORMGUST2",
+    SkillName = "스톰 가스트",
+    MaxLv = 3,
+    SpAmount = {
+      0,
+      0,
+      0
+    },
+    bSeperateLv = false,
+    AttackRange = {
+      9,
+      9,
+      9
+    },
+    SkillScale = {
+      [1] = {x = 11, y = 11},
+      [2] = {x = 11, y = 11},
+      [3] = {x = 11, y = 11}
+    }
+  },
+  [SKID.NPC_FIRESTORM] = {
+    "NPC_FIRESTORM",
+    SkillName = "화염 폭풍",
+    MaxLv = 3,
+    SpAmount = {
+      0,
+      0,
+      0
+    },
+    bSeperateLv = false,
+    AttackRange = {
+      1,
+      1,
+      1
+    },
+    SkillScale = {
+      [1] = {x = 7, y = 7},
+      [2] = {x = 7, y = 7},
+      [3] = {x = 7, y = 7}
+    }
+  },
+  [SKID.NPC_DRAGONBREATH] = {
+    "NPC_DRAGONBREATH",
+    SkillName = "드래곤 브레스",
+    MaxLv = 10,
+    SpAmount = {
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    },
+    bSeperateLv = false,
+    AttackRange = {
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3
+    },
+    SkillScale = {
+      [1] = {x = 9, y = 9},
+      [2] = {x = 9, y = 9},
+      [3] = {x = 9, y = 9},
+      [4] = {x = 9, y = 9},
+      [5] = {x = 9, y = 9},
+      [6] = {x = 9, y = 9},
+      [7] = {x = 9, y = 9},
+      [8] = {x = 9, y = 9},
+      [9] = {x = 9, y = 9},
+      [10] = {x = 9, y = 9}
+    }
+  },
   [SKID.SN_WINDWALK] = {
     "SN_WINDWALK",
     SkillName = "윈드 워크",
