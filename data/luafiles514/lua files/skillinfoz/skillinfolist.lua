@@ -26314,11 +26314,11 @@ SKILL_INFO_LIST = {
     SkillName = "참치 대뱃살",
     MaxLv = 5,
     SpAmount = {
+      20,
       30,
-      36,
-      42,
-      48,
-      54
+      40,
+      50,
+      60
     },
     bSeperateLv = true,
     AttackRange = {
