@@ -25,7 +25,8 @@ CmdOnOffOderList = {
   "/merai",
   "/camera",
   "/btg",
-  "/lightmap"
+  "/lightmap",
+  "/monsterhp"
 }
 CmdHelpList = {
   ["/battlemode"] = MsgStrID.MSI_BATTLEMODE,
@@ -57,6 +58,7 @@ CmdHelpList = {
   ["/camera"] = MsgStrID.MSI_CAMERA,
   ["/btg"] = MsgStrID.MSI_BTG,
   ["/lightmap"] = MsgStrID.MSI_LIGHTMAP,
+  ["/monsterhp"] = MsgStrID.MSI_MONSTERHP,
   ["/hi"] = MsgStrID.MSI_HI,
   ["/blacksmith"] = MsgStrID.MSI_BLACKSMITH,
   ["/alchemist"] = MsgStrID.MSI_ALCHEMIST,
