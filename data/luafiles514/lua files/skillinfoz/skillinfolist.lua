@@ -6603,7 +6603,7 @@ SKILL_INFO_LIST = {
     "RETURN_TO_ELDICASTES",
     SkillName = "엘 디카스테스로의 귀환",
     MaxLv = 1,
-    SpAmount = {10},
+    SpAmount = {0},
     bSeperateLv = false,
     AttackRange = {1}
   },
@@ -14040,7 +14040,7 @@ SKILL_INFO_LIST = {
     "ALL_GUARDIAN_RECALL",
     SkillName = "수호자의 부름",
     MaxLv = 1,
-    SpAmount = {10},
+    SpAmount = {0},
     bSeperateLv = false,
     AttackRange = {1}
   },
@@ -19194,8 +19194,8 @@ SKILL_INFO_LIST = {
     bSeperateLv = true,
     AttackRange = {
       3,
-      4,
-      5
+      3,
+      3
     },
     _NeedSkillList = {
       {
