@@ -2178,5 +2178,8 @@ JobNameTable = {
   [jobtbl.JT_GM_PHOENIX] = "GM_PHOENIX",
   [jobtbl.JT_GM_MEN] = "GM_MEN",
   [jobtbl.JT_GM_HINALLE] = "GM_HINALLE",
-  [jobtbl.JT_HIDDEN_MOB2] = "ANOPHELES"
+  [jobtbl.JT_HIDDEN_MOB2] = "ANOPHELES",
+  [jobtbl.JT_I_UZHAS] = "UZHAS",
+  [jobtbl.JT_I_DOKEBI] = "DOKEBI",
+  [jobtbl.JT_G_WISH_MAIDEN] = "WISH_MAIDEN"
 }
