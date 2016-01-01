@@ -1406,5 +1406,6 @@ AccNameTable = {
   [ACCESSORY_IDs.ACCESSORY_Eremes_Scarf] = "_에레메스스카프",
   [ACCESSORY_IDs.ACCESSORY_Commandments_Of_Chain] = "_금제의사슬",
   [ACCESSORY_IDs.ACCESSORY_Subject_Aura_Red] = "_사념의오오라_빨강",
-  [ACCESSORY_IDs.ACCESSORY_Bldy_Light_Dark_Crown] = "_피의빛과어둠진홍관"
+  [ACCESSORY_IDs.ACCESSORY_Bldy_Light_Dark_Crown] = "_피의빛과어둠진홍관",
+  [ACCESSORY_IDs.ACCESSORY_Blessing_Of_Angels] = "_천사들의축복"
 }
