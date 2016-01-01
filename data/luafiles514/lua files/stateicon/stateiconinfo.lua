@@ -3717,9 +3717,6 @@ StateIconList[EFST_IDs.EFST_VOLCANIC_ASH] = {
     },
     {
       "일정 확률로 스킬, 마법 실패"
-    },
-    {
-      "받는 화속성 데미지 증가"
     }
   }
 }

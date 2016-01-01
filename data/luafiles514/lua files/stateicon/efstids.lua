@@ -772,6 +772,9 @@ EFST_IDs = {
   EFST_CHUSEOK_THURSDAY = 788,
   EFST_CHUSEOK_FRIDAY = 789,
   EFST_CHUSEOK_WEEKEND = 790,
+  EFST_MTF_RANGEATK2 = 818,
+  EFST_MTF_ASPD2 = 819,
+  EFST_MTF_MATK2 = 820,
   __newindex = function()
     error("unknown state")
   end
