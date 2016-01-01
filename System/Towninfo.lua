@@ -132,7 +132,7 @@ mapNPCInfoTable = {
     },
     {
       name = "상점",
-      X = 108,
+      X = 112,
       Y = 179,
       TYPE = 0
     },
@@ -564,14 +564,14 @@ mapNPCInfoTable = {
     },
     {
       name = "도구점",
-      X = 86,
+      X = 92,
       Y = 128,
       TYPE = 0
     },
     {
       name = "무기점",
       X = 266,
-      Y = 70,
+      Y = 74,
       TYPE = 1
     }
   },
@@ -615,13 +615,13 @@ mapNPCInfoTable = {
     {
       name = "무기점",
       X = 215,
-      Y = 221,
+      Y = 212,
       TYPE = 1
     },
     {
       name = "대장간",
-      X = 244,
-      Y = 90,
+      X = 255,
+      Y = 109,
       TYPE = 3
     },
     {
@@ -723,6 +723,12 @@ mapNPCInfoTable = {
       X = 159,
       Y = 133,
       TYPE = 5
+    },
+    {
+      name = "무기점",
+      X = 196,
+      Y = 46,
+      TYPE = 1
     }
   },
   hugel = {
@@ -823,7 +829,7 @@ mapNPCInfoTable = {
     {
       name = "무기점",
       X = 149,
-      Y = 184,
+      Y = 180,
       TYPE = 1
     },
     {
@@ -1033,7 +1039,7 @@ mapNPCInfoTable = {
     {
       name = "무기점",
       X = 185,
-      Y = 185,
+      Y = 189,
       TYPE = 1
     },
     {
@@ -1041,6 +1047,12 @@ mapNPCInfoTable = {
       X = 229,
       Y = 208,
       TYPE = 5
+    },
+    {
+      name = "방어구점",
+      X = 203,
+      Y = 170,
+      TYPE = 2
     }
   },
   amatsu = {
@@ -1112,6 +1124,12 @@ mapNPCInfoTable = {
       name = "안내원",
       X = 128,
       Y = 94,
+      TYPE = 4
+    },
+    {
+      name = "안내원",
+      X = 99,
+      Y = 158,
       TYPE = 4
     },
     {
@@ -1249,7 +1267,7 @@ mapNPCInfoTable = {
     {
       name = "편의서비스",
       X = 48,
-      Y = 128,
+      Y = 127,
       TYPE = 6
     },
     {
@@ -1277,6 +1295,12 @@ mapNPCInfoTable = {
       TYPE = 4
     },
     {
+      name = "안내원",
+      X = 167,
+      Y = 76,
+      TYPE = 4
+    },
+    {
       name = "도구점",
       X = 112,
       Y = 110,
@@ -1285,8 +1309,160 @@ mapNPCInfoTable = {
     {
       name = "여관",
       X = 44,
-      Y = 137,
+      Y = 127,
       TYPE = 5
+    }
+  },
+  izlude_a = {
+    {
+      name = "편의서비스",
+      X = 128,
+      Y = 148,
+      TYPE = 6
+    },
+    {
+      name = "안내원",
+      X = 129,
+      Y = 175,
+      TYPE = 4
+    },
+    {
+      name = "안내원",
+      X = 133,
+      Y = 113,
+      TYPE = 4
+    },
+    {
+      name = "안내원",
+      X = 120,
+      Y = 206,
+      TYPE = 4
+    },
+    {
+      name = "상점",
+      X = 112,
+      Y = 179,
+      TYPE = 0
+    },
+    {
+      name = "대장간",
+      X = 162,
+      Y = 125,
+      TYPE = 3
+    }
+  },
+  izlude_b = {
+    {
+      name = "편의서비스",
+      X = 128,
+      Y = 148,
+      TYPE = 6
+    },
+    {
+      name = "안내원",
+      X = 129,
+      Y = 175,
+      TYPE = 4
+    },
+    {
+      name = "안내원",
+      X = 133,
+      Y = 113,
+      TYPE = 4
+    },
+    {
+      name = "안내원",
+      X = 120,
+      Y = 206,
+      TYPE = 4
+    },
+    {
+      name = "상점",
+      X = 112,
+      Y = 179,
+      TYPE = 0
+    },
+    {
+      name = "대장간",
+      X = 162,
+      Y = 125,
+      TYPE = 3
+    }
+  },
+  izlude_c = {
+    {
+      name = "편의서비스",
+      X = 128,
+      Y = 148,
+      TYPE = 6
+    },
+    {
+      name = "안내원",
+      X = 129,
+      Y = 175,
+      TYPE = 4
+    },
+    {
+      name = "안내원",
+      X = 133,
+      Y = 113,
+      TYPE = 4
+    },
+    {
+      name = "안내원",
+      X = 120,
+      Y = 206,
+      TYPE = 4
+    },
+    {
+      name = "상점",
+      X = 112,
+      Y = 179,
+      TYPE = 0
+    },
+    {
+      name = "대장간",
+      X = 162,
+      Y = 125,
+      TYPE = 3
+    }
+  },
+  izlude_d = {
+    {
+      name = "편의서비스",
+      X = 128,
+      Y = 148,
+      TYPE = 6
+    },
+    {
+      name = "안내원",
+      X = 129,
+      Y = 175,
+      TYPE = 4
+    },
+    {
+      name = "안내원",
+      X = 133,
+      Y = 113,
+      TYPE = 4
+    },
+    {
+      name = "안내원",
+      X = 120,
+      Y = 206,
+      TYPE = 4
+    },
+    {
+      name = "상점",
+      X = 112,
+      Y = 179,
+      TYPE = 0
+    },
+    {
+      name = "대장간",
+      X = 162,
+      Y = 125,
+      TYPE = 3
     }
   }
 }
