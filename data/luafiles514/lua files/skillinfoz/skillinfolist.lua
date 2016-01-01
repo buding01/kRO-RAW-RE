@@ -25554,11 +25554,11 @@ SKILL_INFO_LIST = {
     SkillName = "라운드 트립",
     MaxLv = 5,
     SpAmount = {
-      40,
-      45,
-      50,
-      55,
-      60
+      20,
+      25,
+      30,
+      35,
+      40
     },
     bSeperateLv = true,
     AttackRange = {
@@ -25813,10 +25813,10 @@ SKILL_INFO_LIST = {
     MaxLv = 5,
     SpAmount = {
       10,
-      15,
-      20,
-      25,
-      30
+      10,
+      10,
+      10,
+      10
     },
     bSeperateLv = true,
     AttackRange = {
@@ -25950,11 +25950,11 @@ SKILL_INFO_LIST = {
     SkillName = "해머 오브 갓",
     MaxLv = 5,
     SpAmount = {
-      70,
-      80,
-      90,
-      100,
-      110
+      35,
+      40,
+      45,
+      50,
+      55
     },
     bSeperateLv = true,
     AttackRange = {
@@ -25977,10 +25977,10 @@ SKILL_INFO_LIST = {
     MaxLv = 5,
     SpAmount = {
       30,
-      40,
-      50,
-      60,
-      70
+      30,
+      30,
+      30,
+      30
     },
     bSeperateLv = true,
     AttackRange = {

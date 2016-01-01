@@ -1152,5 +1152,9 @@ AccNameTable = {
   [ACCESSORY_IDs.ACCESSORY_Mouse_Hat2] = "_持巣乞切2",
   [ACCESSORY_IDs.ACCESSORY_Mouse_Hat3] = "_持巣乞切3",
   [ACCESSORY_IDs.ACCESSORY_Mouse_Hat4] = "_持巣乞切4",
-  [ACCESSORY_IDs.ACCESSORY_Mouse_Hat5] = "_持巣乞切5"
+  [ACCESSORY_IDs.ACCESSORY_Mouse_Hat5] = "_持巣乞切5",
+  [ACCESSORY_IDs.ACCESSORY_Cow_Hat1] = "_船社乞切1",
+  [ACCESSORY_IDs.ACCESSORY_Cow_Hat2] = "_船社乞切2",
+  [ACCESSORY_IDs.ACCESSORY_Cow_Hat3] = "_船社乞切3",
+  [ACCESSORY_IDs.ACCESSORY_Cow_Hat4] = "_船社乞切4"
 }
