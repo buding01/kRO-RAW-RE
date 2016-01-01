@@ -9772,8 +9772,8 @@ Navi_Link = {
     115,
     168,
     "itemmall",
-    0,
-    0
+    21,
+    43
   },
   {
     "geffen_in",
@@ -17429,8 +17429,8 @@ Navi_Link = {
     206,
     144,
     "itemmall",
-    0,
-    0
+    21,
+    43
   },
   {
     "lou_dun01",
@@ -22382,8 +22382,8 @@ Navi_Link = {
     115,
     143,
     "itemmall",
-    0,
-    0
+    21,
+    43
   },
   {
     "monk_in",
@@ -23136,8 +23136,8 @@ Navi_Link = {
     164,
     39,
     "itemmall",
-    0,
-    0
+    21,
+    43
   },
   {
     "morocc_in",
@@ -25762,8 +25762,8 @@ Navi_Link = {
     164,
     157,
     "itemmall",
-    0,
-    0
+    21,
+    43
   },
   {
     "payon_in01",
@@ -27309,8 +27309,8 @@ Navi_Link = {
     137,
     125,
     "itemmall",
-    0,
-    0
+    21,
+    43
   },
   {
     "prt_are_in",
@@ -33406,8 +33406,8 @@ Navi_Link = {
     128,
     144,
     "itemmall",
-    0,
-    0
+    21,
+    43
   },
   {
     "sch_gld",
