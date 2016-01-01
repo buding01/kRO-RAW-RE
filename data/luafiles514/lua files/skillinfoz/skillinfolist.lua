@@ -25081,5 +25081,13 @@ SKILL_INFO_LIST = {
     SpAmount = {0},
     bSeperateLv = false,
     AttackRange = {7}
+  },
+  [SKID.ALL_RAY_OF_PROTECTION] = {
+    "ALL_RAY_OF_PROTECTION",
+    SkillName = "¼öÈ£ÀÇ ºû ",
+    MaxLv = 1,
+    SpAmount = {0},
+    bSeperateLv = false,
+    AttackRange = {1}
   }
 }

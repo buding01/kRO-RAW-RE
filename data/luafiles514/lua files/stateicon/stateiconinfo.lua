@@ -4450,3 +4450,60 @@ StateIconList[EFST_IDs.EFST_MYSTICPOWDER] = {
     }
   }
 }
+StateIconList[EFST_IDs.EFST_ACARAJE] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
+  descript = {
+    {"아까라제", COLOR_TITLE_BUFF},
+    {"%s", COLOR_TIME},
+    {
+      "공격속도, HIT 증가"
+    }
+  }
+}
+StateIconList[EFST_IDs.EFST_M_LIFEPOTION] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
+  descript = {
+    {
+      "신묘한 생명수",
+      COLOR_TITLE_BUFF
+    },
+    {"%s", COLOR_TIME},
+    {
+      "3초당 일정량의 HP 회복"
+    },
+    {
+      "버서크 상태 중 효과 없음"
+    }
+  }
+}
+StateIconList[EFST_IDs.EFST_FLOWER_LEAF] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
+  descript = {
+    {
+      "풍성한 꽃가지",
+      COLOR_TITLE_BUFF
+    },
+    {"%s", COLOR_TIME},
+    {"Flee 증가"},
+    {
+      "완전회피 증가"
+    }
+  }
+}
+StateIconList[EFST_IDs.EFST_RAY_OF_PROTECTION] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
+  descript = {
+    {"수호의 빛", COLOR_TITLE_BUFF},
+    {"%s", COLOR_TIME},
+    {
+      "특정 상태이상 해제"
+    },
+    {
+      "특정 상태이상 면역"
+    }
+  }
+}
