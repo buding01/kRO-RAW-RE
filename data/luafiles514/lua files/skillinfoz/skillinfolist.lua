@@ -13050,10 +13050,10 @@ SKILL_INFO_LIST = {
     MaxLv = 5,
     SpAmount = {
       40,
+      42,
       44,
       46,
-      48,
-      50
+      48
     },
     bSeperateLv = true,
     AttackRange = {
