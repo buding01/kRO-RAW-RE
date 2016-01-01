@@ -2872,5 +2872,12 @@ JobNameTable = {
   [jobtbl.JT_MM_MOROCC_KID] = "MM_MOROCC_KID",
   [jobtbl.JT_MM_MOROCC_ADT] = "MM_MOROCC_ADT",
   [jobtbl.JT_MM_MOROCC_ORIGIN] = "MOROCC",
-  [jobtbl.JT_MM_MOROCC_REST] = "MOROCC"
+  [jobtbl.JT_MM_MOROCC_REST] = "MOROCC",
+  [jobtbl.JT_MM_MANA_BLACK] = "MM_MANA_K",
+  [jobtbl.JT_MM_MANA_WHITE] = "MM_MANA_W",
+  [jobtbl.JT_MM_MANA_RED] = "MM_MANA_R",
+  [jobtbl.JT_MM_MANA_YELLOW] = "MM_MANA_Y",
+  [jobtbl.JT_MM_MANA_BLUE] = "MM_MANA_B",
+  [jobtbl.JT_MM_GB_MOROCC_1] = "MOROCC_1",
+  [jobtbl.JT_MM_GB_MOROCC_4] = "MOROCC_4"
 }

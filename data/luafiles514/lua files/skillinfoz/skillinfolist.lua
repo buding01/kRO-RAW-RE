@@ -25295,11 +25295,11 @@ SKILL_INFO_LIST = {
     SkillName = "¼¶±¤¿¬°Ý(àìÎÃææÌª)",
     MaxLv = 5,
     SpAmount = {
-      75,
       65,
-      55,
-      45,
-      35
+      65,
+      65,
+      65,
+      65
     },
     bSeperateLv = true,
     AttackRange = {

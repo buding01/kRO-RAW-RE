@@ -4960,7 +4960,7 @@ StateIconList[EFST_IDs.EFST_FRIGG_SONG] = {
     },
     {"MHP 증가"},
     {
-      "10초당 일정량의 HP 회복"
+      "1초당 일정량의 HP 회복"
     },
     {"%s", COLOR_TIME}
   }
@@ -4984,7 +4984,7 @@ StateIconList[EFST_IDs.EFST_OFFERTORIUM] = {
 }
 StateIconList[EFST_IDs.EFST_TELEKINESIS_INTENSE] = {
   haveTimeLimit = 1,
-  posTimeLimitStr = 4,
+  posTimeLimitStr = 5,
   descript = {
     {
       "텔레키네시스 인텐스",
@@ -4995,6 +4995,9 @@ StateIconList[EFST_IDs.EFST_TELEKINESIS_INTENSE] = {
     },
     {
       "염속성 마법의 소모SP 감소"
+    },
+    {
+      "변동 캐스팅 감소"
     },
     {"%s", COLOR_TIME}
   }
@@ -5029,11 +5032,14 @@ StateIconList[EFST_IDs.EFST_REBOUND] = {
 }
 StateIconList[EFST_IDs.EFST_UNLIMIT] = {
   haveTimeLimit = 1,
-  posTimeLimitStr = 3,
+  posTimeLimitStr = 4,
   descript = {
     {"언리밋", COLOR_TITLE_BUFF},
     {
       "원거리 물리공격력 상승"
+    },
+    {
+      "DEF, MDEF 대폭 감소"
     },
     {"%s", COLOR_TIME}
   }
@@ -5055,7 +5061,7 @@ StateIconList[EFST_IDs.EFST_KINGS_GRACE] = {
 }
 StateIconList[EFST_IDs.EFST_DARKCROW] = {
   haveTimeLimit = 1,
-  posTimeLimitStr = 2,
+  posTimeLimitStr = 3,
   descript = {
     {"검은 손톱", COLOR_TITLE_DEBUFF},
     {
