@@ -1354,5 +1354,7 @@ AccNameTable = {
   [ACCESSORY_IDs.ACCESSORY_Loose_Wave_Twin_OM] = "_루즈웨이브트윈_연갈색",
   [ACCESSORY_IDs.ACCESSORY_Loose_Wave_Twin_BU] = "_루즈웨이브트윈_파랑",
   [ACCESSORY_IDs.ACCESSORY_Loose_Wave_Twin_WH] = "_루즈웨이브트윈_흰색",
-  [ACCESSORY_IDs.ACCESSORY_Piamette_Ribon] = "_피아멧트의리본"
+  [ACCESSORY_IDs.ACCESSORY_Piamette_Ribon] = "_피아멧트의리본",
+  [ACCESSORY_IDs.ACCESSORY_Little_Aquarium] = "_리틀아쿠아리움",
+  [ACCESSORY_IDs.ACCESSORY_C_Angel_Fluttering] = "_C흩날리는천사의날개"
 }
