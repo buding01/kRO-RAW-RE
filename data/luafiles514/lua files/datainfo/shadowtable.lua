@@ -1,4 +1,9 @@
 ShadowFactorTable = {
+  [jobtbl.JT_FACEWORM_QUEEN_Y] = 2,
+  [jobtbl.JT_FACEWORM_QUEEN_B] = 2,
+  [jobtbl.JT_FACEWORM_QUEEN_G] = 2,
+  [jobtbl.JT_FACEWORM_QUEEN_R] = 2,
+  [jobtbl.JT_FACEWORM_QUEEN] = 2,
   [jobtbl.JT_MG_AMDARAIS] = 2,
   [jobtbl.JT_MG_CORRUPTION_ROOT] = 2,
   [JTtbl.JT_CHICKEN] = 1.5,
