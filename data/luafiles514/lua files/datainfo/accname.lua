@@ -1158,5 +1158,9 @@ AccNameTable = {
   [ACCESSORY_IDs.ACCESSORY_Cow_Hat3] = "_젖소모자3",
   [ACCESSORY_IDs.ACCESSORY_Cow_Hat4] = "_젖소모자4",
   [ACCESSORY_IDs.ACCESSORY_Yellow_Brain_Hat] = "_옐로우브레인햇",
-  [ACCESSORY_IDs.ACCESSORY_Blue_Brain_Hat] = "_블루브레인햇"
+  [ACCESSORY_IDs.ACCESSORY_Blue_Brain_Hat] = "_블루브레인햇",
+  [ACCESSORY_IDs.ACCESSORY_DragonCintamani_Hat1] = "_여의주를품은용모자1",
+  [ACCESSORY_IDs.ACCESSORY_DragonCintamani_Hat2] = "_여의주를품은용모자2",
+  [ACCESSORY_IDs.ACCESSORY_DragonCintamani_Hat3] = "_여의주를품은용모자3",
+  [ACCESSORY_IDs.ACCESSORY_DragonCintamani_Hat4] = "_여의주를품은용모자4"
 }

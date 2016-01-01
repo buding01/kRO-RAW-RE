@@ -1162,5 +1162,9 @@ ACCESSORY_IDs = {
   ACCESSORY_Cow_Hat3 = 1213,
   ACCESSORY_Cow_Hat4 = 1214,
   ACCESSORY_Yellow_Brain_Hat = 1228,
-  ACCESSORY_Blue_Brain_Hat = 1229
+  ACCESSORY_Blue_Brain_Hat = 1229,
+  ACCESSORY_DragonCintamani_Hat1 = 1245,
+  ACCESSORY_DragonCintamani_Hat2 = 1246,
+  ACCESSORY_DragonCintamani_Hat3 = 1247,
+  ACCESSORY_DragonCintamani_Hat4 = 1248
 }
