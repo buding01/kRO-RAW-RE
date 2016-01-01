@@ -1333,5 +1333,6 @@ ACCESSORY_IDs = {
   ACCESSORY_C_Hill_Wind_Mask = 1342,
   ACCESSORY_C_Beelzebub_Crown = 1343,
   ACCESSORY_Analyze_Eye = 1351,
-  ACCESSORY_FlyingGalapago = 1358
+  ACCESSORY_FlyingGalapago = 1358,
+  ACCESSORY_Piamette_Ribon = 1403
 }

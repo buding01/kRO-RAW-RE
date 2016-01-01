@@ -26112,5 +26112,13 @@ SKILL_INFO_LIST = {
     SpAmount = {0, 0},
     bSeperateLv = false,
     AttackRange = {1, 1}
+  },
+  [SKID.MC_CARTDECORATE] = {
+    "MC_CARTDECORATE",
+    SkillName = "체인지 카트 2",
+    MaxLv = 1,
+    SpAmount = {40},
+    bSeperateLv = false,
+    AttackRange = {1}
   }
 }
