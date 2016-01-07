@@ -65,7 +65,7 @@ hatEffectTable = {
   [HatEFID.HAT_EF_DEMONSTRATION] = {hatEffectID = 302},
   [HatEFID.HAT_EF_Flutter_Butterfly] = {
     resourceFileName = "efst_Flutter_Butterfly\\Flutter_Butterfly.str",
-    hatEffectPos = 0
+    hatEffectPos = -8
   },
   [HatEFID.HAT_EF_Angel_Fluttering] = {
     resourceFileName = "efst_Angel_Fluttering\\Angel_Fluttering.str",
