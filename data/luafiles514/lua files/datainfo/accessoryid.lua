@@ -1415,5 +1415,6 @@ ACCESSORY_IDs = {
   ACCESSORY_Valhalla_Idol = 1423,
   ACCESSORY_Blessing_Of_Angels = 1425,
   ACCESSORY_Louise_Red_Hat = 1443,
-  ACCESSORY_GrimReaper_Protection = 1450
+  ACCESSORY_GrimReaper_Protection = 1450,
+  ACCESSORY_Youinone_Mask = 1462
 }
