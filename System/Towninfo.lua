@@ -89,6 +89,12 @@ mapNPCInfoTable = {
       X = 107,
       Y = 218,
       TYPE = 5
+    },
+    {
+      name = "스타일링샵",
+      X = 76,
+      Y = 93,
+      TYPE = 7
     }
   },
   prt_fild05 = {
@@ -485,6 +491,12 @@ mapNPCInfoTable = {
       X = 65,
       Y = 233,
       TYPE = 5
+    },
+    {
+      name = "스타일링샵",
+      X = 47,
+      Y = 145,
+      TYPE = 7
     }
   },
   yuno = {
@@ -529,6 +541,12 @@ mapNPCInfoTable = {
       X = 120,
       Y = 138,
       TYPE = 3
+    },
+    {
+      name = "스타일링샵",
+      X = 196,
+      Y = 87,
+      TYPE = 7
     }
   },
   comodo = {
@@ -799,6 +817,12 @@ mapNPCInfoTable = {
       X = 115,
       Y = 149,
       TYPE = 5
+    },
+    {
+      name = "스타일링샵",
+      X = 90,
+      Y = 189,
+      TYPE = 7
     }
   },
   veins = {
@@ -1185,6 +1209,12 @@ mapNPCInfoTable = {
       X = 59,
       Y = 69,
       TYPE = 6
+    },
+    {
+      name = "도구점",
+      X = 87,
+      Y = 65,
+      TYPE = 0
     }
   },
   mjolnir_02 = {
@@ -1469,6 +1499,46 @@ mapNPCInfoTable = {
       X = 162,
       Y = 125,
       TYPE = 3
+    }
+  },
+  lasagna = {
+    {
+      name = "편의서비스",
+      X = 208,
+      Y = 188,
+      TYPE = 6
+    },
+    {
+      name = "도구점",
+      X = 165,
+      Y = 125,
+      TYPE = 0
+    },
+    {
+      name = "안내원",
+      X = 176,
+      Y = 160,
+      TYPE = 4
+    },
+    {
+      name = "스타일링샵",
+      X = 134,
+      Y = 113,
+      TYPE = 7
+    }
+  },
+  cmd_fild07 = {
+    {
+      name = "상점",
+      X = 257,
+      Y = 126,
+      TYPE = 0
+    },
+    {
+      name = "방어구점",
+      X = 277,
+      Y = 85,
+      TYPE = 2
     }
   }
 }
