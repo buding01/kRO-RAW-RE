@@ -27434,10 +27434,10 @@ SKILL_INFO_LIST = {
     MaxLv = 5,
     SpAmount = {
       10,
-      19,
-      28,
-      37,
-      46
+      12,
+      14,
+      16,
+      18
     },
     bSeperateLv = true,
     AttackRange = {
@@ -27460,10 +27460,10 @@ SKILL_INFO_LIST = {
     MaxLv = 5,
     SpAmount = {
       12,
-      20,
-      28,
-      36,
-      44
+      14,
+      16,
+      18,
+      20
     },
     bSeperateLv = true,
     AttackRange = {
@@ -27486,10 +27486,10 @@ SKILL_INFO_LIST = {
     MaxLv = 5,
     SpAmount = {
       10,
+      12,
       14,
-      18,
-      22,
-      26
+      16,
+      18
     },
     bSeperateLv = true,
     AttackRange = {
@@ -27512,10 +27512,10 @@ SKILL_INFO_LIST = {
     MaxLv = 5,
     SpAmount = {
       15,
+      20,
       25,
-      35,
-      45,
-      55
+      30,
+      35
     },
     bSeperateLv = true,
     AttackRange = {
