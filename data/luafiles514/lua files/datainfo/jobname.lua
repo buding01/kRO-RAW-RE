@@ -3426,5 +3426,6 @@ JobNameTable = {
   [jobtbl.JT_4_INJUSTICE] = "4_injustice",
   [jobtbl.JT_4_BLOODYMAN] = "4_bloodyman",
   [jobtbl.JT_4_GIBBET] = "4_gibbet",
-  [jobtbl.JT_4_DULLAHAN] = "4_dullahan"
+  [jobtbl.JT_4_DULLAHAN] = "4_dullahan",
+  [jobtbl.JT_MYSTCASE_GIANT] = "MYSTCASE"
 }
