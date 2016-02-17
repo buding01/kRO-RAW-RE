@@ -7861,6 +7861,17 @@ SKILL_INFO_LIST = {
       [5] = {x = 29, y = 29}
     }
   },
+  [SKID.NPC_PULSESTRIKE2] = {
+    "NPC_PULSESTRIKE2",
+    SkillName = "펄스 스트라이크",
+    MaxLv = 1,
+    SpAmount = {0},
+    bSeperateLv = false,
+    AttackRange = {1},
+    SkillScale = {
+      [1] = {x = 11, y = 11}
+    }
+  },
   [SKID.NPC_PULSESTRIKE] = {
     "NPC_PULSESTRIKE",
     SkillName = "펄스 스트라이크",
@@ -26480,6 +26491,13 @@ SKILL_INFO_LIST = {
       1,
       1,
       1
+    },
+    SkillScale = {
+      [1] = {x = 5, y = 5},
+      [2] = {x = 5, y = 5},
+      [3] = {x = 5, y = 5},
+      [4] = {x = 5, y = 5},
+      [5] = {x = 5, y = 5}
     }
   },
   [SKID.NPC_LEX_AETERNA] = {
@@ -26500,6 +26518,13 @@ SKILL_INFO_LIST = {
       1,
       1,
       1
+    },
+    SkillScale = {
+      [1] = {x = 5, y = 5},
+      [2] = {x = 11, y = 11},
+      [3] = {x = 17, y = 17},
+      [4] = {x = 23, y = 23},
+      [5] = {x = 29, y = 29}
     }
   },
   [SKID.RL_D_TAIL] = {
