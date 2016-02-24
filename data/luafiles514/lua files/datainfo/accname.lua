@@ -1413,5 +1413,7 @@ AccNameTable = {
   [ACCESSORY_IDs.ACCESSORY_Louise_Red_Hat] = "_루이제빨간모자",
   [ACCESSORY_IDs.ACCESSORY_Valhalla_Idol] = "_발할라아이돌",
   [ACCESSORY_IDs.ACCESSORY_Youinone_Mask] = "_유인원마스크",
-  [ACCESSORY_IDs.ACCESSORY_SweetChocolate_Hat] = "_달콤한초콜릿모자"
+  [ACCESSORY_IDs.ACCESSORY_SweetChocolate_Hat] = "_달콤한초콜릿모자",
+  [ACCESSORY_IDs.ACCESSORY_Republic_Hat] = "_공화국의모자",
+  [ACCESSORY_IDs.ACCESSORY_C_Combat_Vestige] = "_C전투의흔적"
 }

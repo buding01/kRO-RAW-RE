@@ -1417,5 +1417,7 @@ ACCESSORY_IDs = {
   ACCESSORY_Louise_Red_Hat = 1443,
   ACCESSORY_GrimReaper_Protection = 1450,
   ACCESSORY_Youinone_Mask = 1462,
-  ACCESSORY_SweetChocolate_Hat = 1469
+  ACCESSORY_SweetChocolate_Hat = 1469,
+  ACCESSORY_Republic_Hat = 1458,
+  ACCESSORY_C_Combat_Vestige = 1460
 }

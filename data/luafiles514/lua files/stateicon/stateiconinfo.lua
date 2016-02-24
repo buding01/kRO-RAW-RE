@@ -6848,3 +6848,32 @@ StateIconList[EFST_IDs.EFST_SU_STOOP] = {
     }
   }
 }
+StateIconList[EFST_IDs.EFST_EP16_2_BUFF_SS] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
+  descript = {
+    {"강화포션SS", COLOR_TITLE_BUFF},
+    {"%s", COLOR_TIME},
+    {"ASPD +10"}
+  }
+}
+StateIconList[EFST_IDs.EFST_EP16_2_BUFF_SC] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
+  descript = {
+    {"강화포션SC", COLOR_TITLE_BUFF},
+    {"%s", COLOR_TIME},
+    {"CRI +30"}
+  }
+}
+StateIconList[EFST_IDs.EFST_EP16_2_BUFF_AC] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
+  descript = {
+    {"강화포션AC", COLOR_TITLE_BUFF},
+    {"%s", COLOR_TIME},
+    {
+      "변동 캐스팅 80% 감소"
+    }
+  }
+}
