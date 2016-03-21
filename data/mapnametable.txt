@@ -1,6 +1,16 @@
+iz_int.rsw#인트로#
+iz_int01.rsw#인트로#
+iz_int02.rsw#인트로#
+iz_int03.rsw#인트로#
+iz_int04.rsw#인트로#
+iz_ac01.rsw#아카데미1층#
+iz_ac02.rsw#아카데미2층#
+iz_ng01.rsw#닌자튜토리얼맵#
+treasure_n1.rsw#알베르타 침몰선 1층#
+treasure_n2.rsw#알베르타 침몰선 2층#
+
 moc_prydn1.rsw#모로크 피라미드 지하 1층 - 나이트#
 moc_prydn2.rsw#모로크 피라미드 지하 2층 - 나이트#
-
 
 eclage.rsw#라피네 수도 에클라쥬#
 ecl_fild01.rsw#꽃이 피어난 대지#
@@ -13,7 +23,7 @@ ecl_tdun01.rsw#비프로스트 탑 1층#
 ecl_tdun02.rsw#비프로스트 탑 2층#
 ecl_tdun03.rsw#비프로스트 탑 3층#
 ecl_tdun04.rsw#비프로스트 탑 4층#
-elc_hub01.rsw#에클라쥬 둘레길#
+ecl_hub01.rsw#에클라쥬 둘레길#
 que_avan01.rsw#에이반트 연구실#
 
 
