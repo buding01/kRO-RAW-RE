@@ -1,4 +1,4 @@
-//-최종갱신 오전 11:53 2016-01-12 사크라이
+//-최종갱신 오전 11:05 2016-02-23 사크라이
 //맵이름.rsw#bgm\\음악번호#
 
 //--- 통상판 마을음악
@@ -32,6 +32,13 @@ hu_in01.rsw#bgm\\93.mp3#
 //prt_church.rsw#bgm\\56.mp3#
 //evt_xmas.rsw#bgm\\58.mp3#
 //evt_mobroom.rsw#bgm\\18.mp3#
+
+// ep16.2
+1@slw.rsw#bgm\\124.mp3#
+1@swat.rsw#bgm\\87.mp3#
+que_swat.rsw#bgm\\87.mp3#
+slabw01.rsw#bgm\\87.mp3#
+rebel_in.rsw#bgm\\86.mp3#
 
 // 교황 메모리얼 낮에나온 반달
 1@pop1.rsw#bgm\\95.mp3#
