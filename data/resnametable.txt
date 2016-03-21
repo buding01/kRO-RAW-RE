@@ -1,3 +1,16 @@
+//14.3 2차
+1@eom.gnd#1@eom.gnd#
+1@eom.gat#1@eom.gat#
+1@eom.rsw#1@eom.rsw#
+유저인터페이스\map\1@eom.bmp#유저인터페이스\map\1@eom.bmp#
+
+1@jtb.gnd#1@jtb.gnd#
+1@jtb.gat#1@jtb.gat#
+1@jtb.rsw#1@jtb.rsw#
+유저인터페이스\map\1@jtb.bmp#유저인터페이스\map\1@jtb.bmp#
+
+
+
 //설날이벤트
 
 silk_lair.gnd#1@cash.gnd#

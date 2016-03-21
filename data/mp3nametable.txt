@@ -1,8 +1,5 @@
-//-최종갱신 오후 7:27 2013-01-27
+//-최종갱신 오후 1:33 2013-03-05
 //맵이름.rsw#bgm\\음악번호#
-
-c_tower2_.rsw#bgm\\60.mp3#
-c_tower3_.rsw#bgm\\60.mp3#
 
 //--- 통상판 마을음악
 prt_church.rsw#bgm\\10.mp3#
@@ -38,6 +35,10 @@ hu_in01.rsw#bgm\\93.mp3#
 
 // 설날 이벤트 비단뱀의 은신처 //
 silk_lair.rsw#bgm\\146.mp3#
+
+//14.3 2차//
+1@jtb.rsw#bgm\\160.mp3#
+1@eom.rsw#bgm\\156.mp3#
 
 // 에피소드 14.3 //
 1@dth1.rsw#bgm\\157.mp3#
