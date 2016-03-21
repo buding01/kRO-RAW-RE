@@ -2,9 +2,7 @@
 
 //영웅의흔적
 1@face.rsw#bgm\\36.mp3#
-1@sara.rsw#bgm\\14.mp3#
-1@gef.rsw#bgm\\13.mp3#
-1@gef_in.rsw#bgm\\13.mp3#
+1@sara.rsw#bgm\\37.mp3#
 dali.rsw#bgm\\60.mp3#
 
 //몬스터웨이브

@@ -9,16 +9,6 @@
 1@sara.rsw#1@sara.rsw#
 유저인터페이스\map\1@sara.bmp#유저인터페이스\map\1@sara.bmp#
 
-1@gef.gnd#1@gef.gnd#
-1@gef.gat#1@gef.gat#
-1@gef.rsw#1@gef.rsw#
-유저인터페이스\map\1@gef.bmp#유저인터페이스\map\1@gef.bmp#
-
-1@gef_in.gnd#1@gef_in.gnd#
-1@gef_in.gat#1@gef_in.gat#
-1@gef_in.rsw#1@gef_in.rsw#
-유저인터페이스\map\1@gef_in.bmp#유저인터페이스\map\1@gef_in.bmp#
-
 
 
 //몬스터웨이브
