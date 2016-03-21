@@ -1,4 +1,4 @@
-//-최종갱신 오전 10:43 2013-12-30 사크라이
+//-최종갱신 오전 10:27 2014-02-25 사크라이
 //맵이름.rsw#bgm\\음악번호#
 
 //--- 통상판 마을음악
@@ -32,6 +32,9 @@ hu_in01.rsw#bgm\\93.mp3#
 //prt_church.rsw#bgm\\56.mp3#
 //evt_xmas.rsw#bgm\\58.mp3#
 //evt_mobroom.rsw#bgm\\18.mp3#
+
+// 파라마켓
+paramk.rsw#bgm\\143.mp3#
 
 // ep15.2 판타스마고리카
 verus01.rsw#bgm\\161.mp3#

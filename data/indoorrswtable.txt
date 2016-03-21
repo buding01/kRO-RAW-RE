@@ -5,10 +5,6 @@ un_bunker.rsw#
 un_bk_q.rsw#
 un_myst.rsw#
 
-//파라마켓 전용 맵
-
-paramk.rsw#
-
 //북미요청 복사맵 
 
 prt_cas_evt.rsw#
