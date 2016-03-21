@@ -1,5 +1,18 @@
 //-- 최종갱신 오후 5:29 2015-01-30 사크라이
 
+//인트로 개편
+iz_int.rsw#좌초된 여객선#
+iz_int01.rsw#좌초된 여객선#
+iz_int02.rsw#좌초된 여객선#
+iz_int03.rsw#좌초된 여객선#
+iz_int04.rsw#좌초된 여객선#
+
+int_land.rsw#외딴섬#
+int_land01.rsw#외딴섬#
+int_land02.rsw#외딴섬#
+int_land03.rsw#외딴섬#
+int_land04.rsw#외딴섬#
+
 // ep16.1 영웅을 위한 연회 + 프론테라 리뉴얼
 1@mir.rsw#의식의 방#
 2@mir.rsw#의식의 방#
@@ -139,11 +152,11 @@ izlude_b.rsw#위성도시 이즈루드#
 izlude_a.rsw#위성도시 이즈루드#
 
 //이즈루드리뉴얼
-iz_int.rsw#인트로#
-iz_int01.rsw#인트로#
-iz_int02.rsw#인트로#
-iz_int03.rsw#인트로#
-iz_int04.rsw#인트로#
+//iz_int.rsw#인트로#
+//iz_int01.rsw#인트로#
+//iz_int02.rsw#인트로#
+//iz_int03.rsw#인트로#
+//iz_int04.rsw#인트로#
 iz_ac01.rsw#아카데미1층#
 iz_ac02.rsw#아카데미2층#
 iz_ng01.rsw#닌자튜토리얼맵#

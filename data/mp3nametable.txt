@@ -1,4 +1,4 @@
-//-최종갱신 오후 2:22 2015-06-02 사크라이
+//-최종갱신 오후 4:32 2015-09-09 사크라이
 //맵이름.rsw#bgm\\음악번호#
 
 //--- 통상판 마을음악
@@ -32,6 +32,19 @@ hu_in01.rsw#bgm\\93.mp3#
 //prt_church.rsw#bgm\\56.mp3#
 //evt_xmas.rsw#bgm\\58.mp3#
 //evt_mobroom.rsw#bgm\\18.mp3#
+
+//인트로 개편
+iz_int.rsw#bgm\\88.mp3#
+iz_int01.rsw#bgm\\88.mp3#
+iz_int02.rsw#bgm\\88.mp3#
+iz_int03.rsw#bgm\\88.mp3#
+iz_int04.rsw#bgm\\88.mp3#
+
+int_land.rsw#bgm\\64.mp3#
+int_land01.rsw#bgm\\64.mp3#
+int_land02.rsw#bgm\\64.mp3#
+int_land03.rsw#bgm\\64.mp3#
+int_land04.rsw#bgm\\64.mp3#
 
 // ep16.1 영웅을 위한 연회 + 프론테라 리뉴얼
 1@mir.rsw#bgm\\166.mp3#
@@ -167,11 +180,11 @@ iz_ac01_a.rsw#bgm\\26.mp3#
 iz_ac02_a.rsw#bgm\\26.mp3#
 
 //이즈루드리뉴얼
-iz_int.rsw#bgm\\26.mp3#
-iz_int01.rsw#bgm\\26.mp3#
-iz_int02.rsw#bgm\\26.mp3#
-iz_int03.rsw#bgm\\26.mp3#
-iz_int04.rsw#bgm\\26.mp3#
+//iz_int.rsw#bgm\\26.mp3#
+//iz_int01.rsw#bgm\\26.mp3#
+//iz_int02.rsw#bgm\\26.mp3#
+//iz_int03.rsw#bgm\\26.mp3#
+//iz_int04.rsw#bgm\\26.mp3#
 iz_ac01.rsw#bgm\\26.mp3#
 iz_ac02.rsw#bgm\\26.mp3#
 iz_ng01.rsw#bgm\\26.mp3#
