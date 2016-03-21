@@ -1,9 +1,10 @@
-//옛글래스트헤임 메모리얼 맵복사 
+//EP.15 
 1@mcd.gnd#1@mcd.gnd#
 1@mcd.gat#1@mcd.gat#
 1@mcd.rsw#1@mcd.rsw#
 유저인터페이스\map\1@mcd.bmp#유저인터페이스\map\1@mcd.bmp#
 
+//옛글래스트헤임 메모리얼 맵복사
 1@gl_kh.gnd#1@gl_k.gnd#
 1@gl_kh.gat#1@gl_k.gat#
 1@gl_kh.rsw#1@gl_k.rsw#
@@ -22,40 +23,40 @@ prt_evt.gat#prontera.gat#
 prt_evt.rsw#prontera.rsw#
 유저인터페이스\map\prt_evt.bmp#유저인터페이스\map\prontera.bmp#
 
-prt_castle_evt.gnd#prt_castle.gnd#
-prt_castle_evt.gat#prt_castle.gat#
-prt_castle_evt.rsw#prt_castle.rsw#
-유저인터페이스\map\prt_castle_evt.bmp#유저인터페이스\map\prt_castle.bmp#
+prt_cas_evt.gnd#prt_castle.gnd#
+prt_cas_evt.gat#prt_castle.gat#
+prt_cas_evt.rsw#prt_castle.rsw#
+유저인터페이스\map\prt_cas_evt.bmp#유저인터페이스\map\prt_castle.bmp#
 
 prt_in_evt.gnd#prt_in.gnd#
 prt_in_evt.gat#prt_in.gat#
 prt_in_evt.rsw#prt_in.rsw#
 유저인터페이스\map\prt_in_evt.bmp#유저인터페이스\map\prt_in.bmp#
 
-prt_church_evt.gnd#prt_church.gnd#
-prt_church_evt.gat#prt_church.gat#
-prt_church_evt.rsw#prt_church.rsw#
-유저인터페이스\map\prt_church_evt.bmp#유저인터페이스\map\prt_church.bmp#
+prt_ch_evt.gnd#prt_church.gnd#
+prt_ch_evt.gat#prt_church.gat#
+prt_ch_evt.rsw#prt_church.rsw#
+유저인터페이스\map\prt_ch_evt.bmp#유저인터페이스\map\prt_church.bmp#
 
-lhz_cube_evt.gnd#lhz_cube.gnd#
-lhz_cube_evt.gat#lhz_cube.gat#
-lhz_cube_evt.rsw#lhz_cube.rsw#
-유저인터페이스\map\lhz_cube_evt.bmp#유저인터페이스\map\lhz_cube.bmp#
+lhz_cu_evt.gnd#lhz_cube.gnd#
+lhz_cu_evt.gat#lhz_cube.gat#
+lhz_cu_evt.rsw#lhz_cube.rsw#
+유저인터페이스\map\lhz_cu_evt.bmp#유저인터페이스\map\lhz_cube.bmp#
 
-pay_dun00_evt.gnd#pay_dun00.gnd#
-pay_dun00_evt.gat#pay_dun00.gat#
-pay_dun00_evt.rsw#pay_dun00.rsw#
-유저인터페이스\map\pay_dun00_evt.bmp#유저인터페이스\map\pay_dun00.bmp#
+pay_d00_evt.gnd#pay_dun00.gnd#
+pay_d00_evt.gat#pay_dun00.gat#
+pay_d00_evt.rsw#pay_dun00.rsw#
+유저인터페이스\map\pay_d00_evt.bmp#유저인터페이스\map\pay_dun00.bmp#
 
-iz_dun03_evt.gnd#iz_dun03.gnd#
-iz_dun03_evt.gat#iz_dun03.gat#
-iz_dun03_evt.rsw#iz_dun03.rsw#
-유저인터페이스\map\iz_dun03_evt.bmp#유저인터페이스\map\iz_dun03.bmp#
+iz_d03_evt.gnd#iz_dun03.gnd#
+iz_d03_evt.gat#iz_dun03.gat#
+iz_d03_evt.rsw#iz_dun03.rsw#
+유저인터페이스\map\iz_d03_evt.bmp#유저인터페이스\map\iz_dun03.bmp#
 
-gl_church_evt.gnd#gl_church.gnd#
-gl_church_evt.gat#gl_church.gat#
-gl_church_evt.rsw#gl_church.rsw#
-유저인터페이스\map\gl_church_evt.bmp#유저인터페이스\map\gl_church.bmp#
+gl_ch_evt.gnd#gl_church.gnd#
+gl_ch_evt.gat#gl_church.gat#
+gl_ch_evt.rsw#gl_church.rsw#
+유저인터페이스\map\gl_ch_evt.bmp#유저인터페이스\map\gl_church.bmp#
 
 new_1-1_evt.gnd#new_1-1.gnd#
 new_1-1_evt.gat#new_1-1.gat#
@@ -67,10 +68,10 @@ new_1-2_evt.gat#new_1-2.gat#
 new_1-2_evt.rsw#new_1-2.rsw#
 유저인터페이스\map\new_1-2_evt.bmp#유저인터페이스\map\new_1-2.bmp#
 
-airplane_evt.gnd#airplane.gnd#
-airplane_evt.gat#airplane.gat#
-airplane_evt.rsw#airplane.rsw#
-유저인터페이스\map\airplane_evt.bmp#유저인터페이스\map\airplane.bmp#
+air_evt.gnd#airplane.gnd#
+air_evt.gat#airplane.gat#
+air_evt.rsw#airplane.rsw#
+유저인터페이스\map\air_evt.bmp#유저인터페이스\map\airplane.bmp#
 
 
 //이벤트맵(휴겔복사)
