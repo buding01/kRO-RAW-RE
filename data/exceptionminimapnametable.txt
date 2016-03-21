@@ -67,6 +67,10 @@ in_moc_16#
 iz_ac01#
 iz_ac02#
 iz_int#
+iz_int01#
+iz_int02#
+iz_int03#
+iz_int04#
 iz_in01#
 iz_in02#
 iz_in03#
