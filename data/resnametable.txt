@@ -1,3 +1,26 @@
+//EP.14.3
+
+1@rev.gnd#1@rev.gnd#
+1@rev.gat#1@rev.gat#
+1@rev.rsw#1@rev.rsw#
+유저인터페이스\map\1@rev.bmp#유저인터페이스\map\1@rev.bmp#
+
+1@dth3.gnd#1@dth3.gnd#
+1@dth3.gat#1@dth3.gat#
+1@dth3.rsw#1@dth3.rsw#
+유저인터페이스\map\1@dth3.bmp#유저인터페이스\map\1@dth3.bmp#
+
+1@dth2.gnd#1@dth2.gnd#
+1@dth2.gat#1@dth2.gat#
+1@dth2.rsw#1@dth2.rsw#
+유저인터페이스\map\1@dth2.bmp#유저인터페이스\map\1@dth2.bmp#
+
+1@dth1.gnd#1@dth1.gnd#
+1@dth1.gat#1@dth1.gat#
+1@dth1.rsw#1@dth1.rsw#
+유저인터페이스\map\1@dth1.bmp#유저인터페이스\map\1@dth1.bmp#
+
+
 //호러 장난감 공장
 1@xm_d.gnd#1@xm_d.gnd#
 1@xm_d.gat#1@xm_d.gat#
