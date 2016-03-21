@@ -1,6 +1,9 @@
 //-최종갱신 오후 7:27 2013-01-27
 //맵이름.rsw#bgm\\음악번호#
 
+c_tower2_.rsw#bgm\\60.mp3#
+c_tower3_.rsw#bgm\\60.mp3#
+
 //--- 통상판 마을음악
 prt_church.rsw#bgm\\10.mp3#
 izlude.rsw#bgm\\26.mp3#
