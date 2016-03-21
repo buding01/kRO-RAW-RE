@@ -1,5 +1,9 @@
 //맵이름.rsw#bgm\\음악번호#
 
+//호러장난감공장
+1@xm_d.rsw#bgm\\58.mp3#
+
+
 //영웅의흔적
 dali02.rsw#bgm\\60.mp3#
 1@face.rsw#bgm\\36.mp3#

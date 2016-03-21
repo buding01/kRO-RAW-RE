@@ -1,3 +1,10 @@
+//호러 장난감 공장
+1@xm_d.gnd#1@xm_d.gnd#
+1@xm_d.gat#1@xm_d.gat#
+1@xm_d.rsw#1@xm_d.rsw#
+유저인터페이스\map\1@xm_d.bmp#유저인터페이스\map\1@xm_d.bmp#
+
+
 //영웅의흔적
 dali02.gnd#dali.gnd#
 dali02.gat#dali.gat#
