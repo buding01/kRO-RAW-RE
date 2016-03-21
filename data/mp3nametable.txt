@@ -1,9 +1,17 @@
 //¸ÊÀÌ¸§.rsw#bgm\\À½¾Ç¹øÈ£#
 
 //¿µ¿õÀÇÈçÀû
+dali02.rsw#bgm\\60.mp3#
 1@face.rsw#bgm\\36.mp3#
 1@sara.rsw#bgm\\37.mp3#
 dali.rsw#bgm\\60.mp3#
+1@tnm1.rsw#bgm\\102.mp3#
+1@tnm2.rsw#bgm\\113.mp3#
+1@tnm3.rsw#bgm\\112.mp3#
+1@ge_st.rsw#bgm\\103.mp3#
+1@gef.rsw#bgm\\13.mp3#
+1@gef_in.rsw#bgm\\13.mp3#
+1@spa.rsw#bgm\\117.mp3#
 
 //¸ó½ºÅÍ¿şÀÌºê
 1@def01.rsw#bgm\\19.mp3# 

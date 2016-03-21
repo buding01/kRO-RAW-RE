@@ -1,9 +1,15 @@
 //영웅의흔적
-
+dali02.rsw#차원의 균열#
 1@face.rsw#페이스웜의 둥지#
 1@sara.rsw#사라의 기억#
 dali.rsw#차원의 균열#
-
+1@tnm1.rsw#마신의탑상층#
+1@tnm2.rsw#마신의탑최상층#
+1@tnm3.rsw#모로크성지하#
+1@ge_st.rsw#게펜 마법 대회#
+1@gef.rsw#게펜 마법 대회#
+1@gef_in.rsw#게펜 마법 대회#
+1@spa.rsw#망령의 왕궁#
 
 //몬스터웨이브
 1@def01.rsw#웨이브 던전 - 숲#
