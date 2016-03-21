@@ -1,3 +1,7 @@
+moc_prydn1.rsw#모로크 피라미드 지하 1층 - 나이트#
+moc_prydn2.rsw#모로크 피라미드 지하 2층 - 나이트#
+
+
 eclage.rsw#라피네 수도 에클라쥬#
 ecl_fild01.rsw#꽃이 피어난 대지#
 ecl_in01.rsw#에클라쥬 내부#
