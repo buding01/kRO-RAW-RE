@@ -1,4 +1,4 @@
-//인트로, 크리투라학원 수정
+//201509 인트로, 크리투라학원 수정
 int_land01.gnd#int_land.gnd#
 int_land01.gat#int_land.gat#
 int_land01.rsw#int_land.rsw#
