@@ -1,4 +1,4 @@
-//-최종갱신 오전 11:55 2013-12-16 사크라이
+//-최종갱신 오후 3:15 2013-12-19 사크라이
 //맵이름.rsw#bgm\\음악번호#
 
 //--- 통상판 마을음악
@@ -34,13 +34,13 @@ evt_xmas.rsw#bgm\\58.mp3#
 evt_mobroom.rsw#bgm\\18.mp3#
 
 // ep15.2 판타스마고리카
-verus01.rsw#bgm\\89.mp3#
-verus02.rsw#bgm\\89.mp3#
-un_bk_q.rsw#bgm\\89.mp3#
-un_bunker.rsw#bgm\\89.mp3#
-un_myst.rsw#bgm\\89.mp3#
-1@uns.rsw#bgm\\89.mp3#
-1@lab.rsw#bgm\\89.mp3#
+verus01.rsw#bgm\\161.mp3#
+verus02.rsw#bgm\\161.mp3#
+un_bk_q.rsw#bgm\\122.mp3#
+un_bunker.rsw#bgm\\124.mp3#
+un_myst.rsw#bgm\\121.mp3#
+1@uns.rsw#bgm\\163.mp3#
+1@lab.rsw#bgm\\162.mp3#
 
 // 생체던전 신규 전사자의 무덤
 lhz_dun_n.rsw#bgm\\124.mp3#
@@ -56,8 +56,8 @@ job_gun.rsw#bgm\\132.mp3#
 //ep15.1 판타스마고리카
 ver_eju.rsw#bgm\\89.mp3#
 ver_tunn.rsw#bgm\\89.mp3#
-verus04.rsw#bgm\\89.mp3#
-verus03.rsw#bgm\\89.mp3#
+verus04.rsw#bgm\\164.mp3#
+verus03.rsw#bgm\\164.mp3#
 1@mcd.rsw#bgm\\160.mp3#
 
 //운영팀이벤트
