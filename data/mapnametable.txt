@@ -1,3 +1,6 @@
+//폭탄방
+evt_bomb.rsw#이벤트 미궁#
+
 //고성메모리얼던전
 gl_cas02_.rsw#2층 회랑#
 gl_chyard_.rsw#수도원 묘지#
@@ -622,7 +625,7 @@ new_1-4.rsw#초보자 수련장#
 new_2-4.rsw#초보자 수련장#
 new_3-4.rsw#초보자 수련장#
 new_4-4.rsw#초보자 수련장#
-new_5-4.rsw#초보자 수련장#
+//new_5-4.rsw#초보자 수련장#  폭탄방관련 삭제
 anthell01.rsw#모로크 개미지옥 던전 1층#
 anthell02.rsw#모로크 개미지옥 던전 2층#
 gef_dun00.rsw#게펜 지하 던전 1층#
