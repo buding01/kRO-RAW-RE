@@ -1,4 +1,4 @@
-//-최종갱신 오후 6:58 2013-06-24 사크라이
+//-최종갱신 오후 5:29 2013-07-02 사크라이
 //맵이름.rsw#bgm\\음악번호#
 
 //--- 통상판 마을음악
@@ -38,6 +38,7 @@ ver_eju.rsw#bgm\\89.mp3#
 ver_tunn.rsw#bgm\\89.mp3#
 verus04.rsw#bgm\\89.mp3#
 verus03.rsw#bgm\\89.mp3#
+1@mcd.rsw#bgm\\160.mp3#
 
 //운영팀이벤트
 e_hugel.rsw#bgm\\48.mp3#
