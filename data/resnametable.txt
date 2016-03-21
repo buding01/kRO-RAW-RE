@@ -1,3 +1,20 @@
+//몬스터웨이브
+1@def03.gnd#1@def03.gnd#
+1@def03.gat#1@def03.gat#
+1@def03.rsw#1@def03.rsw#
+유저인터페이스\map\1@def03.bmp#유저인터페이스\map\1@def03.bmp#
+
+1@def02.gnd#1@def02.gnd#
+1@def02.gat#1@def02.gat#
+1@def02.rsw#1@def02.rsw#
+유저인터페이스\map\1@def02.bmp#유저인터페이스\map\1@def02.bmp#
+
+1@def01.gnd#1@def01.gnd#
+1@def01.gat#1@def01.gat#
+1@def01.rsw#1@def01.rsw#
+유저인터페이스\map\1@def01.bmp#유저인터페이스\map\1@def01.bmp#
+
+
 //고성메모리얼
 
 2@gl_k.gnd#2@gl_k.gnd#

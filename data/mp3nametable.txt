@@ -1,6 +1,11 @@
 //맵이름.rsw#bgm\\음악번호#
 
 
+//몬스터웨이브
+1@def01.rsw#bgm\\19.mp3# 
+1@def02.rsw#bgm\\75.mp3# 
+1@def03.rsw#bgm\\152.mp3# 
+
 //고성메모리얼
 gl_cas02_.rsw#bgm\\43.mp3#
 gl_chyard_.rsw#bgm\\40.mp3#
