@@ -1,3 +1,13 @@
+//2014 Å¬·£Äù½ºÆ® 
+1@ffp.gnd#1@ffp.gnd#
+1@ffp.gat#1@ffp.gat#
+1@ffp.rsw#1@ffp.rsw#
+
+//¹«ÇÑÈ¸¶û
+1@infi.gnd#1@infi.gnd#
+1@infi.gat#1@infi.gat#
+1@infi.rsw#1@infi.rsw#
+
 ////EP.15.2
 1@uns.gnd#1@uns.gnd#
 1@uns.gat#1@uns.gat#
