@@ -1,3 +1,11 @@
+//이벤트맵(휴겔복사)
+e_hugel.gnd#hugel.gnd#
+e_hugel.gat#hugel.gat#
+e_hugel.rsw#hugel.rsw#
+유저인터페이스\map\e_hugel.bmp#유저인터페이스\map\hugel.bmp#
+
+
+
 //14.3 2차
 1@eom.gnd#1@eom.gnd#
 1@eom.gat#1@eom.gat#
