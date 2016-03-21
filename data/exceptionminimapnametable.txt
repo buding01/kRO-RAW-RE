@@ -34,6 +34,7 @@
 1@tower#
 1@uns#
 1@xm_d#
+2@nyd#
 2@mir#
 2@orcs#
 2@tower#
