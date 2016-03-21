@@ -75,7 +75,6 @@ jupe_area2#
 jupe_ele#
 jupe_ele_r#
 jupe_gate#
-lhz_dun_n#
 moro_cav#
 mosk_fild01#
 mosk_ship#
