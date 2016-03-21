@@ -14069,11 +14069,11 @@ RWC파란카드 모으기#
 질풍의구덩이#
 질풍의구덩이#
 
-14288#질풍의 구덩이#SG_FEEL#QUE_NOIMAGE#
+14278#질풍의 구덩이#SG_FEEL#QUE_NOIMAGE#
 질풍의구덩이#
 질풍의구덩이#
 
-14289#질풍의 구덩이#SG_FEEL#QUE_NOIMAGE#
+14279#질풍의 구덩이#SG_FEEL#QUE_NOIMAGE#
 질풍의구덩이#
 질풍의구덩이#
 
