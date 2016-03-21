@@ -1,5 +1,11 @@
-//EP.14.3
+//설날이벤트
 
+silk_lair.gnd#1@cash.gnd#
+silk_lair.gat#1@cash.gat#
+silk_lair.rsw#1@cash.rsw#
+유저인터페이스\map\silk_lair.bmp#유저인터페이스\map\1@cash.bmp#
+
+//EP.14.3
 1@rev.gnd#1@rev.gnd#
 1@rev.gat#1@rev.gat#
 1@rev.rsw#1@rev.rsw#
