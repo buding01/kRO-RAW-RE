@@ -41,6 +41,7 @@ ver_eju.rsw#bgm\\89.mp3#
 ver_tunn.rsw#bgm\\89.mp3#
 verus04.rsw#bgm\\89.mp3#
 verus03.rsw#bgm\\89.mp3#
+1@mcd.rsw#bgm\\160.mp3#
 
 //운영팀이벤트
 e_hugel.rsw#bgm\\48.mp3#
