@@ -1415,5 +1415,9 @@ AccNameTable = {
   [ACCESSORY_IDs.ACCESSORY_Youinone_Mask] = "_유인원마스크",
   [ACCESSORY_IDs.ACCESSORY_SweetChocolate_Hat] = "_달콤한초콜릿모자",
   [ACCESSORY_IDs.ACCESSORY_Republic_Hat] = "_공화국의모자",
-  [ACCESSORY_IDs.ACCESSORY_C_Combat_Vestige] = "_C전투의흔적"
+  [ACCESSORY_IDs.ACCESSORY_C_Combat_Vestige] = "_C전투의흔적",
+  [ACCESSORY_IDs.ACCESSORY_Monochrome_RibbonHat] = "_모노크롬리본햇",
+  [ACCESSORY_IDs.ACCESSORY_Laser_Of_Eagle] = "_레이저오브이글",
+  [ACCESSORY_IDs.ACCESSORY_Khalitzburg_KN_Helm] = "_칼리츠버그기사투구",
+  [ACCESSORY_IDs.ACCESSORY_Morocc_Kid_Servant] = "_소년모로크수하"
 }

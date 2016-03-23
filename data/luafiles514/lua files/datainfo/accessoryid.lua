@@ -1419,5 +1419,9 @@ ACCESSORY_IDs = {
   ACCESSORY_Youinone_Mask = 1462,
   ACCESSORY_SweetChocolate_Hat = 1469,
   ACCESSORY_Republic_Hat = 1458,
-  ACCESSORY_C_Combat_Vestige = 1460
+  ACCESSORY_C_Combat_Vestige = 1460,
+  ACCESSORY_Monochrome_RibbonHat = 1466,
+  ACCESSORY_Laser_Of_Eagle = 1424,
+  ACCESSORY_Khalitzburg_KN_Helm = 1442,
+  ACCESSORY_Morocc_Kid_Servant = 1440
 }

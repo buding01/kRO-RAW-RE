@@ -92,7 +92,7 @@ hatEffectTable = {
   [HatEFID.HAT_EF_DOUBLEGUMGANG] = {hatEffectID = 418},
   [HatEFID.HAT_EF_GIANTBODY] = {hatEffectID = 423},
   [HatEFID.HAT_EF_GREEN99_6] = {hatEffectID = 680},
-  [HatEFID.HAT_EF_CIRCLEPOWER] = {hatEffectID = 757},
+  [HatEFID.HAT_EF_CIRCLEPOWER] = {hatEffectID = 1122},
   [HatEFID.HAT_EF_BOTTOM_BLOODYLUST] = {hatEffectID = 829},
   [HatEFID.HAT_EF_WATER_BELOW] = {hatEffectID = 838},
   [HatEFID.HAT_EF_LEVEL99_150] = {hatEffectID = 881},
