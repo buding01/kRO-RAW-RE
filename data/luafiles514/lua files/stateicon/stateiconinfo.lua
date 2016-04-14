@@ -2548,9 +2548,7 @@ StateIconList[EFST_IDs.EFST_GENTLETOUCH_REVITALIZE] = {
       COLOR_TITLE_BUFF
     },
     {"%s", COLOR_TIME},
-    {
-      "VIT, MHP »ó½Â"
-    },
+    {"MHP »ó½Â"},
     {
       "¹°¸® ¹æ¾î·Â »ó½Â"
     },
