@@ -7782,6 +7782,48 @@ SKILL_INFO_LIST = {
       [10] = {x = 27, y = 27}
     }
   },
+  [SKID.NPC_EARTHQUAKE_K] = {
+    "NPC_EARTHQUAKE_K",
+    SkillName = "어스퀘이크",
+    MaxLv = 10,
+    SpAmount = {
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    },
+    bSeperateLv = false,
+    AttackRange = {
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    },
+    SkillScale = {
+      [1] = {x = 11, y = 11},
+      [2] = {x = 15, y = 15},
+      [3] = {x = 19, y = 19},
+      [4] = {x = 23, y = 23},
+      [5] = {x = 27, y = 27},
+      [6] = {x = 11, y = 11},
+      [7] = {x = 15, y = 15},
+      [8] = {x = 19, y = 19},
+      [9] = {x = 23, y = 23},
+      [10] = {x = 27, y = 27}
+    }
+  },
   [SKID.EL_CIRCLE_OF_FIRE] = {
     "EL_CIRCLE_OF_FIRE",
     SkillName = "서클 오브 파이어",

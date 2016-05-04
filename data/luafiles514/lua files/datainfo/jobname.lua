@@ -3465,5 +3465,6 @@ JobNameTable = {
   [jobtbl.JT_4_F_GUNSLINGER3] = "4_f_gunslinger3",
   [jobtbl.JT_4_F_REBELLION2] = "4_f_rebellion2",
   [jobtbl.JT_4_F_REBELLION3] = "4_f_rebellion3",
-  [jobtbl.JT_4_M_ILYA] = "4_m_ilya"
+  [jobtbl.JT_4_M_ILYA] = "4_m_ilya",
+  [jobtbl.JT_EVENT_KOBOLD] = "KOBOLD_1"
 }
