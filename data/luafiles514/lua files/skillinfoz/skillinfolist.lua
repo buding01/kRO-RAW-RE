@@ -27156,7 +27156,7 @@ SKILL_INFO_LIST = {
     AttackRange = {0},
     _NeedSkillList = {
       {
-        SKID.GS_FLING,
+        SKID.GS_GLITTERING,
         1
       }
     }
@@ -27288,7 +27288,7 @@ SKILL_INFO_LIST = {
       0,
       0
     },
-    {
+    _NeedSkillList = {
       {
         SKID.RL_FLICKER,
         1
