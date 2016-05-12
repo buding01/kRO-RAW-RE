@@ -16,6 +16,7 @@ ForceRenderEffect = {
   261,
   295,
   296,
+  315,
   316,
   317,
   332,
@@ -52,8 +53,21 @@ ForceRenderEffect = {
   736,
   737,
   738,
+  758,
+  759,
+  760,
+  761,
+  762,
+  763,
+  764,
+  765,
+  766,
+  767,
+  788,
   833,
-  1072
+  837,
+  1072,
+  1110
 }
 function IsForceRenderEffect(in_effectID)
   for k, v in ipairs(ForceRenderEffect) do

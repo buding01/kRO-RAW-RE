@@ -890,6 +890,8 @@ EFST_IDs = {
   EFST_EP16_2_BUFF_SS = 963,
   EFST_EP16_2_BUFF_SC = 964,
   EFST_EP16_2_BUFF_AC = 965,
+  EFST_GS_MAGICAL_BULLET = 966,
+  EFST_FALLEN_ANGEL = 976,
   __newindex = function()
     error("unknown state")
   end

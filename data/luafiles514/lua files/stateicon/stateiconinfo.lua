@@ -5454,10 +5454,7 @@ StateIconList[EFST_IDs.EFST_P_ALTER] = {
       COLOR_TITLE_BUFF
     },
     {"%s", COLOR_TIME},
-    {"ATK 증가"},
-    {
-      "불사속성 내성 증가"
-    }
+    {"ATK 증가"}
   }
 }
 StateIconList[EFST_IDs.EFST_HEAT_BARREL] = {
@@ -6872,6 +6869,34 @@ StateIconList[EFST_IDs.EFST_EP16_2_BUFF_AC] = {
     {"%s", COLOR_TIME},
     {
       "변동 캐스팅 80% 감소"
+    }
+  }
+}
+StateIconList[EFST_IDs.EFST_GS_MAGICAL_BULLET] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
+  descript = {
+    {
+      "매지컬 블릿",
+      COLOR_TITLE_BUFF
+    },
+    {"%s", COLOR_TIME},
+    {
+      "마법 데미지 추가"
+    }
+  }
+}
+StateIconList[EFST_IDs.EFST_H_MINE] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
+  descript = {
+    {
+      "하울링 마인",
+      COLOR_TITLE_DEBUFF
+    },
+    {"%s", COLOR_TIME},
+    {
+      "하울링 마인 상태"
     }
   }
 }

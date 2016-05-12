@@ -3968,26 +3968,6 @@ SKILL_INFO_LIST = {
       }
     }
   },
-  [SKID.GS_GLITTERING] = {
-    "GS_GLITTERING",
-    SkillName = "플립 더 코인",
-    MaxLv = 5,
-    SpAmount = {
-      2,
-      2,
-      2,
-      2,
-      2
-    },
-    bSeperateLv = false,
-    AttackRange = {
-      1,
-      1,
-      1,
-      1,
-      1
-    }
-  },
   [SKID.RK_ENCHANTBLADE] = {
     "RK_ENCHANTBLADE",
     SkillName = "엔첸트 블레이드",
@@ -4011,20 +3991,6 @@ SKILL_INFO_LIST = {
       {
         SKID.RK_RUNEMASTERY,
         2
-      }
-    }
-  },
-  [SKID.GS_FLING] = {
-    "GS_FLING",
-    SkillName = "플링",
-    MaxLv = 1,
-    SpAmount = {10},
-    bSeperateLv = false,
-    AttackRange = {9},
-    _NeedSkillList = {
-      {
-        SKID.GS_GLITTERING,
-        1
       }
     }
   },
@@ -4054,24 +4020,6 @@ SKILL_INFO_LIST = {
       }
     }
   },
-  [SKID.GS_TRIPLEACTION] = {
-    "GS_TRIPLEACTION",
-    SkillName = "트리플 액션",
-    MaxLv = 1,
-    SpAmount = {20},
-    bSeperateLv = false,
-    AttackRange = {9},
-    _NeedSkillList = {
-      {
-        SKID.GS_GLITTERING,
-        1
-      },
-      {
-        SKID.GS_CHAINACTION,
-        10
-      }
-    }
-  },
   [SKID.RK_DRAGONHOWLING] = {
     "RK_DRAGONHOWLING",
     SkillName = "드래곤 하울링",
@@ -4098,24 +4046,6 @@ SKILL_INFO_LIST = {
       }
     }
   },
-  [SKID.GS_BULLSEYE] = {
-    "GS_BULLSEYE",
-    SkillName = "불스 아이",
-    MaxLv = 1,
-    SpAmount = {30},
-    bSeperateLv = false,
-    AttackRange = {9},
-    _NeedSkillList = {
-      {
-        SKID.GS_GLITTERING,
-        5
-      },
-      {
-        SKID.GS_TRACKING,
-        10
-      }
-    }
-  },
   [SKID.RK_REFRESH] = {
     "RK_REFRESH",
     SkillName = "리프레쉬",
@@ -4124,24 +4054,6 @@ SKILL_INFO_LIST = {
     bSeperateLv = false,
     AttackRange = {1}
   },
-  [SKID.GS_MADNESSCANCEL] = {
-    "GS_MADNESSCANCEL",
-    SkillName = "매드니스 캔슬러",
-    MaxLv = 1,
-    SpAmount = {30},
-    bSeperateLv = false,
-    AttackRange = {1},
-    _NeedSkillList = {
-      {
-        SKID.GS_GATLINGFEVER,
-        10
-      },
-      {
-        SKID.GS_GLITTERING,
-        4
-      }
-    }
-  },
   [SKID.RK_STORMBLAST] = {
     "RK_STORMBLAST",
     SkillName = "스톰 블래스트",
@@ -4149,24 +4061,6 @@ SKILL_INFO_LIST = {
     SpAmount = {0},
     bSeperateLv = false,
     AttackRange = {1}
-  },
-  [SKID.GS_ADJUSTMENT] = {
-    "GS_ADJUSTMENT",
-    SkillName = "애드저스트먼트",
-    MaxLv = 1,
-    SpAmount = {15},
-    bSeperateLv = false,
-    AttackRange = {1},
-    _NeedSkillList = {
-      {
-        SKID.GS_GLITTERING,
-        4
-      },
-      {
-        SKID.GS_DISARM,
-        5
-      }
-    }
   },
   [SKID.GC_VENOMIMPRESS] = {
     "GC_VENOMIMPRESS",
@@ -4188,24 +4082,6 @@ SKILL_INFO_LIST = {
       10
     }
   },
-  [SKID.GS_INCREASING] = {
-    "GS_INCREASING",
-    SkillName = "인크리징 어큐러시",
-    MaxLv = 1,
-    SpAmount = {30},
-    bSeperateLv = false,
-    AttackRange = {1},
-    _NeedSkillList = {
-      {
-        SKID.GS_GLITTERING,
-        2
-      },
-      {
-        SKID.GS_SNAKEEYE,
-        10
-      }
-    }
-  },
   [SKID.GC_CREATENEWPOISON] = {
     "GC_CREATENEWPOISON",
     SkillName = "새로운 독 제조",
@@ -4216,20 +4092,6 @@ SKILL_INFO_LIST = {
     _NeedSkillList = {
       {
         SKID.GC_RESEARCHNEWPOISON,
-        1
-      }
-    }
-  },
-  [SKID.GS_MAGICALBULLET] = {
-    "GS_MAGICALBULLET",
-    SkillName = "매지컬 블릿",
-    MaxLv = 1,
-    SpAmount = {7},
-    bSeperateLv = false,
-    AttackRange = {9},
-    _NeedSkillList = {
-      {
-        SKID.GS_GLITTERING,
         1
       }
     }
@@ -4260,20 +4122,6 @@ SKILL_INFO_LIST = {
       }
     }
   },
-  [SKID.GS_CRACKER] = {
-    "GS_CRACKER",
-    SkillName = "크래커",
-    MaxLv = 1,
-    SpAmount = {10},
-    bSeperateLv = false,
-    AttackRange = {9},
-    _NeedSkillList = {
-      {
-        SKID.GS_GLITTERING,
-        1
-      }
-    }
-  },
   [SKID.GC_CLOAKINGEXCEED] = {
     "GC_CLOAKINGEXCEED",
     SkillName = "클로킹 익시드",
@@ -4300,36 +4148,6 @@ SKILL_INFO_LIST = {
       }
     }
   },
-  [SKID.GS_SINGLEACTION] = {
-    "GS_SINGLEACTION",
-    SkillName = "싱글 액션",
-    MaxLv = 10,
-    SpAmount = {
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    },
-    bSeperateLv = false,
-    AttackRange = {
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1
-    }
-  },
   [SKID.GC_CROSSRIPPERSLASHER] = {
     "GC_CROSSRIPPERSLASHER",
     SkillName = "크로스 리퍼 슬래셔",
@@ -4354,36 +4172,6 @@ SKILL_INFO_LIST = {
         SKID.GC_ROLLINGCUTTER,
         1
       }
-    }
-  },
-  [SKID.GS_SNAKEEYE] = {
-    "GS_SNAKEEYE",
-    SkillName = "스네이크 아이",
-    MaxLv = 10,
-    SpAmount = {
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    },
-    bSeperateLv = false,
-    AttackRange = {
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1
     }
   },
   [SKID.AB_CLEMENTIA] = {
@@ -4471,354 +4259,6 @@ SKILL_INFO_LIST = {
       {
         SKID.AL_DEMONBANE,
         3
-      }
-    }
-  },
-  [SKID.GS_TRACKING] = {
-    "GS_TRACKING",
-    SkillName = "트래킹",
-    MaxLv = 10,
-    SpAmount = {
-      15,
-      20,
-      25,
-      30,
-      35,
-      40,
-      45,
-      50,
-      55,
-      60
-    },
-    bSeperateLv = true,
-    AttackRange = {
-      9,
-      9,
-      9,
-      9,
-      9,
-      9,
-      9,
-      9,
-      9,
-      9
-    },
-    _NeedSkillList = {
-      {
-        SKID.GS_SINGLEACTION,
-        5
-      }
-    }
-  },
-  [SKID.GS_DISARM] = {
-    "GS_DISARM",
-    SkillName = "디스암",
-    MaxLv = 5,
-    SpAmount = {
-      15,
-      20,
-      25,
-      30,
-      35
-    },
-    bSeperateLv = true,
-    AttackRange = {
-      9,
-      9,
-      9,
-      9,
-      9
-    },
-    _NeedSkillList = {
-      {
-        SKID.GS_TRACKING,
-        7
-      }
-    }
-  },
-  [SKID.GS_PIERCINGSHOT] = {
-    "GS_PIERCINGSHOT",
-    SkillName = "피어싱 샷",
-    MaxLv = 5,
-    SpAmount = {
-      11,
-      12,
-      13,
-      14,
-      15
-    },
-    bSeperateLv = true,
-    AttackRange = {
-      9,
-      9,
-      9,
-      9,
-      9
-    },
-    _NeedSkillList = {
-      {
-        SKID.GS_TRACKING,
-        5
-      }
-    }
-  },
-  [SKID.GS_RAPIDSHOWER] = {
-    "GS_RAPIDSHOWER",
-    SkillName = "래피드 샤워",
-    MaxLv = 10,
-    SpAmount = {
-      22,
-      24,
-      26,
-      28,
-      30,
-      32,
-      34,
-      36,
-      38,
-      40
-    },
-    bSeperateLv = true,
-    AttackRange = {
-      9,
-      9,
-      9,
-      9,
-      9,
-      9,
-      9,
-      9,
-      9,
-      9
-    },
-    _NeedSkillList = {
-      {
-        SKID.GS_CHAINACTION,
-        3
-      }
-    }
-  },
-  [SKID.GS_DESPERADO] = {
-    "GS_DESPERADO",
-    SkillName = "데스페라도",
-    MaxLv = 10,
-    SpAmount = {
-      32,
-      34,
-      36,
-      38,
-      40,
-      42,
-      44,
-      46,
-      48,
-      50
-    },
-    bSeperateLv = true,
-    AttackRange = {
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1
-    },
-    _NeedSkillList = {
-      {
-        SKID.GS_RAPIDSHOWER,
-        5
-      }
-    }
-  },
-  [SKID.GS_GATLINGFEVER] = {
-    "GS_GATLINGFEVER",
-    SkillName = "개틀링 피버",
-    MaxLv = 10,
-    SpAmount = {
-      30,
-      32,
-      34,
-      36,
-      38,
-      40,
-      42,
-      44,
-      46,
-      48
-    },
-    bSeperateLv = true,
-    AttackRange = {
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1
-    },
-    _NeedSkillList = {
-      {
-        SKID.GS_RAPIDSHOWER,
-        7
-      },
-      {
-        SKID.GS_DESPERADO,
-        5
-      }
-    }
-  },
-  [SKID.GS_DUST] = {
-    "GS_DUST",
-    SkillName = "더스트",
-    MaxLv = 10,
-    SpAmount = {
-      3,
-      6,
-      9,
-      12,
-      15,
-      18,
-      21,
-      24,
-      27,
-      30
-    },
-    bSeperateLv = true,
-    AttackRange = {
-      2,
-      2,
-      2,
-      2,
-      2,
-      2,
-      2,
-      2,
-      2,
-      2
-    },
-    _NeedSkillList = {
-      {
-        SKID.GS_SINGLEACTION,
-        5
-      }
-    }
-  },
-  [SKID.GS_FULLBUSTER] = {
-    "GS_FULLBUSTER",
-    SkillName = "풀 버스터",
-    MaxLv = 10,
-    SpAmount = {
-      20,
-      25,
-      30,
-      35,
-      40,
-      45,
-      50,
-      55,
-      60,
-      65
-    },
-    bSeperateLv = true,
-    AttackRange = {
-      9,
-      9,
-      9,
-      9,
-      9,
-      9,
-      9,
-      9,
-      9,
-      9
-    },
-    _NeedSkillList = {
-      {
-        SKID.GS_DUST,
-        3
-      }
-    }
-  },
-  [SKID.GS_SPREADATTACK] = {
-    "GS_SPREADATTACK",
-    SkillName = "스프레드 어택",
-    MaxLv = 10,
-    SpAmount = {
-      15,
-      20,
-      25,
-      30,
-      35,
-      40,
-      45,
-      50,
-      55,
-      60
-    },
-    bSeperateLv = true,
-    AttackRange = {
-      9,
-      9,
-      9,
-      9,
-      9,
-      9,
-      9,
-      9,
-      9,
-      9
-    },
-    _NeedSkillList = {
-      {
-        SKID.GS_FULLBUSTER,
-        5
-      }
-    }
-  },
-  [SKID.GS_GROUNDDRIFT] = {
-    "GS_GROUNDDRIFT",
-    SkillName = "그라운드 드리프트",
-    MaxLv = 10,
-    SpAmount = {
-      4,
-      8,
-      12,
-      16,
-      20,
-      24,
-      28,
-      32,
-      36,
-      40
-    },
-    bSeperateLv = true,
-    AttackRange = {
-      9,
-      9,
-      9,
-      9,
-      9,
-      9,
-      9,
-      9,
-      9,
-      9
-    },
-    _NeedSkillList = {
-      {
-        SKID.GS_SPREADATTACK,
-        7
-      },
-      {
-        SKID.GS_FULLBUSTER,
-        5
       }
     }
   },
@@ -25408,42 +24848,6 @@ SKILL_INFO_LIST = {
       1
     }
   },
-  [SKID.GS_CHAINACTION] = {
-    "GS_CHAINACTION",
-    SkillName = "체인 액션",
-    MaxLv = 10,
-    SpAmount = {
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    },
-    bSeperateLv = false,
-    AttackRange = {
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1
-    },
-    _NeedSkillList = {
-      {
-        SKID.GS_SINGLEACTION,
-        1
-      }
-    }
-  },
   [SKID.KO_YAMIKUMO] = {
     "KO_YAMIKUMO",
     SkillName = "암운",
@@ -26569,484 +25973,6 @@ SKILL_INFO_LIST = {
       [5] = {x = 29, y = 29}
     }
   },
-  [SKID.RL_D_TAIL] = {
-    "RL_D_TAIL",
-    SkillName = "드래곤 테일",
-    MaxLv = 5,
-    SpAmount = {
-      60,
-      70,
-      80,
-      90,
-      100
-    },
-    bSeperateLv = true,
-    AttackRange = {
-      0,
-      0,
-      0,
-      0,
-      0
-    },
-    _NeedSkillList = {
-      {
-        SKID.RL_H_MINE,
-        3
-      },
-      {
-        SKID.RL_C_MARKER,
-        1
-      }
-    }
-  },
-  [SKID.RL_R_TRIP] = {
-    "RL_R_TRIP",
-    SkillName = "라운드 트립",
-    MaxLv = 5,
-    SpAmount = {
-      20,
-      25,
-      30,
-      35,
-      40
-    },
-    bSeperateLv = true,
-    AttackRange = {
-      0,
-      0,
-      0,
-      0,
-      0
-    },
-    _NeedSkillList = {
-      {
-        SKID.RL_FIRE_RAIN,
-        1
-      }
-    }
-  },
-  [SKID.RL_RICHS_COIN] = {
-    "RL_RICHS_COIN",
-    SkillName = "리치스 코인",
-    MaxLv = 1,
-    SpAmount = {10},
-    bSeperateLv = false,
-    AttackRange = {0},
-    _NeedSkillList = {
-      {
-        SKID.GS_GLITTERING,
-        5
-      }
-    }
-  },
-  [SKID.RL_MASS_SPIRAL] = {
-    "RL_MASS_SPIRAL",
-    SkillName = "매스 스파이럴",
-    MaxLv = 5,
-    SpAmount = {
-      80,
-      84,
-      88,
-      92,
-      96
-    },
-    bSeperateLv = true,
-    AttackRange = {
-      15,
-      15,
-      15,
-      15,
-      15
-    },
-    _NeedSkillList = {
-      {
-        SKID.GS_PIERCINGSHOT,
-        1
-      }
-    }
-  },
-  [SKID.RL_B_TRAP] = {
-    "RL_B_TRAP",
-    SkillName = "바인드 트랩",
-    MaxLv = 5,
-    SpAmount = {
-      30,
-      32,
-      34,
-      36,
-      38
-    },
-    bSeperateLv = true,
-    AttackRange = {
-      0,
-      0,
-      0,
-      0,
-      0
-    }
-  },
-  [SKID.RL_BANISHING_BUSTER] = {
-    "RL_BANISHING_BUSTER",
-    SkillName = "배니싱 버스터",
-    MaxLv = 5,
-    SpAmount = {
-      55,
-      60,
-      65,
-      70,
-      75
-    },
-    bSeperateLv = true,
-    AttackRange = {
-      9,
-      9,
-      9,
-      9,
-      9
-    },
-    _NeedSkillList = {
-      {
-        SKID.RL_S_STORM,
-        1
-      }
-    }
-  },
-  [SKID.RL_S_STORM] = {
-    "RL_S_STORM",
-    SkillName = "섀터 스톰",
-    MaxLv = 5,
-    SpAmount = {
-      50,
-      55,
-      60,
-      65,
-      70
-    },
-    bSeperateLv = true,
-    AttackRange = {
-      9,
-      9,
-      9,
-      9,
-      9
-    },
-    _NeedSkillList = {
-      {
-        SKID.GS_DISARM,
-        1
-      },
-      {
-        SKID.GS_DUST,
-        1
-      }
-    }
-  },
-  [SKID.RL_SLUGSHOT] = {
-    "RL_SLUGSHOT",
-    SkillName = "슬러그 샷",
-    MaxLv = 5,
-    SpAmount = {
-      80,
-      84,
-      88,
-      92,
-      96
-    },
-    bSeperateLv = true,
-    AttackRange = {
-      9,
-      9,
-      9,
-      9,
-      9
-    },
-    _NeedSkillList = {
-      {
-        SKID.RL_BANISHING_BUSTER,
-        3
-      }
-    }
-  },
-  [SKID.RL_AM_BLAST] = {
-    "RL_AM_BLAST",
-    SkillName = "안티 매터리얼 블래스트",
-    MaxLv = 5,
-    SpAmount = {
-      80,
-      84,
-      88,
-      92,
-      96
-    },
-    bSeperateLv = true,
-    AttackRange = {
-      9,
-      9,
-      9,
-      9,
-      9
-    },
-    _NeedSkillList = {
-      {
-        SKID.RL_MASS_SPIRAL,
-        1
-      }
-    }
-  },
-  [SKID.RL_E_CHAIN] = {
-    "RL_E_CHAIN",
-    SkillName = "이터널 체인",
-    MaxLv = 10,
-    SpAmount = {
-      45,
-      45,
-      45,
-      45,
-      45,
-      45,
-      45,
-      45,
-      45,
-      45
-    },
-    bSeperateLv = true,
-    AttackRange = {
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    },
-    _NeedSkillList = {
-      {
-        SKID.GS_CHAINACTION,
-        10
-      }
-    }
-  },
-  [SKID.RL_QD_SHOT] = {
-    "RL_QD_SHOT",
-    SkillName = "퀵 드로우 샷",
-    MaxLv = 1,
-    SpAmount = {5},
-    bSeperateLv = false,
-    AttackRange = {0},
-    _NeedSkillList = {
-      {
-        SKID.RL_E_CHAIN,
-        1
-      }
-    }
-  },
-  [SKID.RL_C_MARKER] = {
-    "RL_C_MARKER",
-    SkillName = "크림즌 마커",
-    MaxLv = 1,
-    SpAmount = {10},
-    bSeperateLv = false,
-    AttackRange = {11},
-    _NeedSkillList = {
-      {
-        SKID.GS_INCREASING,
-        1
-      }
-    }
-  },
-  [SKID.RL_FIREDANCE] = {
-    "RL_FIREDANCE",
-    SkillName = "파이어 댄스",
-    MaxLv = 5,
-    SpAmount = {
-      10,
-      10,
-      10,
-      10,
-      10
-    },
-    bSeperateLv = true,
-    AttackRange = {
-      0,
-      0,
-      0,
-      0,
-      0
-    },
-    _NeedSkillList = {
-      {
-        SKID.RL_FALLEN_ANGEL,
-        1
-      }
-    }
-  },
-  [SKID.RL_FIRE_RAIN] = {
-    "RL_FIRE_RAIN",
-    SkillName = "파이어 레인",
-    MaxLv = 5,
-    SpAmount = {
-      70,
-      70,
-      70,
-      70,
-      70
-    },
-    bSeperateLv = true,
-    AttackRange = {
-      3,
-      3,
-      3,
-      3,
-      3
-    },
-    _NeedSkillList = {
-      {
-        SKID.GS_GATLINGFEVER,
-        1
-      }
-    }
-  },
-  [SKID.RL_FALLEN_ANGEL] = {
-    "RL_FALLEN_ANGEL",
-    SkillName = "펄른 엔젤",
-    MaxLv = 5,
-    SpAmount = {
-      10,
-      10,
-      10,
-      10,
-      10
-    },
-    bSeperateLv = true,
-    AttackRange = {
-      9,
-      9,
-      9,
-      9,
-      9
-    },
-    _NeedSkillList = {
-      {
-        SKID.GS_DESPERADO,
-        10
-      }
-    }
-  },
-  [SKID.RL_P_ALTER] = {
-    "RL_P_ALTER",
-    SkillName = "플래티넘 알터",
-    MaxLv = 5,
-    SpAmount = {
-      20,
-      24,
-      28,
-      32,
-      36
-    },
-    bSeperateLv = true,
-    AttackRange = {
-      0,
-      0,
-      0,
-      0,
-      0
-    }
-  },
-  [SKID.RL_FLICKER] = {
-    "RL_FLICKER",
-    SkillName = "플리커",
-    MaxLv = 1,
-    SpAmount = {2},
-    bSeperateLv = false,
-    AttackRange = {0},
-    _NeedSkillList = {
-      {
-        SKID.GS_FLING,
-        1
-      }
-    }
-  },
-  [SKID.RL_H_MINE] = {
-    "RL_H_MINE",
-    SkillName = "하울링 마인",
-    MaxLv = 5,
-    SpAmount = {
-      45,
-      50,
-      55,
-      60,
-      65
-    },
-    bSeperateLv = true,
-    AttackRange = {
-      7,
-      8,
-      9,
-      10,
-      11
-    },
-    _NeedSkillList = {
-      {
-        SKID.GS_SPREADATTACK,
-        1
-      }
-    }
-  },
-  [SKID.RL_HAMMER_OF_GOD] = {
-    "RL_HAMMER_OF_GOD",
-    SkillName = "해머 오브 갓",
-    MaxLv = 5,
-    SpAmount = {
-      35,
-      40,
-      45,
-      50,
-      55
-    },
-    bSeperateLv = true,
-    AttackRange = {
-      7,
-      8,
-      9,
-      10,
-      11
-    },
-    _NeedSkillList = {
-      {
-        SKID.RL_AM_BLAST,
-        3
-      }
-    }
-  },
-  [SKID.RL_HEAT_BARREL] = {
-    "RL_HEAT_BARREL",
-    SkillName = "히트 배럴",
-    MaxLv = 5,
-    SpAmount = {
-      30,
-      30,
-      30,
-      30,
-      30
-    },
-    bSeperateLv = true,
-    AttackRange = {
-      0,
-      0,
-      0,
-      0,
-      0
-    },
-    _NeedSkillList = {
-      {
-        SKID.RL_FIREDANCE,
-        2
-      }
-    }
-  },
   [SKID.BA_POEMBRAGI2] = {
     "BA_POEMBRAGI2",
     SkillName = "브라기의 시",
@@ -27648,5 +26574,1063 @@ SKILL_INFO_LIST = {
     SpAmount = {0},
     bSeperateLv = false,
     AttackRange = {1}
+  },
+  [SKID.GS_GLITTERING] = {
+    "GS_GLITTERING",
+    SkillName = "플립 더 코인",
+    MaxLv = 5,
+    SpAmount = {
+      2,
+      2,
+      2,
+      2,
+      2
+    },
+    bSeperateLv = false,
+    AttackRange = {
+      1,
+      1,
+      1,
+      1,
+      1
+    }
+  },
+  [SKID.GS_FLING] = {
+    "GS_FLING",
+    SkillName = "플링",
+    MaxLv = 1,
+    SpAmount = {10},
+    bSeperateLv = false,
+    AttackRange = {9},
+    _NeedSkillList = {
+      {
+        SKID.GS_GLITTERING,
+        1
+      }
+    }
+  },
+  [SKID.GS_TRIPLEACTION] = {
+    "GS_TRIPLEACTION",
+    SkillName = "트리플 액션",
+    MaxLv = 1,
+    SpAmount = {20},
+    bSeperateLv = false,
+    AttackRange = {9},
+    _NeedSkillList = {
+      {
+        SKID.GS_GLITTERING,
+        1
+      }
+    }
+  },
+  [SKID.GS_BULLSEYE] = {
+    "GS_BULLSEYE",
+    SkillName = "불스 아이",
+    MaxLv = 1,
+    SpAmount = {30},
+    bSeperateLv = false,
+    AttackRange = {9},
+    _NeedSkillList = {
+      {
+        SKID.GS_GLITTERING,
+        5
+      }
+    }
+  },
+  [SKID.GS_MADNESSCANCEL] = {
+    "GS_MADNESSCANCEL",
+    SkillName = "매드니스 캔슬러",
+    MaxLv = 1,
+    SpAmount = {30},
+    bSeperateLv = false,
+    AttackRange = {1},
+    _NeedSkillList = {
+      {
+        SKID.GS_GLITTERING,
+        4
+      }
+    }
+  },
+  [SKID.GS_ADJUSTMENT] = {
+    "GS_ADJUSTMENT",
+    SkillName = "애드저스트먼트",
+    MaxLv = 1,
+    SpAmount = {15},
+    bSeperateLv = false,
+    AttackRange = {1},
+    _NeedSkillList = {
+      {
+        SKID.GS_GLITTERING,
+        4
+      }
+    }
+  },
+  [SKID.GS_INCREASING] = {
+    "GS_INCREASING",
+    SkillName = "인크리징 어큐러시",
+    MaxLv = 1,
+    SpAmount = {30},
+    bSeperateLv = false,
+    AttackRange = {1},
+    _NeedSkillList = {
+      {
+        SKID.GS_GLITTERING,
+        2
+      }
+    }
+  },
+  [SKID.GS_MAGICALBULLET] = {
+    "GS_MAGICALBULLET",
+    SkillName = "매지컬 블릿",
+    MaxLv = 1,
+    SpAmount = {7},
+    bSeperateLv = false,
+    AttackRange = {1},
+    _NeedSkillList = {
+      {
+        SKID.GS_GLITTERING,
+        1
+      }
+    }
+  },
+  [SKID.GS_CRACKER] = {
+    "GS_CRACKER",
+    SkillName = "크래커",
+    MaxLv = 1,
+    SpAmount = {10},
+    bSeperateLv = false,
+    AttackRange = {9},
+    _NeedSkillList = {
+      {
+        SKID.GS_GLITTERING,
+        1
+      }
+    }
+  },
+  [SKID.GS_SINGLEACTION] = {
+    "GS_SINGLEACTION",
+    SkillName = "싱글 액션",
+    MaxLv = 10,
+    SpAmount = {
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    },
+    bSeperateLv = false,
+    AttackRange = {
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    }
+  },
+  [SKID.GS_SNAKEEYE] = {
+    "GS_SNAKEEYE",
+    SkillName = "스네이크 아이",
+    MaxLv = 10,
+    SpAmount = {
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    },
+    bSeperateLv = false,
+    AttackRange = {
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    }
+  },
+  [SKID.GS_TRACKING] = {
+    "GS_TRACKING",
+    SkillName = "트래킹",
+    MaxLv = 10,
+    SpAmount = {
+      15,
+      20,
+      25,
+      30,
+      35,
+      40,
+      45,
+      50,
+      55,
+      60
+    },
+    bSeperateLv = true,
+    AttackRange = {
+      9,
+      9,
+      9,
+      9,
+      9,
+      9,
+      9,
+      9,
+      9,
+      9
+    },
+    _NeedSkillList = {
+      {
+        SKID.GS_SINGLEACTION,
+        5
+      }
+    }
+  },
+  [SKID.GS_DISARM] = {
+    "GS_DISARM",
+    SkillName = "디스암",
+    MaxLv = 5,
+    SpAmount = {
+      15,
+      20,
+      25,
+      30,
+      35
+    },
+    bSeperateLv = true,
+    AttackRange = {
+      9,
+      9,
+      9,
+      9,
+      9
+    },
+    _NeedSkillList = {
+      {
+        SKID.GS_TRACKING,
+        7
+      }
+    }
+  },
+  [SKID.GS_PIERCINGSHOT] = {
+    "GS_PIERCINGSHOT",
+    SkillName = "피어싱 샷",
+    MaxLv = 5,
+    SpAmount = {
+      11,
+      12,
+      13,
+      14,
+      15
+    },
+    bSeperateLv = true,
+    AttackRange = {
+      9,
+      9,
+      9,
+      9,
+      9
+    },
+    _NeedSkillList = {
+      {
+        SKID.GS_TRACKING,
+        5
+      }
+    }
+  },
+  [SKID.GS_RAPIDSHOWER] = {
+    "GS_RAPIDSHOWER",
+    SkillName = "래피드 샤워",
+    MaxLv = 10,
+    SpAmount = {
+      22,
+      24,
+      26,
+      28,
+      30,
+      32,
+      34,
+      36,
+      38,
+      40
+    },
+    bSeperateLv = true,
+    AttackRange = {
+      9,
+      9,
+      9,
+      9,
+      9,
+      9,
+      9,
+      9,
+      9,
+      9
+    },
+    _NeedSkillList = {
+      {
+        SKID.GS_CHAINACTION,
+        3
+      }
+    }
+  },
+  [SKID.GS_DESPERADO] = {
+    "GS_DESPERADO",
+    SkillName = "데스페라도",
+    MaxLv = 10,
+    SpAmount = {
+      32,
+      34,
+      36,
+      38,
+      40,
+      42,
+      44,
+      46,
+      48,
+      50
+    },
+    bSeperateLv = true,
+    AttackRange = {
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    },
+    _NeedSkillList = {
+      {
+        SKID.GS_RAPIDSHOWER,
+        5
+      }
+    }
+  },
+  [SKID.GS_GATLINGFEVER] = {
+    "GS_GATLINGFEVER",
+    SkillName = "개틀링 피버",
+    MaxLv = 10,
+    SpAmount = {
+      30,
+      32,
+      34,
+      36,
+      38,
+      40,
+      42,
+      44,
+      46,
+      48
+    },
+    bSeperateLv = true,
+    AttackRange = {
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    },
+    _NeedSkillList = {
+      {
+        SKID.GS_RAPIDSHOWER,
+        7
+      },
+      {
+        SKID.GS_DESPERADO,
+        5
+      }
+    }
+  },
+  [SKID.GS_DUST] = {
+    "GS_DUST",
+    SkillName = "더스트",
+    MaxLv = 10,
+    SpAmount = {
+      3,
+      6,
+      9,
+      12,
+      15,
+      18,
+      21,
+      24,
+      27,
+      30
+    },
+    bSeperateLv = true,
+    AttackRange = {
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2
+    },
+    _NeedSkillList = {
+      {
+        SKID.GS_SINGLEACTION,
+        5
+      }
+    }
+  },
+  [SKID.GS_FULLBUSTER] = {
+    "GS_FULLBUSTER",
+    SkillName = "풀 버스터",
+    MaxLv = 10,
+    SpAmount = {
+      20,
+      25,
+      30,
+      35,
+      40,
+      45,
+      50,
+      55,
+      60,
+      65
+    },
+    bSeperateLv = true,
+    AttackRange = {
+      9,
+      9,
+      9,
+      9,
+      9,
+      9,
+      9,
+      9,
+      9,
+      9
+    },
+    _NeedSkillList = {
+      {
+        SKID.GS_DUST,
+        3
+      }
+    }
+  },
+  [SKID.GS_SPREADATTACK] = {
+    "GS_SPREADATTACK",
+    SkillName = "스프레드 어택",
+    MaxLv = 10,
+    SpAmount = {
+      13,
+      16,
+      19,
+      22,
+      25,
+      28,
+      31,
+      34,
+      37,
+      40
+    },
+    bSeperateLv = true,
+    AttackRange = {
+      9,
+      9,
+      9,
+      9,
+      9,
+      9,
+      9,
+      9,
+      9,
+      9
+    },
+    _NeedSkillList = {
+      {
+        SKID.GS_SINGLEACTION,
+        5
+      }
+    }
+  },
+  [SKID.GS_GROUNDDRIFT] = {
+    "GS_GROUNDDRIFT",
+    SkillName = "그라운드 드리프트",
+    MaxLv = 10,
+    SpAmount = {
+      3,
+      6,
+      9,
+      12,
+      15,
+      18,
+      21,
+      24,
+      27,
+      30
+    },
+    bSeperateLv = true,
+    AttackRange = {
+      9,
+      9,
+      9,
+      9,
+      9,
+      9,
+      9,
+      9,
+      9,
+      9
+    },
+    _NeedSkillList = {
+      {
+        SKID.GS_SPREADATTACK,
+        7
+      }
+    }
+  },
+  [SKID.GS_CHAINACTION] = {
+    "GS_CHAINACTION",
+    SkillName = "체인 액션",
+    MaxLv = 10,
+    SpAmount = {
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    },
+    bSeperateLv = false,
+    AttackRange = {
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    },
+    _NeedSkillList = {
+      {
+        SKID.GS_SINGLEACTION,
+        1
+      }
+    }
+  },
+  [SKID.RL_FLICKER] = {
+    "RL_FLICKER",
+    SkillName = "플리커",
+    MaxLv = 1,
+    SpAmount = {2},
+    bSeperateLv = false,
+    AttackRange = {0},
+    _NeedSkillList = {
+      {
+        SKID.GS_FLING,
+        1
+      }
+    }
+  },
+  [SKID.RL_RICHS_COIN] = {
+    "RL_RICHS_COIN",
+    SkillName = "리치스 코인",
+    MaxLv = 1,
+    SpAmount = {10},
+    bSeperateLv = false,
+    AttackRange = {0},
+    _NeedSkillList = {
+      {
+        SKID.GS_GLITTERING,
+        5
+      }
+    }
+  },
+  [SKID.RL_E_CHAIN] = {
+    "RL_E_CHAIN",
+    SkillName = "이터널 체인",
+    MaxLv = 10,
+    SpAmount = {
+      45,
+      45,
+      45,
+      45,
+      45,
+      45,
+      45,
+      45,
+      45,
+      45
+    },
+    bSeperateLv = true,
+    AttackRange = {
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    },
+    _NeedSkillList = {
+      {
+        SKID.GS_GLITTERING,
+        1
+      },
+      {
+        SKID.GS_CHAINACTION,
+        10
+      }
+    }
+  },
+  [SKID.RL_QD_SHOT] = {
+    "RL_QD_SHOT",
+    SkillName = "퀵 드로우 샷",
+    MaxLv = 1,
+    SpAmount = {5},
+    bSeperateLv = false,
+    AttackRange = {0},
+    _NeedSkillList = {
+      {
+        SKID.GS_CHAINACTION,
+        1
+      }
+    }
+  },
+  [SKID.RL_C_MARKER] = {
+    "RL_C_MARKER",
+    SkillName = "크림즌 마커",
+    MaxLv = 1,
+    SpAmount = {10},
+    bSeperateLv = false,
+    AttackRange = {11},
+    _NeedSkillList = {
+      {
+        SKID.GS_GLITTERING,
+        1
+      }
+    }
+  },
+  [SKID.RL_P_ALTER] = {
+    "RL_P_ALTER",
+    SkillName = "플래티넘 알터",
+    MaxLv = 5,
+    SpAmount = {
+      20,
+      24,
+      28,
+      32,
+      36
+    },
+    bSeperateLv = true,
+    AttackRange = {
+      0,
+      0,
+      0,
+      0,
+      0
+    },
+    _NeedSkillList = {
+      {
+        SKID.RL_RICHS_COIN,
+        1
+      }
+    }
+  },
+  [SKID.RL_B_TRAP] = {
+    "RL_B_TRAP",
+    SkillName = "바인드 트랩",
+    MaxLv = 5,
+    SpAmount = {
+      30,
+      32,
+      34,
+      36,
+      38
+    },
+    bSeperateLv = true,
+    AttackRange = {
+      0,
+      0,
+      0,
+      0,
+      0
+    },
+    {
+      {
+        SKID.RL_FLICKER,
+        1
+      }
+    }
+  },
+  [SKID.RL_HEAT_BARREL] = {
+    "RL_HEAT_BARREL",
+    SkillName = "히트 배럴",
+    MaxLv = 5,
+    SpAmount = {
+      30,
+      30,
+      30,
+      30,
+      30
+    },
+    bSeperateLv = true,
+    AttackRange = {
+      0,
+      0,
+      0,
+      0,
+      0
+    },
+    _NeedSkillList = {
+      {
+        SKID.RL_RICHS_COIN,
+        1
+      }
+    }
+  },
+  [SKID.RL_FIREDANCE] = {
+    "RL_FIREDANCE",
+    SkillName = "파이어 댄스",
+    MaxLv = 5,
+    SpAmount = {
+      10,
+      15,
+      20,
+      25,
+      30
+    },
+    bSeperateLv = true,
+    AttackRange = {
+      0,
+      0,
+      0,
+      0,
+      0
+    },
+    _NeedSkillList = {
+      {
+        SKID.GS_DESPERADO,
+        1
+      }
+    }
+  },
+  [SKID.RL_FALLEN_ANGEL] = {
+    "RL_FALLEN_ANGEL",
+    SkillName = "펄른 엔젤",
+    MaxLv = 1,
+    SpAmount = {10},
+    bSeperateLv = false,
+    AttackRange = {9},
+    _NeedSkillList = {
+      {
+        SKID.GS_DESPERADO,
+        10
+      }
+    }
+  },
+  [SKID.RL_MASS_SPIRAL] = {
+    "RL_MASS_SPIRAL",
+    SkillName = "매스 스파이럴",
+    MaxLv = 5,
+    SpAmount = {
+      80,
+      84,
+      88,
+      92,
+      96
+    },
+    bSeperateLv = true,
+    AttackRange = {
+      15,
+      15,
+      15,
+      15,
+      15
+    },
+    _NeedSkillList = {
+      {
+        SKID.GS_PIERCINGSHOT,
+        1
+      }
+    }
+  },
+  [SKID.RL_AM_BLAST] = {
+    "RL_AM_BLAST",
+    SkillName = "안티 매터리얼 블래스트",
+    MaxLv = 5,
+    SpAmount = {
+      80,
+      84,
+      88,
+      92,
+      96
+    },
+    bSeperateLv = true,
+    AttackRange = {
+      15,
+      15,
+      15,
+      15,
+      15
+    },
+    _NeedSkillList = {
+      {
+        SKID.RL_MASS_SPIRAL,
+        1
+      }
+    }
+  },
+  [SKID.RL_HAMMER_OF_GOD] = {
+    "RL_HAMMER_OF_GOD",
+    SkillName = "해머 오브 갓",
+    MaxLv = 5,
+    SpAmount = {
+      35,
+      40,
+      45,
+      50,
+      55
+    },
+    bSeperateLv = true,
+    AttackRange = {
+      7,
+      8,
+      9,
+      10,
+      11
+    },
+    _NeedSkillList = {
+      {
+        SKID.RL_RICHS_COIN,
+        1
+      },
+      {
+        SKID.RL_AM_BLAST,
+        3
+      }
+    }
+  },
+  [SKID.RL_R_TRIP] = {
+    "RL_R_TRIP",
+    SkillName = "라운드 트립",
+    MaxLv = 5,
+    SpAmount = {
+      40,
+      45,
+      50,
+      55,
+      60
+    },
+    bSeperateLv = true,
+    AttackRange = {
+      0,
+      0,
+      0,
+      0,
+      0
+    },
+    _NeedSkillList = {
+      {
+        SKID.RL_FIRE_RAIN,
+        1
+      }
+    }
+  },
+  [SKID.RL_FIRE_RAIN] = {
+    "RL_FIRE_RAIN",
+    SkillName = "파이어 레인",
+    MaxLv = 5,
+    SpAmount = {
+      70,
+      70,
+      70,
+      70,
+      70
+    },
+    bSeperateLv = true,
+    AttackRange = {
+      3,
+      3,
+      3,
+      3,
+      3
+    },
+    _NeedSkillList = {
+      {
+        SKID.GS_GATLINGFEVER,
+        1
+      }
+    }
+  },
+  [SKID.RL_BANISHING_BUSTER] = {
+    "RL_BANISHING_BUSTER",
+    SkillName = "배니싱 버스터",
+    MaxLv = 5,
+    SpAmount = {
+      55,
+      60,
+      65,
+      70,
+      75
+    },
+    bSeperateLv = true,
+    AttackRange = {
+      9,
+      9,
+      9,
+      9,
+      9
+    },
+    _NeedSkillList = {
+      {
+        SKID.RL_S_STORM,
+        1
+      }
+    }
+  },
+  [SKID.RL_S_STORM] = {
+    "RL_S_STORM",
+    SkillName = "섀터 스톰",
+    MaxLv = 5,
+    SpAmount = {
+      50,
+      55,
+      60,
+      65,
+      70
+    },
+    bSeperateLv = true,
+    AttackRange = {
+      9,
+      9,
+      9,
+      9,
+      9
+    },
+    _NeedSkillList = {
+      {
+        SKID.GS_DISARM,
+        1
+      },
+      {
+        SKID.GS_DUST,
+        1
+      }
+    }
+  },
+  [SKID.RL_SLUGSHOT] = {
+    "RL_SLUGSHOT",
+    SkillName = "슬러그 샷",
+    MaxLv = 5,
+    SpAmount = {
+      80,
+      84,
+      88,
+      92,
+      96
+    },
+    bSeperateLv = true,
+    AttackRange = {
+      9,
+      9,
+      9,
+      9,
+      9
+    },
+    _NeedSkillList = {
+      {
+        SKID.RL_BANISHING_BUSTER,
+        3
+      }
+    }
+  },
+  [SKID.RL_D_TAIL] = {
+    "RL_D_TAIL",
+    SkillName = "드래곤 테일",
+    MaxLv = 5,
+    SpAmount = {
+      60,
+      70,
+      80,
+      90,
+      100
+    },
+    bSeperateLv = true,
+    AttackRange = {
+      0,
+      0,
+      0,
+      0,
+      0
+    },
+    _NeedSkillList = {
+      {
+        SKID.RL_H_MINE,
+        3
+      },
+      {
+        SKID.RL_C_MARKER,
+        1
+      }
+    }
+  },
+  [SKID.RL_H_MINE] = {
+    "RL_H_MINE",
+    SkillName = "하울링 마인",
+    MaxLv = 5,
+    SpAmount = {
+      45,
+      50,
+      55,
+      60,
+      65
+    },
+    bSeperateLv = true,
+    AttackRange = {
+      7,
+      8,
+      9,
+      10,
+      11
+    },
+    _NeedSkillList = {
+      {
+        SKID.GS_GROUNDDRIFT,
+        1
+      }
+    }
   }
 }
