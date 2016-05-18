@@ -27326,11 +27326,11 @@ SKILL_INFO_LIST = {
     SkillName = "파이어 댄스",
     MaxLv = 5,
     SpAmount = {
-      10,
-      15,
-      20,
-      25,
-      30
+      12,
+      14,
+      16,
+      18,
+      20
     },
     bSeperateLv = true,
     AttackRange = {
@@ -27366,11 +27366,11 @@ SKILL_INFO_LIST = {
     SkillName = "매스 스파이럴",
     MaxLv = 5,
     SpAmount = {
-      80,
-      84,
-      88,
-      92,
-      96
+      40,
+      44,
+      48,
+      52,
+      56
     },
     bSeperateLv = true,
     AttackRange = {
