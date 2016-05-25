@@ -165,6 +165,7 @@ MsgStrID = {
   MSI_PVPINFO = "/pvpinfo : 자신의 PVP 승패와 PVP 포인트를 알 수 있습니다.",
   MSI_HUNTING = "/hunting : 사냥 목록을 보여줍니다",
   MSI_MINIMAP_BUTTON_ONOFF = "/minimap : 미니맵 밑의 버튼을 On/Off 합니다.",
+  MSI_MINEFFECT_ONOFF = "/mineffect : 이펙트 간략화 On/off",
   MSI_MAP_LIST_ALLSELECT = "모두 선택",
   MSI_MAP_LIST_NAME_PRONTERA = "프론테라",
   MSI_MAP_LIST_NAME_FILD = "필드",
