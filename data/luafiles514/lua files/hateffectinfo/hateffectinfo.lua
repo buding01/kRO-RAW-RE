@@ -37,7 +37,13 @@ HatEFID = {
   HAT_EF_WHITEBODY = 36,
   HAT_EF_SAKURA = 37,
   HAT_EF_CLOUD2 = 38,
-  HAT_EF_Feather_Fluttering = 39
+  HAT_EF_Feather_Fluttering = 39,
+  HAT_EF_Camellia_Hair_Pin = 40,
+  HAT_EF_Jp_Ev_Effect01 = 41,
+  HAT_EF_Jp_Ev_Effect02 = 42,
+  HAT_EF_Jp_Ev_Effect03 = 43,
+  HAT_EF_Floral_Waltz = 44,
+  HAT_EF_magical_feather = 45
 }
 hatEffectTable = {
   [HatEFID.HAT_EF_Blossom_Fluttering] = {
@@ -108,6 +114,21 @@ hatEffectTable = {
   [HatEFID.HAT_EF_Feather_Fluttering] = {
     resourceFileName = "efst_feather_fluttering\\feath.str",
     hatEffectPos = -4
+  },
+  [HatEFID.HAT_EF_Camellia_Hair_Pin] = {
+    resourceFileName = "efst_flowersmoke\\flowersmoke.str",
+    hatEffectPos = -8
+  },
+  [HatEFID.HAT_EF_Jp_Ev_Effect01] = {hatEffectID = 293},
+  [HatEFID.HAT_EF_Jp_Ev_Effect02] = {hatEffectID = 293},
+  [HatEFID.HAT_EF_Jp_Ev_Effect03] = {hatEffectID = 293},
+  [HatEFID.HAT_EF_Floral_Waltz] = {
+    resourceFileName = "efst_Floral_Waltz\\Floral_Waltz.str",
+    hatEffectPos = -8
+  },
+  [HatEFID.HAT_EF_magical_feather] = {
+    resourceFileName = "efst_magical_feather\\magical_feather.str",
+    hatEffectPos = -5
   }
 }
 function GetHatEfResName(index)
