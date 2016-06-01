@@ -6900,3 +6900,70 @@ StateIconList[EFST_IDs.EFST_H_MINE] = {
     }
   }
 }
+StateIconList[EFST_IDs.EFST_AID_PERIOD_RECEIVEITEM] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
+  descript = {
+    {
+      "드랍율 향상",
+      COLOR_TITLE_BUFF
+    },
+    {"%s", COLOR_TIME},
+    {
+      "아이템 드랍율 증가."
+    }
+  }
+}
+StateIconList[EFST_IDs.EFST_AID_PERIOD_PLUSEXP] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
+  descript = {
+    {
+      "경험치 향상",
+      COLOR_TITLE_BUFF
+    },
+    {"%s", COLOR_TIME},
+    {
+      "경험치 획득율 증가."
+    }
+  }
+}
+StateIconList[EFST_IDs.EFST_AID_PERIOD_PLUSJOBEXP] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
+  descript = {
+    {
+      "잡 경험치 향상",
+      COLOR_TITLE_BUFF
+    },
+    {"%s", COLOR_TIME},
+    {
+      "잡 경험치 획득율 증가."
+    }
+  }
+}
+StateIconList[EFST_IDs.EFST_AID_PERIOD_DEADPENALTY] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
+  descript = {
+    {
+      "데스페널티 하락",
+      COLOR_TITLE_BUFF
+    },
+    {"%s", COLOR_TIME},
+    {
+      "데스 페널티 하락."
+    }
+  }
+}
+StateIconList[EFST_IDs.EFST_AID_PERIOD_ADDSTOREITEMCOUNT] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
+  descript = {
+    {"창고 확장", COLOR_TITLE_BUFF},
+    {"%s", COLOR_TIME},
+    {
+      "창고 보관 개수 증가"
+    }
+  }
+}
