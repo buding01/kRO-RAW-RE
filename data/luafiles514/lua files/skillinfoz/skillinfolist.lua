@@ -69,7 +69,7 @@ SKILL_INFO_LIST = {
   },
   [SKID.NPC_IGNITIONBREAK] = {
     "NPC_IGNITIONBREAK",
-    SkillName = "익시드 브레이크",
+    SkillName = "이그니션 브레이크",
     MaxLv = 5,
     SpAmount = {
       0,
@@ -7675,6 +7675,13 @@ SKILL_INFO_LIST = {
       1,
       1,
       1
+    },
+    SkillScale = {
+      [1] = {x = 5, y = 5},
+      [2] = {x = 11, y = 11},
+      [3] = {x = 17, y = 17},
+      [4] = {x = 23, y = 23},
+      [5] = {x = 29, y = 29}
     }
   },
   [SKID.NPC_CRITICALWOUND] = {
@@ -7839,6 +7846,18 @@ SKILL_INFO_LIST = {
       1,
       1,
       1
+    },
+    SkillScale = {
+      [1] = {x = 5, y = 5},
+      [2] = {x = 11, y = 11},
+      [3] = {x = 17, y = 17},
+      [4] = {x = 23, y = 23},
+      [5] = {x = 27, y = 27},
+      [6] = {x = 27, y = 27},
+      [7] = {x = 27, y = 27},
+      [8] = {x = 27, y = 27},
+      [9] = {x = 27, y = 27},
+      [10] = {x = 27, y = 27}
     }
   },
   [SKID.NPC_WIDESOULDRAIN] = {
@@ -7869,6 +7888,18 @@ SKILL_INFO_LIST = {
       1,
       1,
       1
+    },
+    SkillScale = {
+      [1] = {x = 5, y = 5},
+      [2] = {x = 11, y = 11},
+      [3] = {x = 17, y = 17},
+      [4] = {x = 23, y = 23},
+      [5] = {x = 27, y = 27},
+      [6] = {x = 27, y = 27},
+      [7] = {x = 27, y = 27},
+      [8] = {x = 27, y = 27},
+      [9] = {x = 27, y = 27},
+      [10] = {x = 27, y = 27}
     }
   },
   [SKID.ALL_INCCARRY] = {
@@ -23945,10 +23976,10 @@ SKILL_INFO_LIST = {
     SkillName = "다크 일루젼",
     MaxLv = 5,
     SpAmount = {
-      40,
-      40,
-      40,
-      40,
+      20,
+      25,
+      30,
+      35,
       40
     },
     bSeperateLv = true,
@@ -26574,6 +26605,254 @@ SKILL_INFO_LIST = {
     SpAmount = {0},
     bSeperateLv = false,
     AttackRange = {1}
+  },
+  [SKID.SU_SOULATTACK] = {
+    "SU_SOULATTACK",
+    SkillName = "심령어택",
+    MaxLv = 1,
+    SpAmount = {0},
+    bSeperateLv = false,
+    AttackRange = {9},
+    _NeedSkillList = {
+      {
+        SKID.SU_SPRITEMABLE,
+        1
+      }
+    }
+  },
+  [SKID.SU_POWEROFFLOCK] = {
+    "SU_POWEROFFLOCK",
+    SkillName = "무리의 힘",
+    MaxLv = 5,
+    SpAmount = {
+      50,
+      50,
+      50,
+      50,
+      50
+    },
+    bSeperateLv = true,
+    AttackRange = {},
+    _NeedSkillList = {
+      {
+        SKID.SU_HISS,
+        5
+      }
+    }
+  },
+  [SKID.SU_SVG_SPIRIT] = {
+    "SU_SVG_SPIRIT",
+    SkillName = "세비지의 영혼",
+    MaxLv = 5,
+    SpAmount = {
+      60,
+      60,
+      60,
+      60,
+      60
+    },
+    bSeperateLv = true,
+    AttackRange = {
+      9,
+      9,
+      9,
+      9,
+      9
+    },
+    _NeedSkillList = {
+      {
+        SKID.SU_POWEROFFLOCK,
+        5
+      }
+    }
+  },
+  [SKID.SU_HISS] = {
+    "SU_HISS",
+    SkillName = "히스",
+    MaxLv = 5,
+    SpAmount = {
+      50,
+      46,
+      42,
+      38,
+      34
+    },
+    bSeperateLv = true,
+    AttackRange = {},
+    _NeedSkillList = {
+      {
+        SKID.SU_POWEROFLIFE,
+        1
+      }
+    }
+  },
+  [SKID.SU_NYANGGRASS] = {
+    "SU_NYANGGRASS",
+    SkillName = "냥 그라스",
+    MaxLv = 5,
+    SpAmount = {
+      50,
+      48,
+      46,
+      44,
+      42
+    },
+    bSeperateLv = true,
+    AttackRange = {
+      9,
+      9,
+      9,
+      9,
+      9
+    },
+    _NeedSkillList = {
+      {
+        SKID.SU_MEOWMEOW,
+        5
+      }
+    }
+  },
+  [SKID.SU_GROOMING] = {
+    "SU_GROOMING",
+    SkillName = "그루밍",
+    MaxLv = 5,
+    SpAmount = {
+      15,
+      15,
+      15,
+      15,
+      15
+    },
+    bSeperateLv = true,
+    AttackRange = {},
+    _NeedSkillList = {
+      {
+        SKID.SU_POWEROFSEA,
+        1
+      }
+    }
+  },
+  [SKID.SU_PURRING] = {
+    "SU_PURRING",
+    SkillName = "퓨어링",
+    MaxLv = 5,
+    SpAmount = {
+      70,
+      65,
+      60,
+      55,
+      50
+    },
+    bSeperateLv = true,
+    AttackRange = {},
+    _NeedSkillList = {
+      {
+        SKID.SU_GROOMING,
+        5
+      }
+    }
+  },
+  [SKID.SU_SHRIMPARTY] = {
+    "SU_SHRIMPARTY",
+    SkillName = "맛있는 새우파티",
+    MaxLv = 5,
+    SpAmount = {
+      100,
+      90,
+      80,
+      70,
+      60
+    },
+    bSeperateLv = true,
+    AttackRange = {},
+    _NeedSkillList = {
+      {
+        SKID.SU_PURRING,
+        5
+      }
+    }
+  },
+  [SKID.SU_SPIRITOFLIFE] = {
+    "SU_SPIRITOFLIFE",
+    SkillName = "생명의 혼",
+    MaxLv = 1,
+    SpAmount = {},
+    bSeperateLv = false,
+    AttackRange = {},
+    _NeedSkillList = {
+      {
+        SKID.SU_SVG_SPIRIT,
+        5
+      }
+    }
+  },
+  [SKID.SU_MEOWMEOW] = {
+    "SU_MEOWMEOW",
+    SkillName = "냥냥",
+    MaxLv = 5,
+    SpAmount = {
+      100,
+      90,
+      80,
+      70,
+      60
+    },
+    bSeperateLv = true,
+    AttackRange = {},
+    _NeedSkillList = {
+      {
+        SKID.SU_CHATTERING,
+        5
+      }
+    }
+  },
+  [SKID.SU_SPIRITOFLAND] = {
+    "SU_SPIRITOFLAND",
+    SkillName = "대지의 혼",
+    MaxLv = 1,
+    SpAmount = {},
+    bSeperateLv = false,
+    AttackRange = {},
+    _NeedSkillList = {
+      {
+        SKID.SU_NYANGGRASS,
+        5
+      }
+    }
+  },
+  [SKID.SU_CHATTERING] = {
+    "SU_CHATTERING",
+    SkillName = "채터링",
+    MaxLv = 5,
+    SpAmount = {
+      50,
+      45,
+      40,
+      35,
+      30
+    },
+    bSeperateLv = true,
+    AttackRange = {},
+    _NeedSkillList = {
+      {
+        SKID.SU_POWEROFLAND,
+        1
+      }
+    }
+  },
+  [SKID.SU_SPIRITOFSEA] = {
+    "SU_SPIRITOFSEA",
+    SkillName = "바다의 혼",
+    MaxLv = 1,
+    SpAmount = {},
+    bSeperateLv = false,
+    AttackRange = {},
+    _NeedSkillList = {
+      {
+        SKID.SU_SHRIMPARTY,
+        5
+      }
+    }
   },
   [SKID.GS_GLITTERING] = {
     "GS_GLITTERING",
