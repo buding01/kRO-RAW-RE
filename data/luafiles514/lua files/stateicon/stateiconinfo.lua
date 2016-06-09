@@ -6566,6 +6566,17 @@ StateIconList[EFST_IDs.EFST_RESIST_PROPERTY_UNDEAD] = {
     {"%s", COLOR_TIME}
   }
 }
+StateIconList[EFST_IDs.EFST_CHERRY_BLOSSOM_CAKE] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
+  descript = {
+    {"벚꽃 찰떡", COLOR_TITLE_BUFF},
+    {"%s", COLOR_TIME},
+    {
+      "소,중,대형 적으로부터 데미지 감소"
+    }
+  }
+}
 StateIconList[EFST_IDs.EFST_HELM_VERKANA] = {
   haveTimeLimit = 1,
   posTimeLimitStr = 2,
@@ -6872,6 +6883,67 @@ StateIconList[EFST_IDs.EFST_EP16_2_BUFF_AC] = {
     }
   }
 }
+StateIconList[EFST_IDs.EFST_HISS] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
+  descript = {
+    {"히스", COLOR_TITLE_BUFF},
+    {"%s", COLOR_TIME},
+    {
+      "완전 회피, 이동속도 증가"
+    }
+  }
+}
+StateIconList[EFST_IDs.EFST_NYANGGRASS] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
+  descript = {
+    {"냥 그라스", COLOR_TITLE_BUFF},
+    {"%s", COLOR_TIME},
+    {
+      "장비 아이템의 방어력을 무력화"
+    }
+  }
+}
+StateIconList[EFST_IDs.EFST_CHATTERING] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
+  descript = {
+    {"채터링", COLOR_TITLE_BUFF},
+    {"%s", COLOR_TIME},
+    {
+      "5초간 ATK, MATK + 300"
+    },
+    {
+      "10초간 이동속도 증가"
+    }
+  }
+}
+StateIconList[EFST_IDs.EFST_GROOMING] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
+  descript = {
+    {"그루밍", COLOR_TITLE_BUFF},
+    {"%s", COLOR_TIME},
+    {
+      "공격속도 증가"
+    }
+  }
+}
+StateIconList[EFST_IDs.EFST_PROTECTIONOFSHRIMP] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
+  descript = {
+    {
+      "새우의 가호",
+      COLOR_TITLE_BUFF
+    },
+    {"%s", COLOR_TIME},
+    {
+      "SP 회복력 증가"
+    }
+  }
+}
 StateIconList[EFST_IDs.EFST_GS_MAGICAL_BULLET] = {
   haveTimeLimit = 1,
   posTimeLimitStr = 2,
@@ -6964,6 +7036,48 @@ StateIconList[EFST_IDs.EFST_AID_PERIOD_ADDSTOREITEMCOUNT] = {
     {"%s", COLOR_TIME},
     {
       "창고 보관 개수 증가"
+    }
+  }
+}
+StateIconList[EFST_IDs.EFST_AID_PERIOD_RECEIVEITEM_2ND] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
+  descript = {
+    {
+      "드랍율 향상",
+      COLOR_TITLE_BUFF
+    },
+    {"%s", COLOR_TIME},
+    {
+      "아이템 드랍율 증가.(1달버프)"
+    }
+  }
+}
+StateIconList[EFST_IDs.EFST_AID_PERIOD_PLUSEXP_2ND] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
+  descript = {
+    {
+      "경험치 향상",
+      COLOR_TITLE_BUFF
+    },
+    {"%s", COLOR_TIME},
+    {
+      "경험치 획득율 증가.(1달버프)"
+    }
+  }
+}
+StateIconList[EFST_IDs.EFST_AID_PERIOD_PLUSJOBEXP_2ND] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
+  descript = {
+    {
+      "잡 경험치 향상",
+      COLOR_TITLE_BUFF
+    },
+    {"%s", COLOR_TIME},
+    {
+      "잡 경험치 획득율 증가.(1달버프)"
     }
   }
 }
