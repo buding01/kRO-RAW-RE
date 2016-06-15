@@ -6926,7 +6926,7 @@ StateIconList[EFST_IDs.EFST_GROOMING] = {
     {"그루밍", COLOR_TITLE_BUFF},
     {"%s", COLOR_TIME},
     {
-      "공격속도 증가"
+      "FLEE 100 증가"
     }
   }
 }
