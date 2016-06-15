@@ -6912,7 +6912,7 @@ StateIconList[EFST_IDs.EFST_CHATTERING] = {
     {"채터링", COLOR_TITLE_BUFF},
     {"%s", COLOR_TIME},
     {
-      "5초간 ATK, MATK + 300"
+      "5초간 ATK, MATK + 100"
     },
     {
       "10초간 이동속도 증가"
