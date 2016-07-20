@@ -43,7 +43,12 @@ HatEFID = {
   HAT_EF_Jp_Ev_Effect02 = 42,
   HAT_EF_Jp_Ev_Effect03 = 43,
   HAT_EF_Floral_Waltz = 44,
-  HAT_EF_magical_feather = 45
+  HAT_EF_magical_feather = 45,
+  HAT_EF_HAT_EFFECT = 46,
+  HAT_EF_BAKURETSU_HADOU = 47,
+  HAT_EF_gold_shower = 48,
+  HAT_EF_WHITEBODY = 49,
+  HAT_EF_WATER_BELOW = 50
 }
 hatEffectTable = {
   [HatEFID.HAT_EF_Blossom_Fluttering] = {
@@ -129,7 +134,15 @@ hatEffectTable = {
   [HatEFID.HAT_EF_magical_feather] = {
     resourceFileName = "efst_magical_feather\\magical_feather.str",
     hatEffectPos = -5
-  }
+  },
+  [HatEFID.HAT_EF_HAT_EFFECT] = {hatEffectID = 1012},
+  [HatEFID.HAT_EF_BAKURETSU_HADOU] = {hatEffectID = 1130},
+  [HatEFID.HAT_EF_gold_shower] = {
+    resourceFileName = "efst_Gold_Shower\\coin2.str",
+    hatEffectPos = -7
+  },
+  [HatEFID.HAT_EF_WHITEBODY] = {hatEffectID = 1131},
+  [HatEFID.HAT_EF_WATER_BELOW] = {hatEffectID = 838}
 }
 function GetHatEfResName(index)
   if hatEffectTable == nil then
