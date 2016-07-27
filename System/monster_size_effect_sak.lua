@@ -2570,6 +2570,10 @@ tbl = {
   [3636] = {
     MonsterSize = 0.7,
     MonsterEff = EFFECT.EF_BOTTOM_BARRIER
+  },
+  [3657] = {
+    MonsterSize = 2,
+    MonsterEff = EFFECT.EF_NONE
   }
 }
 function main()
