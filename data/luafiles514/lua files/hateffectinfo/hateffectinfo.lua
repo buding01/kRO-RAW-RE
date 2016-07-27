@@ -34,7 +34,7 @@ HatEFID = {
   HAT_EF_STRANGELIGHTS = 33,
   HAT_EF_WL_TELEKINESIS_INTENSE = 34,
   HAT_EF_AB_OFFERTORIUM_RING = 35,
-  HAT_EF_WHITEBODY = 36,
+  HAT_EF_WHITEBODY2 = 36,
   HAT_EF_SAKURA = 37,
   HAT_EF_CLOUD2 = 38,
   HAT_EF_Feather_Fluttering = 39,
@@ -48,7 +48,8 @@ HatEFID = {
   HAT_EF_BAKURETSU_HADOU = 47,
   HAT_EF_gold_shower = 48,
   HAT_EF_WHITEBODY = 49,
-  HAT_EF_WATER_BELOW = 50
+  HAT_EF_WATER_BELOW2 = 50,
+  HAT_EF_firework = 51
 }
 hatEffectTable = {
   [HatEFID.HAT_EF_Blossom_Fluttering] = {
@@ -113,7 +114,7 @@ hatEffectTable = {
   [HatEFID.HAT_EF_STRANGELIGHTS] = {hatEffectID = 1035},
   [HatEFID.HAT_EF_WL_TELEKINESIS_INTENSE] = {hatEffectID = 1048},
   [HatEFID.HAT_EF_AB_OFFERTORIUM_RING] = {hatEffectID = 1057},
-  [HatEFID.HAT_EF_WHITEBODY] = {hatEffectID = 1065},
+  [HatEFID.HAT_EF_WHITEBODY2] = {hatEffectID = 1065},
   [HatEFID.HAT_EF_SAKURA] = {hatEffectID = 163},
   [HatEFID.HAT_EF_CLOUD2] = {hatEffectID = 230},
   [HatEFID.HAT_EF_Feather_Fluttering] = {
@@ -142,7 +143,11 @@ hatEffectTable = {
     hatEffectPos = -7
   },
   [HatEFID.HAT_EF_WHITEBODY] = {hatEffectID = 1131},
-  [HatEFID.HAT_EF_WATER_BELOW] = {hatEffectID = 838}
+  [HatEFID.HAT_EF_WATER_BELOW2] = {hatEffectID = 838},
+  [HatEFID.HAT_EF_firework] = {
+    resourceFileName = "efst_firework\\firework.str",
+    hatEffectPos = 0
+  }
 }
 function GetHatEfResName(index)
   if hatEffectTable == nil then

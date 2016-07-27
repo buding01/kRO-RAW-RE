@@ -185,7 +185,10 @@ StateIconImgList = {
     [EFST_IDs.EFST_DORAM_BUF_02] = "소형생명수.TGA",
     [EFST_IDs.EFST_EP16_2_BUFF_SS] = "efst_atk.TGA",
     [EFST_IDs.EFST_EP16_2_BUFF_SC] = "efst_atk.TGA",
-    [EFST_IDs.EFST_EP16_2_BUFF_AC] = "efst_atk.TGA"
+    [EFST_IDs.EFST_EP16_2_BUFF_AC] = "efst_atk.TGA",
+    [EFST_IDs.EFST_GLOOM_CARD] = "efst_atk.TGA",
+    [EFST_IDs.EFST_PHARAOH_CARD] = "대환단.tga",
+    [EFST_IDs.EFST_KIEL_CARD] = "태청단.tga"
   },
   [PRIORITY_GREEN] = {
     [EFST_IDs.EFST_SET_NUM_DEF] = "SETDEF.TGA",

@@ -3485,5 +3485,8 @@ JobNameTable = {
   [jobtbl.JT_MD_ZOMBIE_100] = "ZOMBIE",
   [jobtbl.JT_MD_ZOMBIE_120] = "ZOMBIE",
   [jobtbl.JT_MD_ZOMBIE_140] = "ZOMBIE",
-  [jobtbl.JT_MD_ZOMBIE_160] = "ZOMBIE"
+  [jobtbl.JT_MD_ZOMBIE_160] = "ZOMBIE",
+  [jobtbl.JT_B_THE_PAPER] = "THE_PAPER",
+  [jobtbl.JT_B_THE_PAPER2] = "THE_PAPER",
+  [jobtbl.JT_B_KIEL_] = "KIEL_"
 }

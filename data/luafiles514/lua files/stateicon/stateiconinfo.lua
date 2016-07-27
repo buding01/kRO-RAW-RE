@@ -7039,3 +7039,45 @@ StateIconList[EFST_IDs.EFST_AID_PERIOD_ADDSTOREITEMCOUNT] = {
     }
   }
 }
+StateIconList[EFST_IDs.EFST_GLOOM_CARD] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
+  descript = {
+    {
+      "공격력 증가",
+      COLOR_TITLE_BUFF
+    },
+    {"%s", COLOR_TIME},
+    {
+      "성속성,암속성,천사형,악마형에게 물리 공격력 +20%"
+    }
+  }
+}
+StateIconList[EFST_IDs.EFST_PHARAOH_CARD] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
+  descript = {
+    {
+      "SP 소모량 감소",
+      COLOR_TITLE_BUFF
+    },
+    {"%s", COLOR_TIME},
+    {
+      "스킬 SP소모량 -15%"
+    }
+  }
+}
+StateIconList[EFST_IDs.EFST_KIEL_CARD] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
+  descript = {
+    {
+      "스킬 후딜레이 감소",
+      COLOR_TITLE_BUFF
+    },
+    {"%s", COLOR_TIME},
+    {
+      "스킬 후 딜레이 -15%"
+    }
+  }
+}
