@@ -1584,6 +1584,19 @@ tblLapineDdukddakBox = {
       },
       NeedSource_String = "해달 미니 선풍기"
     },
+    ["제복수선키트"] = {
+      ItemID = 23175,
+      NeedCount = 1,
+      NeedRefineMin = 0,
+      SourceItems = {
+        {
+          "카프라제복",
+          1,
+          15186
+        }
+      },
+      NeedSource_String = "카프라 제복"
+    },
     ["의상스톤뚝딱상자"] = {
       ItemID = 23151,
       NeedCount = 3,
