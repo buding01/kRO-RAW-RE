@@ -1486,5 +1486,7 @@ ACCESSORY_IDs = {
   ACCESSORY_White_Rose_Princess = 1493,
   ACCESSORY_First_Love_Cheek = 1494,
   ACCESSORY_White_Lily_Black = 1495,
-  ACCESSORY_RoCelebrationHat = 1541
+  ACCESSORY_RoCelebrationHat = 1541,
+  ACCESSORY_Para_Team_Hat100 = 1529,
+  ACCESSORY_Para_Team_Hat160 = 1530
 }
