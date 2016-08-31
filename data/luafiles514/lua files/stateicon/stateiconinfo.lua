@@ -7039,6 +7039,48 @@ StateIconList[EFST_IDs.EFST_AID_PERIOD_ADDSTOREITEMCOUNT] = {
     }
   }
 }
+StateIconList[EFST_IDs.EFST_AID_PERIOD_RECEIVEITEM_2ND] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
+  descript = {
+    {
+      "드랍율 향상",
+      COLOR_TITLE_BUFF
+    },
+    {"%s", COLOR_TIME},
+    {
+      "아이템 드랍율 증가.(1달버프)"
+    }
+  }
+}
+StateIconList[EFST_IDs.EFST_AID_PERIOD_PLUSEXP_2ND] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
+  descript = {
+    {
+      "경험치 향상",
+      COLOR_TITLE_BUFF
+    },
+    {"%s", COLOR_TIME},
+    {
+      "경험치 획득율 증가.(1달버프)"
+    }
+  }
+}
+StateIconList[EFST_IDs.EFST_AID_PERIOD_PLUSJOBEXP_2ND] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
+  descript = {
+    {
+      "잡 경험치 향상",
+      COLOR_TITLE_BUFF
+    },
+    {"%s", COLOR_TIME},
+    {
+      "잡 경험치 획득율 증가.(1달버프)"
+    }
+  }
+}
 StateIconList[EFST_IDs.EFST_GLOOM_CARD] = {
   haveTimeLimit = 1,
   posTimeLimitStr = 2,

@@ -1210,6 +1210,16 @@ worldtable_main = {
     "80"
   },
   {
+    43,
+    "mal_dun01.rsw",
+    1144,
+    512,
+    1234,
+    548,
+    WORLD_MSGID.MSI_43_MAL_DUN01,
+    "90"
+  },
+  {
     100,
     "hugel.rsw",
     871,
@@ -2588,6 +2598,16 @@ worldtable_main = {
     1004,
     WORLD_MSGID.MSI_111_TUR_DUN01,
     "88"
+  },
+  {
+    112,
+    "malangdo.rsw",
+    1158,
+    587,
+    1216,
+    642,
+    WORLD_MSGID.MSI_112_MALANGDO,
+    ""
   }
 }
 worldtable_main_Dun = {
@@ -2860,6 +2880,15 @@ worldtable_main_Dun = {
     551,
     WORLD_MSGID.MSI_DUN30,
     "60~80"
+  },
+  {
+    43,
+    1178,
+    599,
+    1198,
+    619,
+    WORLD_MSGID.MSI_DUN43,
+    "90"
   }
 }
 worldtable_dimensions = {
@@ -3610,5 +3639,103 @@ worldtable_localizing2_Dun = {
     974,
     WORLD_MSGID.MSI_DUN37,
     "105~115"
+  }
+}
+worldtable_Crack_of_Dimension1 = {
+  {
+    100,
+    "dali.rsw",
+    276,
+    553,
+    437,
+    710,
+    WORLD_MSGID.MSI_100_DALI,
+    ""
+  },
+  {
+    100,
+    "dali02.rsw",
+    525,
+    771,
+    685,
+    927,
+    WORLD_MSGID.MSI_100_DALI02,
+    ""
+  }
+}
+worldtable_Crack_of_Dimension1_Dun = {}
+worldtable_north = {}
+worldtable_north_Dun = {}
+worldtable_Doram = {
+  {
+    1,
+    "lasa_dun01.rsw",
+    971,
+    728,
+    1076,
+    762,
+    WORLD_MSGID.MSI_1_LASA_DUN01,
+    "15"
+  },
+  {
+    1,
+    "lasa_dun02.rsw",
+    971,
+    728,
+    1076,
+    762,
+    WORLD_MSGID.MSI_1_LASA_DUN02,
+    "140"
+  },
+  {
+    1,
+    "lasa_dun03.rsw",
+    971,
+    728,
+    1076,
+    762,
+    WORLD_MSGID.MSI_1_LASA_DUN03,
+    "150"
+  },
+  {
+    100,
+    "lasagna.rsw",
+    401,
+    375,
+    576,
+    547,
+    WORLD_MSGID.MSI_100_LASAGNA,
+    ""
+  },
+  {
+    100,
+    "lasa_fild01.rsw",
+    404,
+    704,
+    580,
+    875,
+    WORLD_MSGID.MSI_100_LASA_FILD01,
+    "5"
+  },
+  {
+    100,
+    "lasa_fild02.rsw",
+    1027,
+    437,
+    1202,
+    609,
+    WORLD_MSGID.MSI_100_LASA_FILD02,
+    "11"
+  }
+}
+worldtable_Doram_Dun = {
+  {
+    1,
+    1107,
+    543,
+    1112,
+    547,
+    WORLD_MSGID.MSI_DUN42,
+    "15~150"
   }
 }
