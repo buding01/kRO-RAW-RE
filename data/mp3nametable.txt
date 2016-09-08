@@ -33,7 +33,8 @@ hu_in01.rsw#bgm\\93.mp3#
 //evt_xmas.rsw#bgm\\58.mp3#
 //evt_mobroom.rsw#bgm\\18.mp3#
 
-// 주말메모리얼
+// 요일메모리얼
+1@md_gef.rsw#bgm\\50.mp3#
 1@md_pay.rsw#bgm\\20.mp3#
 
 // ep16.2
