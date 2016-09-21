@@ -1484,5 +1484,7 @@ AccNameTable = {
   [ACCESSORY_IDs.ACCESSORY_White_Lily_Black] = "_화이트릴리검정",
   [ACCESSORY_IDs.ACCESSORY_RoCelebrationHat] = "_Ro기념모자",
   [ACCESSORY_IDs.ACCESSORY_Para_Team_Hat100] = "_낙원단모자100",
-  [ACCESSORY_IDs.ACCESSORY_Para_Team_Hat160] = "_낙원단모자160"
+  [ACCESSORY_IDs.ACCESSORY_Para_Team_Hat160] = "_낙원단모자160",
+  [ACCESSORY_IDs.ACCESSORY_C_Eremes_Scarf_Black] = "_C에레메스스카프검정",
+  [ACCESSORY_IDs.ACCESSORY_Eleanor_Wig] = "_엘레노아가발"
 }

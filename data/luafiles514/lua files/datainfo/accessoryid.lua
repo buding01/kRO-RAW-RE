@@ -1488,5 +1488,7 @@ ACCESSORY_IDs = {
   ACCESSORY_White_Lily_Black = 1495,
   ACCESSORY_RoCelebrationHat = 1541,
   ACCESSORY_Para_Team_Hat100 = 1529,
-  ACCESSORY_Para_Team_Hat160 = 1530
+  ACCESSORY_Para_Team_Hat160 = 1530,
+  ACCESSORY_C_Eremes_Scarf_Black = 1501,
+  ACCESSORY_Eleanor_Wig = 1502
 }

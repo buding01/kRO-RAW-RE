@@ -3510,5 +3510,7 @@ JobNameTable = {
   [jobtbl.JT_MD_GHOUL_100] = "ghoul",
   [jobtbl.JT_MD_GHOUL_160] = "ghoul",
   [jobtbl.JT_MD_DRAINLIAR_100] = "DRAINLIAR",
-  [jobtbl.JT_MD_DRAINLIAR_160] = "DRAINLIAR"
+  [jobtbl.JT_MD_DRAINLIAR_160] = "DRAINLIAR",
+  [jobtbl.JT_DIABOLIC2] = "DIABOLIC2",
+  [jobtbl.JT_DELETER_2] = "DELETER_2"
 }
