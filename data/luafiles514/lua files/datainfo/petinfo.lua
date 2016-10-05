@@ -79,7 +79,8 @@ PetNameTable = {
   [jobtbl.JT_DELETER_2] = "deleter_2",
   [jobtbl.JT_DIABOLIC2] = "diabolic2",
   [jobtbl.JT_TEDDY_BEAR] = "teddy_bear",
-  [jobtbl.JT_GREMLIN] = "gremlin"
+  [jobtbl.JT_GREMLIN] = "gremlin",
+  [jobtbl.JT_SCATLETON] = "scatleton"
 }
 PetIllustNameTable = {
   [jobtbl.JT_BAPHOMET_] = "Æê_¹ÙÆ÷¸ÞÆ®.bmp",
@@ -164,7 +165,8 @@ PetIllustNameTable = {
   [jobtbl.JT_DELETER_2] = "pet_deleteer_2.bmp",
   [jobtbl.JT_DIABOLIC2] = "pet_diabolic2.bmp",
   [jobtbl.JT_TEDDY_BEAR] = "pet_teddy_bear.bmp",
-  [jobtbl.JT_GREMLIN] = "pet_gremlin.bmp"
+  [jobtbl.JT_GREMLIN] = "pet_gremlin.bmp",
+  [jobtbl.JT_SCATLETON] = "pet_scatleton.bmp"
 }
 PetIllustNameTable_Eng = {
   [jobtbl.JT_BAPHOMET_] = "PET_BAPHOMET.bmp",
@@ -250,7 +252,8 @@ PetIllustNameTable_Eng = {
   [jobtbl.JT_DELETER_2] = "pet_deleter_2.bmp",
   [jobtbl.JT_DIABOLIC2] = "pet_diabolic2.bmp",
   [jobtbl.JT_TEDDY_BEAR] = "pet_teddy_bear.bmp",
-  [jobtbl.JT_GREMLIN] = "pet_gremlin.bmp"
+  [jobtbl.JT_GREMLIN] = "pet_gremlin.bmp",
+  [jobtbl.JT_SCATLETON] = "pet_scatleton.bmp"
 }
 PetAccIDs = {
   ACC_FIRST = 10000,
@@ -293,7 +296,8 @@ PetAccIDs = {
   ACC_SUCCUBUS = 10037,
   ACC_IMP = 10038,
   ACC_BAG_OF_TAIWAN = 10039,
-  ACC_LAST = 10040
+  ACC_SCATLETON = 10040,
+  ACC_LAST = 10041
 }
 PetAccActNameTable = {
   [PetAccIDs.ACC_BAPHOMET] = "BAPHOMET_»Á´Ù±¸¸ðÀÚ.act",
@@ -334,7 +338,8 @@ PetAccActNameTable = {
   [PetAccIDs.ACC_NIGHTMARE_TERROR] = "NIGHTMARE_TERROR_Áö¿ÁÀÇ»Ô.act",
   [PetAccIDs.ACC_SUCCUBUS] = "SUCCUBUS_°ËÀº³ªºñ°¡¸é.act",
   [PetAccIDs.ACC_IMP] = "IMP_»Ôº¸È£´ë.act",
-  [PetAccIDs.ACC_BAG_OF_TAIWAN] = "MARIN_´ë¸¸Ã¥°¡¹æ.act"
+  [PetAccIDs.ACC_BAG_OF_TAIWAN] = "MARIN_´ë¸¸Ã¥°¡¹æ.act",
+  [PetAccIDs.ACC_SCATLETON] = "scatleton_»¡°£¹æ¿ï.act"
 }
 PetAccActNameTable_Eng = {
   [PetAccIDs.ACC_BAPHOMET] = "ACC_BAPHOMET.act",
@@ -374,7 +379,8 @@ PetAccActNameTable_Eng = {
   [PetAccIDs.ACC_GOLEM] = "ACC_GOLEM.act",
   [PetAccIDs.ACC_NIGHTMARE_TERROR] = "ACC_NIGHTMARE_TERROR.act",
   [PetAccIDs.ACC_SUCCUBUS] = "ACC_SUCCUBUS.act",
-  [PetAccIDs.ACC_IMP] = "ACC_IMP.act"
+  [PetAccIDs.ACC_IMP] = "ACC_IMP.act",
+  [PetAccIDs.ACC_SCATLETON] = "ACC_SCATLETON.act"
 }
 PetStringTable = {
   [jobtbl.JT_PORING] = "Æ÷¸µ",
@@ -460,7 +466,8 @@ PetStringTable = {
   [jobtbl.JT_DELETER_2] = "µô¸®ÅÍ",
   [jobtbl.JT_DIABOLIC2] = "µð¾Æº¼¸¯",
   [jobtbl.JT_TEDDY_BEAR] = "°õÀÎÇü",
-  [jobtbl.JT_GREMLIN] = "±×·½¸°"
+  [jobtbl.JT_GREMLIN] = "±×·½¸°",
+  [jobtbl.JT_SCATLETON] = "½ºÄ¹·¹Åæ"
 }
 PetEggItemID_PetJobID = {
   [9001] = jobtbl.JT_PORING,
@@ -546,7 +553,8 @@ PetEggItemID_PetJobID = {
   [9097] = jobtbl.JT_DIABOLIC2,
   [9098] = jobtbl.JT_DELETER_2,
   [9099] = jobtbl.JT_TEDDY_BEAR,
-  [9100] = jobtbl.JT_GREMLIN
+  [9100] = jobtbl.JT_GREMLIN,
+  [9101] = jobtbl.JT_SCATLETON
 }
 PetFoodTable = {
   [jobtbl.JT_PORING] = 531,
@@ -633,5 +641,6 @@ PetFoodTable = {
   [jobtbl.JT_DELETER_2] = 537,
   [jobtbl.JT_DIABOLIC2] = 537,
   [jobtbl.JT_TEDDY_BEAR] = 25233,
-  [jobtbl.JT_GREMLIN] = 25232
+  [jobtbl.JT_GREMLIN] = 25232,
+  [jobtbl.JT_SCATLETON] = 579
 }

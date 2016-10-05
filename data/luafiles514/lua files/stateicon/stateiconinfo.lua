@@ -434,7 +434,7 @@ StateIconList[EFST_IDs.EFST_ATKER_BLOOD] = {
   descript = {
     {
       "SP 소모량 감소포션",
-      COLOR_TITLE_BUFF
+      COLOR_TITLE_DEBUFF
     },
     {"%s", COLOR_TIME},
     {
@@ -2093,7 +2093,7 @@ StateIconList[EFST_IDs.EFST_BLOODING] = {
   haveTimeLimit = 1,
   posTimeLimitStr = 2,
   descript = {
-    {"출혈 상태", COLOR_TITLE_BUFF},
+    {"출혈 상태", COLOR_TITLE_DEBUFF},
     {"%s", COLOR_TIME},
     {
       "HP, SP 회복 불가"
@@ -2705,10 +2705,13 @@ StateIconList[EFST_IDs.EFST_STRIPACCESSARY] = {
   }
 }
 StateIconList[EFST_IDs.EFST_PROPERTYUNDEAD] = {
-  haveTimeLimit = 0,
   descript = {
+    {"언데드", COLOR_TITLE_DEBUFF},
     {
-      "언데드 속성 적용"
+      "언데드 속성"
+    },
+    {
+      "힐 스킬로 회복 불가"
     }
   }
 }
@@ -5461,12 +5464,8 @@ StateIconList[EFST_IDs.EFST_HEAT_BARREL] = {
     {"히트 배럴", COLOR_TITLE_BUFF},
     {"%s", COLOR_TIME},
     {"ATK 증가"},
-    {"HIT 감소"},
     {
-      "공격속도 증가"
-    },
-    {
-      "고정 캐스팅 감소"
+      "공격 후딜레이 감소"
     }
   }
 }
@@ -5621,11 +5620,275 @@ StateIconList[EFST_IDs.EFST_CHUSEOK_WEEKEND] = {
     }
   }
 }
+StateIconList[EFST_IDs.EFST_ACUO_MINT_GUM] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
+  descript = {
+    {"ACUO 껌", COLOR_TITLE_BUFF},
+    {"%s", COLOR_TIME},
+    {
+      "ATK, MATK 증가"
+    }
+  }
+}
+StateIconList[EFST_IDs.EFST_S_HEALPOTION] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
+  descript = {
+    {
+      "회복력 특효포션",
+      COLOR_TITLE_BUFF
+    },
+    {"%s", COLOR_TIME},
+    {
+      "10초당 일정량의 HP, SP 회복"
+    },
+    {
+      "버서크 상태 중 효과 없음"
+    }
+  }
+}
 StateIconList[EFST_IDs.EFST_JUMPINGCLAN] = {
   descript = {
     {"점핑 클랜", COLOR_TITLE_BUFF},
     {
       "All State + 1."
+    }
+  }
+}
+StateIconList[EFST_IDs.EFST_JP_OTP] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 4,
+  descript = {
+    {
+      "OTP 가입자 특전",
+      COLOR_TITLE_BUFF
+    },
+    {
+      "몬스터 사냥 시"
+    },
+    {
+      "경험치, JOB 경험치 증가"
+    },
+    {"%s", COLOR_TIME}
+  }
+}
+StateIconList[EFST_IDs.EFST_HANDICAPTOLERANCE_LEVELGAP] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 1,
+  descript = {
+    {"%s", COLOR_TIME},
+    {
+      "상태이상 내성 레벨 패널티 감소"
+    }
+  }
+}
+StateIconList[EFST_IDs.EFST_PAD_READER_KNIGHT] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
+  descript = {
+    {"나이트", COLOR_TITLE_BUFF},
+    {"%s", COLOR_TIME},
+    {
+      "ATK 10% 증가"
+    }
+  }
+}
+StateIconList[EFST_IDs.EFST_PAD_READER_CRUSADER] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
+  descript = {
+    {"크루세이더", COLOR_TITLE_BUFF},
+    {"%s", COLOR_TIME},
+    {
+      "대형 몬스터에게"
+    },
+    {
+      "받는 데미지 20% 감소"
+    }
+  }
+}
+StateIconList[EFST_IDs.EFST_PAD_READER_BLACKSMITH] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
+  descript = {
+    {"블랙스미스", COLOR_TITLE_BUFF},
+    {"%s", COLOR_TIME},
+    {
+      "대형 몬스터에게"
+    },
+    {
+      "주는 데미지 20% 증가"
+    }
+  }
+}
+StateIconList[EFST_IDs.EFST_PAD_READER_ALCHEMIST] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
+  descript = {
+    {"알케미스트", COLOR_TITLE_BUFF},
+    {"%s", COLOR_TIME},
+    {
+      "보스형 몬스터에게"
+    },
+    {
+      "받는 데미지 20% 감소"
+    }
+  }
+}
+StateIconList[EFST_IDs.EFST_PAD_READER_ASSASSIN] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
+  descript = {
+    {"어쌔신", COLOR_TITLE_BUFF},
+    {"%s", COLOR_TIME},
+    {
+      "중형 몬스터에게"
+    },
+    {
+      "주는 데미지 10% 증가"
+    }
+  }
+}
+StateIconList[EFST_IDs.EFST_PAD_READER_ROGUE] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
+  descript = {
+    {"로그", COLOR_TITLE_BUFF},
+    {"%s", COLOR_TIME},
+    {
+      "소형 몬스터에게"
+    },
+    {
+      "주는 데미지 20% 증가"
+    }
+  }
+}
+StateIconList[EFST_IDs.EFST_PAD_READER_WIZARD] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
+  descript = {
+    {"위자드", COLOR_TITLE_BUFF},
+    {"%s", COLOR_TIME},
+    {
+      "MATK 10% 증가"
+    }
+  }
+}
+StateIconList[EFST_IDs.EFST_PAD_READER_SAGE] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
+  descript = {
+    {"세이지", COLOR_TITLE_BUFF},
+    {"%s", COLOR_TIME},
+    {
+      "오토스펠 : 파이어볼 10Lv"
+    }
+  }
+}
+StateIconList[EFST_IDs.EFST_PAD_READER_PRIEST] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
+  descript = {
+    {"프리스트", COLOR_TITLE_BUFF},
+    {"%s", COLOR_TIME},
+    {
+      "주는 힐량 증가 10% 증가"
+    }
+  }
+}
+StateIconList[EFST_IDs.EFST_PAD_READER_MONK] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
+  descript = {
+    {"몽크", COLOR_TITLE_BUFF},
+    {"%s", COLOR_TIME},
+    {
+      "보스형 몬스터에게"
+    },
+    {
+      "주는 데미지 20% 증가"
+    }
+  }
+}
+StateIconList[EFST_IDs.EFST_PAD_READER_HUNTER] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
+  descript = {
+    {"헌터", COLOR_TITLE_BUFF},
+    {"%s", COLOR_TIME},
+    {
+      "원거리 물리 공격력 10% 증가"
+    }
+  }
+}
+StateIconList[EFST_IDs.EFST_PAD_READER_BARD] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
+  descript = {
+    {"바드", COLOR_TITLE_BUFF},
+    {"%s", COLOR_TIME},
+    {
+      "HP 5초당 2% 자동회복"
+    }
+  }
+}
+StateIconList[EFST_IDs.EFST_PAD_READER_DANCER] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
+  descript = {
+    {"댄서", COLOR_TITLE_BUFF},
+    {"%s", COLOR_TIME},
+    {
+      "SP 5초당 1% 자동회복"
+    }
+  }
+}
+StateIconList[EFST_IDs.EFST_PAD_READER_TAEKWON] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
+  descript = {
+    {"태권", COLOR_TITLE_BUFF},
+    {"%s", COLOR_TIME},
+    {
+      "획득 경험치 20% 증가"
+    }
+  }
+}
+StateIconList[EFST_IDs.EFST_PAD_READER_NINJA] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
+  descript = {
+    {"닌자", COLOR_TITLE_BUFF},
+    {
+      "중형 몬스터에게"
+    },
+    {
+      "받는 데미지 20% 감소"
+    }
+  }
+}
+StateIconList[EFST_IDs.EFST_PAD_READER_GUNSLINGER] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
+  descript = {
+    {"건슬링거", COLOR_TITLE_BUFF},
+    {
+      "소형 몬스터에게"
+    },
+    {
+      "받는 데미지 20% 감소"
+    }
+  }
+}
+StateIconList[EFST_IDs.EFST_PAD_READER_SUPERNOVICE] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
+  descript = {
+    {"슈퍼노비스", COLOR_TITLE_BUFF},
+    {"%s", COLOR_TIME},
+    {
+      "All Stat + 5"
     }
   }
 }
@@ -5640,6 +5903,48 @@ StateIconList[EFST_IDs.EFST_ESSENCE_OF_TIME] = {
     {"%s", COLOR_TIME},
     {
       "이미 시간의 정수를 얻었습니다."
+    }
+  }
+}
+StateIconList[EFST_IDs.EFST_MTF_MARIONETTE] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
+  descript = {
+    {
+      "마리오네트 변신",
+      COLOR_TITLE_BUFF
+    },
+    {"%s", COLOR_TIME},
+    {
+      "모로크에게 주는 데미지 20% 증가."
+    },
+    {
+      "모로크로부터 받는 데미지 20% 감소."
+    }
+  }
+}
+StateIconList[EFST_IDs.EFST_MTF_LUDE] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
+  descript = {
+    {"루드 변신", COLOR_TITLE_BUFF},
+    {"%s", COLOR_TIME},
+    {
+      "모로크의 현신에게 주는 데미지 20% 증가"
+    }
+  }
+}
+StateIconList[EFST_IDs.EFST_MTF_CRUISER] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
+  descript = {
+    {
+      "크루이저 변신",
+      COLOR_TITLE_BUFF
+    },
+    {"%s", COLOR_TIME},
+    {
+      "모로크의 현신으로부터 받는 데미지 20% 감소"
     }
   }
 }
@@ -5695,39 +6000,6 @@ StateIconList[EFST_IDs.EFST_EP16_DEF] = {
       "의식의방, 프론테라 침공 던전에서 받는 데미지 10% 감소"
     },
     {"%s", COLOR_TIME}
-  }
-}
-StateIconList[EFST_IDs.EFST_PERIOD_RECEIVEITEM] = {
-  haveTimeLimit = 1,
-  posTimeLimitStr = 1,
-  descript = {
-    {"%s", COLOR_TIME},
-    {
-      "몬스터 사냥 시"
-    },
-    {
-      "기본 아이템의 드롭률 2배 증가"
-    }
-  }
-}
-StateIconList[EFST_IDs.EFST_PERIOD_PLUSJOBEXP] = {
-  haveTimeLimit = 1,
-  posTimeLimitStr = 1,
-  descript = {
-    {"%s", COLOR_TIME},
-    {
-      "몬스터 사냥 시 JOB 경험치 추가 획득"
-    }
-  }
-}
-StateIconList[EFST_IDs.EFST_PERIOD_PLUSEXP] = {
-  haveTimeLimit = 1,
-  posTimeLimitStr = 1,
-  descript = {
-    {"%s", COLOR_TIME},
-    {
-      "획득 경험치 증가"
-    }
   }
 }
 StateIconList[EFST_IDs.EFST_EXTRACT_SALAMINE_JUICE] = {
@@ -6043,7 +6315,7 @@ StateIconList[EFST_IDs.EFST_HEALTHSTATE_FEAR] = {
     }
   }
 }
-StateIconList[EFST_IDs.EFST_CURSEDCIRCLE_TARGET] = {
+StateIconList[EFST_IDs.EFST_CURSEDCIRCLE_ATKER] = {
   haveTimeLimit = 1,
   posTimeLimitStr = 2,
   descript = {
@@ -6294,6 +6566,151 @@ StateIconList[EFST_IDs.EFST_RESIST_PROPERTY_UNDEAD] = {
     {"%s", COLOR_TIME}
   }
 }
+StateIconList[EFST_IDs.EFST_CHERRY_BLOSSOM_CAKE] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
+  descript = {
+    {"벚꽃 찰떡", COLOR_TITLE_BUFF},
+    {"%s", COLOR_TIME},
+    {
+      "소,중,대형 적으로부터 데미지 감소"
+    }
+  }
+}
+StateIconList[EFST_IDs.EFST_HELM_VERKANA] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
+  descript = {
+    {
+      "베르카나 룬 스톤",
+      COLOR_TITLE_BUFF
+    },
+    {"%s", COLOR_TIME},
+    {
+      "물리, 원거리, 마법 공격력 - 50%"
+    },
+    {
+      "근접 물리공격 받을 시 밀레니엄실드 Lv1 발동"
+    }
+  }
+}
+StateIconList[EFST_IDs.EFST_HELM_RHYDO] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
+  descript = {
+    {
+      "라이도 룬 스톤",
+      COLOR_TITLE_BUFF
+    },
+    {"%s", COLOR_TIME},
+    {
+      "넉백되지 않는다."
+    }
+  }
+}
+StateIconList[EFST_IDs.EFST_HELM_TURISUS] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
+  descript = {
+    {
+      "튜리서스 룬 스톤",
+      COLOR_TITLE_BUFF
+    },
+    {"%s", COLOR_TIME},
+    {
+      "STR +30, INT -30"
+    }
+  }
+}
+StateIconList[EFST_IDs.EFST_HELM_HAGALAS] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
+  descript = {
+    {
+      "하갈라즈 룬 스톤",
+      COLOR_TITLE_BUFF
+    },
+    {"%s", COLOR_TIME},
+    {
+      "근접 물리공격으로 받은 데미지 10% 반사"
+    }
+  }
+}
+StateIconList[EFST_IDs.EFST_HELM_ISIA] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
+  descript = {
+    {
+      "아이샤 룬 스톤",
+      COLOR_TITLE_BUFF
+    },
+    {"%s", COLOR_TIME},
+    {
+      "10초마다 HP 500씩 회복"
+    }
+  }
+}
+StateIconList[EFST_IDs.EFST_HELM_ASIR] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
+  descript = {
+    {
+      "에이시르 룬 스톤",
+      COLOR_TITLE_BUFF
+    },
+    {"%s", COLOR_TIME},
+    {
+      "ATK +10, ASPD + 10%"
+    }
+  }
+}
+StateIconList[EFST_IDs.EFST_HELM_URJ] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
+  descript = {
+    {
+      "우르즈 룬 스톤",
+      COLOR_TITLE_BUFF
+    },
+    {"%s", COLOR_TIME},
+    {
+      "10초마다 SP 40씩 회복"
+    }
+  }
+}
+StateIconList[EFST_IDs.EFST_PERIOD_RECEIVEITEM] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 1,
+  descript = {
+    {"%s", COLOR_TIME},
+    {
+      "몬스터 사냥 시"
+    },
+    {
+      "기본 아이템의 드롭률 2배 증가"
+    }
+  }
+}
+StateIconList[EFST_IDs.EFST_PERIOD_PLUSJOBEXP] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 1,
+  descript = {
+    {"%s", COLOR_TIME},
+    {
+      "몬스터 사냥 시 JOB 경험치 추가 획득"
+    }
+  }
+}
+StateIconList[EFST_IDs.EFST_PERIOD_PLUSEXP] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 1,
+  descript = {
+    {"%s", COLOR_TIME},
+    {
+      "획득 경험치 증가"
+    }
+  }
+}
 StateIconList[EFST_IDs.EFST_DORAM_BUF_01] = {
   haveTimeLimit = 1,
   posTimeLimitStr = 2,
@@ -6437,6 +6854,35 @@ StateIconList[EFST_IDs.EFST_SU_STOOP] = {
     }
   }
 }
+StateIconList[EFST_IDs.EFST_EP16_2_BUFF_SS] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
+  descript = {
+    {"강화포션SS", COLOR_TITLE_BUFF},
+    {"%s", COLOR_TIME},
+    {"ASPD +10"}
+  }
+}
+StateIconList[EFST_IDs.EFST_EP16_2_BUFF_SC] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
+  descript = {
+    {"강화포션SC", COLOR_TITLE_BUFF},
+    {"%s", COLOR_TIME},
+    {"CRI +30"}
+  }
+}
+StateIconList[EFST_IDs.EFST_EP16_2_BUFF_AC] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
+  descript = {
+    {"강화포션AC", COLOR_TITLE_BUFF},
+    {"%s", COLOR_TIME},
+    {
+      "변동 캐스팅 80% 감소"
+    }
+  }
+}
 StateIconList[EFST_IDs.EFST_HISS] = {
   haveTimeLimit = 1,
   posTimeLimitStr = 2,
@@ -6498,35 +6944,6 @@ StateIconList[EFST_IDs.EFST_PROTECTIONOFSHRIMP] = {
     }
   }
 }
-StateIconList[EFST_IDs.EFST_EP16_2_BUFF_SS] = {
-  haveTimeLimit = 1,
-  posTimeLimitStr = 2,
-  descript = {
-    {"강화포션SS", COLOR_TITLE_BUFF},
-    {"%s", COLOR_TIME},
-    {"ASPD +10"}
-  }
-}
-StateIconList[EFST_IDs.EFST_EP16_2_BUFF_SC] = {
-  haveTimeLimit = 1,
-  posTimeLimitStr = 2,
-  descript = {
-    {"강화포션SC", COLOR_TITLE_BUFF},
-    {"%s", COLOR_TIME},
-    {"CRI +30"}
-  }
-}
-StateIconList[EFST_IDs.EFST_EP16_2_BUFF_AC] = {
-  haveTimeLimit = 1,
-  posTimeLimitStr = 2,
-  descript = {
-    {"강화포션AC", COLOR_TITLE_BUFF},
-    {"%s", COLOR_TIME},
-    {
-      "변동 캐스팅 80% 감소"
-    }
-  }
-}
 StateIconList[EFST_IDs.EFST_GS_MAGICAL_BULLET] = {
   haveTimeLimit = 1,
   posTimeLimitStr = 2,
@@ -6552,48 +6969,6 @@ StateIconList[EFST_IDs.EFST_H_MINE] = {
     {"%s", COLOR_TIME},
     {
       "하울링 마인 상태"
-    }
-  }
-}
-StateIconList[EFST_IDs.EFST_GLOOM_CARD] = {
-  haveTimeLimit = 1,
-  posTimeLimitStr = 2,
-  descript = {
-    {
-      "공격력 증가",
-      COLOR_TITLE_BUFF
-    },
-    {"%s", COLOR_TIME},
-    {
-      "성속성,암속성,천사형,악마형에게 물리 공격력 +20%"
-    }
-  }
-}
-StateIconList[EFST_IDs.EFST_PHARAOH_CARD] = {
-  haveTimeLimit = 1,
-  posTimeLimitStr = 2,
-  descript = {
-    {
-      "SP 소모량 감소",
-      COLOR_TITLE_BUFF
-    },
-    {"%s", COLOR_TIME},
-    {
-      "스킬 SP소모량 -15%"
-    }
-  }
-}
-StateIconList[EFST_IDs.EFST_KIEL_CARD] = {
-  haveTimeLimit = 1,
-  posTimeLimitStr = 2,
-  descript = {
-    {
-      "스킬 후딜레이 감소",
-      COLOR_TITLE_BUFF
-    },
-    {"%s", COLOR_TIME},
-    {
-      "스킬 후 딜레이 -15%"
     }
   }
 }
@@ -6703,6 +7078,79 @@ StateIconList[EFST_IDs.EFST_AID_PERIOD_PLUSJOBEXP_2ND] = {
     {"%s", COLOR_TIME},
     {
       "잡 경험치 획득율 증가.(1달버프)"
+    }
+  }
+}
+StateIconList[EFST_IDs.EFST_GLOOM_CARD] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
+  descript = {
+    {
+      "공격력 증가",
+      COLOR_TITLE_BUFF
+    },
+    {"%s", COLOR_TIME},
+    {
+      "성속성,암속성,천사형,악마형에게 물리 공격력 +20%"
+    }
+  }
+}
+StateIconList[EFST_IDs.EFST_PHARAOH_CARD] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
+  descript = {
+    {
+      "SP 소모량 감소",
+      COLOR_TITLE_BUFF
+    },
+    {"%s", COLOR_TIME},
+    {
+      "스킬 SP소모량 -15%"
+    }
+  }
+}
+StateIconList[EFST_IDs.EFST_KIEL_CARD] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
+  descript = {
+    {
+      "스킬 후딜레이 감소",
+      COLOR_TITLE_BUFF
+    },
+    {"%s", COLOR_TIME},
+    {
+      "스킬 후 딜레이 -15%"
+    }
+  }
+}
+StateIconList[EFST_IDs.EFST_S_MANAPOTION] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
+  descript = {
+    {
+      "소형 마나수",
+      COLOR_TITLE_BUFF
+    },
+    {"%s", COLOR_TIME},
+    {
+      "5초당 일정량의 SP 회복"
+    },
+    {
+      "버서크 상태 중 효과 없음"
+    }
+  }
+}
+StateIconList[EFST_IDs.EFST_M_DEFSCROLL] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
+  descript = {
+    {
+      "빛나는 방어 스크롤",
+      COLOR_TITLE_BUFF
+    },
+    {"%s", COLOR_TIME},
+    {
+      "방어력 및 마법방어력 상승"
     }
   }
 }
