@@ -1490,5 +1490,7 @@ ACCESSORY_IDs = {
   ACCESSORY_Para_Team_Hat100 = 1529,
   ACCESSORY_Para_Team_Hat160 = 1530,
   ACCESSORY_C_Eremes_Scarf_Black = 1501,
-  ACCESSORY_Eleanor_Wig = 1502
+  ACCESSORY_Eleanor_Wig = 1502,
+  ACCESSORY_Vampire_Familiar = 1548,
+  ACCESSORY_Ghostring_Tall_Hat = 1551
 }
