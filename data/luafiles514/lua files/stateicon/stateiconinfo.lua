@@ -7049,7 +7049,7 @@ StateIconList[EFST_IDs.EFST_AID_PERIOD_RECEIVEITEM_2ND] = {
     },
     {"%s", COLOR_TIME},
     {
-      "아이템 드랍율 증가.(1달버프)"
+      "아이템 드랍율 증가."
     }
   }
 }
@@ -7063,7 +7063,7 @@ StateIconList[EFST_IDs.EFST_AID_PERIOD_PLUSEXP_2ND] = {
     },
     {"%s", COLOR_TIME},
     {
-      "경험치 획득율 증가.(1달버프)"
+      "경험치 획득율 증가."
     }
   }
 }
@@ -7077,7 +7077,7 @@ StateIconList[EFST_IDs.EFST_AID_PERIOD_PLUSJOBEXP_2ND] = {
     },
     {"%s", COLOR_TIME},
     {
-      "잡 경험치 획득율 증가.(1달버프)"
+      "잡 경험치 획득율 증가."
     }
   }
 }
