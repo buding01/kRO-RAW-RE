@@ -149,6 +149,31 @@ hatEffectTable = {
     hatEffectPos = 0
   }
 }
+effectHatItemTable = {
+  20285,
+  20209,
+  31091,
+  31089,
+  31056,
+  20062,
+  20439,
+  5979,
+  20487,
+  5914,
+  20457,
+  31142,
+  20240,
+  19871,
+  18742,
+  20154,
+  18744,
+  20323,
+  20246,
+  19022,
+  18741,
+  18719,
+  20600
+}
 function GetHatEfResName(index)
   if hatEffectTable == nil then
     return ""
@@ -178,4 +203,12 @@ function GetHatEffectID(index)
     return hatEfTbl.hatEffectID
   end
   return -1
+end
+function IsEffectHatItem(itemID)
+  for k, v in pairs(effectHatItemTable) do
+    if v == itemID then
+      return true
+    end
+  end
+  return false
 end
