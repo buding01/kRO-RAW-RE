@@ -726,14 +726,6 @@ SignBoardList = {
     "유저인터페이스\\information\\over_guide.bmp"
   },
   {
-    "izlude",
-    153,
-    121,
-    0,
-    IT_BMP,
-    "유저인터페이스\\information\\over_smithy.bmp"
-  },
-  {
     "izlude_a",
     120,
     207,
@@ -764,14 +756,6 @@ SignBoardList = {
     0,
     IT_BMP,
     "유저인터페이스\\information\\over_guide.bmp"
-  },
-  {
-    "izlude_a",
-    153,
-    121,
-    0,
-    IT_BMP,
-    "유저인터페이스\\information\\over_smithy.bmp"
   },
   {
     "izlude_b",
@@ -806,14 +790,6 @@ SignBoardList = {
     "유저인터페이스\\information\\over_guide.bmp"
   },
   {
-    "izlude_b",
-    153,
-    121,
-    0,
-    IT_BMP,
-    "유저인터페이스\\information\\over_smithy.bmp"
-  },
-  {
     "izlude_c",
     120,
     207,
@@ -846,14 +822,6 @@ SignBoardList = {
     "유저인터페이스\\information\\over_guide.bmp"
   },
   {
-    "izlude_c",
-    153,
-    121,
-    0,
-    IT_BMP,
-    "유저인터페이스\\information\\over_smithy.bmp"
-  },
-  {
     "izlude_d",
     120,
     207,
@@ -884,14 +852,6 @@ SignBoardList = {
     0,
     IT_BMP,
     "유저인터페이스\\information\\over_guide.bmp"
-  },
-  {
-    "izlude_d",
-    153,
-    121,
-    0,
-    IT_BMP,
-    "유저인터페이스\\information\\over_smithy.bmp"
   },
   {
     "izlude_in",
@@ -1148,14 +1108,6 @@ SignBoardList = {
     0,
     IT_BMP,
     "유저인터페이스\\information\\over_guide.bmp"
-  },
-  {
-    "malangdo",
-    221,
-    174,
-    0,
-    IT_BMP,
-    "유저인터페이스\\information\\over_smithy.bmp"
   },
   {
     "malangdo",

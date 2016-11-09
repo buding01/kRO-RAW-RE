@@ -1,5 +1,23 @@
 tblLapineDdukddakBox = {
   sources = {
+    ["타락천사날개초기화권"] = {
+      ItemID = 23229,
+      NeedCount = 1,
+      NeedRefineMin = 0,
+      SourceItems = {
+        {
+          "K타락천사의날개",
+          1,
+          20835
+        },
+        {
+          "타락천사의날개",
+          1,
+          2589
+        }
+      },
+      NeedSource_String = "타락천사의 날개"
+    },
     ["쉐도우뚝딱상자"] = {
       ItemID = 22529,
       NeedCount = 3,
