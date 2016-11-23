@@ -1540,6 +1540,38 @@ mapNPCInfoTable = {
       Y = 85,
       TYPE = 2
     }
+  },
+  harboro1 = {
+    {
+      name = "편의서비스",
+      X = 291,
+      Y = 207,
+      TYPE = 6
+    },
+    {
+      name = "여관",
+      X = 156,
+      Y = 215,
+      TYPE = 5
+    },
+    {
+      name = "안내원",
+      X = 356,
+      Y = 211,
+      TYPE = 4
+    },
+    {
+      name = "안내원",
+      X = 80,
+      Y = 211,
+      TYPE = 4
+    },
+    {
+      name = "상점",
+      X = 312,
+      Y = 193,
+      TYPE = 0
+    }
   }
 }
 function main()
