@@ -2140,5 +2140,61 @@ SignBoardList = {
     0,
     IT_BMP,
     "유저인터페이스\\information\\over_smithy.bmp"
+  },
+  {
+    "harboro1",
+    291,
+    207,
+    0,
+    IT_BMP,
+    "유저인터페이스\\information\\over_kafra.bmp"
+  },
+  {
+    "harboro1",
+    156,
+    215,
+    0,
+    IT_BMP,
+    "유저인터페이스\\information\\over_inn.bmp"
+  },
+  {
+    "harboro1",
+    356,
+    211,
+    0,
+    IT_BMP,
+    "유저인터페이스\\information\\over_guide.bmp"
+  },
+  {
+    "harboro1",
+    80,
+    211,
+    0,
+    IT_BMP,
+    "유저인터페이스\\information\\over_guide.bmp"
+  },
+  {
+    "har_in01",
+    34,
+    84,
+    0,
+    IT_BMP,
+    "유저인터페이스\\information\\over_store.bmp"
+  },
+  {
+    "har_in01",
+    19,
+    86,
+    0,
+    IT_BMP,
+    "유저인터페이스\\information\\over_weaponshop.bmp"
+  },
+  {
+    "har_in01",
+    16,
+    86,
+    0,
+    IT_BMP,
+    "유저인터페이스\\information\\over_armorshops.bmp"
   }
 }
