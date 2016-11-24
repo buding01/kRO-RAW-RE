@@ -1,4 +1,13 @@
-//-- 최종갱신 오전 10:20 2016-06-15 사크라이
+//-- 최종갱신 오전 11:34 2016-11-14 사크라이
+
+// 로컬라이징 락릿지
+har_in01.rsw#락 릿지#
+harboro1.rsw#락 릿지#
+harboro2.rsw#지하수로#
+rockmi1.rsw#락 릿지 광산#
+rockmi2.rsw#락 릿지 광산#
+rockrdg1.rsw#키와와 사막#
+rockrdg2.rsw#키와와 사막#
 
 // 요일던전
 1@md_gef.rsw#금요메모리얼#
