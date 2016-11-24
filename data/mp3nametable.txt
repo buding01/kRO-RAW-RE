@@ -34,13 +34,13 @@ hu_in01.rsw#bgm\\93.mp3#
 //evt_mobroom.rsw#bgm\\18.mp3#
 
 // 로컬라이징 락릿지
-har_in01.rsw#bgm\\50.mp3#
-harboro1.rsw#bgm\\50.mp3#
-harboro2.rsw#bgm\\50.mp3#
-rockmi1.rsw#bgm\\108.mp3#
-rockmi2.rsw#bgm\\108.mp3#
-rockrdg1.rsw#bgm\\71.mp3#
-rockrdg2.rsw#bgm\\71.mp3#
+har_in01.rsw#bgm\\171.mp3#
+harboro1.rsw#bgm\\171.mp3#
+harboro2.rsw#bgm\\171.mp3#
+rockmi1.rsw#bgm\\172.mp3#
+rockmi2.rsw#bgm\\172.mp3#
+rockrdg1.rsw#bgm\\172.mp3#
+rockrdg2.rsw#bgm\\172.mp3#
 
 // 요일메모리얼
 1@md_gef.rsw#bgm\\50.mp3#
