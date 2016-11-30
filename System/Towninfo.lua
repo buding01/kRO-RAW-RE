@@ -81,7 +81,7 @@ mapNPCInfoTable = {
     {
       name = "¿©°ü",
       X = 204,
-      Y = 192,
+      Y = 191,
       TYPE = 5
     },
     {
