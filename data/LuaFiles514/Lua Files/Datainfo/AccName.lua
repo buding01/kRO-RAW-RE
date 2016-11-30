@@ -1489,5 +1489,7 @@ AccNameTable = {
   [ACCESSORY_IDs.ACCESSORY_Eleanor_Wig] = "_엘레노아가발",
   [ACCESSORY_IDs.ACCESSORY_Vampire_Familiar] = "_뱀파이어의사역마",
   [ACCESSORY_IDs.ACCESSORY_Ghostring_Tall_Hat] = "_고스트링톨햇",
-  [ACCESSORY_IDs.ACCESSORY_C_Poring_Soap_Pipe] = "_C포링버블파이프"
+  [ACCESSORY_IDs.ACCESSORY_C_Poring_Soap_Pipe] = "_C포링버블파이프",
+  [ACCESSORY_IDs.ACCESSORY_Black_Cowboy_Hat] = "_검은색카우보이모자",
+  [ACCESSORY_IDs.ACCESSORY_Cactus_Corsage] = "_선인장꽃코르사쥬"
 }

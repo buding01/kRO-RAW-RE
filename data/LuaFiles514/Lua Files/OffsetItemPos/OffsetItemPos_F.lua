@@ -42,7 +42,7 @@ function OffsetItemPos_GetOffsetForDoram(in_classNum, in_direction, in_sex)
     if OffsetItemPos.Doram[i].ClassNum == in_classNum and OffsetItemPos.Doram[i].Direction == in_direction then
       local curOffset = OffsetItemPos.Doram[i].Offset
       local Sex = 0
-      if 0 == OffsetItemPos.Doram[i].Sex then
+      if nil == OffsetItemPos.Doram[i].Sex then
         return curOffset.x, curOffset.y
       elseif 1 == OffsetItemPos.Doram[i].Sex then
         if 1 == in_sex then

@@ -1493,5 +1493,7 @@ ACCESSORY_IDs = {
   ACCESSORY_Eleanor_Wig = 1502,
   ACCESSORY_Vampire_Familiar = 1548,
   ACCESSORY_Ghostring_Tall_Hat = 1551,
-  ACCESSORY_C_Poring_Soap_Pipe = 1499
+  ACCESSORY_C_Poring_Soap_Pipe = 1499,
+  ACCESSORY_Black_Cowboy_Hat = 1569,
+  ACCESSORY_Cactus_Corsage = 1570
 }
